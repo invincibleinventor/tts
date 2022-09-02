@@ -79,6 +79,8 @@ if (supabase.auth.user()) {
 
         //Creating html table and adding class to it
         var tableemployee = document.createElement("table");
+        var thead = document.createElement("thead")
+        tableemployee.appendChild(thead)
         tableemployee.classList.add("table");
         tableemployee.classList.add("table-striped");
         tableemployee.classList.add("table-bordered");
@@ -86,24 +88,31 @@ if (supabase.auth.user()) {
 
         //Creating header of the HTML table using
         //tr
-        var tr = tableemployee.insertRow(-1);
+        var trh = document.createElement('tr');
 
         for (var i = 0; i < tablecolumns.length; i++) {
             //header
             var th = document.createElement("th");
             th.innerHTML = tablecolumns[i];
-            tr.appendChild(th);
+            trh.appendChild(th);
         }
 
-        // Add employee JSON data in table as tr or rows
+        thead.appendChild(trh)
+
+var tbody=document.createElement('tbody')
+
+var trb=document.createElement('tr')
+// Add employee JSON data in table as tr or rows
         for (var i = 0; i < employess.length; i++) {
-            tr = tableemployee.insertRow(-1);
+            trb = tableemployee.insertRow(-1);
             for (var j = 0; j < tablecolumns.length; j++) {
-                var tabCell = tr.insertCell(-1);
+                var tabCell = trb.insertCell(-1);
                 tabCell.innerHTML = employess[i][tablecolumns[j]];
             }
         }
 
+          tbody.appendChild(trb)
+          tableemployee.appendChild(tbody)
         //Final step , append html table to the container div
         var employeedivcontainer = document.getElementById("employeedivcontainer");
         employeedivcontainer.innerHTML = "";

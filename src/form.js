@@ -48,6 +48,89 @@ function addVal(c) {
   arr.push(c);
 }
 
+
+function addLvl(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addClass(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addSec(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="A">A</option>
+  <option value="B">B</option>
+  <option value="C">C</option>
+  <option value="D">D</option>
+  <option value="E">E</option>
+  <option value="F">F</option>
+  <option value="G">G</option>
+  <option value="H">H</option>
+  <option value="I">I</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+
+function addMonth(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+
 async function sr() {
   const { data, error } = await supabase.from("Forms").select();
   document.getElementById("title").innerHTML = data[id - 1].title;
@@ -77,7 +160,25 @@ async function fetchdata() {
 
   for (let i in brr) {
     let c = brr[i];
-    addVal(c);
+    switch (c){
+      case "level":
+        addLvl(c)
+        break
+        case "month":
+          addMonth(c)
+          break
+          case "class":
+            addClass(c)
+            break
+          case "section":
+              addSec(c)
+              break
+
+              
+
+    default:
+      addVal(c);
+    }
   }
 
   async function pushdata() {
