@@ -1,0 +1,65 @@
+import JSAlert from "js-alert";
+import "./styles.css";
+
+import { createClient } from "@supabase/supabase-js";
+
+// Create a single supabase client for interacting with your database
+const supabase = createClient(process.env.URL, process.env.ANON);
+
+if (supabase.auth.user()) {
+  document.getElementById("formie").classList.remove("hidden");
+  document.getElementById("notlogged").classList.add("hidden");
+} else {
+  document.getElementById("formie").classList.add("hidden");
+  document.getElementById("notlogged").classList.remove("hidden");
+}
+
+if (supabase.auth.user()) {
+  async function fetchdata() {
+    const { data, error } = await supabase.from("Forms").select();
+    var br = data;
+
+    for (var sh = 0; sh <= br.length - 1; sh++) {
+      document
+        .getElementById("formlist")
+        .insertAdjacentHTML(
+          "beforeend",
+          `<a href="form.html?id=${br[sh].id}&table=${br[sh].Table}" class="px-6 py-2   w-full rounded-t-lg font-inter text-sm md:text-md flex flex-row content-center items-center "><span class="iconify mr-2 inline-flex my-auto items-center content-center" data-icon="ep:document"></span><span class="my-auto items-center content-center inline-flex">${br[sh].title}</span><span class="iconify ml-auto  inline-flex my-auto items-center content-center lg:hidden" data-icon="ep:arrow-right"></span></a>`
+        );
+    }
+  }
+
+  fetchdata();
+}
+
+function accessAdmin() {
+  if (document.getElementById("admin").classList.contains("hidden")) {
+    JSAlert.alert(
+      "<code>Error:- You have not been granted Admin access</code>",
+      null,
+      JSAlert.Icons.Failed
+    );
+  } else {
+    window.location.href = "admin.html";
+  }
+}
+
+function logout() {
+  supabase.auth.signOut();
+
+  window.location.href = "index.html";
+}
+
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+
+window.openNav = openNav;
+window.closeNav = closeNav;
+
+window.logout = logout;
+window.accessAdmin = accessAdmin;
