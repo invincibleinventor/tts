@@ -13,7 +13,7 @@ let multipleHtmlPlugins = htmlPageNames.map((name) => {
   });
 });
 module.exports = {
-  mode: "development",
+  mode: "production",
   entry: {
     index: "./src/index.js",
     main: "./src/main.js",
@@ -34,6 +34,8 @@ module.exports = {
     compress: true,
     historyApiFallback: true,
   },
+  devtool: process.env.SOURCE_MAP ? 'inline-source-map' : 'hidden-source-map',
+
   plugins: [
     new Dotenv(),
     new HtmlWebpackPlugin({

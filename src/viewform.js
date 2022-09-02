@@ -125,7 +125,6 @@ if (supabase.auth.user()) {
         useTextFile: false,
         useBom: true,
         useKeysAsHeaders: true,
-        // headers: ['Column 1', 'Column 2', etc...] <-- Won't work with useKeysAsHeaders present!
       };
       const csvExporter = new ExportToCsv(options);
 
