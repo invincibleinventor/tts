@@ -11,7 +11,6 @@ async function logout() {
 if (supabase.auth.user()) {
   window.location.replace("main.html");
 } else {
-  console.log("log in please");
 }
 
 async function signin() {
@@ -25,7 +24,6 @@ async function signin() {
   } else {
     console.log(error);
   }
-  console.log("ok");
 }
 
 window.onload = logout;

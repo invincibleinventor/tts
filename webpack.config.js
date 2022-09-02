@@ -2,7 +2,15 @@ const path = require("path");
 const Dotenv = require("dotenv-webpack");
 
 const HtmlWebpackPlugin = require("html-webpack-plugin");
-let htmlPageNames = ["index", "main", "forms", "form", "upload", "admin", "viewform"];
+let htmlPageNames = [
+  "index",
+  "main",
+  "forms",
+  "form",
+  "upload",
+  "admin",
+  "viewform",
+];
 var WebpackObfuscator = require("webpack-obfuscator");
 
 let multipleHtmlPlugins = htmlPageNames.map((name) => {
@@ -13,7 +21,7 @@ let multipleHtmlPlugins = htmlPageNames.map((name) => {
   });
 });
 module.exports = {
-  mode: "production",
+  mode: "development",
   entry: {
     index: "./src/index.js",
     main: "./src/main.js",
@@ -34,7 +42,7 @@ module.exports = {
     compress: true,
     historyApiFallback: true,
   },
-  devtool: process.env.SOURCE_MAP ? 'inline-source-map' : 'hidden-source-map',
+  devtool: process.env.SOURCE_MAP ? "inline-source-map" : "hidden-source-map",
 
   plugins: [
     new Dotenv(),

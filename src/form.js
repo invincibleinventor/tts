@@ -48,7 +48,6 @@ function addVal(c) {
   arr.push(c);
 }
 
-
 function addLvl(c) {
   var cb = toUpper(c.replaceAll("_", " "));
   var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
@@ -106,7 +105,6 @@ function addSec(c) {
   arr.push(c);
 }
 
-
 function addMonth(c) {
   var cb = toUpper(c.replaceAll("_", " "));
   var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
@@ -130,7 +128,6 @@ function addMonth(c) {
   arr.push(c);
 }
 
-
 async function sr() {
   const { data, error } = await supabase.from("Forms").select();
   document.getElementById("title").innerHTML = data[id - 1].title;
@@ -152,32 +149,27 @@ async function fetchdata() {
     }
   }
   var brr = Object.keys(data[0]);
-  console.log(brr);
   brr.pop();
   brr.reverse();
 
-  console.log(brr);
-
   for (let i in brr) {
     let c = brr[i];
-    switch (c){
+    switch (c) {
       case "level":
-        addLvl(c)
-        break
-        case "month":
-          addMonth(c)
-          break
-          case "class":
-            addClass(c)
-            break
-          case "section":
-              addSec(c)
-              break
+        addLvl(c);
+        break;
+      case "month":
+        addMonth(c);
+        break;
+      case "class":
+        addClass(c);
+        break;
+      case "section":
+        addSec(c);
+        break;
 
-              
-
-    default:
-      addVal(c);
+      default:
+        addVal(c);
     }
   }
 
@@ -188,20 +180,20 @@ async function fetchdata() {
     };
 
     var brr = Object.keys(data[0]);
-    console.log(brr);
     brr.pop();
     brr.reverse();
     for (let i in brr) {
       obj[brr[i]] = document.getElementById(brr[i]).value;
     }
 
-    const { d, e } = await supabase.from(table).insert(obj);
-    if (d) {
-      onsubmitted();
-      JSAlert.alert("Submitted Successfully", null, JSAlert.Icons.Success);
-    }
+    supabase
+      .from(table)
+      .insert(obj)
+      .then((d) => {
+        onsubmitted();
+        JSAlert.alert("Submitted Successfully", null, JSAlert.Icons.Success);
+      });
   }
-
   document.getElementById("submit").addEventListener("click", (e) => {
     e.preventDefault();
     pushdata();

@@ -8,23 +8,16 @@ async function logout() {
   await supabase.auth.signOut();
   window.location.replace("index.html");
 }
-console.log(supabase.auth.user());
 
 if (supabase.auth.user()) {
-  console.log(supabase.auth.user().email);
-  console.log(process.env.ADMINS.split(","));
-
-
-  for (var ex in process.env.ADMINS.split(",")){
-  if (supabase.auth.user().email == process.env.ADMINS.split(",")[ex]) {
-    
-    document.getElementById("admin").classList.remove("hidden");
-    console.log(ex)
-    break;
-  } else {
-    document.getElementById("admin").classList.add("hidden");
+  for (var ex in process.env.ADMINS.split(",")) {
+    if (supabase.auth.user().email == process.env.ADMINS.split(",")[ex]) {
+      document.getElementById("admin").classList.remove("hidden");
+      break;
+    } else {
+      document.getElementById("admin").classList.add("hidden");
+    }
   }
-}
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
@@ -52,7 +45,6 @@ async function fetchdata() {
 }
 fetchdata();
 
-console.log("hiyo");
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
 }

@@ -14,8 +14,6 @@ async function logout() {
 console.log(supabase.auth.user());
 
 if (supabase.auth.user()) {
-  console.log(supabase.auth.user().email);
-
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
@@ -35,7 +33,6 @@ function accessAdmin() {
   }
 }
 
-console.log("hiyo");
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
 }
