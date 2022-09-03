@@ -21,6 +21,7 @@ let multipleHtmlPlugins = htmlPageNames.map((name) => {
 });
 const webpackConfig = {
   mode: "production",
+
   entry: {
     index: "./src/index.js",
     main: "./src/main.js",
@@ -48,6 +49,9 @@ const webpackConfig = {
     
     new HtmlWebpackPlugin({
       template: "./src/index.html",
+      inject: 'head',
+
+
       excludeChunks: ["main", "forms", "form", "upload", "admin", "viewform"],
     }),
   ].concat(multipleHtmlPlugins),
