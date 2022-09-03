@@ -7341,14 +7341,7 @@ if (supabase.auth.user()) {
       admin=false
     }
   }
-  document.getElementById("admin").classList.add("hidden");
-admin=false
-  JsLoadingOverlay.hide()
-var alert = new (js_alert__WEBPACK_IMPORTED_MODULE_3___default())("You are not logged in as Admin",null, (js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Success));
-alert.addButton("Go Back").then(function() {
-  window.location.href='forms.html';
-});
-alert.show()
+
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
@@ -7358,7 +7351,7 @@ alert.show()
   JsLoadingOverlay.hide()
 var alert = new (js_alert__WEBPACK_IMPORTED_MODULE_3___default())("You are not logged in as Admin",null, (js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Success));
 alert.addButton("Go Back").then(function() {
-  window.location.href='forms.html';
+  window.location.href='index.html';
 });
 alert.show()
   document.getElementById("formie").classList.add("hidden");
