@@ -1,3 +1,14 @@
+import 'js-loading-overlay'
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'line-circle',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj)
 import { Account, Query, Databases, Client } from "appwrite";
 const client = new Client();
 import "./styles.css";
@@ -5,17 +16,7 @@ import JSAlert from "js-alert";
 
 import { createClient } from "@supabase/supabase-js";
 
-import 'js-loading-overlay'
-var overlayobj={
-  'overlayBackgroundColor': '#FFFFFF',
-  'overlayOpacity': 1,
-  'spinnerIcon': 'ball-atom',
-  'spinnerColor': '#000',
-  'spinnerSize': '2x',
-  'overlayIDName': 'overlay',
-  'spinnerIDName': 'spinner',
-}
-JsLoadingOverlay.show(overlayobj);
+
 
 window.onload=JsLoadingOverlay.hide();
 
@@ -147,8 +148,22 @@ async function sr() {
   const { data, error } = await supabase.from("Forms").select();
   JsLoadingOverlay.hide();
 
-  document.getElementById("title").innerHTML = data[id - 1].title;
-  document.getElementById("description").innerHTML = data[id - 1].description;
+  
+if(typeof data[id-1] !== 'undefined' && data[id-1].hasOwnProperty('title')){
+  document.getElementById("title").innerHTML = data[id-1].title;
+  document.getElementById("description").innerHTML = data[id-1].description;
+}
+else{
+  document.getElementById('formie').classList.add('hidden')
+  document.getElementById('notlogged').classList.add('hidden')
+  var alert = new JSAlert("The form you tried to access does not exist",null, JSAlert.Icons.Failed);
+
+  alert.addButton("Go Back").then(function() {
+    window.location.href='forms.html';
+});
+alert.show()
+}
+   
 }
 sr();
 
@@ -157,22 +172,48 @@ function onsubmitted() {
   document.getElementById("notlogged").classList.remove("hidden");
   document.getElementById("lex").innerHTML = "Already Submitted";
 }
+async function getfields(){
+  var brr=[];
+  
+
+  let { data, error } = await supabase
+  .rpc('xdesc', {t:table})
+  JsLoadingOverlay.hide();
+
+  
+  if(error) console.log(error)
+  
+  
+  for (let noice in data){
+    brr.push(data[noice].column_name)
+  }
+  
+  
+  brr.pop();
+  brr.reverse();
+
+  return brr;
+
+}
+
 
 async function fetchdata() {
   JsLoadingOverlay.show(overlayobj);
 
   const { data, error } = await supabase.from(table).select();
-  JsLoadingOverlay.hide();
 
   for (let i in data) {
     if (data[i].uid == window.localStorage.getItem("email")) {
       onsubmitted();
     }
   }
-  var brr = Object.keys(data[0]);
-  brr.pop();
-  brr.reverse();
 
+var brr=await getfields()
+
+
+
+// console.log(brr)
+  
   for (let i in brr) {
     let c = brr[i];
     switch (c) {
@@ -200,7 +241,8 @@ async function fetchdata() {
       uid: window.localStorage.getItem("email"),
     };
 
-    var brr = Object.keys(data[0]);
+    var brr=await getfields()
+    
     brr.pop();
     brr.reverse();
     var failed;

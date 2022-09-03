@@ -46,6 +46,9 @@ module.exports = {
 
   plugins: [
     new Dotenv(),
+    new WebpackObfuscator ({
+      rotateStringArray: true
+    }),
     new HtmlWebpackPlugin({
       template: "./src/index.html",
       excludeChunks: ["main", "forms", "form", "upload", "admin", "viewform"],
@@ -54,9 +57,11 @@ module.exports = {
   module: {
     rules: [
       {
+        enforce: 'post',
         test: /\.css$/i,
         include: path.resolve(__dirname, "src"),
         use: ["style-loader", "css-loader", "postcss-loader"],
+        
       },
     ],
   },

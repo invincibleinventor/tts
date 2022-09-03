@@ -52,15 +52,6 @@ function accessAdmin() {
   }
 }
 
-async function fetchdata() {
-  let { data, error } = await supabase
-  .rpc('exportcol', {
-    a: 'Assembly'
-  })
-  
-  console.log(data)
-}
-fetchdata();
 
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
