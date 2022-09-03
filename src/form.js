@@ -5,7 +5,20 @@ import JSAlert from "js-alert";
 
 import { createClient } from "@supabase/supabase-js";
 
-// Create a single supabase client for interacting with your database
+import 'js-loading-overlay'
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj);
+
+window.onload=JsLoadingOverlay.hide();
+
 const supabase = createClient(process.env.URL, process.env.ANON);
 if (supabase.auth.user()) {
   document.getElementById("formie").classList.remove("hidden");
@@ -129,7 +142,11 @@ function addMonth(c) {
 }
 
 async function sr() {
+  JsLoadingOverlay.show(overlayobj);
+
   const { data, error } = await supabase.from("Forms").select();
+  JsLoadingOverlay.hide();
+
   document.getElementById("title").innerHTML = data[id - 1].title;
   document.getElementById("description").innerHTML = data[id - 1].description;
 }
@@ -142,7 +159,11 @@ function onsubmitted() {
 }
 
 async function fetchdata() {
+  JsLoadingOverlay.show(overlayobj);
+
   const { data, error } = await supabase.from(table).select();
+  JsLoadingOverlay.hide();
+
   for (let i in data) {
     if (data[i].uid == window.localStorage.getItem("email")) {
       onsubmitted();
@@ -182,17 +203,41 @@ async function fetchdata() {
     var brr = Object.keys(data[0]);
     brr.pop();
     brr.reverse();
+    var failed;
     for (let i in brr) {
-      obj[brr[i]] = document.getElementById(brr[i]).value;
+      if(document.getElementById(brr[i]).value!=''){
+      obj[brr[i]] = document.getElementById(brr[i]).value
+      failed=0
+      }
+      else{
+        JSAlert.alert('All Fields are required',null, JSAlert.Icons.Failed)
+        failed=1
+        break;
+      }
     }
+
+if(failed==0){
+  JsLoadingOverlay.show(overlayobj);
 
     supabase
       .from(table)
       .insert(obj)
       .then((d) => {
-        onsubmitted();
-        JSAlert.alert("Submitted Successfully", null, JSAlert.Icons.Success);
-      });
+        JsLoadingOverlay.hide();
+        document.getElementById("formie").classList.add("hidden");
+      document.getElementById("notlogged").classList.remove("hidden");
+      document.getElementById("lex").innerHTML = "Submitted Successfully";
+      var alert = new JSAlert("Your data has been submitted to our server. Only those with admin access can view it",null, JSAlert.Icons.Success);
+
+      alert.addButton("Go Back").then(function() {
+        window.location.href='forms.html';
+    });
+    alert.show()
+      })
+      .catch((e)=>{
+        JSAlert.alert(e,null,JSAlert.Icons.Failed)
+      })
+    }
   }
   document.getElementById("submit").addEventListener("click", (e) => {
     e.preventDefault();

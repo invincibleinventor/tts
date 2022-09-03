@@ -4,6 +4,32 @@ import { ExportToCsv } from "export-to-csv";
 const supabase = createClient(process.env.URL, process.env.ANON);
 import { createClient } from "@supabase/supabase-js";
 
+import 'js-loading-overlay';
+
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+
+
+var adminobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  "containerID": "tcont",
+
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj);
+
 var queryString = decodeURIComponent(window.location.search);
 queryString = queryString.substring(1);
 var queries = queryString.split("&");
@@ -44,11 +70,14 @@ function closeNav() {
 if (admin) {
   async function settitle() {
     const { data, error } = await supabase.from("Forms").select();
+    JsLoadingOverlay.hide()
     var ar = data;
     document.getElementById("htitle").innerHTML = ar[id - 1].title;
   }
   async function fetchdata() {
+    JsLoadingOverlay.show(adminobj);
     const { data, error } = await supabase.from(table).select();
+    JsLoadingOverlay.hide()
     var br = data;
     convertJsontoHtmlTable(br);
   }

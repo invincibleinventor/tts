@@ -6,6 +6,22 @@ const supabase = createClient(
   "https://rsfcqodmucagrxohmkgx.supabase.co",
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZmNxb2RtdWNhZ3J4b2hta2d4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjA5MjY5NDksImV4cCI6MTk3NjUwMjk0OX0.emUFAjUIpou6UOyQlIzvlvv9E4tClWoluh6SOoMNc8I"
 );
+import 'js-loading-overlay'
+
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+
+JsLoadingOverlay.show(overlayobj);
+
+window.onload=JsLoadingOverlay.hide();
+
 
 async function logout() {
   await supabase.auth.signOut();

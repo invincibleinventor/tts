@@ -3,6 +3,21 @@ import JSAlert from "js-alert";
 import { createClient } from "@supabase/supabase-js";
 
 const supabase = createClient(process.env.URL, process.env.ANON);
+import 'js-loading-overlay';
+
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj);
+setTimeout(function(){
+ JsLoadingOverlay.hide();
+}, 2000)
 
 async function logout() {
   await supabase.auth.signOut();
@@ -38,10 +53,12 @@ function accessAdmin() {
 }
 
 async function fetchdata() {
-  let { data, error } = await supabase.rpc("exportcolumn", {
-    tablename: "Assembly",
-  });
-  console.log(error);
+  let { data, error } = await supabase
+  .rpc('exportcol', {
+    a: 'Assembly'
+  })
+  
+  console.log(data)
 }
 fetchdata();
 

@@ -6,6 +6,7 @@
     "export-to-csv": "^0.2.1",
     "html-webpack-plugin": "^5.5.0",
     "js-alert": "^1.0.4",
+    "js-loading-overlay": "^1.2.0",
     "json-to-csv-export": "^1.1.2",
     "localtunnel": "^2.0.2",
     "mini-css-extract-plugin": "^2.6.1",

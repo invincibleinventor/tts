@@ -2,6 +2,18 @@ import "./styles.css";
 
 const supabase = createClient(process.env.URL, process.env.ANON);
 import { createClient } from "@supabase/supabase-js";
+import 'js-loading-overlay';
+
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj);
 
 async function logout() {
   await supabase.auth.signOut();
@@ -37,6 +49,7 @@ function closeNav() {
 if (admin) {
   async function fetchdata() {
     const { data, error } = await supabase.from("Forms").select();
+    JsLoadingOverlay.hide()
     var br = data;
 
     for (var sh = 0; sh <= br.length - 1; sh++) {
