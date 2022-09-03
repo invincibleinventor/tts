@@ -20,7 +20,7 @@ let multipleHtmlPlugins = htmlPageNames.map((name) => {
   });
 });
 const webpackConfig = {
-  mode: "development",
+  mode: "production",
   entry: {
     index: "./src/index.js",
     main: "./src/main.js",
