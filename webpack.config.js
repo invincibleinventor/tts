@@ -1,7 +1,7 @@
 const path = require("path");
 const Dotenv = require("dotenv-webpack");
 
-const HtmlWebpackPlugin = require("html-webpack-plugin");
+var HtmlWebpackPlugin = require("html-webpack-plugin");
 let htmlPageNames = [
   "index",
   "main",
@@ -11,7 +11,6 @@ let htmlPageNames = [
   "admin",
   "viewform",
 ];
-var WebpackObfuscator = require("webpack-obfuscator");
 
 let multipleHtmlPlugins = htmlPageNames.map((name) => {
   return new HtmlWebpackPlugin({
@@ -20,8 +19,8 @@ let multipleHtmlPlugins = htmlPageNames.map((name) => {
     chunks: [`${name}`], // respective JS files
   });
 });
-module.exports = {
-  mode: "production",
+const webpackConfig = {
+  mode: "development",
   entry: {
     index: "./src/index.js",
     main: "./src/main.js",
@@ -42,13 +41,11 @@ module.exports = {
     compress: true,
     historyApiFallback: true,
   },
-  devtool: process.env.SOURCE_MAP ? "inline-source-map" : "hidden-source-map",
+  devtool: process.env.SOURCE_MAP ? "" : "hidden-source-map",
 
   plugins: [
     new Dotenv(),
-    new WebpackObfuscator ({
-      rotateStringArray: true
-    }),
+    
     new HtmlWebpackPlugin({
       template: "./src/index.html",
       excludeChunks: ["main", "forms", "form", "upload", "admin", "viewform"],
@@ -57,7 +54,6 @@ module.exports = {
   module: {
     rules: [
       {
-        enforce: 'post',
         test: /\.css$/i,
         include: path.resolve(__dirname, "src"),
         use: ["style-loader", "css-loader", "postcss-loader"],
@@ -66,3 +62,17 @@ module.exports = {
     ],
   },
 };
+
+
+if (process.env.DEVELOPMENT==false) {
+  var WebpackObfuscator = require("webpack-obfuscator")
+
+  webpackConfig.plugins.push(new WebpackObfuscator ({
+    rotateStringArray: true
+  }));
+}
+else{
+
+}
+
+module.exports = webpackConfig

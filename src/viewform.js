@@ -1,5 +1,6 @@
 import "./styles.css";
 import { ExportToCsv } from "export-to-csv";
+import JSAlert from "js-alert";
 
 const supabase = createClient(process.env.URL, process.env.ANON);
 import { createClient } from "@supabase/supabase-js";
@@ -49,12 +50,38 @@ if (supabase.auth.user()) {
       break;
     } else {
       document.getElementById("admin").classList.add("hidden");
-      window.location.replace("main.html");
-    }
+      JsLoadingOverlay.hide()
+      var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+      alert.addButton("Go Back").then(function() {
+        window.location.href='forms.html';
+      });
+      alert.show()
+          }
   }
-  document.getElementById("formie").classList.remove("hidden");
+  
+
+JsLoadingOverlay.hide()
+var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+alert.addButton("Go Back").then(function() {
+  window.location.href='forms.html';
+});
+alert.show()
+
+
+document.getElementById("formie").classList.remove("hidden");
+
   document.getElementById("notlogged").classList.add("hidden");
+
 } else {
+
+  JsLoadingOverlay.hide()
+  var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+  alert.addButton("Go Back").then(function() {
+    window.location.href='forms.html';
+  });
+  alert.show()
+  
+
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }
@@ -83,8 +110,7 @@ if (admin) {
   }
 
   function convertJsontoHtmlTable(employess) {
-    //Getting value for table header
-    // {'EmployeeID', 'EmployeeName', 'Address' , 'City','Country'}
+   
     var tablecolumns = [];
     for (var i = 0; i < employess.length; i++) {
       for (var key in employess[i]) {
@@ -93,8 +119,14 @@ if (admin) {
         }
       }
     }
-
-    //Creating html table and adding class to it
+    var a=tablecolumns.length
+    var place = tablecolumns[a-1]
+    var latest=tablecolumns
+    latest.pop()
+    latest.reverse()
+    latest.push(place)
+    latest.reverse()
+    tablecolumns=latest
     var te = document.createElement("table");
     var thead = document.createElement("thead");
     te.appendChild(thead);
@@ -103,12 +135,10 @@ if (admin) {
     te.classList.add("table-bordered");
     te.classList.add("table-hover");
 
-    //Creating header of the HTML table using
-    //tr
+   
     var trh = document.createElement("tr");
 
     for (var i = 0; i < tablecolumns.length; i++) {
-      //header
       var th = document.createElement("th");
       th.innerHTML = tablecolumns[i];
       trh.appendChild(th);
@@ -119,7 +149,6 @@ if (admin) {
     var tbody = document.createElement("tbody");
 
     var trb = document.createElement("tr");
-    // Add employee JSON data in table as tr or rows
     for (var i = 0; i < employess.length; i++) {
       trb = te.insertRow(-1);
       for (var j = 0; j < tablecolumns.length; j++) {

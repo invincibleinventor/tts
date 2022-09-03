@@ -2,7 +2,7 @@ import 'js-loading-overlay'
 var overlayobj={
   'overlayBackgroundColor': '#FFFFFF',
   'overlayOpacity': 1,
-  'spinnerIcon': 'line-circle',
+  'spinnerIcon': 'ball-atom',
   'spinnerColor': '#000',
   'spinnerSize': '2x',
   'overlayIDName': 'overlay',
@@ -27,7 +27,11 @@ if (supabase.auth.user()) {
 } else {
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
+  JsLoadingOverlay.hide()
+
   document.getElementById("lex").innerHTML = "Not Logged In";
+  document.getElementById("leximage").classList.add('hidden');
+  
 }
 
 var arr = [];
@@ -38,8 +42,14 @@ var queries = queryString.split("&");
 var id = queries[0].slice(queries[0].indexOf("=") + 1);
 var table = queries[1].slice(queries[1].indexOf("=") + 1);
 
-function addDate() {
-  console.log("date added");
+function addDate(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <input type="date" id="${c}" autocomplete="given-name" class=" focus:ring-blue-500  focus:border-blue-500 block w-full shadow-sm sm:text-sm border border-neutral-200 py-2 px-3 outline-none">
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
 }
 
 function toUpper(str) {
@@ -171,6 +181,7 @@ function onsubmitted() {
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
   document.getElementById("lex").innerHTML = "Already Submitted";
+  document.getElementById("leximage").classList.remove('hidden')
 }
 async function getfields(){
   var brr=[];
@@ -229,7 +240,9 @@ var brr=await getfields()
       case "section":
         addSec(c);
         break;
-
+      case "date":
+        addDate(c)
+        break;
       default:
         addVal(c);
     }
@@ -243,8 +256,8 @@ var brr=await getfields()
 
     var brr=await getfields()
     
-    brr.pop();
     brr.reverse();
+    console.log(brr)
     var failed;
     for (let i in brr) {
       if(document.getElementById(brr[i]).value!=''){
@@ -269,6 +282,7 @@ if(failed==0){
         document.getElementById("formie").classList.add("hidden");
       document.getElementById("notlogged").classList.remove("hidden");
       document.getElementById("lex").innerHTML = "Submitted Successfully";
+      document.getElementById("leximage").classList.remove('hidden');
       var alert = new JSAlert("Your data has been submitted to our server. Only those with admin access can view it",null, JSAlert.Icons.Success);
 
       alert.addButton("Go Back").then(function() {

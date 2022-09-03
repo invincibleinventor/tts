@@ -1,1 +1,11077 @@
-function a3_0x4566(){var _0x2f0bb4=['\x20failed.\x0a(','[object\x20Uint8Array]','updateJoinPayload','exports','supabaseUrl\x20is\x20required.','_createRequestHeaders','listBuckets','count=','verifyMobileOTP','Cannot\x20call\x20a\x20class\x20as\x20a\x20function','expires','<div\x20id=\x22','push','Submitted\x20Successfully','clone','missing','reason','_unsubscribeSubscription','visibilitychange','MozWebSocket','signOut','reltime','neq','beforeend','select','setEndpoint','http://localhost:9999','connected\x20to\x20','media','errored','authentication','hash','/token','16849nRbvOg','max-age=','deleteBucket',');\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a\x20\x20background-size:\x20100%\x20100%;\x0a\x20\x20background-position:\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a}\x0a\x0a[type=\x27checkbox\x27]:indeterminate:hover,[type=\x27checkbox\x27]:indeterminate:focus\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a}\x0a\x0a[type=\x27file\x27]\x20{\x0a\x20\x20background:\x20transparent\x20none\x20repeat\x200\x200\x20/\x20auto\x20auto\x20padding-box\x20border-box\x20scroll;\x0a\x20\x20background:\x20initial;\x0a\x20\x20border-color:\x20inherit;\x0a\x20\x20border-width:\x200;\x0a\x20\x20border-radius:\x200;\x0a\x20\x20padding:\x200;\x0a\x20\x20font-size:\x20inherit;\x0a\x20\x20line-height:\x20inherit;\x0a}\x0a\x0a[type=\x27file\x27]:focus\x20{\x0a\x20\x20outline:\x201px\x20solid\x20ButtonText;\x0a\x20\x20outline:\x201px\x20auto\x20-webkit-focus-ring-color;\x0a}\x0a\x0a*,\x20::before,\x20::after\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgba(59,\x20130,\x20246,\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a::-webkit-backdrop\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgba(59,\x20130,\x20246,\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a::backdrop\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgba(59,\x20130,\x20246,\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a.sr-only\x20{\x0a\x20\x20position:\x20absolute;\x0a\x20\x20width:\x201px;\x0a\x20\x20height:\x201px;\x0a\x20\x20padding:\x200;\x0a\x20\x20margin:\x20-1px;\x0a\x20\x20overflow:\x20hidden;\x0a\x20\x20clip:\x20rect(0,\x200,\x200,\x200);\x0a\x20\x20white-space:\x20nowrap;\x0a\x20\x20border-width:\x200;\x0a}\x0a\x0a.col-span-6\x20{\x0a\x20\x20grid-column:\x20span\x206\x20/\x20span\x206;\x0a}\x0a\x0a.m-2\x20{\x0a\x20\x20margin:\x200.5rem;\x0a}\x0a\x0a.mx-4\x20{\x0a\x20\x20margin-left:\x201rem;\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.my-auto\x20{\x0a\x20\x20margin-top:\x20auto;\x0a\x20\x20margin-bottom:\x20auto;\x0a}\x0a\x0a.mx-auto\x20{\x0a\x20\x20margin-left:\x20auto;\x0a\x20\x20margin-right:\x20auto;\x0a}\x0a\x0a.my-8\x20{\x0a\x20\x20margin-top:\x202rem;\x0a\x20\x20margin-bottom:\x202rem;\x0a}\x0a\x0a.my-3\x20{\x0a\x20\x20margin-top:\x200.75rem;\x0a\x20\x20margin-bottom:\x200.75rem;\x0a}\x0a\x0a.mt-auto\x20{\x0a\x20\x20margin-top:\x20auto;\x0a}\x0a\x0a.mb-5\x20{\x0a\x20\x20margin-bottom:\x201.25rem;\x0a}\x0a\x0a.mr-auto\x20{\x0a\x20\x20margin-right:\x20auto;\x0a}\x0a\x0a.ml-2\x20{\x0a\x20\x20margin-left:\x200.5rem;\x0a}\x0a\x0a.mr-2\x20{\x0a\x20\x20margin-right:\x200.5rem;\x0a}\x0a\x0a.ml-4\x20{\x0a\x20\x20margin-left:\x201rem;\x0a}\x0a\x0a.mr-4\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.mb-0\x20{\x0a\x20\x20margin-bottom:\x200px;\x0a}\x0a\x0a.mt-2\x20{\x0a\x20\x20margin-top:\x200.5rem;\x0a}\x0a\x0a.mb-2\x20{\x0a\x20\x20margin-bottom:\x200.5rem;\x0a}\x0a\x0a.mt-1\x20{\x0a\x20\x20margin-top:\x200.25rem;\x0a}\x0a\x0a.mb-1\x20{\x0a\x20\x20margin-bottom:\x200.25rem;\x0a}\x0a\x0a.mb-6\x20{\x0a\x20\x20margin-bottom:\x201.5rem;\x0a}\x0a\x0a.mb-4\x20{\x0a\x20\x20margin-bottom:\x201rem;\x0a}\x0a\x0a.ml-auto\x20{\x0a\x20\x20margin-left:\x20auto;\x0a}\x0a\x0a.mt-\x5c[6px\x5c]\x20{\x0a\x20\x20margin-top:\x206px;\x0a}\x0a\x0a.mt-\x5c[5px\x5c]\x20{\x0a\x20\x20margin-top:\x205px;\x0a}\x0a\x0a.mb-3\x20{\x0a\x20\x20margin-bottom:\x200.75rem;\x0a}\x0a\x0a.mt-3\x20{\x0a\x20\x20margin-top:\x200.75rem;\x0a}\x0a\x0a.mt-5\x20{\x0a\x20\x20margin-top:\x201.25rem;\x0a}\x0a\x0a.block\x20{\x0a\x20\x20display:\x20block;\x0a}\x0a\x0a.flex\x20{\x0a\x20\x20display:\x20flex;\x0a}\x0a\x0a.inline-flex\x20{\x0a\x20\x20display:\x20inline-flex;\x0a}\x0a\x0a.table\x20{\x0a\x20\x20display:\x20table;\x0a}\x0a\x0a.grid\x20{\x0a\x20\x20display:\x20grid;\x0a}\x0a\x0a.hidden\x20{\x0a\x20\x20display:\x20none;\x0a}\x0a\x0a.h-screen\x20{\x0a\x20\x20height:\x20100vh;\x0a}\x0a\x0a.w-auto\x20{\x0a\x20\x20width:\x20auto;\x0a}\x0a\x0a.w-screen\x20{\x0a\x20\x20width:\x20100vw;\x0a}\x0a\x0a.w-full\x20{\x0a\x20\x20width:\x20100%;\x0a}\x0a\x0a.w-16\x20{\x0a\x20\x20width:\x204rem;\x0a}\x0a\x0a.max-w-sm\x20{\x0a\x20\x20max-width:\x2024rem;\x0a}\x0a\x0a.border-collapse\x20{\x0a\x20\x20border-collapse:\x20collapse;\x0a}\x0a\x0a.grid-cols-2\x20{\x0a\x20\x20grid-template-columns:\x20repeat(2,\x20minmax(0,\x201fr));\x0a}\x0a\x0a.flex-row\x20{\x0a\x20\x20flex-direction:\x20row;\x0a}\x0a\x0a.flex-col\x20{\x0a\x20\x20flex-direction:\x20column;\x0a}\x0a\x0a.content-center\x20{\x0a\x20\x20align-content:\x20center;\x0a}\x0a\x0a.items-center\x20{\x0a\x20\x20align-items:\x20center;\x0a}\x0a\x0a.justify-center\x20{\x0a\x20\x20justify-content:\x20center;\x0a}\x0a\x0a.space-y-0\x20>\x20:not([hidden])\x20~\x20:not([hidden])\x20{\x0a\x20\x20--tw-space-y-reverse:\x200;\x0a\x20\x20margin-top:\x20calc(0px\x20*\x20(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20margin-top:\x20calc(0px\x20*\x20calc(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20margin-bottom:\x20calc(0px\x20*\x20var(--tw-space-y-reverse));\x0a}\x0a\x0a.overflow-hidden\x20{\x0a\x20\x20overflow:\x20hidden;\x0a}\x0a\x0a.overflow-x-auto\x20{\x0a\x20\x20overflow-x:\x20auto;\x0a}\x0a\x0a.rounded-lg\x20{\x0a\x20\x20border-radius:\x200.5rem;\x0a}\x0a\x0a.rounded-none\x20{\x0a\x20\x20border-radius:\x200px;\x0a}\x0a\x0a.rounded-b-md\x20{\x0a\x20\x20border-bottom-right-radius:\x200.375rem;\x0a\x20\x20border-bottom-left-radius:\x200.375rem;\x0a}\x0a\x0a.border\x20{\x0a\x20\x20border-width:\x201px;\x0a}\x0a\x0a.border-b\x20{\x0a\x20\x20border-bottom-width:\x201px;\x0a}\x0a\x0a.border-neutral-100\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(245,\x20245,\x20245,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-transparent\x20{\x0a\x20\x20border-color:\x20transparent;\x0a}\x0a\x0a.border-neutral-200\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(229,\x20229,\x20229,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-white\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(255,\x20255,\x20255,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-gray-300\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(209,\x20213,\x20219,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.bg-white\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(255,\x20255,\x20255,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-blue-500\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(59,\x20130,\x20246,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-gray-50\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(249,\x20250,\x20251,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-blue-600\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(37,\x2099,\x20235,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-neutral-100\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(245,\x20245,\x20245,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-gradient-to-br\x20{\x0a\x20\x20background-image:\x20linear-gradient(to\x20bottom\x20right,\x20var(--tw-gradient-stops));\x0a}\x0a\x0a.from-pink-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#ec4899;\x0a\x20\x20--tw-gradient-to:\x20rgba(236,\x2072,\x20153,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-violet-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#8b5cf6;\x0a\x20\x20--tw-gradient-to:\x20rgba(139,\x2092,\x20246,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-neutral-600\x20{\x0a\x20\x20--tw-gradient-from:\x20#525252;\x0a\x20\x20--tw-gradient-to:\x20rgba(82,\x2082,\x2082,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-green-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#22c55e;\x0a\x20\x20--tw-gradient-to:\x20rgba(34,\x20197,\x2094,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-blue-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#3b82f6;\x0a\x20\x20--tw-gradient-to:\x20rgba(59,\x20130,\x20246,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-red-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#ef4444;\x0a\x20\x20--tw-gradient-to:\x20rgba(239,\x2068,\x2068,\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.to-pink-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#f9a8d4;\x0a}\x0a\x0a.to-violet-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#c4b5fd;\x0a}\x0a\x0a.to-neutral-400\x20{\x0a\x20\x20--tw-gradient-to:\x20#a3a3a3;\x0a}\x0a\x0a.to-green-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#86efac;\x0a}\x0a\x0a.to-blue-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#93c5fd;\x0a}\x0a\x0a.to-red-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#fca5a5;\x0a}\x0a\x0a.p-2\x20{\x0a\x20\x20padding:\x200.5rem;\x0a}\x0a\x0a.py-2\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.px-4\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.py-\x5c[6px\x5c]\x20{\x0a\x20\x20padding-top:\x206px;\x0a\x20\x20padding-bottom:\x206px;\x0a}\x0a\x0a.px-0\x20{\x0a\x20\x20padding-left:\x200px;\x0a\x20\x20padding-right:\x200px;\x0a}\x0a\x0a.px-6\x20{\x0a\x20\x20padding-left:\x201.5rem;\x0a\x20\x20padding-right:\x201.5rem;\x0a}\x0a\x0a.py-4\x20{\x0a\x20\x20padding-top:\x201rem;\x0a\x20\x20padding-bottom:\x201rem;\x0a}\x0a\x0a.py-5\x20{\x0a\x20\x20padding-top:\x201.25rem;\x0a\x20\x20padding-bottom:\x201.25rem;\x0a}\x0a\x0a.py-20\x20{\x0a\x20\x20padding-top:\x205rem;\x0a\x20\x20padding-bottom:\x205rem;\x0a}\x0a\x0a.px-3\x20{\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a}\x0a\x0a.py-1\x20{\x0a\x20\x20padding-top:\x200.25rem;\x0a\x20\x20padding-bottom:\x200.25rem;\x0a}\x0a\x0a.py-\x5c[8px\x5c]\x20{\x0a\x20\x20padding-top:\x208px;\x0a\x20\x20padding-bottom:\x208px;\x0a}\x0a\x0a.px-8\x20{\x0a\x20\x20padding-left:\x202rem;\x0a\x20\x20padding-right:\x202rem;\x0a}\x0a\x0a.py-\x5c[2px\x5c]\x20{\x0a\x20\x20padding-top:\x202px;\x0a\x20\x20padding-bottom:\x202px;\x0a}\x0a\x0a.px-5\x20{\x0a\x20\x20padding-left:\x201.25rem;\x0a\x20\x20padding-right:\x201.25rem;\x0a}\x0a\x0a.pr-3\x20{\x0a\x20\x20padding-right:\x200.75rem;\x0a}\x0a\x0a.pr-4\x20{\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.text-right\x20{\x0a\x20\x20text-align:\x20right;\x0a}\x0a\x0a.text-sm\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.text-lg\x20{\x0a\x20\x20font-size:\x201.125rem;\x0a\x20\x20line-height:\x201.75rem;\x0a}\x0a\x0a.text-2xl\x20{\x0a\x20\x20font-size:\x201.5rem;\x0a\x20\x20line-height:\x202rem;\x0a}\x0a\x0a.font-medium\x20{\x0a\x20\x20font-weight:\x20500;\x0a}\x0a\x0a.font-semibold\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.font-bold\x20{\x0a\x20\x20font-weight:\x20700;\x0a}\x0a\x0a.leading-6\x20{\x0a\x20\x20line-height:\x201.5rem;\x0a}\x0a\x0a.text-neutral-600\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(82,\x2082,\x2082,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-white\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(255,\x20255,\x20255,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-blue-500\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(59,\x20130,\x20246,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-900\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(17,\x2024,\x2039,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-neutral-100\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(245,\x20245,\x20245,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-700\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(55,\x2065,\x2081,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-500\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(107,\x20114,\x20128,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.shadow-lg\x20{\x0a\x20\x20--tw-shadow:\x200\x2010px\x2015px\x20-3px\x20rgba(0,\x200,\x200,\x200.1),\x200\x204px\x206px\x20-4px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20--tw-shadow-colored:\x200\x2010px\x2015px\x20-3px\x20var(--tw-shadow-color),\x200\x204px\x206px\x20-4px\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-ring-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-shadow);\x0a}\x0a\x0a.shadow-sm\x20{\x0a\x20\x20--tw-shadow:\x200\x201px\x202px\x200\x20rgba(0,\x200,\x200,\x200.05);\x0a\x20\x20--tw-shadow-colored:\x200\x201px\x202px\x200\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-ring-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-shadow);\x0a}\x0a\x0a.shadow\x20{\x0a\x20\x20--tw-shadow:\x200\x201px\x203px\x200\x20rgba(0,\x200,\x200,\x200.1),\x200\x201px\x202px\x20-1px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20--tw-shadow-colored:\x200\x201px\x203px\x200\x20var(--tw-shadow-color),\x200\x201px\x202px\x20-1px\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x200\x200\x20rgba(0,0,0,0),\x200\x200\x20rgba(0,0,0,0),\x20var(--tw-shadow);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-ring-shadow,\x200\x200\x20rgba(0,0,0,0)),\x20var(--tw-shadow);\x0a}\x0a\x0a.outline-none\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a.font-jost\x20{\x0a\x20\x20font-family:\x20\x22Jost\x22;\x0a}\x0a\x0a.font-inter\x20{\x0a\x20\x20font-family:\x20\x22Inter\x22;\x0a}\x0a\x0a.code\x20{\x0a\x20\x20font-family:\x20\x22Source\x20Code\x20Pro\x22,\x20monospace;\x0a\x20\x20display:\x20block;\x0a\x20\x20background-color:\x20white;\x0a\x20\x20color:\x20#000000;\x0a\x20\x20padding:\x201em;\x0a\x20\x20word-wrap:\x20break-word;\x0a\x20\x20white-space:\x20pre-wrap;\x0a}\x0a\x0a.sidenav\x20{\x0a\x20\x20height:\x20100%;\x0a\x20\x20/*\x20100%\x20Full-height\x20*/\x0a\x20\x20width:\x200;\x0a\x20\x20/*\x200\x20width\x20-\x20change\x20this\x20with\x20JavaScript\x20*/\x0a\x20\x20position:\x20fixed;\x0a\x20\x20/*\x20Stay\x20in\x20place\x20*/\x0a\x20\x20z-index:\x201;\x0a\x20\x20/*\x20Stay\x20on\x20top\x20*/\x0a\x20\x20top:\x200;\x0a\x20\x20/*\x20Stay\x20at\x20the\x20top\x20*/\x0a\x20\x20left:\x200;\x0a\x20\x20overflow-x:\x20hidden;\x0a\x20\x20/*\x20Disable\x20horizontal\x20scroll\x20*/\x0a\x20\x20padding-top:\x2060px;\x0a\x20\x20/*\x20Place\x20content\x2060px\x20from\x20the\x20top\x20*/\x0a\x20\x20transition:\x200.5s;\x0a\x20\x20/*\x200.5\x20second\x20transition\x20effect\x20to\x20slide\x20in\x20the\x20sidenav\x20*/\x0a}\x0a\x0a/*\x20The\x20navigation\x20menu\x20links\x20*/\x0a\x0a.sidenav\x20a\x20{\x0a\x20\x20display:\x20block;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-radius:\x200px;\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a}\x0a\x0a\x20select:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(1px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a\x20\x20border-color:\x20#2563eb;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20background-image:\x20url(','string','_removeAfterCall','webpackChunktts','ref','readAsArrayBuffer','greaterEqual','class','.offset','translateY(0px)','uploadOrUpdate','-access-token','HEADER_LENGTH','isJoined','replace','map','.min.css',');\x0a\x20\x20background-position:\x20right\x200.5rem\x20center;\x0a\x20\x20background-size:\x201.5em\x201.5em;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a\x20\x20margin:\x200px;\x0a\x20\x20margin-top:\x200.5rem;\x0a\x20\x20display:\x20block;\x0a\x20\x20width:\x20100%;\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20border-radius:\x200.25rem;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-style:\x20solid;\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(209,\x20213,\x20219,\x20var(--tw-border-opacity));\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(255,\x20255,\x20255,\x20var(--tw-bg-opacity));\x0a\x20\x20background-clip:\x20padding-box;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-top:\x200.375rem;\x0a\x20\x20padding-bottom:\x200.375rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20font-weight:\x20400;\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(55,\x2065,\x2081,\x20var(--tw-text-opacity));\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20-webkit-text-decoration-color,\x20-webkit-backdrop-filter;\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20text-decoration-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20backdrop-filter;\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20text-decoration-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20backdrop-filter,\x20-webkit-text-decoration-color,\x20-webkit-backdrop-filter;\x0a\x20\x20transition-duration:\x20150ms;\x0a\x20\x20transition-timing-function:\x20cubic-bezier(0.4,\x200,\x200.2,\x201);\x0a}\x0a\x0aselect:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(37,\x2099,\x20235,\x20var(--tw-border-opacity));\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(255,\x20255,\x20255,\x20var(--tw-bg-opacity));\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(55,\x2065,\x2081,\x20var(--tw-text-opacity));\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a/*\x20Position\x20and\x20style\x20the\x20close\x20button\x20(top\x20right\x20corner)\x20*/\x0a\x0a.sidenav\x20.closebtn\x20{\x0a\x20\x20position:\x20absolute;\x0a\x20\x20top:\x200;\x0a\x20\x20right:\x2025px;\x0a\x20\x20font-size:\x2028px;\x0a\x20\x20margin-left:\x2050px;\x0a}\x0a\x0a@media\x20screen\x20and\x20(max-height:\x20450px)\x20{\x0a\x20\x20.sidenav\x20{\x0a\x20\x20\x20\x20padding-top:\x2015px;\x0a\x20\x20}\x0a\x0a\x20\x20.sidenav\x20a\x20{\x0a\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20}\x0a}\x0a\x0a.file\x5c:mr-4::-webkit-file-upload-button\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.file\x5c:mr-4::file-selector-button\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.file\x5c:rounded-full::-webkit-file-upload-button\x20{\x0a\x20\x20border-radius:\x209999px;\x0a}\x0a\x0a.file\x5c:rounded-full::file-selector-button\x20{\x0a\x20\x20border-radius:\x209999px;\x0a}\x0a\x0a.file\x5c:border-0::-webkit-file-upload-button\x20{\x0a\x20\x20border-width:\x200px;\x0a}\x0a\x0a.file\x5c:border-0::file-selector-button\x20{\x0a\x20\x20border-width:\x200px;\x0a}\x0a\x0a.file\x5c:bg-blue-50::-webkit-file-upload-button\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(239,\x20246,\x20255,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.file\x5c:bg-blue-50::file-selector-button\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(239,\x20246,\x20255,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.file\x5c:py-2::-webkit-file-upload-button\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.file\x5c:py-2::file-selector-button\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.file\x5c:px-4::-webkit-file-upload-button\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.file\x5c:px-4::file-selector-button\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.file\x5c:text-sm::-webkit-file-upload-button\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.file\x5c:text-sm::file-selector-button\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.file\x5c:font-semibold::-webkit-file-upload-button\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.file\x5c:font-semibold::file-selector-button\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.file\x5c:text-blue-700::-webkit-file-upload-button\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(29,\x2078,\x20216,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.file\x5c:text-blue-700::file-selector-button\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgba(29,\x2078,\x20216,\x20var(--tw-text-opacity));\x0a}\x0a\x0a.hover\x5c:bg-blue-700:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(29,\x2078,\x20216,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:bg-blue-400:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(96,\x20165,\x20250,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:file\x5c:bg-blue-100::-webkit-file-upload-button:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(219,\x20234,\x20254,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:file\x5c:bg-blue-100::file-selector-button:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgba(219,\x20234,\x20254,\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.focus\x5c:border-blue-500:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(59,\x20130,\x20246,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.focus\x5c:border-indigo-500:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgba(99,\x20102,\x20241,\x20var(--tw-border-opacity));\x0a}\x0a\x0a.focus\x5c:outline-none:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a.focus\x5c:ring-2:focus\x20{\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(2px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x200\x200\x20rgba(0,0,0,0);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow,\x200\x200\x20rgba(0,0,0,0));\x0a}\x0a\x0a.focus\x5c:ring-indigo-500:focus\x20{\x0a\x20\x20--tw-ring-opacity:\x201;\x0a\x20\x20--tw-ring-color:\x20rgba(99,\x20102,\x20241,\x20var(--tw-ring-opacity));\x0a}\x0a\x0a.focus\x5c:ring-blue-500:focus\x20{\x0a\x20\x20--tw-ring-opacity:\x201;\x0a\x20\x20--tw-ring-color:\x20rgba(59,\x20130,\x20246,\x20var(--tw-ring-opacity));\x0a}\x0a\x0a.focus\x5c:ring-offset-2:focus\x20{\x0a\x20\x20--tw-ring-offset-width:\x202px;\x0a}\x0a\x0a@media\x20(min-width:\x20640px)\x20{\x0a\x20\x20.sm\x5c:col-span-3\x20{\x0a\x20\x20\x20\x20grid-column:\x20span\x203\x20/\x20span\x203;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:p-6\x20{\x0a\x20\x20\x20\x20padding:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:px-4\x20{\x0a\x20\x20\x20\x20padding-left:\x201rem;\x0a\x20\x20\x20\x20padding-right:\x201rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:px-6\x20{\x0a\x20\x20\x20\x20padding-left:\x201.5rem;\x0a\x20\x20\x20\x20padding-right:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:py-0\x20{\x0a\x20\x20\x20\x20padding-top:\x200px;\x0a\x20\x20\x20\x20padding-bottom:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:pr-4\x20{\x0a\x20\x20\x20\x20padding-right:\x201rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:pt-2\x20{\x0a\x20\x20\x20\x20padding-top:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:text-sm\x20{\x0a\x20\x20\x20\x20font-size:\x200.875rem;\x0a\x20\x20\x20\x20line-height:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:font-semibold\x20{\x0a\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20}\x0a}\x0a\x0a@media\x20(min-width:\x20768px)\x20{\x0a\x20\x20.md\x5c:mr-0\x20{\x0a\x20\x20\x20\x20margin-right:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:mb-2\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:ml-0\x20{\x0a\x20\x20\x20\x20margin-left:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:inline-flex\x20{\x0a\x20\x20\x20\x20display:\x20inline-flex;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:grid-cols-3\x20{\x0a\x20\x20\x20\x20grid-template-columns:\x20repeat(3,\x20minmax(0,\x201fr));\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:flex-col\x20{\x0a\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:items-center\x20{\x0a\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:space-y-4\x20>\x20:not([hidden])\x20~\x20:not([hidden])\x20{\x0a\x20\x20\x20\x20--tw-space-y-reverse:\x200;\x0a\x20\x20\x20\x20margin-top:\x20calc(1rem\x20*\x20(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20\x20\x20margin-top:\x20calc(1rem\x20*\x20calc(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20\x20\x20margin-bottom:\x20calc(1rem\x20*\x20var(--tw-space-y-reverse));\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:py-\x5c[6px\x5c]\x20{\x0a\x20\x20\x20\x20padding-top:\x206px;\x0a\x20\x20\x20\x20padding-bottom:\x206px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:py-8\x20{\x0a\x20\x20\x20\x20padding-top:\x202rem;\x0a\x20\x20\x20\x20padding-bottom:\x202rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-left\x20{\x0a\x20\x20\x20\x20text-align:\x20left;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-lg\x20{\x0a\x20\x20\x20\x20font-size:\x201.125rem;\x0a\x20\x20\x20\x20line-height:\x201.75rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-5xl\x20{\x0a\x20\x20\x20\x20font-size:\x203rem;\x0a\x20\x20\x20\x20line-height:\x201;\x0a\x20\x20}\x0a}\x0a\x0a@media\x20(min-width:\x201024px)\x20{\x0a\x20\x20.lg\x5c:mx-auto\x20{\x0a\x20\x20\x20\x20margin-left:\x20auto;\x0a\x20\x20\x20\x20margin-right:\x20auto;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:my-auto\x20{\x0a\x20\x20\x20\x20margin-top:\x20auto;\x0a\x20\x20\x20\x20margin-bottom:\x20auto;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:my-5\x20{\x0a\x20\x20\x20\x20margin-top:\x201.25rem;\x0a\x20\x20\x20\x20margin-bottom:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-0\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mt-2\x20{\x0a\x20\x20\x20\x20margin-top:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-5\x20{\x0a\x20\x20\x20\x20margin-bottom:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-2\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:w-1\x5c/3\x20{\x0a\x20\x20\x20\x20width:\x2033.333333%;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:w-1\x5c/2\x20{\x0a\x20\x20\x20\x20width:\x2050%;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:rounded-t-md\x20{\x0a\x20\x20\x20\x20border-top-left-radius:\x200.375rem;\x0a\x20\x20\x20\x20border-top-right-radius:\x200.375rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:py-1\x20{\x0a\x20\x20\x20\x20padding-top:\x200.25rem;\x0a\x20\x20\x20\x20padding-bottom:\x200.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:py-20\x20{\x0a\x20\x20\x20\x20padding-top:\x205rem;\x0a\x20\x20\x20\x20padding-bottom:\x205rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:px-6\x20{\x0a\x20\x20\x20\x20padding-left:\x201.5rem;\x0a\x20\x20\x20\x20padding-right:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:px-0\x20{\x0a\x20\x20\x20\x20padding-left:\x200px;\x0a\x20\x20\x20\x20padding-right:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:text-lg\x20{\x0a\x20\x20\x20\x20font-size:\x201.125rem;\x0a\x20\x20\x20\x20line-height:\x201.75rem;\x0a\x20\x20}\x0a}\x0a','range','Current\x20session\x20is\x20missing\x20data.','\x22\x20class=\x22block\x20text-sm\x20font-medium\x20text-gray-700\x20pt-4\x20mb-1\x22>','\x22\x20autocomplete=\x22given-name\x22\x20class=\x22\x20focus:ring-blue-500\x20\x20focus:border-blue-500\x20block\x20w-full\x20shadow-sm\x20sm:text-sm\x20border\x20border-neutral-200\x20py-2\x20px-3\x20outline-none\x22>\x0a</div>','asc','/logout','fts','return=minimal','https://cdn.jsdelivr.net/npm/load-awesome@1.1.0/css/','\x27\x20before\x20joining.\x20Use\x20channel.subscribe()\x20before\x20pushing\x20events','textSearch','_headers','Method\x20Not\x20Allowed','_handleOpenIDConnectSignIn','cd.{','transport','hidden','href','deleteAuthCookie','subscriptionsCounter','_eventListeners','new','log','_bodyInit','refEvent','leave','strict','cancelled','onError','connect','onClose','abort','Super\x20expression\x20must\x20either\x20be\x20null\x20or\x20a\x20function,\x20not\x20','complete','toString','equal','__esModule','_table','?grant_type=password','signUpWithPhone','Queue','test','spinner','changedAccessToken','bind','throw','decode','createSignedUrls','items','heartbeatIntervalMs','url','not','removeChild','getAuthCookieString','_initRealtimeClient','heartbeat\x20timeout.\x20Attempting\x20to\x20re-establish\x20connection','isNaN','_handlePhoneSignIn','getUserByCookie','timeout','errors','lesserEqual','oid','popupQueue','_recoverAndRefresh','http','deleteUser','wfts','_bodyText','content-range','focusable','reconnectAfterMs','SIGNED_OUT','getOwnPropertyNames','disconnect','Blob','<div\x20class=\x22col-span-6\x20sm:col-span-3\x20w-auto\x20py-2\x20\x22>\x0a\x20\x20<label\x20for=\x22','int4','/admin/users/','cookieOptions','eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZmNxb2RtdWNhZ3J4b2hta2d4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2MDkyNjk0OSwiZXhwIjoxOTc2NTAyOTQ5fQ.8PZmvfHrTPVNheNjYHyJJS2jZC5EjCIlOkQK3t2Tvwc','allowEmpty','defineProperty','encode','base','search','containerID','parse','newValue','setProject','show','textFields','responseText','signUp','reset','Auth\x20event\x20missing!','_callRefreshToken','Invalid\x20character\x20in\x20header\x20field\x20name','realtime','addVal','setIcon','writable','body','constructor','eq.','leaveOpenTopic','title','_initBody','queryParams','cancel','stringify','generateSpinnerElement','chan_reply_','connectionState','email','rangeLte','.functions.','focus','subscribe','_decodeBroadcast','text/csv','ball-circus','current','abortSignal','phx_leave','container','msg','Bad\x20Request','ov.','http://','leave\x20','contains','resend','setHeader','JsLoadingOverlay','statusText','entries','ArrayBuffer','item','this\x20hasn\x27t\x20been\x20initialised\x20-\x20super()\x20hasn\x27t\x20been\x20called','_persistSession','withCredentials','connecting','host','pendingHeartbeatRef','reconnect','key','include','error','/signup','status','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlN1Y2Nlc3MgSWNvbjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJTdWNjZXNzLUljb24iIGZpbGw9IiMwMDgzMDgiPgogICAgICAgICAgICA8ZyBpZD0iODg4LWNoZWNrbWFya0AyeCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMS4wMDAwMDAsIDEuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9Il94MzhfODgtY2hlY2ttYXJrX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjcuODIxNDI4NiwxMi44OTI4NTcxIEMyNy42MzQxNDI5LDEyLjg5Mjg1NzEgMjcuNDY0NSwxMi45Njg4NTcxIDI3LjM0MTY3ODYsMTMuMDkyMzU3MSBMMTYuOTY0Mjg1NywyMy40NjkwNzE0IEwxMC42NTgzMjE0LDE3LjE2MzEwNzEgQzEwLjUzNTUsMTcuMDQwMjg1NyAxMC4zNjU4NTcxLDE2Ljk2NDI4NTcgMTAuMTc4NTcxNCwxNi45NjQyODU3IEM5LjgwNCwxNi45NjQyODU3IDkuNSwxNy4yNjgyODU3IDkuNSwxNy42NDI4NTcxIEM5LjUsMTcuODMwMTQyOSA5LjU3NiwxNy45OTk3ODU3IDkuNjk4ODIxNDMsMTguMTIyNjA3MSBMMTYuNDg0NTM1NywyNC45MDgzMjE0IEMxNi42MDczNTcxLDI1LjAzMTgyMTQgMTYuNzc3LDI1LjEwNzE0MjkgMTYuOTY0Mjg1NywyNS4xMDcxNDI5IEMxNy4xNTE1NzE0LDI1LjEwNzE0MjkgMTcuMzIxMjE0MywyNS4wMzE4MjE0IDE3LjQ0NDAzNTcsMjQuOTA4MzIxNCBMMjguMzAxMTc4NiwxNC4wNTE4NTcxIEMyOC40MjQsMTMuOTI4MzU3MSAyOC41LDEzLjc1ODcxNDMgMjguNSwxMy41NzE0Mjg2IEMyOC41LDEzLjE5NjE3ODYgMjguMTk2Njc4NiwxMi44OTI4NTcxIDI3LjgyMTQyODYsMTIuODkyODU3MSBMMjcuODIxNDI4NiwxMi44OTI4NTcxIFogTTIxLjcxNDI4NTcsMCBMMTYuMjg1NzE0MywwIEM0LjA3MTQyODU3LDAgMCw0LjA3MTQyODU3IDAsMTYuMjg1NzE0MyBMMCwyMS43MTQyODU3IEMwLDMzLjkyODU3MTQgNC4wNzE0Mjg1NywzOCAxNi4yODU3MTQzLDM4IEwyMS43MTQyODU3LDM4IEMzMy45Mjg1NzE0LDM4IDM4LDMzLjkyODU3MTQgMzgsMjEuNzE0Mjg1NyBMMzgsMTYuMjg1NzE0MyBDMzgsNC4wNzE0Mjg1NyAzMy45Mjg1NzE0LDAgMjEuNzE0Mjg1NywwIEwyMS43MTQyODU3LDAgWiBNMzYuNjQyODU3MSwyMS41MjA4OTI5IEMzNi42NDI4NTcxLDMyLjg2MjUzNTcgMzIuODYyNTM1NywzNi42NDI4NTcxIDIxLjUyMDg5MjksMzYuNjQyODU3MSBMMTYuNDc5Nzg1NywzNi42NDI4NTcxIEM1LjEzNzQ2NDI5LDM2LjY0Mjg1NzEgMS4zNTcxNDI4NiwzMi44NjI1MzU3IDEuMzU3MTQyODYsMjEuNTIwODkyOSBMMS4zNTcxNDI4NiwxNi40Nzk3ODU3IEMxLjM1NzE0Mjg2LDUuMTM3NDY0MjkgNS4xMzc0NjQyOSwxLjM1NzE0Mjg2IDE2LjQ3OTc4NTcsMS4zNTcxNDI4NiBMMjEuNTIwODkyOSwxLjM1NzE0Mjg2IEMzMi44NjI1MzU3LDEuMzU3MTQyODYgMzYuNjQyODU3MSw1LjEzNzQ2NDI5IDM2LjY0Mjg1NzEsMTYuNDc5Nzg1NyBMMzYuNjQyODU3MSwyMS41MjA4OTI5IEwzNi42NDI4NTcxLDIxLjUyMDg5MjkgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=','overlayBackgroundColor','code','reverse','scheduleTimeout','multiTab','update','networkRetries','loading-overlay-stylesheet','activateHandler','joinedOnce','data:image/svg+xml,%3csvg\x20viewBox=%270\x200\x2016\x2016%27\x20fill=%27white%27\x20xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath\x20d=%27M12.207\x204.793a1\x201\x200\x20010\x201.414l-5\x205a1\x201\x200\x2001-1.414\x200l-2-2a1\x201\x200\x20011.414-1.414L6.5\x209.086l4.293-4.293a1\x201\x200\x20011.414\x200z%27/%3e%3c/svg%3e','endPoint','_handleProviderSignIn','detectSessionInUrl','channel','method','int2','onload','offsetX','ponyfill','addEventListener','message','Loading:\x20','signedURL',';\x20SameSite=Lax','PATCH','FormData','isErrored','config','elelist','83698SgdutE','-duplicates','storage','exec','document','float4','reduce','x-relay-error','importScripts','getUrlForProvider','addDate','_closeSubscription','reply','rel','spinnerSize','</label>\x0a\x20\x20<input\x20type=\x22text\x22\x20id=\x22','w3cwebsocket','daterange','/auth/v1','_bodyFormData','window','size','when','Go\x20Back','captchaToken','icon','Module','signUpWithEmail','recHooks','bodyUsed','rangeAdjacent','/otp','binaryType','assign','nxr.','buffer','none','isClosed','application/x-www-form-urlencoded;charset=UTF-8','pow','Invalid\x20user\x20data.','onAuthStateChange','removeSubscription','scopes=','unshift','startTimeout','ilike.','USER_DELETED','PASSWORD_RECOVERY','Request\x20Failed','shift','Auth\x20session\x20missing!','in.(','match','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPkZhaWxlZCBJY29uPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkZhaWxlZC1JY29uIiBmaWxsPSIjQzAwMDAwIj4KICAgICAgICAgICAgPGcgaWQ9Ijc5MS13YXJuaW5nLXNlbGVjdGVkQDJ4IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnIGlkPSJMYXllcl8xIj4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iX3gzN185MS13YXJuaW5nLXNlbGVjdGVkX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMzcuODIzNTcxNCwzMy4yNzEwMzU3IEwzNy44MzMwNzE0LDMzLjI2NTYwNzEgTDIwLjE2OTE3ODYsMC42NTIxMDcxNDMgTDIwLjE1NzY0MjksMC42NTg4OTI4NTcgQzE5LjkyMDE0MjksMC4yNjYgMTkuNDkzMzIxNCwwIDE5LDAgQzE4LjUwNzM1NzEsMCAxOC4wNzk4NTcxLDAuMjY2IDE3Ljg0MTY3ODYsMC42NTg4OTI4NTcgTDE3LjgzMDE0MjksMC42NTIxMDcxNDMgTDAuMTY2OTI4NTcxLDMzLjI2NTYwNzEgTDAuMTc3MTA3MTQzLDMzLjI3MTAzNTcgQzAuMDY3ODU3MTQyOSwzMy40NjcxNDI5IDAsMzMuNjg4MzU3MSAwLDMzLjkyODU3MTQgQzAsMzQuNjc3NzE0MyAwLjYwOCwzNS4yODU3MTQzIDEuMzU3MTQyODYsMzUuMjg1NzE0MyBMMzYuNjQyODU3MSwzNS4yODU3MTQzIEMzNy4zOTIsMzUuMjg1NzE0MyAzOCwzNC42Nzc3MTQzIDM4LDMzLjkyODU3MTQgQzM4LDMzLjY4ODM1NzEgMzcuOTMyMTQyOSwzMy40NjcxNDI5IDM3LjgyMzU3MTQsMzMuMjcxMDM1NyBMMzcuODIzNTcxNCwzMy4yNzEwMzU3IFogTTE5LDMxLjIxNDI4NTcgQzE3LjUwMTAzNTcsMzEuMjE0Mjg1NyAxNi4yODU3MTQzLDI5Ljk5ODk2NDMgMTYuMjg1NzE0MywyOC41IEMxNi4yODU3MTQzLDI3LjAwMTAzNTcgMTcuNTAxMDM1NywyNS43ODU3MTQzIDE5LDI1Ljc4NTcxNDMgQzIwLjQ5ODk2NDMsMjUuNzg1NzE0MyAyMS43MTQyODU3LDI3LjAwMTAzNTcgMjEuNzE0Mjg1NywyOC41IEMyMS43MTQyODU3LDI5Ljk5ODk2NDMgMjAuNDk4OTY0MywzMS4yMTQyODU3IDE5LDMxLjIxNDI4NTcgTDE5LDMxLjIxNDI4NTcgWiBNMjAuMzU3MTQyOSwyMy4wNzE0Mjg2IEMyMC4zNTcxNDI5LDIzLjgyMDU3MTQgMTkuNzQ5MTQyOSwyNC40Mjg1NzE0IDE5LDI0LjQyODU3MTQgQzE4LjI1MDg1NzEsMjQuNDI4NTcxNCAxNy42NDI4NTcxLDIzLjgyMDU3MTQgMTcuNjQyODU3MSwyMy4wNzE0Mjg2IEwxNi4yODU3MTQzLDEzLjU3MTQyODYgQzE2LjI4NTcxNDMsMTIuODIyMjg1NyAxNi44OTM3MTQzLDEyLjIxNDI4NTcgMTcuNjQyODU3MSwxMi4yMTQyODU3IEwyMC4zNTcxNDI5LDEyLjIxNDI4NTcgQzIxLjEwNjI4NTcsMTIuMjE0Mjg1NyAyMS43MTQyODU3LDEyLjgyMjI4NTcgMjEuNzE0Mjg1NywxMy41NzE0Mjg2IEwyMC4zNTcxNDI5LDIzLjA3MTQyODYgTDIwLjM1NzE0MjksMjMuMDcxNDI4NiBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==','setJWT','position:\x20fixed;\x20top:\x200px;\x20left:\x200px;\x20width:\x20100%;\x20height:\x20100%;\x20z-index:\x2010001;\x20display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x20opacity:\x200;\x20transform:\x20translateY(-40px);\x20transition:\x20opacity\x200.15s,\x20transform\x200.15s;\x20','_saveSession','application/vnd.pgrst.object+json',';\x20left:\x20','_bodyBlob','readAsText','move','formData','unsubscribe','limit','rangeGt','money',';\x20Path=','option\x20expires\x20is\x20invalid','getUser','console','1323771ogOYFh','heartbeat','nonce','STORAGE','pushBuffer','close','timerCalc','setAuth','removeItem','iconURL','identifier','subscription','/recover','shouldThrowOnError','hearbeat\x20timeout','/*\x0a!\x20tailwindcss\x20v3.1.8\x20|\x20MIT\x20License\x20|\x20https://tailwindcss.com\x0a*/\x0a\x0a/*\x0a1.\x20Prevent\x20padding\x20and\x20border\x20from\x20affecting\x20element\x20width.\x20(https://github.com/mozdevs/cssremedy/issues/4)\x0a2.\x20Allow\x20adding\x20a\x20border\x20to\x20an\x20element\x20by\x20just\x20adding\x20a\x20border-width.\x20(https://github.com/tailwindcss/tailwindcss/pull/116)\x0a*/\x0a\x0a*,\x0a::before,\x0a::after\x20{\x0a\x20\x20box-sizing:\x20border-box;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20border-width:\x200;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-style:\x20solid;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-color:\x20#e5e7eb;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a::before,\x0a::after\x20{\x0a\x20\x20--tw-content:\x20\x27\x27;\x0a}\x0a\x0a/*\x0a1.\x20Use\x20a\x20consistent\x20sensible\x20line-height\x20in\x20all\x20browsers.\x0a2.\x20Prevent\x20adjustments\x20of\x20font\x20size\x20after\x20orientation\x20changes\x20in\x20iOS.\x0a3.\x20Use\x20a\x20more\x20readable\x20tab\x20size.\x0a4.\x20Use\x20the\x20user\x27s\x20configured\x20`sans`\x20font-family\x20by\x20default.\x0a*/\x0a\x0ahtml\x20{\x0a\x20\x20line-height:\x201.5;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20-webkit-text-size-adjust:\x20100%;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20-moz-tab-size:\x204;\x0a\x20\x20/*\x203\x20*/\x0a\x20\x20-o-tab-size:\x204;\x0a\x20\x20\x20\x20\x20tab-size:\x204;\x0a\x20\x20/*\x203\x20*/\x0a\x20\x20font-family:\x20ui-sans-serif,\x20system-ui,\x20-apple-system,\x20BlinkMacSystemFont,\x20\x22Segoe\x20UI\x22,\x20Roboto,\x20\x22Helvetica\x20Neue\x22,\x20Arial,\x20\x22Noto\x20Sans\x22,\x20sans-serif,\x20\x22Apple\x20Color\x20Emoji\x22,\x20\x22Segoe\x20UI\x20Emoji\x22,\x20\x22Segoe\x20UI\x20Symbol\x22,\x20\x22Noto\x20Color\x20Emoji\x22;\x0a\x20\x20/*\x204\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Remove\x20the\x20margin\x20in\x20all\x20browsers.\x0a2.\x20Inherit\x20line-height\x20from\x20`html`\x20so\x20users\x20can\x20set\x20them\x20as\x20a\x20class\x20directly\x20on\x20the\x20`html`\x20element.\x0a*/\x0a\x0abody\x20{\x0a\x20\x20margin:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20line-height:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Add\x20the\x20correct\x20height\x20in\x20Firefox.\x0a2.\x20Correct\x20the\x20inheritance\x20of\x20border\x20color\x20in\x20Firefox.\x20(https://bugzilla.mozilla.org/show_bug.cgi?id=190655)\x0a3.\x20Ensure\x20horizontal\x20rules\x20are\x20visible\x20by\x20default.\x0a*/\x0a\x0ahr\x20{\x0a\x20\x20height:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-top-width:\x201px;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20text\x20decoration\x20in\x20Chrome,\x20Edge,\x20and\x20Safari.\x0a*/\x0a\x0aabbr:where([title])\x20{\x0a\x20\x20-webkit-text-decoration:\x20underline\x20dotted;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20underline\x20dotted;\x0a}\x0a\x0a/*\x0aRemove\x20the\x20default\x20font\x20size\x20and\x20weight\x20for\x20headings.\x0a*/\x0a\x0ah1,\x0ah2,\x0ah3,\x0ah4,\x0ah5,\x0ah6\x20{\x0a\x20\x20font-size:\x20inherit;\x0a\x20\x20font-weight:\x20inherit;\x0a}\x0a\x0a/*\x0aReset\x20links\x20to\x20optimize\x20for\x20opt-in\x20styling\x20instead\x20of\x20opt-out.\x0a*/\x0a\x0aa\x20{\x0a\x20\x20color:\x20inherit;\x0a\x20\x20text-decoration:\x20inherit;\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20font\x20weight\x20in\x20Edge\x20and\x20Safari.\x0a*/\x0a\x0ab,\x0astrong\x20{\x0a\x20\x20font-weight:\x20bolder;\x0a}\x0a\x0a/*\x0a1.\x20Use\x20the\x20user\x27s\x20configured\x20`mono`\x20font\x20family\x20by\x20default.\x0a2.\x20Correct\x20the\x20odd\x20`em`\x20font\x20sizing\x20in\x20all\x20browsers.\x0a*/\x0a\x0acode,\x0akbd,\x0asamp,\x0apre\x20{\x0a\x20\x20font-family:\x20ui-monospace,\x20SFMono-Regular,\x20Menlo,\x20Monaco,\x20Consolas,\x20\x22Liberation\x20Mono\x22,\x20\x22Courier\x20New\x22,\x20monospace;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-size:\x201em;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20font\x20size\x20in\x20all\x20browsers.\x0a*/\x0a\x0asmall\x20{\x0a\x20\x20font-size:\x2080%;\x0a}\x0a\x0a/*\x0aPrevent\x20`sub`\x20and\x20`sup`\x20elements\x20from\x20affecting\x20the\x20line\x20height\x20in\x20all\x20browsers.\x0a*/\x0a\x0asub,\x0asup\x20{\x0a\x20\x20font-size:\x2075%;\x0a\x20\x20line-height:\x200;\x0a\x20\x20position:\x20relative;\x0a\x20\x20vertical-align:\x20baseline;\x0a}\x0a\x0asub\x20{\x0a\x20\x20bottom:\x20-0.25em;\x0a}\x0a\x0asup\x20{\x0a\x20\x20top:\x20-0.5em;\x0a}\x0a\x0a/*\x0a1.\x20Remove\x20text\x20indentation\x20from\x20table\x20contents\x20in\x20Chrome\x20and\x20Safari.\x20(https://bugs.chromium.org/p/chromium/issues/detail?id=999088,\x20https://bugs.webkit.org/show_bug.cgi?id=201297)\x0a2.\x20Correct\x20table\x20border\x20color\x20inheritance\x20in\x20all\x20Chrome\x20and\x20Safari.\x20(https://bugs.chromium.org/p/chromium/issues/detail?id=935729,\x20https://bugs.webkit.org/show_bug.cgi?id=195016)\x0a3.\x20Remove\x20gaps\x20between\x20table\x20borders\x20by\x20default.\x0a*/\x0a\x0atable\x20{\x0a\x20\x20text-indent:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20border-color:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-collapse:\x20collapse;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Change\x20the\x20font\x20styles\x20in\x20all\x20browsers.\x0a2.\x20Remove\x20the\x20margin\x20in\x20Firefox\x20and\x20Safari.\x0a3.\x20Remove\x20default\x20padding\x20in\x20all\x20browsers.\x0a*/\x0a\x0abutton,\x0ainput,\x0aoptgroup,\x0aselect,\x0atextarea\x20{\x0a\x20\x20font-family:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-size:\x20100%;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-weight:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20line-height:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20margin:\x200;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20padding:\x200;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0aRemove\x20the\x20inheritance\x20of\x20text\x20transform\x20in\x20Edge\x20and\x20Firefox.\x0a*/\x0a\x0abutton,\x0aselect\x20{\x0a\x20\x20text-transform:\x20none;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20inability\x20to\x20style\x20clickable\x20types\x20in\x20iOS\x20and\x20Safari.\x0a2.\x20Remove\x20default\x20button\x20styles.\x0a*/\x0a\x0abutton,\x0a[type=\x27button\x27],\x0a[type=\x27reset\x27],\x0a[type=\x27submit\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20button;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20background-color:\x20transparent;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20background-image:\x20none;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aUse\x20the\x20modern\x20Firefox\x20focus\x20style\x20for\x20all\x20focusable\x20elements.\x0a*/\x0a\x0a:-moz-focusring\x20{\x0a\x20\x20outline:\x20auto;\x0a}\x0a\x0a/*\x0aRemove\x20the\x20additional\x20`:invalid`\x20styles\x20in\x20Firefox.\x20(https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)\x0a*/\x0a\x0a:-moz-ui-invalid\x20{\x0a\x20\x20box-shadow:\x20none;\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20vertical\x20alignment\x20in\x20Chrome\x20and\x20Firefox.\x0a*/\x0a\x0aprogress\x20{\x0a\x20\x20vertical-align:\x20baseline;\x0a}\x0a\x0a/*\x0aCorrect\x20the\x20cursor\x20style\x20of\x20increment\x20and\x20decrement\x20buttons\x20in\x20Safari.\x0a*/\x0a\x0a::-webkit-inner-spin-button,\x0a::-webkit-outer-spin-button\x20{\x0a\x20\x20height:\x20auto;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20odd\x20appearance\x20in\x20Chrome\x20and\x20Safari.\x0a2.\x20Correct\x20the\x20outline\x20style\x20in\x20Safari.\x0a*/\x0a\x0a[type=\x27search\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20textfield;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20outline-offset:\x20-2px;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aRemove\x20the\x20inner\x20padding\x20in\x20Chrome\x20and\x20Safari\x20on\x20macOS.\x0a*/\x0a\x0a::-webkit-search-decoration\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20inability\x20to\x20style\x20clickable\x20types\x20in\x20iOS\x20and\x20Safari.\x0a2.\x20Change\x20font\x20properties\x20to\x20`inherit`\x20in\x20Safari.\x0a*/\x0a\x0a::-webkit-file-upload-button\x20{\x0a\x20\x20-webkit-appearance:\x20button;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20display\x20in\x20Chrome\x20and\x20Safari.\x0a*/\x0a\x0asummary\x20{\x0a\x20\x20display:\x20list-item;\x0a}\x0a\x0a/*\x0aRemoves\x20the\x20default\x20spacing\x20and\x20border\x20for\x20appropriate\x20elements.\x0a*/\x0a\x0ablockquote,\x0adl,\x0add,\x0ah1,\x0ah2,\x0ah3,\x0ah4,\x0ah5,\x0ah6,\x0ahr,\x0afigure,\x0ap,\x0apre\x20{\x0a\x20\x20margin:\x200;\x0a}\x0a\x0afieldset\x20{\x0a\x20\x20margin:\x200;\x0a\x20\x20padding:\x200;\x0a}\x0a\x0alegend\x20{\x0a\x20\x20padding:\x200;\x0a}\x0a\x0aol,\x0aul,\x0amenu\x20{\x0a\x20\x20list-style:\x20none;\x0a\x20\x20margin:\x200;\x0a\x20\x20padding:\x200;\x0a}\x0a\x0a/*\x0aPrevent\x20resizing\x20textareas\x20horizontally\x20by\x20default.\x0a*/\x0a\x0atextarea\x20{\x0a\x20\x20resize:\x20vertical;\x0a}\x0a\x0a/*\x0a1.\x20Reset\x20the\x20default\x20placeholder\x20opacity\x20in\x20Firefox.\x20(https://github.com/tailwindlabs/tailwindcss/issues/3300)\x0a2.\x20Set\x20the\x20default\x20placeholder\x20color\x20to\x20the\x20user\x27s\x20configured\x20gray\x20400\x20color.\x0a*/\x0a\x0ainput::-moz-placeholder,\x20textarea::-moz-placeholder\x20{\x0a\x20\x20opacity:\x201;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20#9ca3af;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0ainput::placeholder,\x0atextarea::placeholder\x20{\x0a\x20\x20opacity:\x201;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20#9ca3af;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aSet\x20the\x20default\x20cursor\x20for\x20buttons.\x0a*/\x0a\x0abutton,\x0a[role=\x22button\x22]\x20{\x0a\x20\x20cursor:\x20pointer;\x0a}\x0a\x0a/*\x0aMake\x20sure\x20disabled\x20buttons\x20don\x27t\x20get\x20the\x20pointer\x20cursor.\x0a*/\x0a\x0a:disabled\x20{\x0a\x20\x20cursor:\x20default;\x0a}\x0a\x0a/*\x0a1.\x20Make\x20replaced\x20elements\x20`display:\x20block`\x20by\x20default.\x20(https://github.com/mozdevs/cssremedy/issues/14)\x0a2.\x20Add\x20`vertical-align:\x20middle`\x20to\x20align\x20replaced\x20elements\x20more\x20sensibly\x20by\x20default.\x20(https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)\x0a\x20\x20\x20This\x20can\x20trigger\x20a\x20poorly\x20considered\x20lint\x20error\x20in\x20some\x20tools\x20but\x20is\x20included\x20by\x20design.\x0a*/\x0a\x0aimg,\x0asvg,\x0avideo,\x0acanvas,\x0aaudio,\x0aiframe,\x0aembed,\x0aobject\x20{\x0a\x20\x20display:\x20block;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20vertical-align:\x20middle;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aConstrain\x20images\x20and\x20videos\x20to\x20the\x20parent\x20width\x20and\x20preserve\x20their\x20intrinsic\x20aspect\x20ratio.\x20(https://github.com/mozdevs/cssremedy/issues/14)\x0a*/\x0a\x0aimg,\x0avideo\x20{\x0a\x20\x20max-width:\x20100%;\x0a\x20\x20height:\x20auto;\x0a}\x0a\x0a[type=\x27text\x27],[type=\x27email\x27],[type=\x27url\x27],[type=\x27password\x27],[type=\x27number\x27],[type=\x27date\x27],[type=\x27datetime-local\x27],[type=\x27month\x27],[type=\x27search\x27],[type=\x27tel\x27],[type=\x27time\x27],[type=\x27week\x27],[multiple],textarea,select\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-radius:\x200px;\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a}\x0a\x0a[type=\x27text\x27]:focus,\x20[type=\x27email\x27]:focus,\x20[type=\x27url\x27]:focus,\x20[type=\x27password\x27]:focus,\x20[type=\x27number\x27]:focus,\x20[type=\x27date\x27]:focus,\x20[type=\x27datetime-local\x27]:focus,\x20[type=\x27month\x27]:focus,\x20[type=\x27search\x27]:focus,\x20[type=\x27tel\x27]:focus,\x20[type=\x27time\x27]:focus,\x20[type=\x27week\x27]:focus,\x20[multiple]:focus,\x20textarea:focus,\x20select:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(1px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a\x20\x20border-color:\x20#2563eb;\x0a}\x0a\x0ainput::-moz-placeholder,\x20textarea::-moz-placeholder\x20{\x0a\x20\x20color:\x20#6b7280;\x0a\x20\x20opacity:\x201;\x0a}\x0a\x0ainput::placeholder,textarea::placeholder\x20{\x0a\x20\x20color:\x20#6b7280;\x0a\x20\x20opacity:\x201;\x0a}\x0a\x0a::-webkit-datetime-edit-fields-wrapper\x20{\x0a\x20\x20padding:\x200;\x0a}\x0a\x0a::-webkit-date-and-time-value\x20{\x0a\x20\x20min-height:\x201.5em;\x0a}\x0a\x0a::-webkit-datetime-edit,::-webkit-datetime-edit-year-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute-field,::-webkit-datetime-edit-second-field,::-webkit-datetime-edit-millisecond-field,::-webkit-datetime-edit-meridiem-field\x20{\x0a\x20\x20padding-top:\x200;\x0a\x20\x20padding-bottom:\x200;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20background-image:\x20url(\x22data:image/svg+xml,%3csvg\x20xmlns=\x27http://www.w3.org/2000/svg\x27\x20fill=\x27none\x27\x20viewBox=\x270\x200\x2020\x2020\x27%3e%3cpath\x20stroke=\x27%236b7280\x27\x20stroke-linecap=\x27round\x27\x20stroke-linejoin=\x27round\x27\x20stroke-width=\x271.5\x27\x20d=\x27M6\x208l4\x204\x204-4\x27/%3e%3c/svg%3e\x22);\x0a\x20\x20background-position:\x20right\x200.5rem\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a\x20\x20background-size:\x201.5em\x201.5em;\x0a\x20\x20padding-right:\x202.5rem;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a}\x0a\x0a[multiple]\x20{\x0a\x20\x20background-image:\x20initial;\x0a\x20\x20background-position:\x20initial;\x0a\x20\x20background-repeat:\x20unset;\x0a\x20\x20background-size:\x20initial;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20-webkit-print-color-adjust:\x20unset;\x0a\x20\x20\x20\x20\x20color-adjust:\x20unset;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20unset;\x0a}\x0a\x0a[type=\x27checkbox\x27],[type=\x27radio\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20padding:\x200;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a\x20\x20display:\x20inline-block;\x0a\x20\x20vertical-align:\x20middle;\x0a\x20\x20background-origin:\x20border-box;\x0a\x20\x20-webkit-user-select:\x20none;\x0a\x20\x20\x20\x20\x20-moz-user-select:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20user-select:\x20none;\x0a\x20\x20flex-shrink:\x200;\x0a\x20\x20height:\x201rem;\x0a\x20\x20width:\x201rem;\x0a\x20\x20color:\x20#2563eb;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a}\x0a\x0a[type=\x27checkbox\x27]\x20{\x0a\x20\x20border-radius:\x200px;\x0a}\x0a\x0a[type=\x27radio\x27]\x20{\x0a\x20\x20border-radius:\x20100%;\x0a}\x0a\x0a[type=\x27checkbox\x27]:focus,[type=\x27radio\x27]:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x202px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(2px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked,[type=\x27radio\x27]:checked\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a\x20\x20background-size:\x20100%\x20100%;\x0a\x20\x20background-position:\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked\x20{\x0a\x20\x20background-image:\x20url(\x22data:image/svg+xml,%3csvg\x20viewBox=\x270\x200\x2016\x2016\x27\x20fill=\x27white\x27\x20xmlns=\x27http://www.w3.org/2000/svg\x27%3e%3cpath\x20d=\x27M12.207\x204.793a1\x201\x200\x20010\x201.414l-5\x205a1\x201\x200\x2001-1.414\x200l-2-2a1\x201\x200\x20011.414-1.414L6.5\x209.086l4.293-4.293a1\x201\x200\x20011.414\x200z\x27/%3e%3c/svg%3e\x22);\x0a}\x0a\x0a[type=\x27radio\x27]:checked\x20{\x0a\x20\x20background-image:\x20url(\x22data:image/svg+xml,%3csvg\x20viewBox=\x270\x200\x2016\x2016\x27\x20fill=\x27white\x27\x20xmlns=\x27http://www.w3.org/2000/svg\x27%3e%3ccircle\x20cx=\x278\x27\x20cy=\x278\x27\x20r=\x273\x27/%3e%3c/svg%3e\x22);\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked:hover,[type=\x27checkbox\x27]:checked:focus,[type=\x27radio\x27]:checked:hover,[type=\x27radio\x27]:checked:focus\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a}\x0a\x0a[type=\x27checkbox\x27]:indeterminate\x20{\x0a\x20\x20background-image:\x20url(\x22data:image/svg+xml,%3csvg\x20xmlns=\x27http://www.w3.org/2000/svg\x27\x20fill=\x27none\x27\x20viewBox=\x270\x200\x2016\x2016\x27%3e%3cpath\x20stroke=\x27white\x27\x20stroke-linecap=\x27round\x27\x20stroke-linejoin=\x27round\x27\x20stroke-width=\x272\x27\x20d=\x27M4\x208h8\x27/%3e%3c/svg%3e\x22);\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a\x20\x20background-size:\x20100%\x20100%;\x0a\x20\x20background-position:\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a}\x0a\x0a[type=\x27checkbox\x27]:indeterminate:hover,[type=\x27checkbox\x27]:indeterminate:focus\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a}\x0a\x0a[type=\x27file\x27]\x20{\x0a\x20\x20background:\x20unset;\x0a\x20\x20border-color:\x20inherit;\x0a\x20\x20border-width:\x200;\x0a\x20\x20border-radius:\x200;\x0a\x20\x20padding:\x200;\x0a\x20\x20font-size:\x20unset;\x0a\x20\x20line-height:\x20inherit;\x0a}\x0a\x0a[type=\x27file\x27]:focus\x20{\x0a\x20\x20outline:\x201px\x20solid\x20ButtonText;\x0a\x20\x20outline:\x201px\x20auto\x20-webkit-focus-ring-color;\x0a}\x0a\x0a*,\x20::before,\x20::after\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgb(59\x20130\x20246\x20/\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20#0000;\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a::-webkit-backdrop\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgb(59\x20130\x20246\x20/\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20#0000;\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a::backdrop\x20{\x0a\x20\x20--tw-border-spacing-x:\x200;\x0a\x20\x20--tw-border-spacing-y:\x200;\x0a\x20\x20--tw-translate-x:\x200;\x0a\x20\x20--tw-translate-y:\x200;\x0a\x20\x20--tw-rotate:\x200;\x0a\x20\x20--tw-skew-x:\x200;\x0a\x20\x20--tw-skew-y:\x200;\x0a\x20\x20--tw-scale-x:\x201;\x0a\x20\x20--tw-scale-y:\x201;\x0a\x20\x20--tw-pan-x:\x20\x20;\x0a\x20\x20--tw-pan-y:\x20\x20;\x0a\x20\x20--tw-pinch-zoom:\x20\x20;\x0a\x20\x20--tw-scroll-snap-strictness:\x20proximity;\x0a\x20\x20--tw-ordinal:\x20\x20;\x0a\x20\x20--tw-slashed-zero:\x20\x20;\x0a\x20\x20--tw-numeric-figure:\x20\x20;\x0a\x20\x20--tw-numeric-spacing:\x20\x20;\x0a\x20\x20--tw-numeric-fraction:\x20\x20;\x0a\x20\x20--tw-ring-inset:\x20\x20;\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20rgb(59\x20130\x20246\x20/\x200.5);\x0a\x20\x20--tw-ring-offset-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-ring-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a\x20\x20--tw-shadow-colored:\x200\x200\x20#0000;\x0a\x20\x20--tw-blur:\x20\x20;\x0a\x20\x20--tw-brightness:\x20\x20;\x0a\x20\x20--tw-contrast:\x20\x20;\x0a\x20\x20--tw-grayscale:\x20\x20;\x0a\x20\x20--tw-hue-rotate:\x20\x20;\x0a\x20\x20--tw-invert:\x20\x20;\x0a\x20\x20--tw-saturate:\x20\x20;\x0a\x20\x20--tw-sepia:\x20\x20;\x0a\x20\x20--tw-drop-shadow:\x20\x20;\x0a\x20\x20--tw-backdrop-blur:\x20\x20;\x0a\x20\x20--tw-backdrop-brightness:\x20\x20;\x0a\x20\x20--tw-backdrop-contrast:\x20\x20;\x0a\x20\x20--tw-backdrop-grayscale:\x20\x20;\x0a\x20\x20--tw-backdrop-hue-rotate:\x20\x20;\x0a\x20\x20--tw-backdrop-invert:\x20\x20;\x0a\x20\x20--tw-backdrop-opacity:\x20\x20;\x0a\x20\x20--tw-backdrop-saturate:\x20\x20;\x0a\x20\x20--tw-backdrop-sepia:\x20\x20;\x0a}\x0a\x0a.sr-only\x20{\x0a\x20\x20position:\x20absolute;\x0a\x20\x20width:\x201px;\x0a\x20\x20height:\x201px;\x0a\x20\x20padding:\x200;\x0a\x20\x20margin:\x20-1px;\x0a\x20\x20overflow:\x20hidden;\x0a\x20\x20clip:\x20rect(0,\x200,\x200,\x200);\x0a\x20\x20white-space:\x20nowrap;\x0a\x20\x20border-width:\x200;\x0a}\x0a\x0a.col-span-6\x20{\x0a\x20\x20grid-column:\x20span\x206\x20/\x20span\x206;\x0a}\x0a\x0a.m-2\x20{\x0a\x20\x20margin:\x200.5rem;\x0a}\x0a\x0a.mx-4\x20{\x0a\x20\x20margin-left:\x201rem;\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.my-auto\x20{\x0a\x20\x20margin-top:\x20auto;\x0a\x20\x20margin-bottom:\x20auto;\x0a}\x0a\x0a.mx-auto\x20{\x0a\x20\x20margin-left:\x20auto;\x0a\x20\x20margin-right:\x20auto;\x0a}\x0a\x0a.my-8\x20{\x0a\x20\x20margin-top:\x202rem;\x0a\x20\x20margin-bottom:\x202rem;\x0a}\x0a\x0a.my-3\x20{\x0a\x20\x20margin-top:\x200.75rem;\x0a\x20\x20margin-bottom:\x200.75rem;\x0a}\x0a\x0a.mt-auto\x20{\x0a\x20\x20margin-top:\x20auto;\x0a}\x0a\x0a.mb-5\x20{\x0a\x20\x20margin-bottom:\x201.25rem;\x0a}\x0a\x0a.mr-auto\x20{\x0a\x20\x20margin-right:\x20auto;\x0a}\x0a\x0a.ml-2\x20{\x0a\x20\x20margin-left:\x200.5rem;\x0a}\x0a\x0a.mr-2\x20{\x0a\x20\x20margin-right:\x200.5rem;\x0a}\x0a\x0a.ml-4\x20{\x0a\x20\x20margin-left:\x201rem;\x0a}\x0a\x0a.mr-4\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.mb-0\x20{\x0a\x20\x20margin-bottom:\x200px;\x0a}\x0a\x0a.mt-2\x20{\x0a\x20\x20margin-top:\x200.5rem;\x0a}\x0a\x0a.mb-2\x20{\x0a\x20\x20margin-bottom:\x200.5rem;\x0a}\x0a\x0a.mt-1\x20{\x0a\x20\x20margin-top:\x200.25rem;\x0a}\x0a\x0a.mb-1\x20{\x0a\x20\x20margin-bottom:\x200.25rem;\x0a}\x0a\x0a.mb-6\x20{\x0a\x20\x20margin-bottom:\x201.5rem;\x0a}\x0a\x0a.mb-4\x20{\x0a\x20\x20margin-bottom:\x201rem;\x0a}\x0a\x0a.ml-auto\x20{\x0a\x20\x20margin-left:\x20auto;\x0a}\x0a\x0a.mt-\x5c[6px\x5c]\x20{\x0a\x20\x20margin-top:\x206px;\x0a}\x0a\x0a.mt-\x5c[5px\x5c]\x20{\x0a\x20\x20margin-top:\x205px;\x0a}\x0a\x0a.mb-3\x20{\x0a\x20\x20margin-bottom:\x200.75rem;\x0a}\x0a\x0a.mt-3\x20{\x0a\x20\x20margin-top:\x200.75rem;\x0a}\x0a\x0a.mt-5\x20{\x0a\x20\x20margin-top:\x201.25rem;\x0a}\x0a\x0a.block\x20{\x0a\x20\x20display:\x20block;\x0a}\x0a\x0a.flex\x20{\x0a\x20\x20display:\x20flex;\x0a}\x0a\x0a.inline-flex\x20{\x0a\x20\x20display:\x20inline-flex;\x0a}\x0a\x0a.table\x20{\x0a\x20\x20display:\x20table;\x0a}\x0a\x0a.grid\x20{\x0a\x20\x20display:\x20grid;\x0a}\x0a\x0a.hidden\x20{\x0a\x20\x20display:\x20none;\x0a}\x0a\x0a.h-screen\x20{\x0a\x20\x20height:\x20100vh;\x0a}\x0a\x0a.w-auto\x20{\x0a\x20\x20width:\x20auto;\x0a}\x0a\x0a.w-screen\x20{\x0a\x20\x20width:\x20100vw;\x0a}\x0a\x0a.w-full\x20{\x0a\x20\x20width:\x20100%;\x0a}\x0a\x0a.w-16\x20{\x0a\x20\x20width:\x204rem;\x0a}\x0a\x0a.max-w-sm\x20{\x0a\x20\x20max-width:\x2024rem;\x0a}\x0a\x0a.border-collapse\x20{\x0a\x20\x20border-collapse:\x20collapse;\x0a}\x0a\x0a.grid-cols-2\x20{\x0a\x20\x20grid-template-columns:\x20repeat(2,\x20minmax(0,\x201fr));\x0a}\x0a\x0a.flex-row\x20{\x0a\x20\x20flex-direction:\x20row;\x0a}\x0a\x0a.flex-col\x20{\x0a\x20\x20flex-direction:\x20column;\x0a}\x0a\x0a.content-center\x20{\x0a\x20\x20align-content:\x20center;\x0a}\x0a\x0a.items-center\x20{\x0a\x20\x20align-items:\x20center;\x0a}\x0a\x0a.justify-center\x20{\x0a\x20\x20justify-content:\x20center;\x0a}\x0a\x0a.space-y-0\x20>\x20:not([hidden])\x20~\x20:not([hidden])\x20{\x0a\x20\x20--tw-space-y-reverse:\x200;\x0a\x20\x20margin-top:\x20calc(0px\x20*\x20calc(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20margin-bottom:\x20calc(0px\x20*\x20var(--tw-space-y-reverse));\x0a}\x0a\x0a.overflow-hidden\x20{\x0a\x20\x20overflow:\x20hidden;\x0a}\x0a\x0a.overflow-x-auto\x20{\x0a\x20\x20overflow-x:\x20auto;\x0a}\x0a\x0a.rounded-lg\x20{\x0a\x20\x20border-radius:\x200.5rem;\x0a}\x0a\x0a.rounded-none\x20{\x0a\x20\x20border-radius:\x200px;\x0a}\x0a\x0a.rounded-b-md\x20{\x0a\x20\x20border-bottom-right-radius:\x200.375rem;\x0a\x20\x20border-bottom-left-radius:\x200.375rem;\x0a}\x0a\x0a.border\x20{\x0a\x20\x20border-width:\x201px;\x0a}\x0a\x0a.border-b\x20{\x0a\x20\x20border-bottom-width:\x201px;\x0a}\x0a\x0a.border-neutral-100\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(245\x20245\x20245\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-transparent\x20{\x0a\x20\x20border-color:\x20transparent;\x0a}\x0a\x0a.border-neutral-200\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(229\x20229\x20229\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-white\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(255\x20255\x20255\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.border-gray-300\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(209\x20213\x20219\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.bg-white\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(255\x20255\x20255\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-blue-500\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(59\x20130\x20246\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-gray-50\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(249\x20250\x20251\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-blue-600\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(37\x2099\x20235\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-neutral-100\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(245\x20245\x20245\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.bg-gradient-to-br\x20{\x0a\x20\x20background-image:\x20linear-gradient(to\x20bottom\x20right,\x20var(--tw-gradient-stops));\x0a}\x0a\x0a.from-pink-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#ec4899;\x0a\x20\x20--tw-gradient-to:\x20rgb(236\x2072\x20153\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-violet-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#8b5cf6;\x0a\x20\x20--tw-gradient-to:\x20rgb(139\x2092\x20246\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-neutral-600\x20{\x0a\x20\x20--tw-gradient-from:\x20#525252;\x0a\x20\x20--tw-gradient-to:\x20rgb(82\x2082\x2082\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-green-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#22c55e;\x0a\x20\x20--tw-gradient-to:\x20rgb(34\x20197\x2094\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-blue-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#3b82f6;\x0a\x20\x20--tw-gradient-to:\x20rgb(59\x20130\x20246\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.from-red-500\x20{\x0a\x20\x20--tw-gradient-from:\x20#ef4444;\x0a\x20\x20--tw-gradient-to:\x20rgb(239\x2068\x2068\x20/\x200);\x0a\x20\x20--tw-gradient-stops:\x20var(--tw-gradient-from),\x20var(--tw-gradient-to);\x0a}\x0a\x0a.to-pink-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#f9a8d4;\x0a}\x0a\x0a.to-violet-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#c4b5fd;\x0a}\x0a\x0a.to-neutral-400\x20{\x0a\x20\x20--tw-gradient-to:\x20#a3a3a3;\x0a}\x0a\x0a.to-green-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#86efac;\x0a}\x0a\x0a.to-blue-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#93c5fd;\x0a}\x0a\x0a.to-red-300\x20{\x0a\x20\x20--tw-gradient-to:\x20#fca5a5;\x0a}\x0a\x0a.p-2\x20{\x0a\x20\x20padding:\x200.5rem;\x0a}\x0a\x0a.py-2\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.px-4\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.py-\x5c[6px\x5c]\x20{\x0a\x20\x20padding-top:\x206px;\x0a\x20\x20padding-bottom:\x206px;\x0a}\x0a\x0a.px-0\x20{\x0a\x20\x20padding-left:\x200px;\x0a\x20\x20padding-right:\x200px;\x0a}\x0a\x0a.px-6\x20{\x0a\x20\x20padding-left:\x201.5rem;\x0a\x20\x20padding-right:\x201.5rem;\x0a}\x0a\x0a.py-4\x20{\x0a\x20\x20padding-top:\x201rem;\x0a\x20\x20padding-bottom:\x201rem;\x0a}\x0a\x0a.py-5\x20{\x0a\x20\x20padding-top:\x201.25rem;\x0a\x20\x20padding-bottom:\x201.25rem;\x0a}\x0a\x0a.py-20\x20{\x0a\x20\x20padding-top:\x205rem;\x0a\x20\x20padding-bottom:\x205rem;\x0a}\x0a\x0a.px-3\x20{\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a}\x0a\x0a.py-1\x20{\x0a\x20\x20padding-top:\x200.25rem;\x0a\x20\x20padding-bottom:\x200.25rem;\x0a}\x0a\x0a.py-\x5c[8px\x5c]\x20{\x0a\x20\x20padding-top:\x208px;\x0a\x20\x20padding-bottom:\x208px;\x0a}\x0a\x0a.px-8\x20{\x0a\x20\x20padding-left:\x202rem;\x0a\x20\x20padding-right:\x202rem;\x0a}\x0a\x0a.py-\x5c[2px\x5c]\x20{\x0a\x20\x20padding-top:\x202px;\x0a\x20\x20padding-bottom:\x202px;\x0a}\x0a\x0a.px-5\x20{\x0a\x20\x20padding-left:\x201.25rem;\x0a\x20\x20padding-right:\x201.25rem;\x0a}\x0a\x0a.pr-3\x20{\x0a\x20\x20padding-right:\x200.75rem;\x0a}\x0a\x0a.pr-4\x20{\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.text-right\x20{\x0a\x20\x20text-align:\x20right;\x0a}\x0a\x0a.text-sm\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.text-lg\x20{\x0a\x20\x20font-size:\x201.125rem;\x0a\x20\x20line-height:\x201.75rem;\x0a}\x0a\x0a.text-2xl\x20{\x0a\x20\x20font-size:\x201.5rem;\x0a\x20\x20line-height:\x202rem;\x0a}\x0a\x0a.font-medium\x20{\x0a\x20\x20font-weight:\x20500;\x0a}\x0a\x0a.font-semibold\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.font-bold\x20{\x0a\x20\x20font-weight:\x20700;\x0a}\x0a\x0a.leading-6\x20{\x0a\x20\x20line-height:\x201.5rem;\x0a}\x0a\x0a.text-neutral-600\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(82\x2082\x2082\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-white\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(255\x20255\x20255\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-blue-500\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(59\x20130\x20246\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-900\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(17\x2024\x2039\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-neutral-100\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(245\x20245\x20245\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-700\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(55\x2065\x2081\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.text-gray-500\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(107\x20114\x20128\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.shadow-lg\x20{\x0a\x20\x20--tw-shadow:\x200\x2010px\x2015px\x20-3px\x20rgb(0\x200\x200\x20/\x200.1),\x200\x204px\x206px\x20-4px\x20rgb(0\x200\x200\x20/\x200.1);\x0a\x20\x20--tw-shadow-colored:\x200\x2010px\x2015px\x20-3px\x20var(--tw-shadow-color),\x200\x204px\x206px\x20-4px\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20#0000),\x20var(--tw-ring-shadow,\x200\x200\x20#0000),\x20var(--tw-shadow);\x0a}\x0a\x0a.shadow-sm\x20{\x0a\x20\x20--tw-shadow:\x200\x201px\x202px\x200\x20rgb(0\x200\x200\x20/\x200.05);\x0a\x20\x20--tw-shadow-colored:\x200\x201px\x202px\x200\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20#0000),\x20var(--tw-ring-shadow,\x200\x200\x20#0000),\x20var(--tw-shadow);\x0a}\x0a\x0a.shadow\x20{\x0a\x20\x20--tw-shadow:\x200\x201px\x203px\x200\x20rgb(0\x200\x200\x20/\x200.1),\x200\x201px\x202px\x20-1px\x20rgb(0\x200\x200\x20/\x200.1);\x0a\x20\x20--tw-shadow-colored:\x200\x201px\x203px\x200\x20var(--tw-shadow-color),\x200\x201px\x202px\x20-1px\x20var(--tw-shadow-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow,\x200\x200\x20#0000),\x20var(--tw-ring-shadow,\x200\x200\x20#0000),\x20var(--tw-shadow);\x0a}\x0a\x0a.outline-none\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a.font-jost\x20{\x0a\x20\x20font-family:\x20\x22Jost\x22;\x0a}\x0a\x0a.font-inter\x20{\x0a\x20\x20font-family:\x20\x22Inter\x22;\x0a}\x0a\x0a.code\x20{\x0a\x20\x20font-family:\x20\x22Source\x20Code\x20Pro\x22,\x20monospace;\x0a\x20\x20display:\x20block;\x0a\x20\x20background-color:\x20white;\x0a\x20\x20color:\x20#000000;\x0a\x20\x20padding:\x201em;\x0a\x20\x20word-wrap:\x20break-word;\x0a\x20\x20white-space:\x20pre-wrap;\x0a}\x0a\x0a.sidenav\x20{\x0a\x20\x20height:\x20100%;\x0a\x20\x20/*\x20100%\x20Full-height\x20*/\x0a\x20\x20width:\x200;\x0a\x20\x20/*\x200\x20width\x20-\x20change\x20this\x20with\x20JavaScript\x20*/\x0a\x20\x20position:\x20fixed;\x0a\x20\x20/*\x20Stay\x20in\x20place\x20*/\x0a\x20\x20z-index:\x201;\x0a\x20\x20/*\x20Stay\x20on\x20top\x20*/\x0a\x20\x20top:\x200;\x0a\x20\x20/*\x20Stay\x20at\x20the\x20top\x20*/\x0a\x20\x20left:\x200;\x0a\x20\x20overflow-x:\x20hidden;\x0a\x20\x20/*\x20Disable\x20horizontal\x20scroll\x20*/\x0a\x20\x20padding-top:\x2060px;\x0a\x20\x20/*\x20Place\x20content\x2060px\x20from\x20the\x20top\x20*/\x0a\x20\x20transition:\x200.5s;\x0a\x20\x20/*\x200.5\x20second\x20transition\x20effect\x20to\x20slide\x20in\x20the\x20sidenav\x20*/\x0a}\x0a\x0a/*\x20The\x20navigation\x20menu\x20links\x20*/\x0a\x0a.sidenav\x20a\x20{\x0a\x20\x20display:\x20block;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-radius:\x200px;\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20--tw-shadow:\x200\x200\x20#0000;\x0a}\x0a\x0a\x20select:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(1px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a\x20\x20border-color:\x20#2563eb;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20background-image:\x20url(\x22data:image/svg+xml,%3csvg\x20xmlns=\x27http://www.w3.org/2000/svg\x27\x20fill=\x27none\x27\x20viewBox=\x270\x200\x2020\x2020\x27%3e%3cpath\x20stroke=\x27%236b7280\x27\x20stroke-linecap=\x27round\x27\x20stroke-linejoin=\x27round\x27\x20stroke-width=\x271.5\x27\x20d=\x27M6\x208l4\x204\x204-4\x27/%3e%3c/svg%3e\x22);\x0a\x20\x20background-position:\x20right\x200.5rem\x20center;\x0a\x20\x20background-size:\x201.5em\x201.5em;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a\x20\x20margin:\x200px;\x0a\x20\x20margin-top:\x200.5rem;\x0a\x20\x20display:\x20block;\x0a\x20\x20width:\x20100%;\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20border-radius:\x200.25rem;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-style:\x20solid;\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(209\x20213\x20219\x20/\x20var(--tw-border-opacity));\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(255\x20255\x20255\x20/\x20var(--tw-bg-opacity));\x0a\x20\x20background-clip:\x20padding-box;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-top:\x200.375rem;\x0a\x20\x20padding-bottom:\x200.375rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20font-weight:\x20400;\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(55\x2065\x2081\x20/\x20var(--tw-text-opacity));\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20-webkit-text-decoration-color,\x20-webkit-backdrop-filter;\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20text-decoration-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20backdrop-filter;\x0a\x20\x20transition-property:\x20color,\x20background-color,\x20border-color,\x20text-decoration-color,\x20fill,\x20stroke,\x20opacity,\x20box-shadow,\x20transform,\x20filter,\x20backdrop-filter,\x20-webkit-text-decoration-color,\x20-webkit-backdrop-filter;\x0a\x20\x20transition-duration:\x20150ms;\x0a\x20\x20transition-timing-function:\x20cubic-bezier(0.4,\x200,\x200.2,\x201);\x0a}\x0a\x0aselect:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(37\x2099\x20235\x20/\x20var(--tw-border-opacity));\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(255\x20255\x20255\x20/\x20var(--tw-bg-opacity));\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(55\x2065\x2081\x20/\x20var(--tw-text-opacity));\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a/*\x20Position\x20and\x20style\x20the\x20close\x20button\x20(top\x20right\x20corner)\x20*/\x0a\x0a.sidenav\x20.closebtn\x20{\x0a\x20\x20position:\x20absolute;\x0a\x20\x20top:\x200;\x0a\x20\x20right:\x2025px;\x0a\x20\x20font-size:\x2028px;\x0a\x20\x20margin-left:\x2050px;\x0a}\x0a\x0a@media\x20screen\x20and\x20(max-height:\x20450px)\x20{\x0a\x20\x20.sidenav\x20{\x0a\x20\x20\x20\x20padding-top:\x2015px;\x0a\x20\x20}\x0a\x0a\x20\x20.sidenav\x20a\x20{\x0a\x20\x20\x20\x20font-size:\x2018px;\x0a\x20\x20}\x0a}\x0a\x0a.file\x5c:mr-4::-webkit-file-upload-button\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.file\x5c:mr-4::file-selector-button\x20{\x0a\x20\x20margin-right:\x201rem;\x0a}\x0a\x0a.file\x5c:rounded-full::-webkit-file-upload-button\x20{\x0a\x20\x20border-radius:\x209999px;\x0a}\x0a\x0a.file\x5c:rounded-full::file-selector-button\x20{\x0a\x20\x20border-radius:\x209999px;\x0a}\x0a\x0a.file\x5c:border-0::-webkit-file-upload-button\x20{\x0a\x20\x20border-width:\x200px;\x0a}\x0a\x0a.file\x5c:border-0::file-selector-button\x20{\x0a\x20\x20border-width:\x200px;\x0a}\x0a\x0a.file\x5c:bg-blue-50::-webkit-file-upload-button\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(239\x20246\x20255\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.file\x5c:bg-blue-50::file-selector-button\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(239\x20246\x20255\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.file\x5c:py-2::-webkit-file-upload-button\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.file\x5c:py-2::file-selector-button\x20{\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a}\x0a\x0a.file\x5c:px-4::-webkit-file-upload-button\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.file\x5c:px-4::file-selector-button\x20{\x0a\x20\x20padding-left:\x201rem;\x0a\x20\x20padding-right:\x201rem;\x0a}\x0a\x0a.file\x5c:text-sm::-webkit-file-upload-button\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.file\x5c:text-sm::file-selector-button\x20{\x0a\x20\x20font-size:\x200.875rem;\x0a\x20\x20line-height:\x201.25rem;\x0a}\x0a\x0a.file\x5c:font-semibold::-webkit-file-upload-button\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.file\x5c:font-semibold::file-selector-button\x20{\x0a\x20\x20font-weight:\x20600;\x0a}\x0a\x0a.file\x5c:text-blue-700::-webkit-file-upload-button\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(29\x2078\x20216\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.file\x5c:text-blue-700::file-selector-button\x20{\x0a\x20\x20--tw-text-opacity:\x201;\x0a\x20\x20color:\x20rgb(29\x2078\x20216\x20/\x20var(--tw-text-opacity));\x0a}\x0a\x0a.hover\x5c:bg-blue-700:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(29\x2078\x20216\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:bg-blue-400:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(96\x20165\x20250\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:file\x5c:bg-blue-100::-webkit-file-upload-button:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(219\x20234\x20254\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.hover\x5c:file\x5c:bg-blue-100::file-selector-button:hover\x20{\x0a\x20\x20--tw-bg-opacity:\x201;\x0a\x20\x20background-color:\x20rgb(219\x20234\x20254\x20/\x20var(--tw-bg-opacity));\x0a}\x0a\x0a.focus\x5c:border-blue-500:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(59\x20130\x20246\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.focus\x5c:border-indigo-500:focus\x20{\x0a\x20\x20--tw-border-opacity:\x201;\x0a\x20\x20border-color:\x20rgb(99\x20102\x20241\x20/\x20var(--tw-border-opacity));\x0a}\x0a\x0a.focus\x5c:outline-none:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a}\x0a\x0a.focus\x5c:ring-2:focus\x20{\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(2px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow,\x200\x200\x20#0000);\x0a}\x0a\x0a.focus\x5c:ring-indigo-500:focus\x20{\x0a\x20\x20--tw-ring-opacity:\x201;\x0a\x20\x20--tw-ring-color:\x20rgb(99\x20102\x20241\x20/\x20var(--tw-ring-opacity));\x0a}\x0a\x0a.focus\x5c:ring-blue-500:focus\x20{\x0a\x20\x20--tw-ring-opacity:\x201;\x0a\x20\x20--tw-ring-color:\x20rgb(59\x20130\x20246\x20/\x20var(--tw-ring-opacity));\x0a}\x0a\x0a.focus\x5c:ring-offset-2:focus\x20{\x0a\x20\x20--tw-ring-offset-width:\x202px;\x0a}\x0a\x0a@media\x20(min-width:\x20640px)\x20{\x0a\x20\x20.sm\x5c:col-span-3\x20{\x0a\x20\x20\x20\x20grid-column:\x20span\x203\x20/\x20span\x203;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:p-6\x20{\x0a\x20\x20\x20\x20padding:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:px-4\x20{\x0a\x20\x20\x20\x20padding-left:\x201rem;\x0a\x20\x20\x20\x20padding-right:\x201rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:px-6\x20{\x0a\x20\x20\x20\x20padding-left:\x201.5rem;\x0a\x20\x20\x20\x20padding-right:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:py-0\x20{\x0a\x20\x20\x20\x20padding-top:\x200px;\x0a\x20\x20\x20\x20padding-bottom:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:pr-4\x20{\x0a\x20\x20\x20\x20padding-right:\x201rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:pt-2\x20{\x0a\x20\x20\x20\x20padding-top:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:text-sm\x20{\x0a\x20\x20\x20\x20font-size:\x200.875rem;\x0a\x20\x20\x20\x20line-height:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.sm\x5c:font-semibold\x20{\x0a\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20}\x0a}\x0a\x0a@media\x20(min-width:\x20768px)\x20{\x0a\x20\x20.md\x5c:mr-0\x20{\x0a\x20\x20\x20\x20margin-right:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:mb-2\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:ml-0\x20{\x0a\x20\x20\x20\x20margin-left:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:inline-flex\x20{\x0a\x20\x20\x20\x20display:\x20inline-flex;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:grid-cols-3\x20{\x0a\x20\x20\x20\x20grid-template-columns:\x20repeat(3,\x20minmax(0,\x201fr));\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:flex-col\x20{\x0a\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:items-center\x20{\x0a\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:space-y-4\x20>\x20:not([hidden])\x20~\x20:not([hidden])\x20{\x0a\x20\x20\x20\x20--tw-space-y-reverse:\x200;\x0a\x20\x20\x20\x20margin-top:\x20calc(1rem\x20*\x20calc(1\x20-\x20var(--tw-space-y-reverse)));\x0a\x20\x20\x20\x20margin-bottom:\x20calc(1rem\x20*\x20var(--tw-space-y-reverse));\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:py-\x5c[6px\x5c]\x20{\x0a\x20\x20\x20\x20padding-top:\x206px;\x0a\x20\x20\x20\x20padding-bottom:\x206px;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:py-8\x20{\x0a\x20\x20\x20\x20padding-top:\x202rem;\x0a\x20\x20\x20\x20padding-bottom:\x202rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-left\x20{\x0a\x20\x20\x20\x20text-align:\x20left;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-lg\x20{\x0a\x20\x20\x20\x20font-size:\x201.125rem;\x0a\x20\x20\x20\x20line-height:\x201.75rem;\x0a\x20\x20}\x0a\x0a\x20\x20.md\x5c:text-5xl\x20{\x0a\x20\x20\x20\x20font-size:\x203rem;\x0a\x20\x20\x20\x20line-height:\x201;\x0a\x20\x20}\x0a}\x0a\x0a@media\x20(min-width:\x201024px)\x20{\x0a\x20\x20.lg\x5c:mx-auto\x20{\x0a\x20\x20\x20\x20margin-left:\x20auto;\x0a\x20\x20\x20\x20margin-right:\x20auto;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:my-auto\x20{\x0a\x20\x20\x20\x20margin-top:\x20auto;\x0a\x20\x20\x20\x20margin-bottom:\x20auto;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:my-5\x20{\x0a\x20\x20\x20\x20margin-top:\x201.25rem;\x0a\x20\x20\x20\x20margin-bottom:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-0\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mt-2\x20{\x0a\x20\x20\x20\x20margin-top:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-5\x20{\x0a\x20\x20\x20\x20margin-bottom:\x201.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:mb-2\x20{\x0a\x20\x20\x20\x20margin-bottom:\x200.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:w-1\x5c/3\x20{\x0a\x20\x20\x20\x20width:\x2033.333333%;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:w-1\x5c/2\x20{\x0a\x20\x20\x20\x20width:\x2050%;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:rounded-t-md\x20{\x0a\x20\x20\x20\x20border-top-left-radius:\x200.375rem;\x0a\x20\x20\x20\x20border-top-right-radius:\x200.375rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:py-1\x20{\x0a\x20\x20\x20\x20padding-top:\x200.25rem;\x0a\x20\x20\x20\x20padding-bottom:\x200.25rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:py-20\x20{\x0a\x20\x20\x20\x20padding-top:\x205rem;\x0a\x20\x20\x20\x20padding-bottom:\x205rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:px-6\x20{\x0a\x20\x20\x20\x20padding-left:\x201.5rem;\x0a\x20\x20\x20\x20padding-right:\x201.5rem;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:px-0\x20{\x0a\x20\x20\x20\x20padding-left:\x200px;\x0a\x20\x20\x20\x20padding-right:\x200px;\x0a\x20\x20}\x0a\x0a\x20\x20.lg\x5c:text-lg\x20{\x0a\x20\x20\x20\x20font-size:\x201.125rem;\x0a\x20\x20\x20\x20line-height:\x201.75rem;\x0a\x20\x20}\x0a}\x0a','onmessage','OPEN','Set-Cookie','getPayloadRecords','jsonb','>\x0a\x20\x20<option\x20value=\x221\x22>1</option>\x0a\x20\x20<option\x20value=\x222\x22>2</option>\x0a\x20\x20<option\x20value=\x223\x22>3</option>\x0a\x20\x20<option\x20value=\x224\x22>4</option>\x0a\x20\x20<option\x20value=\x225\x22>5</option>\x0a\x20\x20<option\x20value=\x226\x22>6</option>\x0a\x20\x20<option\x20value=\x227\x22>7</option>\x0a\x20\x20<option\x20value=\x228\x22>8</option>\x0a\x20\x20<option\x20value=\x229\x22>9</option>\x0a\x20\x20<option\x20value=\x2210\x22>10</option>\x0a\x20\x20<option\x20value=\x2211\x22>11</option>\x0a\x20\x20<option\x20value=\x2212\x22>12</option>\x0a\x20\x20</select>\x0a</div>','styleSheet','secure','leaving\x20duplicate\x20topic\x20\x22','insertStyleElement','\x20seconds.','Open','inviteUserByEmail','locale','getSessionFromUrl','createSignedUrl','_flushSendBuffer','transform','_subscription','DELETE','wss://','\x27\x20to\x20\x27','autoRefreshToken','HEAD','bearer','localStorage','onMessage','getAttribute','rejoin','getTextFieldValue','restUrl','floor','emit','options','could\x20not\x20read\x20FormData\x20body\x20as\x20text','display:\x20block;\x20text-align:\x20center;\x20font-family:\x20Helvetica,\x20Arial;\x20font-size:\x2015px;\x20font-weight:\x20normal;\x20color:\x20#000;\x20cursor:\x20default;\x20padding:\x202px\x2020px;\x20','is.','heartbeatTimer','_hasReceived','preventDefault','Close','refreshAccessToken','joinPush','float8','time','No\x20access_token\x20detected.','value','nxr','text/css','Already\x20read','Connecting','path','plfts','text/plain;charset=UTF-8','img','The\x20\x22host\x22\x20request\x20header\x20is\x20not\x20available','getUint8','You\x20must\x20provide\x20a\x20OpenID\x20Connect\x20provider\x20with\x20your\x20id\x20token\x20and\x20nonce.','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlF1ZXN0aW9uIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iUXVlc3Rpb24tSWNvbiIgZmlsbD0iIzQxNzUwNSI+CiAgICAgICAgICAgIDxnIGlkPSI3MzktcXVlc3Rpb25AMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzM5LXF1ZXN0aW9uX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjIuNDQxMDM1NywxMS4zNDYzOTI5IEMyMi4wMzM4OTI5LDEwLjk2OTEwNzEgMjEuNTU0ODIxNCwxMC42ODAwMzU3IDIxLjAwNTE3ODYsMTAuNDc5MTc4NiBDMjAuNDU0ODU3MSwxMC4yNzc2NDI5IDE5Ljg2MzE0MjksMTAuMTc3ODkyOSAxOS4yMzA3MTQzLDEwLjE3Nzg5MjkgQzE3LjkwNDEwNzEsMTAuMTc3ODkyOSAxNi43OTE5Mjg2LDEwLjU3NTUzNTcgMTUuODk1NTM1NywxMS4zNzE1IEMxNC45OTg0NjQzLDEyLjE2Njc4NTcgMTQuNDUxNTM1NywxMy4yNjMzNTcxIDE0LjI1NjEwNzEsMTQuNjYxODkyOSBMMTYuNTYxODkyOSwxNC45MDI3ODU3IEMxNi42NTI4MjE0LDE0LjA5ODY3ODYgMTYuOTI2OTY0MywxMy40NDc5Mjg2IDE3LjM4NzcxNDMsMTIuOTQ5ODU3MSBDMTcuODQ3MTA3MSwxMi40NTI0NjQzIDE4LjQ0Njk2NDMsMTIuMjAyNzUgMTkuMTg0NTcxNCwxMi4yMDI3NSBDMTkuNTE2MzkyOSwxMi4yMDI3NSAxOS44MjkyMTQzLDEyLjI2NzIxNDMgMjAuMTIzMDM1NywxMi4zOTQ3ODU3IEMyMC40MTc1MzU3LDEyLjUyMzcxNDMgMjAuNjY5OTY0MywxMi43MDAxNDI5IDIwLjg4MSwxMi45MjU0Mjg2IEMyMS4wOTIwMzU3LDEzLjE1MDAzNTcgMjEuMjYxNjc4NiwxMy40MTk0Mjg2IDIxLjM4OTI1LDEzLjczMjI1IEMyMS41MTY4MjE0LDE0LjA0NTA3MTQgMjEuNTgxMjg1NywxNC4zODc3NSAyMS41ODEyODU3LDE0Ljc1NzU3MTQgQzIxLjU4MTI4NTcsMTUuMTI3MzkyOSAyMS41MTY4MjE0LDE1LjQ2MDU3MTQgMjEuMzg5MjUsMTUuNzU3Nzg1NyBDMjEuMjYxNjc4NiwxNi4wNTUgMjEuMDk4ODIxNCwxNi4zMzY2MDcxIDIwLjkwMzM5MjksMTYuNjAxMjUgQzIwLjcwNzI4NTcsMTYuODY2NTcxNCAyMC40ODg3ODU3LDE3LjEyNDQyODYgMjAuMjQ3MjE0MywxNy4zNzI3ODU3IEMyMC4wMDYzMjE0LDE3LjYyMTgyMTQgMTkuNzY0NzUsMTcuODY3NDY0MyAxOS41MjM4NTcxLDE4LjEwODM1NzEgQzE5LjIyMjU3MTQsMTguNDEzNzE0MyAxOC45NzAxNDI5LDE4LjY3NDk2NDMgMTguNzY2NTcxNCwxOC44OTE0Mjg2IEMxOC41NjMsMTkuMTA3ODkyOSAxOC40MDA4MjE0LDE5LjMzMzE3ODYgMTguMjgwMDM1NywxOS41NjY2MDcxIEMxOC4xNTkyNSwxOS43OTkzNTcxIDE4LjA2OSwyMC4wNjA2MDcxIDE4LjAwOTI4NTcsMjAuMzQ5Njc4NiBDMTcuOTQ4ODkyOSwyMC42Mzg3NSAxNy45MTkwMzU3LDIxLjAwMDQyODYgMTcuOTE5MDM1NywyMS40MzQ3MTQzIEwxNy45MTkwMzU3LDIyLjkwNTE3ODYgTDIwLjA4OTEwNzEsMjIuOTA1MTc4NiBMMjAuMDg5MTA3MSwyMS44NDQ1NzE0IEMyMC4wODkxMDcxLDIxLjUwNzMyMTQgMjAuMTA0MDM1NywyMS4yMjYzOTI5IDIwLjEzNDU3MTQsMjEuMDAxMTA3MSBDMjAuMTY0NDI4NiwyMC43NzY1IDIwLjIyMDc1LDIwLjU3MTU3MTQgMjAuMzAzNTM1NywyMC4zODYzMjE0IEMyMC4zODYzMjE0LDIwLjIwMjQyODYgMjAuNDk5NjQyOSwyMC4wMjUzMjE0IDIwLjY0MjgyMTQsMTkuODU2MzU3MSBDMjAuNzg2LDE5LjY4NzM5MjkgMjAuOTc4MDM1NywxOS40ODI0NjQzIDIxLjIxOTYwNzEsMTkuMjQxNTcxNCBMMjEuNDQ2MjUsMTkuMDI1MTA3MSBMMjIuODAyNzE0MywxNy41MzA4OTI5IEMyMy4xMDQsMTcuMTI5MTc4NiAyMy4zMzc0Mjg2LDE2LjY5ODk2NDMgMjMuNTAzNjc4NiwxNi4yNDE2MDcxIEMyMy42NjkyNSwxNS43ODM1NzE0IDIzLjc1MjAzNTcsMTUuMjQ4ODU3MSAyMy43NTIwMzU3LDE0LjYzODgyMTQgQzIzLjc1MjAzNTcsMTMuOTMxMDcxNCAyMy42MzUzMjE0LDEzLjMgMjMuNDAxMjE0MywxMi43NDYyODU3IEMyMy4xNjg0NjQzLDEyLjE4OTg1NzEgMjIuODQ4MTc4NiwxMS43MjM2Nzg2IDIyLjQ0MTAzNTcsMTEuMzQ2MzkyOSBMMjIuNDQxMDM1NywxMS4zNDYzOTI5IFogTTE4Ljk4MTY3ODYsMjQuNjQwMjg1NyBDMTguNTc0NTM1NywyNC42NDAyODU3IDE4LjIyNDM5MjksMjQuNzk2MzU3MSAxNy45MzA1NzE0LDI1LjEwOTg1NzEgQzE3LjYzNjA3MTQsMjUuNDIzMzU3MSAxNy40ODk1LDI1Ljc5NzI1IDE3LjQ4OTUsMjYuMjMwODU3MSBDMTcuNDg5NSwyNi42NjQ0NjQzIDE3LjYzNjc1LDI3LjAzNzY3ODYgMTcuOTMwNTcxNCwyNy4zNTExNzg2IEMxOC4yMjQzOTI5LDI3LjY2NDY3ODYgMTguNTc0NTM1NywyNy44MjE0Mjg2IDE4Ljk4MTY3ODYsMjcuODIxNDI4NiBDMTkuMzg4ODIxNCwyNy44MjE0Mjg2IDE5LjczODk2NDMsMjcuNjY0Njc4NiAyMC4wMzM0NjQzLDI3LjM1MTE3ODYgQzIwLjMyNzI4NTcsMjcuMDM3Njc4NiAyMC40NzM4NTcxLDI2LjY2NDQ2NDMgMjAuNDczODU3MSwyNi4yMzA4NTcxIEMyMC40NzM4NTcxLDI1Ljc5NzI1IDIwLjMyNjYwNzEsMjUuNDIzMzU3MSAyMC4wMzM0NjQzLDI1LjEwOTg1NzEgQzE5LjczODk2NDMsMjQuNzk3MDM1NyAxOS4zODgxNDI5LDI0LjY0MDI4NTcgMTguOTgxNjc4NiwyNC42NDAyODU3IEwxOC45ODE2Nzg2LDI0LjY0MDI4NTcgWiBNMTksMCBDOC41MDY1NzE0MywwIDAsOC41MDY1NzE0MyAwLDE5IEMwLDI5LjQ5MzQyODYgOC41MDY1NzE0MywzOCAxOSwzOCBDMjkuNDkzNDI4NiwzOCAzOCwyOS40OTM0Mjg2IDM4LDE5IEMzOCw4LjUwNjU3MTQzIDI5LjQ5MzQyODYsMCAxOSwwIEwxOSwwIFogTTE5LDM2LjY0Mjg1NzEgQzkuMjU2MzkyODYsMzYuNjQyODU3MSAxLjM1NzE0Mjg2LDI4Ljc0MzYwNzEgMS4zNTcxNDI4NiwxOSBDMS4zNTcxNDI4Niw5LjI1NjM5Mjg2IDkuMjU2MzkyODYsMS4zNTcxNDI4NiAxOSwxLjM1NzE0Mjg2IEMyOC43NDM2MDcxLDEuMzU3MTQyODYgMzYuNjQyODU3MSw5LjI1NjM5Mjg2IDM2LjY0Mjg1NzEsMTkgQzM2LjY0Mjg1NzEsMjguNzQzNjA3MSAyOC43NDM2MDcxLDM2LjY0Mjg1NzEgMTksMzYuNjQyODU3MSBMMTksMzYuNjQyODU3MSBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==','sameSite','No\x20expires_in\x20detected.','No\x20refresh_token\x20cookie\x20found!','addSpinnerStylesheet','access_token','ontimeout','endpoint','setAuthCookie','data:image/svg+xml,%3csvg\x20xmlns=%27http://www.w3.org/2000/svg%27\x20fill=%27none%27\x20viewBox=%270\x200\x2016\x2016%27%3e%3cpath\x20stroke=%27white%27\x20stroke-linecap=%27round%27\x20stroke-linejoin=%27round%27\x20stroke-width=%272%27\x20d=%27M4\x208h8%27/%3e%3c/svg%3e','signInWithOpenIDConnect','refresh-token','keypress','omit','cancelable','neq.','old','mousedown','/object/move','background','option\x20encode\x20is\x20invalid','head','UPDATE','accessToken','redirectTo','numberOfEmptyDivForSpinner','disabled','confirmed_at','api','send','polyfill','placeholder','cs.','open','function','endPointURL','/verify','FetchError:\x20','copy','_matchReceive','remove','/user','option\x20domain\x20is\x20invalid','dismissed','call','adj.','length','updater','generateAndAddOverlayElement',';\x20SameSite=Strict','@supports\x20(','/authorize?','cookies','filter','?grant_type=id_token','joining','join','connected','on_conflict',';\x20z-index:\x20','authUrl','setAttributes','\x20*/','50%','splice','Prefer','session','No\x20token_type\x20detected.','replaceAll','\x22\x20id=','Failed','bucketId','10yvkBup','joined','1.0.0','stack','Closing','signal','section','contentDocument','addTextField','EventSource','cacheControl','_triggerChanError','setEndpointRealtime','lifetime','refreshTokenTimer','commit_timestamp','createSocket','currentScript','script','isPrototypeOf','object','topic','warn','Couldn\x27t\x20find\x20a\x20style\x20target.\x20This\x20probably\x20means\x20that\x20the\x20value\x20for\x20the\x20\x27insert\x27\x20parameter\x20is\x20invalid.','updateUser','_handleTokenChanged','createElement','generateEmptyDivElement','destroy','realtimeUrl','expires_at','response','data:image/svg+xml,%3csvg\x20viewBox=%270\x200\x2016\x2016%27\x20fill=%27white%27\x20xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle\x20cx=%278%27\x20cy=%278%27\x20r=%273%27/%3e%3c/svg%3e','3118168kZLSHQ','like','elem','round','single','OPTIONS','notEqual','utf-8','#000','You\x20need\x20to\x20pass\x20the\x20res\x20object\x20to\x20automatically\x20refresh\x20the\x20session!','enter-pressed','redirect','event','table','AppwriteException','websearch','data-webpack','lesser','.local','Your\x20data\x20has\x20been\x20submitted\x20to\x20our\x20server.\x20Only\x20those\x20with\x20admin\x20access\x20can\x20view\x20it','prototype','removed','.or','display:\x20block;\x20display:\x20flex;\x20justify-content:\x20space-around;\x20align-items:\x20center;\x20text-align:\x20right;\x20border-top:\x201px\x20solid\x20#EEE;\x20margin-top:\x2010px;\x20','verifyOTP','?redirect_to=','sl.','project','Body\x20not\x20allowed\x20for\x20GET\x20or\x20HEAD\x20requests','Already\x20Submitted','throwOnError','a_session_','users','_sendHeartbeat','refreshSession','setOptions','version','shouldCreateUser','functionsUrl','.limit','spinnerIDName','\x22\x20style=\x22display:\x20block\x20!important;\x20position:\x20absolute;\x20top:\x200;\x20left:\x200;\x20overflow:\x20auto;\x20opacity:\x20','_initSupabaseAuthClient','@media\x20','createBackground','int8range','phx_reply','CHUNK_SIZE','Question','visibilityState',';\x20Secure','Accept','configurable','channels','Forms','1.0.34','JSON\x20parse\x20error:\x20','lex','4180044ZFEcWg','websocket','/object/sign/','overlayIDName','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPldhcm5pbmcgSWNvbjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJXYXJuaW5nLUljb24iIGZpbGw9IiNGRjlEMDAiPgogICAgICAgICAgICA8ZyBpZD0iNzkxLXdhcm5pbmdAMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAyLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzkxLXdhcm5pbmdfeDQwXzJ4LnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zNy44MjM1NzE0LDMzLjI3MTAzNTcgTDM3LjgzMzA3MTQsMzMuMjY1NjA3MSBMMjAuMTY5MTc4NiwwLjY1MjEwNzE0MyBMMjAuMTU3NjQyOSwwLjY1ODg5Mjg1NyBDMTkuOTIwMTQyOSwwLjI2NiAxOS40OTMzMjE0LDAgMTksMCBDMTguNTA3MzU3MSwwIDE4LjA3OTg1NzEsMC4yNjYgMTcuODQxNjc4NiwwLjY1ODg5Mjg1NyBMMTcuODMwMTQyOSwwLjY1MjEwNzE0MyBMMC4xNjY5Mjg1NzEsMzMuMjY1NjA3MSBMMC4xNzcxMDcxNDMsMzMuMjcxMDM1NyBDMC4wNjc4NTcxNDI5LDMzLjQ2NzE0MjkgMCwzMy42ODgzNTcxIDAsMzMuOTI4NTcxNCBDMCwzNC42Nzc3MTQzIDAuNjA4LDM1LjI4NTcxNDMgMS4zNTcxNDI4NiwzNS4yODU3MTQzIEwzNi42NDI4NTcxLDM1LjI4NTcxNDMgQzM3LjM5MiwzNS4yODU3MTQzIDM4LDM0LjY3NzcxNDMgMzgsMzMuOTI4NTcxNCBDMzgsMzMuNjg4MzU3MSAzNy45MzIxNDI5LDMzLjQ2NzE0MjkgMzcuODIzNTcxNCwzMy4yNzEwMzU3IEwzNy44MjM1NzE0LDMzLjI3MTAzNTcgWiBNMzUuMjg1NzE0MywzMy45Mjg1NzE0IEwzNC42MDcxNDI5LDMzLjkyODU3MTQgTDMuMzkyODU3MTQsMzMuOTI4NTcxNCBMMi43MTQyODU3MSwzMy45Mjg1NzE0IEwxLjM1NzE0Mjg2LDMzLjkyODU3MTQgTDE5LDEuMzQyODkyODYgTDM2LjY0Mjg1NzEsMzMuOTI4NTcxNCBMMzUuMjg1NzE0MywzMy45Mjg1NzE0IEwzNS4yODU3MTQzLDMzLjkyODU3MTQgWiBNMTYuMjg1NzE0MywxMy41NzE0Mjg2IEwxNy42NDI4NTcxLDIzLjA3MTQyODYgQzE3LjY0Mjg1NzEsMjMuODIwNTcxNCAxOC4yNTA4NTcxLDI0LjQyODU3MTQgMTksMjQuNDI4NTcxNCBDMTkuNzQ5MTQyOSwyNC40Mjg1NzE0IDIwLjM1NzE0MjksMjMuODIwNTcxNCAyMC4zNTcxNDI5LDIzLjA3MTQyODYgTDIxLjcxNDI4NTcsMTMuNTcxNDI4NiBDMjEuNzE0Mjg1NywxMi44MjIyODU3IDIxLjEwNjI4NTcsMTIuMjE0Mjg1NyAyMC4zNTcxNDI5LDEyLjIxNDI4NTcgTDE3LjY0Mjg1NzEsMTIuMjE0Mjg1NyBDMTYuODkzNzE0MywxMi4yMTQyODU3IDE2LjI4NTcxNDMsMTIuODIyMjg1NyAxNi4yODU3MTQzLDEzLjU3MTQyODYgTDE2LjI4NTcxNDMsMTMuNTcxNDI4NiBaIE0xOSwyMy4wNzE0Mjg2IEwxNy42NDI4NTcxLDEzLjU3MTQyODYgTDIwLjM1NzE0MjksMTMuNTcxNDI4NiBMMTksMjMuMDcxNDI4NiBMMTksMjMuMDcxNDI4NiBaIE0xOSwyNS43ODU3MTQzIEMxNy41MDEwMzU3LDI1Ljc4NTcxNDMgMTYuMjg1NzE0MywyNy4wMDEwMzU3IDE2LjI4NTcxNDMsMjguNSBDMTYuMjg1NzE0MywyOS45OTg5NjQzIDE3LjUwMTAzNTcsMzEuMjE0Mjg1NyAxOSwzMS4yMTQyODU3IEMyMC40OTg5NjQzLDMxLjIxNDI4NTcgMjEuNzE0Mjg1NywyOS45OTg5NjQzIDIxLjcxNDI4NTcsMjguNSBDMjEuNzE0Mjg1NywyNy4wMDEwMzU3IDIwLjQ5ODk2NDMsMjUuNzg1NzE0MyAxOSwyNS43ODU3MTQzIEwxOSwyNS43ODU3MTQzIFogTTE5LDI5Ljg1NzE0MjkgQzE4LjI1MDg1NzEsMjkuODU3MTQyOSAxNy42NDI4NTcxLDI5LjI0OTE0MjkgMTcuNjQyODU3MSwyOC41IEMxNy42NDI4NTcxLDI3Ljc1MDg1NzEgMTguMjUwODU3MSwyNy4xNDI4NTcxIDE5LDI3LjE0Mjg1NzEgQzE5Ljc0OTE0MjksMjcuMTQyODU3MSAyMC4zNTcxNDI5LDI3Ljc1MDg1NzEgMjAuMzU3MTQyOSwyOC41IEMyMC4zNTcxNDI5LDI5LjI0OTE0MjkgMTkuNzQ5MTQyOSwyOS44NTcxNDI5IDE5LDI5Ljg1NzE0MjkgTDE5LDI5Ljg1NzE0MjkgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=','__proto__','channels[]','timer','level','Allow','position:\x20fixed;\x20top:\x200px;\x20left:\x200px;\x20width:\x20100%;\x20height:\x20100%;\x20z-index:\x2010000;\x20background-color:\x20rgba(0,\x200,\x200,\x200.1);\x20opacity:\x200;\x20transition:\x20opacity\x200.15s;\x20','reconnectAttempts','</label>\x0a\x20\x20<select\x20for=\x22','not.','closing','storage-js/1.7.3','parseValues','elems','bindings','conn','_realtime','Not\x20logged\x20in.','setAttribute','ilike','byIndex','get','[?&#]','resolve','includes','responseURL','localhost','tts:','ignore','user_token','Response','maxAge','generateLink','return','Automatic\x20publicPath\x20is\x20not\x20supported\x20in\x20this\x20browser','argument\x20val\x20is\x20invalid','_removeSession','offsetWidth','documentElement','TOKEN_REFRESHED','>\x0a\x20\x20<option\x20value=\x221\x22>1</option>\x0a\x20\x20<option\x20value=\x222\x22>2</option>\x0a\x20\x20<option\x20value=\x223\x22>3</option>\x0a\x20\x20</select>\x0a</div>','offset','user','int8','removeElements','_handleVisibilityChange','isArray','css','addQuery','delete','removeElement','\x22\x20style=\x22display:\x20block\x20!important;\x20position:\x20fixed;\x20top:\x200;\x20left:\x200;\x20overflow:\x20auto;\x20opacity:\x20','socket','dismiss','phx_error','_onConnOpen','2EnPqxR','src','setItem','keys','Aborted','GET','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjgwcHgiIGhlaWdodD0iODBweCIgdmlld0JveD0iMCAwIDgwIDgwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPkluZm9ybWF0aW9uIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iSW5mb3JtYXRpb24tSWNvbiIgZmlsbD0iIzAwODVGRiI+CiAgICAgICAgICAgIDxnIGlkPSI3MjQtaW5mb0AyeCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNi4wMDAwMDAsIDYuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9Il94MzdfMjQtaW5mb194NDBfMngucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTMzLjczNDA3MTQsMjUuNzA3NjQyOSBDMzQuNzE4ODU3MSwyNS43MDc2NDI5IDM1LjU3MTI4NTcsMjUuMzQzMzU3MSAzNi4yOTAxNDI5LDI0LjYxNzIxNDMgQzM3LjAwOSwyMy44OTEwNzE0IDM3LjM3MDg1NzEsMjMuMDA5NSAzNy4zNzA4NTcxLDIxLjk3NjE0MjkgQzM3LjM3MDg1NzEsMjAuOTQyNzg1NyAzNy4wMTM4NTcxLDIwLjA2IDM2LjI5OTg1NzEsMTkuMzI1MzU3MSBDMzUuNTg1ODU3MSwxOC41OTA3MTQzIDM0LjczMSwxOC4yMjUyMTQzIDMzLjczNDA3MTQsMTguMjI1MjE0MyBDMzIuNzM3MTQyOSwxOC4yMjUyMTQzIDMxLjg3ODY0MjksMTguNTkxOTI4NiAzMS4xNTg1NzE0LDE5LjMyNTM1NzEgQzMwLjQzODUsMjAuMDU4Nzg1NyAzMC4wNzkwNzE0LDIwLjk0Mjc4NTcgMzAuMDc5MDcxNCwyMS45NzYxNDI5IEMzMC4wNzkwNzE0LDIzLjAwOTUgMzAuNDM4NSwyMy44ODk4NTcxIDMxLjE1ODU3MTQsMjQuNjE3MjE0MyBDMzEuODc4NjQyOSwyNS4zNDQ1NzE0IDMyLjczNzE0MjksMjUuNzA3NjQyOSAzMy43MzQwNzE0LDI1LjcwNzY0MjkgTDMzLjczNDA3MTQsMjUuNzA3NjQyOSBaIE0zNCwwIEMxNS4yMjIyODU3LDAgMCwxNS4yMjIyODU3IDAsMzQgQzAsNTIuNzc3NzE0MyAxNS4yMjIyODU3LDY4IDM0LDY4IEM1Mi43Nzc3MTQzLDY4IDY4LDUyLjc3NzcxNDMgNjgsMzQgQzY4LDE1LjIyMjI4NTcgNTIuNzc3NzE0MywwIDM0LDAgTDM0LDAgWiBNMzQsNjUuNTcxNDI4NiBDMTYuNTY0MDcxNCw2NS41NzE0Mjg2IDIuNDI4NTcxNDMsNTEuNDM1OTI4NiAyLjQyODU3MTQzLDM0IEMyLjQyODU3MTQzLDE2LjU2NDA3MTQgMTYuNTY0MDcxNCwyLjQyODU3MTQzIDM0LDIuNDI4NTcxNDMgQzUxLjQzNTkyODYsMi40Mjg1NzE0MyA2NS41NzE0Mjg2LDE2LjU2NDA3MTQgNjUuNTcxNDI4NiwzNCBDNjUuNTcxNDI4Niw1MS40MzU5Mjg2IDUxLjQzNTkyODYsNjUuNTcxNDI4NiAzNCw2NS41NzE0Mjg2IEwzNCw2NS41NzE0Mjg2IFogTTM4LjMzMDE0MjksNDcuNzY3NTcxNCBDMzcuOTg2NSw0Ny42MDM2NDI5IDM3LjcyMDU3MTQsNDcuMzU1OTI4NiAzNy41MzcyMTQzLDQ3LjAyMzIxNDMgQzM3LjM1MjY0MjksNDYuNjkxNzE0MyAzNy4yNTkxNDI5LDQ2LjI4NzM1NzEgMzcuMjU5MTQyOSw0NS44MTAxNDI5IEwzNy4yNTkxNDI5LDI5LjYyMjUgTDM2Ljk4MjI4NTcsMjkuMzE2NSBMMjcuOTM3MDcxNCwyOS44NDcxNDI5IEwyNy45MzcwNzE0LDMxLjMzNTg1NzEgQzI4LjMwNjIxNDMsMzEuMzc1OTI4NiAyOC43MTU0Mjg2LDMxLjQ3MTg1NzEgMjkuMTY0NzE0MywzMS42MjEyMTQzIEMyOS42MTQsMzEuNzcwNTcxNCAyOS45NDkxNDI5LDMxLjkyNzIxNDMgMzAuMTcwMTQyOSwzMi4wODk5Mjg2IEMzMC40NjUyMTQzLDMyLjMwODUgMzAuNzExNzE0MywzMi41OTYyODU3IDMwLjkwODQyODYsMzIuOTU2OTI4NiBDMzEuMTA1MTQyOSwzMy4zMTc1NzE0IDMxLjIwMzUsMzMuNzM1Mjg1NyAzMS4yMDM1LDM0LjIxMDA3MTQgTDMxLjIwMzUsNDYuMDc2MDcxNCBDMzEuMjAzNSw0Ni41Nzg3ODU3IDMxLjEyNDU3MTQsNDYuOTgzMTQyOSAzMC45NjQyODU3LDQ3LjI4OTE0MjkgQzMwLjgwNCw0Ny41OTUxNDI5IDMwLjUyNzE0MjksNDcuODI5NSAzMC4xMzI1LDQ3Ljk5MjIxNDMgQzI5LjkxMDI4NTcsNDguMDg4MTQyOSAyOS42NDY3ODU3LDQ4LjE1NjE0MjkgMjkuMzM5NTcxNCw0OC4xOTYyMTQzIEMyOS4wMzExNDI5LDQ4LjIzNjI4NTcgMjguNzE3ODU3MSw0OC4yNzE1IDI4LjM5ODUsNDguMjk4MjE0MyBMMjguMzk4NSw0OS43ODU3MTQzIEw0MC4wNjUzNTcxLDQ5Ljc4NTcxNDMgTDQwLjA2NTM1NzEsNDguMjk3IEMzOS43NDQ3ODU3LDQ4LjI1NjkyODYgMzkuNDM2MzU3MSw0OC4xODg5Mjg2IDM5LjE0MTI4NTcsNDguMDkzIEMzOC44NDc0Mjg2LDQ3Ljk5ODI4NTcgMzguNTc3ODU3MSw0Ny44ODkgMzguMzMwMTQyOSw0Ny43Njc1NzE0IEwzOC4zMzAxNDI5LDQ3Ljc2NzU3MTQgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=','next','data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlRyYXNoIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iVHJhc2gtSWNvbiIgZmlsbD0iIzAwMDAwMCI+CiAgICAgICAgICAgIDxnIGlkPSI3MTEtdHJhc2hAMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYuMDAwMDAwLCAxLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzExLXRyYXNoX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC4xMTAyODU3MSw4LjE0MzUzNTcxIEM3LjczNjM5Mjg2LDguMTY1MjUgNy40NTA3MTQyOSw4LjQ4NzU3MTQzIDcuNDcyNDI4NTcsOC44NjIxNDI4NiBMOC44MjI3ODU3MSwzMy4yOTEzOTI5IEM4Ljg0NDUsMzMuNjY2NjQyOSA5LjE2NTQ2NDI5LDMzLjk1MjMyMTQgOS41NDAwMzU3MSwzMy45Mjk5Mjg2IEM5LjkxNDYwNzE0LDMzLjkwNzUzNTcgMTAuMTk5NjA3MSwzMy41ODY1NzE0IDEwLjE3Nzg5MjksMzMuMjExMzIxNCBMOC44Mjc1MzU3MSw4Ljc4MjA3MTQzIEM4LjgwNTE0Mjg2LDguNDA4MTc4NTcgOC40ODQxNzg1Nyw4LjEyMTgyMTQzIDguMTEwMjg1NzEsOC4xNDM1MzU3MSBMOC4xMTAyODU3MSw4LjE0MzUzNTcxIFogTTE0LjI1LDguMTQyODU3MTQgQzEzLjg3NTQyODYsOC4xNDI4NTcxNCAxMy41NzE0Mjg2LDguNDQ2ODU3MTQgMTMuNTcxNDI4Niw4LjgyMTQyODU3IEwxMy41NzE0Mjg2LDMzLjI1IEMxMy41NzE0Mjg2LDMzLjYyNTI1IDEzLjg3NTQyODYsMzMuOTI4NTcxNCAxNC4yNSwzMy45Mjg1NzE0IEMxNC42MjUyNSwzMy45Mjg1NzE0IDE0LjkyODU3MTQsMzMuNjI1MjUgMTQuOTI4NTcxNCwzMy4yNSBMMTQuOTI4NTcxNCw4LjgyMTQyODU3IEMxNC45Mjg1NzE0LDguNDQ2ODU3MTQgMTQuNjI1MjUsOC4xNDI4NTcxNCAxNC4yNSw4LjE0Mjg1NzE0IEwxNC4yNSw4LjE0Mjg1NzE0IFogTTI3LjgyMTQyODYsNC4wNzE0Mjg1NyBMMjAuMzU3MTQyOSw0LjA3MTQyODU3IEwyMC4zNTcxNDI5LDIuNzE0Mjg1NzEgQzIwLjM1NzE0MjksMS4yMTUzMjE0MyAxOS4xNDE4MjE0LDAgMTcuNjQyODU3MSwwIEwxMC44NTcxNDI5LDAgQzkuMzU4MTc4NTcsMCA4LjE0Mjg1NzE0LDEuMjE1MzIxNDMgOC4xNDI4NTcxNCwyLjcxNDI4NTcxIEw4LjE0Mjg1NzE0LDQuMDcxNDI4NTcgTDAuNjc4NTcxNDI5LDQuMDcxNDI4NTcgQzAuMzA0LDQuMDcxNDI4NTcgMCw0LjM3NTQyODU3IDAsNC43NSBDMCw1LjEyNTI1IDAuMzA0LDUuNDI4NTcxNDMgMC42Nzg1NzE0MjksNS40Mjg1NzE0MyBMMS4zNTcxNDI4Niw1LjQyODU3MTQzIEw0LjA3MTQyODU3LDM1LjI4NTcxNDMgQzQuMDcxNDI4NTcsMzYuNzg0Njc4NiA1LjI4Njc1LDM4IDYuNzg1NzE0MjksMzggTDIxLjcxNDI4NTcsMzggQzIzLjIxMzI1LDM4IDI0LjQyODU3MTQsMzYuNzg0Njc4NiAyNC40Mjg1NzE0LDM1LjI4NTcxNDMgTDI3LjE0Mjg1NzEsNS40Mjg1NzE0MyBMMjcuODIxNDI4Niw1LjQyODU3MTQzIEMyOC4xOTY2Nzg2LDUuNDI4NTcxNDMgMjguNSw1LjEyNTI1IDI4LjUsNC43NSBDMjguNSw0LjM3NTQyODU3IDI4LjE5NjY3ODYsNC4wNzE0Mjg1NyAyNy44MjE0Mjg2LDQuMDcxNDI4NTcgTDI3LjgyMTQyODYsNC4wNzE0Mjg1NyBaIE05LjUsMi43MTQyODU3MSBDOS41LDEuOTY1MTQyODYgMTAuMTA4LDEuMzU3MTQyODYgMTAuODU3MTQyOSwxLjM1NzE0Mjg2IEwxNy42NDI4NTcxLDEuMzU3MTQyODYgQzE4LjM5MiwxLjM1NzE0Mjg2IDE5LDEuOTY1MTQyODYgMTksMi43MTQyODU3MSBMMTksNC4wNzE0Mjg1NyBMOS41LDQuMDcxNDI4NTcgTDkuNSwyLjcxNDI4NTcxIEw5LjUsMi43MTQyODU3MSBaIE0yMy4wNzE0Mjg2LDM1LjI4NTcxNDMgQzIzLjA3MTQyODYsMzYuMDM0ODU3MSAyMi40NjM0Mjg2LDM2LjY0Mjg1NzEgMjEuNzE0Mjg1NywzNi42NDI4NTcxIEw2Ljc4NTcxNDI5LDM2LjY0Mjg1NzEgQzYuMDM2NTcxNDMsMzYuNjQyODU3MSA1LjQyODU3MTQzLDM2LjAzNDg1NzEgNS40Mjg1NzE0MywzNS4yODU3MTQzIEwyLjcxNDI4NTcxLDUuNDI4NTcxNDMgTDguMTQyODU3MTQsNS40Mjg1NzE0MyBMOS41LDUuNDI4NTcxNDMgTDE5LDUuNDI4NTcxNDMgTDIwLjM1NzE0MjksNS40Mjg1NzE0MyBMMjUuNzg1NzE0Myw1LjQyODU3MTQzIEwyMy4wNzE0Mjg2LDM1LjI4NTcxNDMgTDIzLjA3MTQyODYsMzUuMjg1NzE0MyBaIE0xOS42NzI0NjQzLDguODI0MTQyODYgTDE4LjMyMjc4NTcsMzMuMjEyNjc4NiBDMTguMzAxMDcxNCwzMy41ODcyNSAxOC41ODYwNzE0LDMzLjkwNzUzNTcgMTguOTU5OTY0MywzMy45Mjk5Mjg2IEMxOS4zMzM4NTcxLDMzLjk1MjMyMTQgMTkuNjU0ODIxNCwzMy42NjU5NjQzIDE5LjY3NzIxNDMsMzMuMjkyNzUgTDIxLjAyNzU3MTQsOC45MDM1MzU3MSBDMjEuMDQ5Mjg1Nyw4LjUyOTY0Mjg2IDIwLjc2MzYwNzEsOC4yMDg2Nzg1NyAyMC4zOTAzOTI5LDguMTg2Mjg1NzEgQzIwLjAxNTgyMTQsOC4xNjM4OTI4NiAxOS42OTQ4NTcxLDguNDQ5NTcxNDMgMTkuNjcyNDY0Myw4LjgyNDE0Mjg2IEwxOS42NzI0NjQzLDguODI0MTQyODYgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=','setSession','Content-Type','HTMLIFrameElement',';\x20Max-Age=','Headers','supabaseKey\x20is\x20required.','\x22\x20style=\x22display:\x20block\x20!important;\x20position:\x20fixed;\x20top:\x20','cssText','DOMException','receivedResp','payload','_removeEmptyFolders','aborted','No\x20current\x20session.','references','getAllResponseHeaders','keyCode','onerror','spinnerStylesheetURL','CLOSED','CONNECTING','date','numeric','isJoining','indexOf','representation','confirm','__global__','persistSession','_cancelRefEvent','substr','&redirect_to=','lax',';\x22>','_recoverSession','needQuotes','checkActivated','buttons','POST','<div></div>','redirect_to=',';\x20background:\x20','div','spinnerIcon','_getFinalPath','type','Results\x20contain\x200\x20rows','flatten','currentUser','AbortError','getUserById','toStringTag','SIGNED_IN','onopen','Request','expires_in','undefined','callback','getTimeout','removeEventListener','replyEventName','access-token','onOpen','Information','The\x20form\x20you\x20tried\x20to\x20access\x20does\x20not\x20exist','createBucket','isConnected','iterator','supabaseKey','abstime','request','Accept-Profile','959276GfdXdr','/functions/v1','name','rangeLt','X-Fallback-Cookies','</div>','_startAutoRefreshToken','127.0.0.1','tsrange','Icons','domAPI','appendChild','tries','/storage/v1','result','schema','timestamp','layer','An\x20error\x20occurred\x20on\x20token\x20verification.','add','_bodyArrayBuffer','onclose','has','xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx','sendMagicLinkEmail','style','keydown','endpointRealtime','innerText','readyState','content-type','formie','[object\x20Float32Array]','stateChangeEmitters',';\x20-webkit-transform:\x20translate(-50%);\x20-ms-transform:\x20translate(-50%);\x20transform:\x20translate(-50%);\x20z-index:\x209999;\x22>',';\x20Domain=','12XBzWwh','isLeaving','getPrototypeOf','/admin/users','tried\x20to\x20push\x20\x27','sourceMap','json','leaving','/object/copy','Cancel','Content-Profile','updateUserById','/bucket','onConnMessage','nullslast','csv','phrase','apply','phfts','nxl','noResolveJson','cookieName','receive','/*#\x20','setSpinnerStylesheetURL','default',';\x20HttpOnly','target','getPublicUrl','267777vWDZki','/bucket/','lastMessage',';\x20z-index:\x2050;\x20width:\x20100%;\x20height:\x20100%;\x22></div><div\x20id=\x22','toUpperCase','fromCharCode','setPrototypeOf','signIn','canPush','X-Appwrite-JWT','_schema','baseURI','/realtime?','trigger','text','nxl.','spinnerColor','addButton','option\x20maxAge\x20is\x20invalid','dismissIn','_notifyAllSubscribers','all','rejoinTimer','overflow','supabase.auth.token','classList','invoke','Network\x20request\x20failed','joinRef','lockScroll','firstChild','/*\x0a!\x20tailwindcss\x20v3.1.8\x20|\x20MIT\x20License\x20|\x20https://tailwindcss.com\x0a*/\x0a\x0a/*\x0a1.\x20Prevent\x20padding\x20and\x20border\x20from\x20affecting\x20element\x20width.\x20(https://github.com/mozdevs/cssremedy/issues/4)\x0a2.\x20Allow\x20adding\x20a\x20border\x20to\x20an\x20element\x20by\x20just\x20adding\x20a\x20border-width.\x20(https://github.com/tailwindcss/tailwindcss/pull/116)\x0a*/\x0a\x0a*,\x0a::before,\x0a::after\x20{\x0a\x20\x20box-sizing:\x20border-box;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20border-width:\x200;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-style:\x20solid;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-color:\x20#e5e7eb;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a::before,\x0a::after\x20{\x0a\x20\x20--tw-content:\x20\x27\x27;\x0a}\x0a\x0a/*\x0a1.\x20Use\x20a\x20consistent\x20sensible\x20line-height\x20in\x20all\x20browsers.\x0a2.\x20Prevent\x20adjustments\x20of\x20font\x20size\x20after\x20orientation\x20changes\x20in\x20iOS.\x0a3.\x20Use\x20a\x20more\x20readable\x20tab\x20size.\x0a4.\x20Use\x20the\x20user\x27s\x20configured\x20`sans`\x20font-family\x20by\x20default.\x0a*/\x0a\x0ahtml\x20{\x0a\x20\x20line-height:\x201.5;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20-webkit-text-size-adjust:\x20100%;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20-moz-tab-size:\x204;\x0a\x20\x20/*\x203\x20*/\x0a\x20\x20-o-tab-size:\x204;\x0a\x20\x20\x20\x20\x20tab-size:\x204;\x0a\x20\x20/*\x203\x20*/\x0a\x20\x20font-family:\x20ui-sans-serif,\x20system-ui,\x20-apple-system,\x20Segoe\x20UI,\x20Roboto,\x20Ubuntu,\x20Cantarell,\x20Noto\x20Sans,\x20sans-serif,\x20BlinkMacSystemFont,\x20\x22Segoe\x20UI\x22,\x20Roboto,\x20\x22Helvetica\x20Neue\x22,\x20Arial,\x20\x22Noto\x20Sans\x22,\x20sans-serif,\x20\x22Apple\x20Color\x20Emoji\x22,\x20\x22Segoe\x20UI\x20Emoji\x22,\x20\x22Segoe\x20UI\x20Symbol\x22,\x20\x22Noto\x20Color\x20Emoji\x22;\x0a\x20\x20/*\x204\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Remove\x20the\x20margin\x20in\x20all\x20browsers.\x0a2.\x20Inherit\x20line-height\x20from\x20`html`\x20so\x20users\x20can\x20set\x20them\x20as\x20a\x20class\x20directly\x20on\x20the\x20`html`\x20element.\x0a*/\x0a\x0abody\x20{\x0a\x20\x20margin:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20line-height:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Add\x20the\x20correct\x20height\x20in\x20Firefox.\x0a2.\x20Correct\x20the\x20inheritance\x20of\x20border\x20color\x20in\x20Firefox.\x20(https://bugzilla.mozilla.org/show_bug.cgi?id=190655)\x0a3.\x20Ensure\x20horizontal\x20rules\x20are\x20visible\x20by\x20default.\x0a*/\x0a\x0ahr\x20{\x0a\x20\x20height:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-top-width:\x201px;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20text\x20decoration\x20in\x20Chrome,\x20Edge,\x20and\x20Safari.\x0a*/\x0a\x0aabbr:where([title])\x20{\x0a\x20\x20-webkit-text-decoration:\x20underline\x20dotted;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20underline;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20-webkit-text-decoration:\x20underline\x20dotted\x20currentColor;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20underline\x20dotted\x20currentColor;\x0a}\x0a\x0a/*\x0aRemove\x20the\x20default\x20font\x20size\x20and\x20weight\x20for\x20headings.\x0a*/\x0a\x0ah1,\x0ah2,\x0ah3,\x0ah4,\x0ah5,\x0ah6\x20{\x0a\x20\x20font-size:\x20inherit;\x0a\x20\x20font-weight:\x20inherit;\x0a}\x0a\x0a/*\x0aReset\x20links\x20to\x20optimize\x20for\x20opt-in\x20styling\x20instead\x20of\x20opt-out.\x0a*/\x0a\x0aa\x20{\x0a\x20\x20color:\x20inherit;\x0a\x20\x20text-decoration:\x20inherit;\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20font\x20weight\x20in\x20Edge\x20and\x20Safari.\x0a*/\x0a\x0ab,\x0astrong\x20{\x0a\x20\x20font-weight:\x20bolder;\x0a}\x0a\x0a/*\x0a1.\x20Use\x20the\x20user\x27s\x20configured\x20`mono`\x20font\x20family\x20by\x20default.\x0a2.\x20Correct\x20the\x20odd\x20`em`\x20font\x20sizing\x20in\x20all\x20browsers.\x0a*/\x0a\x0acode,\x0akbd,\x0asamp,\x0apre\x20{\x0a\x20\x20font-family:\x20ui-monospace,\x20SFMono-Regular,\x20Menlo,\x20Monaco,\x20Consolas,\x20\x22Liberation\x20Mono\x22,\x20\x22Courier\x20New\x22,\x20monospace;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-size:\x201em;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20font\x20size\x20in\x20all\x20browsers.\x0a*/\x0a\x0asmall\x20{\x0a\x20\x20font-size:\x2080%;\x0a}\x0a\x0a/*\x0aPrevent\x20`sub`\x20and\x20`sup`\x20elements\x20from\x20affecting\x20the\x20line\x20height\x20in\x20all\x20browsers.\x0a*/\x0a\x0asub,\x0asup\x20{\x0a\x20\x20font-size:\x2075%;\x0a\x20\x20line-height:\x200;\x0a\x20\x20position:\x20relative;\x0a\x20\x20vertical-align:\x20baseline;\x0a}\x0a\x0asub\x20{\x0a\x20\x20bottom:\x20-0.25em;\x0a}\x0a\x0asup\x20{\x0a\x20\x20top:\x20-0.5em;\x0a}\x0a\x0a/*\x0a1.\x20Remove\x20text\x20indentation\x20from\x20table\x20contents\x20in\x20Chrome\x20and\x20Safari.\x20(https://bugs.chromium.org/p/chromium/issues/detail?id=999088,\x20https://bugs.webkit.org/show_bug.cgi?id=201297)\x0a2.\x20Correct\x20table\x20border\x20color\x20inheritance\x20in\x20all\x20Chrome\x20and\x20Safari.\x20(https://bugs.chromium.org/p/chromium/issues/detail?id=935729,\x20https://bugs.webkit.org/show_bug.cgi?id=195016)\x0a3.\x20Remove\x20gaps\x20between\x20table\x20borders\x20by\x20default.\x0a*/\x0a\x0atable\x20{\x0a\x20\x20text-indent:\x200;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20border-color:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20border-collapse:\x20collapse;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0a1.\x20Change\x20the\x20font\x20styles\x20in\x20all\x20browsers.\x0a2.\x20Remove\x20the\x20margin\x20in\x20Firefox\x20and\x20Safari.\x0a3.\x20Remove\x20default\x20padding\x20in\x20all\x20browsers.\x0a*/\x0a\x0abutton,\x0ainput,\x0aoptgroup,\x0aselect,\x0atextarea\x20{\x0a\x20\x20font-family:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-size:\x20100%;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font-weight:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20line-height:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20inherit;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20margin:\x200;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20padding:\x200;\x0a\x20\x20/*\x203\x20*/\x0a}\x0a\x0a/*\x0aRemove\x20the\x20inheritance\x20of\x20text\x20transform\x20in\x20Edge\x20and\x20Firefox.\x0a*/\x0a\x0abutton,\x0aselect\x20{\x0a\x20\x20text-transform:\x20none;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20inability\x20to\x20style\x20clickable\x20types\x20in\x20iOS\x20and\x20Safari.\x0a2.\x20Remove\x20default\x20button\x20styles.\x0a*/\x0a\x0abutton,\x0a[type=\x27button\x27],\x0a[type=\x27reset\x27],\x0a[type=\x27submit\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20button;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20background-color:\x20transparent;\x0a\x20\x20/*\x202\x20*/\x0a\x20\x20background-image:\x20none;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aUse\x20the\x20modern\x20Firefox\x20focus\x20style\x20for\x20all\x20focusable\x20elements.\x0a*/\x0a\x0a:-moz-focusring\x20{\x0a\x20\x20outline:\x20auto;\x0a}\x0a\x0a/*\x0aRemove\x20the\x20additional\x20`:invalid`\x20styles\x20in\x20Firefox.\x20(https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)\x0a*/\x0a\x0a:-moz-ui-invalid\x20{\x0a\x20\x20box-shadow:\x20none;\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20vertical\x20alignment\x20in\x20Chrome\x20and\x20Firefox.\x0a*/\x0a\x0aprogress\x20{\x0a\x20\x20vertical-align:\x20baseline;\x0a}\x0a\x0a/*\x0aCorrect\x20the\x20cursor\x20style\x20of\x20increment\x20and\x20decrement\x20buttons\x20in\x20Safari.\x0a*/\x0a\x0a::-webkit-inner-spin-button,\x0a::-webkit-outer-spin-button\x20{\x0a\x20\x20height:\x20auto;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20odd\x20appearance\x20in\x20Chrome\x20and\x20Safari.\x0a2.\x20Correct\x20the\x20outline\x20style\x20in\x20Safari.\x0a*/\x0a\x0a[type=\x27search\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20textfield;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20outline-offset:\x20-2px;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aRemove\x20the\x20inner\x20padding\x20in\x20Chrome\x20and\x20Safari\x20on\x20macOS.\x0a*/\x0a\x0a::-webkit-search-decoration\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a}\x0a\x0a/*\x0a1.\x20Correct\x20the\x20inability\x20to\x20style\x20clickable\x20types\x20in\x20iOS\x20and\x20Safari.\x0a2.\x20Change\x20font\x20properties\x20to\x20`inherit`\x20in\x20Safari.\x0a*/\x0a\x0a::-webkit-file-upload-button\x20{\x0a\x20\x20-webkit-appearance:\x20button;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20font:\x20inherit;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aAdd\x20the\x20correct\x20display\x20in\x20Chrome\x20and\x20Safari.\x0a*/\x0a\x0asummary\x20{\x0a\x20\x20display:\x20list-item;\x0a}\x0a\x0a/*\x0aRemoves\x20the\x20default\x20spacing\x20and\x20border\x20for\x20appropriate\x20elements.\x0a*/\x0a\x0ablockquote,\x0adl,\x0add,\x0ah1,\x0ah2,\x0ah3,\x0ah4,\x0ah5,\x0ah6,\x0ahr,\x0afigure,\x0ap,\x0apre\x20{\x0a\x20\x20margin:\x200;\x0a}\x0a\x0afieldset\x20{\x0a\x20\x20margin:\x200;\x0a\x20\x20padding:\x200;\x0a}\x0a\x0alegend\x20{\x0a\x20\x20padding:\x200;\x0a}\x0a\x0aol,\x0aul,\x0amenu\x20{\x0a\x20\x20list-style:\x20none;\x0a\x20\x20margin:\x200;\x0a\x20\x20padding:\x200;\x0a}\x0a\x0a/*\x0aPrevent\x20resizing\x20textareas\x20horizontally\x20by\x20default.\x0a*/\x0a\x0atextarea\x20{\x0a\x20\x20resize:\x20vertical;\x0a}\x0a\x0a/*\x0a1.\x20Reset\x20the\x20default\x20placeholder\x20opacity\x20in\x20Firefox.\x20(https://github.com/tailwindlabs/tailwindcss/issues/3300)\x0a2.\x20Set\x20the\x20default\x20placeholder\x20color\x20to\x20the\x20user\x27s\x20configured\x20gray\x20400\x20color.\x0a*/\x0a\x0ainput::-moz-placeholder,\x20textarea::-moz-placeholder\x20{\x0a\x20\x20opacity:\x201;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20#9ca3af;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0ainput::placeholder,\x0atextarea::placeholder\x20{\x0a\x20\x20opacity:\x201;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20color:\x20#9ca3af;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aSet\x20the\x20default\x20cursor\x20for\x20buttons.\x0a*/\x0a\x0abutton,\x0a[role=\x22button\x22]\x20{\x0a\x20\x20cursor:\x20pointer;\x0a}\x0a\x0a/*\x0aMake\x20sure\x20disabled\x20buttons\x20don\x27t\x20get\x20the\x20pointer\x20cursor.\x0a*/\x0a\x0a:disabled\x20{\x0a\x20\x20cursor:\x20default;\x0a}\x0a\x0a/*\x0a1.\x20Make\x20replaced\x20elements\x20`display:\x20block`\x20by\x20default.\x20(https://github.com/mozdevs/cssremedy/issues/14)\x0a2.\x20Add\x20`vertical-align:\x20middle`\x20to\x20align\x20replaced\x20elements\x20more\x20sensibly\x20by\x20default.\x20(https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)\x0a\x20\x20\x20This\x20can\x20trigger\x20a\x20poorly\x20considered\x20lint\x20error\x20in\x20some\x20tools\x20but\x20is\x20included\x20by\x20design.\x0a*/\x0a\x0aimg,\x0asvg,\x0avideo,\x0acanvas,\x0aaudio,\x0aiframe,\x0aembed,\x0aobject\x20{\x0a\x20\x20display:\x20block;\x0a\x20\x20/*\x201\x20*/\x0a\x20\x20vertical-align:\x20middle;\x0a\x20\x20/*\x202\x20*/\x0a}\x0a\x0a/*\x0aConstrain\x20images\x20and\x20videos\x20to\x20the\x20parent\x20width\x20and\x20preserve\x20their\x20intrinsic\x20aspect\x20ratio.\x20(https://github.com/mozdevs/cssremedy/issues/14)\x0a*/\x0a\x0aimg,\x0avideo\x20{\x0a\x20\x20max-width:\x20100%;\x0a\x20\x20height:\x20auto;\x0a}\x0a\x0a[type=\x27text\x27],[type=\x27email\x27],[type=\x27url\x27],[type=\x27password\x27],[type=\x27number\x27],[type=\x27date\x27],[type=\x27datetime-local\x27],[type=\x27month\x27],[type=\x27search\x27],[type=\x27tel\x27],[type=\x27time\x27],[type=\x27week\x27],[multiple],textarea,select\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20border-radius:\x200px;\x0a\x20\x20padding-top:\x200.5rem;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20padding-bottom:\x200.5rem;\x0a\x20\x20padding-left:\x200.75rem;\x0a\x20\x20font-size:\x201rem;\x0a\x20\x20line-height:\x201.5rem;\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a}\x0a\x0a[type=\x27text\x27]:focus,\x20[type=\x27email\x27]:focus,\x20[type=\x27url\x27]:focus,\x20[type=\x27password\x27]:focus,\x20[type=\x27number\x27]:focus,\x20[type=\x27date\x27]:focus,\x20[type=\x27datetime-local\x27]:focus,\x20[type=\x27month\x27]:focus,\x20[type=\x27search\x27]:focus,\x20[type=\x27tel\x27]:focus,\x20[type=\x27time\x27]:focus,\x20[type=\x27week\x27]:focus,\x20[multiple]:focus,\x20textarea:focus,\x20select:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x200px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(1px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a\x20\x20border-color:\x20#2563eb;\x0a}\x0a\x0ainput::-moz-placeholder,\x20textarea::-moz-placeholder\x20{\x0a\x20\x20color:\x20#6b7280;\x0a\x20\x20opacity:\x201;\x0a}\x0a\x0ainput::placeholder,textarea::placeholder\x20{\x0a\x20\x20color:\x20#6b7280;\x0a\x20\x20opacity:\x201;\x0a}\x0a\x0a::-webkit-datetime-edit-fields-wrapper\x20{\x0a\x20\x20padding:\x200;\x0a}\x0a\x0a::-webkit-date-and-time-value\x20{\x0a\x20\x20min-height:\x201.5em;\x0a}\x0a\x0a::-webkit-datetime-edit,::-webkit-datetime-edit-year-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute-field,::-webkit-datetime-edit-second-field,::-webkit-datetime-edit-millisecond-field,::-webkit-datetime-edit-meridiem-field\x20{\x0a\x20\x20padding-top:\x200;\x0a\x20\x20padding-bottom:\x200;\x0a}\x0a\x0aselect\x20{\x0a\x20\x20background-image:\x20url(','month','triggerEvent','nodeName','No\x20browser\x20detected.','httpOnly','fetch','gt.','getHeader','then','innerHTML','trim','locals','https://HOSTNAME/v1','appwrite:web:9.0.1',';\x20width:\x20100%;\x20height:\x20100%;\x22></div><div\x20id=\x22','signInWithPhone','overlayZIndex','sendMobileOTP','order',');\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked:hover,[type=\x27checkbox\x27]:checked:focus,[type=\x27radio\x27]:checked:hover,[type=\x27radio\x27]:checked:focus\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a}\x0a\x0a[type=\x27checkbox\x27]:indeterminate\x20{\x0a\x20\x20background-image:\x20url(','state','/rest/v1','forEach','some','bool','@layer','addTouchHandler','arraybuffer','longpollerTimeout','querySelector','stylesheetBaseURL','styleTagTransform','Authorization','stateChangeCallbacks','closed','responseType','spinnerZIndex','PUT','AAAA;;CAEC;;AAED;;;CAGC;;AAED;;;EAGE,sBAAsB;EACtB,MAAM;EACN,eAAe;EACf,MAAM;EACN,mBAAmB;EACnB,MAAM;EACN,qBAAqB;EACrB,MAAM;AACR;;AAEA;;EAEE,gBAAgB;AAClB;;AAEA;;;;;CAKC;;AAED;EACE,gBAAgB;EAChB,MAAM;EACN,8BAA8B;EAC9B,MAAM;EACN,gBAAgB;EAChB,MAAM;EACN,cAAc;KACX,WAAW;EACd,MAAM;EACN,wRAA4N;EAC5N,MAAM;AACR;;AAEA;;;CAGC;;AAED;EACE,SAAS;EACT,MAAM;EACN,oBAAoB;EACpB,MAAM;AACR;;AAEA;;;;CAIC;;AAED;EACE,SAAS;EACT,MAAM;EACN,cAAc;EACd,MAAM;EACN,qBAAqB;EACrB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,yCAAyC;UACjC,0BAAiC;UAAjC,sDAAiC;kBAAjC,8CAAiC;AAC3C;;AAEA;;CAEC;;AAED;;;;;;EAME,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;;CAEC;;AAED;EACE,cAAc;EACd,wBAAwB;AAC1B;;AAEA;;CAEC;;AAED;;EAEE,mBAAmB;AACrB;;AAEA;;;CAGC;;AAED;;;;EAIE,+GAA+G;EAC/G,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,cAAc;AAChB;;AAEA;;CAEC;;AAED;;EAEE,cAAc;EACd,cAAc;EACd,kBAAkB;EAClB,wBAAwB;AAC1B;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,WAAW;AACb;;AAEA;;;;CAIC;;AAED;EACE,cAAc;EACd,MAAM;EACN,qBAAqB;EACrB,MAAM;EACN,yBAAyB;EACzB,MAAM;AACR;;AAEA;;;;CAIC;;AAED;;;;;EAKE,oBAAoB;EACpB,MAAM;EACN,eAAe;EACf,MAAM;EACN,oBAAoB;EACpB,MAAM;EACN,oBAAoB;EACpB,MAAM;EACN,cAAc;EACd,MAAM;EACN,SAAS;EACT,MAAM;EACN,UAAU;EACV,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,oBAAoB;AACtB;;AAEA;;;CAGC;;AAED;;;;EAIE,0BAA0B;EAC1B,MAAM;EACN,6BAA6B;EAC7B,MAAM;EACN,sBAAsB;EACtB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,aAAa;AACf;;AAEA;;CAEC;;AAED;EACE,gBAAgB;AAClB;;AAEA;;CAEC;;AAED;EACE,wBAAwB;AAC1B;;AAEA;;CAEC;;AAED;;EAEE,YAAY;AACd;;AAEA;;;CAGC;;AAED;EACE,6BAA6B;EAC7B,MAAM;EACN,oBAAoB;EACpB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,wBAAwB;AAC1B;;AAEA;;;CAGC;;AAED;EACE,0BAA0B;EAC1B,MAAM;EACN,aAAa;EACb,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,kBAAkB;AACpB;;AAEA;;CAEC;;AAED;;;;;;;;;;;;;EAaE,SAAS;AACX;;AAEA;EACE,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,UAAU;AACZ;;AAEA;;;EAGE,gBAAgB;EAChB,SAAS;EACT,UAAU;AACZ;;AAEA;;CAEC;;AAED;EACE,gBAAgB;AAClB;;AAEA;;;CAGC;;AAED;EACE,UAAU;EACV,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;EAEE,UAAU;EACV,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,eAAe;AACjB;;AAEA;;CAEC;;AAED;EACE,eAAe;AACjB;;AAEA;;;;CAIC;;AAED;;;;;;;;EAQE,cAAc;EACd,MAAM;EACN,sBAAsB;EACtB,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,eAAe;EACf,YAAY;AACd;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,kBAAkB;EAClB,mBAAmB;EACnB,sBAAsB;EACtB,sBAAsB;EACtB,qBAAqB;EACrB,eAAe;EACf,mBAAmB;EACnB,8BAAsB;AACxB;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;EACjF,qBAAqB;AACvB;;AAEA;EACE,cAAc;EACd,UAAU;AACZ;;AAEA;EACE,cAAc;EACd,UAAU;AACZ;;AAEA;EACE,UAAU;AACZ;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,cAAc;EACd,iBAAiB;AACnB;;AAEA;EACE,yDAAmP;EACnP,wCAAwC;EACxC,4BAA4B;EAC5B,4BAA4B;EAC5B,qBAAqB;EACrB,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;AACnC;;AAEA;EACE,sBAAyB;EAAzB,yBAAyB;EACzB,wBAA4B;EAA5B,4BAA4B;EAC5B,yBAAwB;EAAxB,0BAAwB;EACxB,0BAAwB;EAAxB,wBAAwB;EACxB,sBAAsB;EACtB,iCAAiC;KAC9B,qBAAmB;UACd,2BAAyB;AACnC;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,UAAU;EACV,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;EACjC,qBAAqB;EACrB,sBAAsB;EACtB,6BAA6B;EAC7B,yBAAyB;KACtB,sBAAsB;UACjB,iBAAiB;EACzB,cAAc;EACd,YAAY;EACZ,WAAW;EACX,cAAc;EACd,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,8BAAsB;AACxB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;AACnF;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;EAC9B,0BAA0B;EAC1B,2BAA2B;EAC3B,4BAA4B;AAC9B;;AAEA;EACE,yDAAsQ;AACxQ;;AAEA;EACE,yDAAoK;AACtK;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;AAChC;;AAEA;EACE,yDAAuO;EACvO,yBAAyB;EACzB,8BAA8B;EAC9B,0BAA0B;EAC1B,2BAA2B;EAC3B,4BAA4B;AAC9B;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;AAChC;;AAEA;EACE,iFAAiB;EAAjB,mBAAiB;EACjB,qBAAqB;EACrB,eAAe;EACf,gBAAgB;EAChB,UAAU;EACV,kBAAgB;EAChB,oBAAoB;AACtB;;AAEA;EACE,6BAA6B;EAC7B,0CAA0C;AAC5C;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,UAAU;EACV,WAAW;EACX,UAAU;EACV,YAAY;EACZ,gBAAgB;EAChB,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;AACjB;;AAEA;EACE,4BAA4B;AAC9B;;AAEA;EACE,cAAc;AAChB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,cAAc;AAChB;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,cAAc;AAChB;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,YAAY;AACd;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,gDAAgD;AAClD;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,uBAAuB;AACzB;;AAEA;EACE,uBAAuB;EACvB,uDAA2D;EAA3D,2DAA2D;EAC3D,oDAAoD;AACtD;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,oCAAoC;EACpC,mCAAmC;AACrC;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,wBAAwB;AAC1B;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,0DAAwD;AAC1D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,yDAAuD;AACzD;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,4EAA4E;AAC9E;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,qCAAmC;EACnC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,sCAAoC;EACpC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,sCAAoC;EACpC,mEAAmE;AACrE;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,oBAAoB;EACpB,qBAAqB;AACvB;;AAEA;EACE,iBAAiB;EACjB,oBAAoB;AACtB;;AAEA;EACE,oBAAoB;EACpB,uBAAuB;AACzB;;AAEA;EACE,iBAAiB;EACjB,oBAAoB;AACtB;;AAEA;EACE,qBAAqB;EACrB,sBAAsB;AACxB;;AAEA;EACE,oBAAoB;EACpB,uBAAuB;AACzB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,qBAAqB;EACrB,sBAAsB;AACxB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,iBAAiB;EACjB,iBAAiB;AACnB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,oBAAoB;EACpB,iDAA+C;AACjD;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,mFAA+E;EAC/E,mGAAmG;EACnG,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,4CAA0C;EAC1C,uDAAuD;EACvD,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,8EAA0E;EAC1E,8FAA8F;EAC9F,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,yCAAyC;EACzC,cAAc;EACd,uBAAuB;EACvB,cAAc;EACd,YAAY;EACZ,qBAAqB;EACrB,qBAAqB;AACvB;;AAEA;EACE,YAAY;EACZ,qBAAqB;EACrB,QAAQ;EACR,0CAA0C;EAC1C,eAAe;EACf,kBAAkB;EAClB,UAAU;EACV,gBAAgB;EAChB,MAAM;EACN,oBAAoB;EACpB,OAAO;EACP,kBAAkB;EAClB,8BAA8B;EAC9B,iBAAiB;EACjB,oCAAoC;EACpC,gBAAgB;EAChB,yDAAyD;AAC3D;;AAEA,8BAA8B;;AAE9B;EACE,cAAc;AAChB;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,kBAAkB;EAClB,mBAAmB;EACnB,sBAAsB;EACtB,sBAAsB;EACtB,qBAAqB;EACrB,eAAe;EACf,mBAAmB;EACnB,8BAAsB;AACxB;;CAEC;EACC,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;EACjF,qBAAqB;AACvB;;AAEA;EACE,yDAAmP;EACnP,wCAAwC;EACxC,4BAA4B;EAC5B,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;EACjC,WAAW;EACX,kBAAkB;EAClB,cAAc;EACd,WAAW;EACX,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,iBAAiB;EACjB,mBAAmB;EACnB,sBAAsB;EACtB,2DAAyD;EACzD,kBAAkB;EAClB,2DAAyD;EACzD,4BAA4B;EAC5B,4BAA4B;EAC5B,qBAAqB;EACrB,sBAAsB;EACtB,qBAAqB;EACrB,wBAAwB;EACxB,eAAe;EACf,mBAAmB;EACnB,gBAAgB;EAChB,oBAAoB;EACpB,+CAA6C;EAC7C,wKAAwK;EACxK,wJAAwJ;EACxJ,gNAAgN;EAChN,0BAA0B;EAC1B,wDAAwD;AAC1D;;AAEA;EACE,sBAAsB;EACtB,yDAAuD;EACvD,kBAAkB;EAClB,2DAAyD;EACzD,oBAAoB;EACpB,+CAA6C;EAC7C,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA,2DAA2D;;AAE3D;EACE,kBAAkB;EAClB,MAAM;EACN,WAAW;EACX,eAAe;EACf,iBAAiB;AACnB;;AAEA;EACE;IACE,iBAAiB;EACnB;;EAEA;IACE,eAAe;EACjB;AACF;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,oBAAoB;EACpB,gDAA8C;AAChD;;AAEA;EACE,oBAAoB;EACpB,gDAA8C;AAChD;;AAEA;EACE,kBAAkB;EAClB,yDAAuD;AACzD;;AAEA;EACE,kBAAkB;EAClB,0DAAwD;AAC1D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,0DAAwD;AAC1D;;AAEA;EACE,sBAAsB;EACtB,0DAAwD;AAC1D;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA;EACE,2GAA2G;EAC3G,yGAAyG;EACzG,kFAA4F;EAA5F,kFAA4F;EAA5F,oGAA4F;AAC9F;;AAEA;EACE,oBAAoB;EACpB,2DAAyD;AAC3D;;AAEA;EACE,oBAAoB;EACpB,2DAAyD;AAC3D;;AAEA;EACE,2BAA2B;AAC7B;;AAEA;EACE;IACE,4BAA4B;EAC9B;;EAEA;IACE,eAAe;EACjB;;EAEA;IACE,kBAAkB;IAClB,mBAAmB;EACrB;;EAEA;IACE,oBAAoB;IACpB,qBAAqB;EACvB;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;;EAEA;IACE,gBAAgB;EAClB;AACF;;AAEA;EACE;IACE,iBAAiB;EACnB;;EAEA;IACE,qBAAqB;EACvB;;EAEA;IACE,gBAAgB;EAClB;;EAEA;IACE,oBAAoB;EACtB;;EAEA;IACE,gDAAgD;EAClD;;EAEA;IACE,sBAAsB;EACxB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,uBAAuB;IACvB,wDAA4D;IAA5D,4DAA4D;IAC5D,qDAAqD;EACvD;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,iBAAiB;IACjB,oBAAoB;EACtB;;EAEA;IACE,gBAAgB;EAClB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;;EAEA;IACE,eAAe;IACf,cAAc;EAChB;AACF;;AAEA;EACE;IACE,iBAAiB;IACjB,kBAAkB;EACpB;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;IACnB,sBAAsB;EACxB;;EAEA;IACE,kBAAkB;EACpB;;EAEA;IACE,kBAAkB;EACpB;;EAEA;IACE,sBAAsB;EACxB;;EAEA;IACE,qBAAqB;EACvB;;EAEA;IACE,iBAAiB;EACnB;;EAEA;IACE,UAAU;EACZ;;EAEA;IACE,gCAAgC;IAChC,iCAAiC;EACnC;;EAEA;IACE,oBAAoB;IACpB,uBAAuB;EACzB;;EAEA;IACE,iBAAiB;IACjB,oBAAoB;EACtB;;EAEA;IACE,oBAAoB;IACpB,qBAAqB;EACvB;;EAEA;IACE,iBAAiB;IACjB,kBAAkB;EACpB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;AACF','_listenForMultiTabEvents','sent','true','ChunkLoadError','setLocale','error_description','end','globalThis','done','toLowerCase','_onConnError','plain','_listenForAuthEvents','blob','argument\x20name\x20is\x20invalid','Alert:\x20','append','handleEvent','record','Bearer\x20','arrayBuffer','[object\x20Int8Array]','credentials','tstzrange','[object\x20Int32Array]','getItem','makeRef','3600','supports','enumerable','link','createTextNode','_onConnClose','An\x20error\x20occurred\x20on\x20sign\x20up.','gte.','provider=','alert','skipTypes','mode','public','logger','_show','_appendParams','hide','>\x0a\x20\x20<option\x20value=\x22A\x22>A</option>\x0a\x20\x20<option\x20value=\x22B\x22>B</option>\x0a\x20\x20<option\x20value=\x22C\x22>C</option>\x0a\x20\x20<option\x20value=\x22D\x22>D</option>\x0a\x20\x20<option\x20value=\x22E\x22>E</option>\x0a\x20\x20<option\x20value=\x22F\x22>F</option>\x0a\x20\x20<option\x20value=\x22G\x22>G</option>\x0a\x20\x20<option\x20value=\x22H\x22>H</option>\x0a\x20\x20<option\x20value=\x22I\x22>I</option>\x0a\x20\x20</select>\x0a</div>','Invalid\x20session\x20data.','getElementsByTagName','Success','Closed','click','refresh_token','touchstart','/token?grant_type=refresh_token','headers','slice',';\x20SameSite=None','rejoinUntilConnected','translateY(40px)','upload','insert','ws://','auth','catch','serializer','/object/public/','create','setTimeout','sources','5TMJjUp','return\x20this','notlogged','getSubscriptions','cd.','unref','now',',count=','signInWithEmail','X-Appwrite-Project','from','scopes','close\x20','getElementById','set','subscriptions','_handleEmailSignIn','option\x20sameSite\x20is\x20invalid','list','overlayOpacity','https://','old_record','parentNode','overlay',');\x0a\x20\x20background-position:\x20right\x200.5rem\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a\x20\x20background-size:\x201.5em\x201.5em;\x0a\x20\x20padding-right:\x202.5rem;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a}\x0a\x0a[multiple]\x20{\x0a\x20\x20background-image:\x20none;\x0a\x20\x20background-image:\x20initial;\x0a\x20\x20background-position:\x200\x200;\x0a\x20\x20background-position:\x20initial;\x0a\x20\x20background-repeat:\x20repeat;\x0a\x20\x20background-repeat:\x20initial;\x0a\x20\x20background-size:\x20auto\x20auto;\x0a\x20\x20background-size:\x20initial;\x0a\x20\x20padding-right:\x200.75rem;\x0a\x20\x20-webkit-print-color-adjust:\x20unset;\x0a\x20\x20\x20\x20\x20color-adjust:\x20initial;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20inherit;\x0a}\x0a\x0a[type=\x27checkbox\x27],[type=\x27radio\x27]\x20{\x0a\x20\x20-webkit-appearance:\x20none;\x0a\x20\x20\x20\x20\x20-moz-appearance:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20appearance:\x20none;\x0a\x20\x20padding:\x200;\x0a\x20\x20-webkit-print-color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20color-adjust:\x20exact;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20print-color-adjust:\x20exact;\x0a\x20\x20display:\x20inline-block;\x0a\x20\x20vertical-align:\x20middle;\x0a\x20\x20background-origin:\x20border-box;\x0a\x20\x20-webkit-user-select:\x20none;\x0a\x20\x20\x20\x20\x20-moz-user-select:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20user-select:\x20none;\x0a\x20\x20flex-shrink:\x200;\x0a\x20\x20height:\x201rem;\x0a\x20\x20width:\x201rem;\x0a\x20\x20color:\x20#2563eb;\x0a\x20\x20background-color:\x20#fff;\x0a\x20\x20border-color:\x20#6b7280;\x0a\x20\x20border-width:\x201px;\x0a\x20\x20--tw-shadow:\x200\x200\x20rgba(0,0,0,0);\x0a}\x0a\x0a[type=\x27checkbox\x27]\x20{\x0a\x20\x20border-radius:\x200px;\x0a}\x0a\x0a[type=\x27radio\x27]\x20{\x0a\x20\x20border-radius:\x20100%;\x0a}\x0a\x0a[type=\x27checkbox\x27]:focus,[type=\x27radio\x27]:focus\x20{\x0a\x20\x20outline:\x202px\x20solid\x20transparent;\x0a\x20\x20outline-offset:\x202px;\x0a\x20\x20--tw-ring-inset:\x20var(--tw-empty,/*!*/\x20/*!*/);\x0a\x20\x20--tw-ring-offset-width:\x202px;\x0a\x20\x20--tw-ring-offset-color:\x20#fff;\x0a\x20\x20--tw-ring-color:\x20#2563eb;\x0a\x20\x20--tw-ring-offset-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20var(--tw-ring-offset-width)\x20var(--tw-ring-offset-color);\x0a\x20\x20--tw-ring-shadow:\x20var(--tw-ring-inset)\x200\x200\x200\x20calc(2px\x20+\x20var(--tw-ring-offset-width))\x20var(--tw-ring-color);\x0a\x20\x20box-shadow:\x20var(--tw-ring-offset-shadow),\x20var(--tw-ring-shadow),\x20var(--tw-shadow);\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked,[type=\x27radio\x27]:checked\x20{\x0a\x20\x20border-color:\x20transparent;\x0a\x20\x20background-color:\x20currentColor;\x0a\x20\x20background-size:\x20100%\x20100%;\x0a\x20\x20background-position:\x20center;\x0a\x20\x20background-repeat:\x20no-repeat;\x0a}\x0a\x0a[type=\x27checkbox\x27]:checked\x20{\x0a\x20\x20background-image:\x20url(','updatePayload','cookieFallback','data:image/svg+xml,%3csvg\x20xmlns=%27http://www.w3.org/2000/svg%27\x20fill=%27none%27\x20viewBox=%270\x200\x2020\x2020%27%3e%3cpath\x20stroke=%27%236b7280%27\x20stroke-linecap=%27round%27\x20stroke-linejoin=%27round%27\x20stroke-width=%271.5%27\x20d=%27M6\x208l4\x204\x204-4%27/%3e%3c/svg%3e','containedBy','split','location','/admin/generate_link','empty','data','rangeGte','/*#\x20sourceURL=','createUser','__magic__','insertAdjacentHTML','params','updateBucket','application/json','upsert','input','opacity','same-origin','CLIENT','pop','concat','SUBSCRIPTION_ERROR','cache-control','int4range','charset','display:\x20block;\x20text-align:\x20center;\x20font-family:\x20Helvetica,\x20Arial;\x20font-size:\x2017px;\x20font-weight:\x20bold;\x20color:\x20#000;\x20cursor:\x20default;\x20padding:\x202px\x2020px;\x20','columns','sr.','domain','loader','timestamptz','reconnectTimer','toUTCString','offsetY','timetz','hasOwnProperty','currentSession','return=','CLOSING','off',')\x20{','afterbegin','searchParams','timeoutTimer','_getAuthHeaders','onreadystatechange','_cancelTimeout','provider_token','sms','sendBuffer','/object/list/','rpc','find','contentType','createPopup','activated','greater','INSERT','realtime:','load','download'];a3_0x4566=function(){return _0x2f0bb4;};return a3_0x4566();}function a3_0x4871(_0x170b45,_0x58a4cd){var _0x45664f=a3_0x4566();return a3_0x4871=function(_0x4871e9,_0x4a58b3){_0x4871e9=_0x4871e9-0x172;var _0x2322e3=_0x45664f[_0x4871e9];return _0x2322e3;},a3_0x4871(_0x170b45,_0x58a4cd);}(function(_0x2071af,_0x238a53){var _0x3ac4e5=a3_0x4871,_0x4f109d=_0x2071af();while(!![]){try{var _0x1ff4a9=parseInt(_0x3ac4e5(0x1e8))/0x1*(parseInt(_0x3ac4e5(0x44a))/0x2)+parseInt(_0x3ac4e5(0x492))/0x3+-parseInt(_0x3ac4e5(0x239))/0x4*(parseInt(_0x3ac4e5(0x305))/0x5)+parseInt(_0x3ac4e5(0x25d))/0x6*(-parseInt(_0x3ac4e5(0x37f))/0x7)+-parseInt(_0x3ac4e5(0x172))/0x8+-parseInt(_0x3ac4e5(0x27a))/0x9*(parseInt(_0x3ac4e5(0x524))/0xa)+parseInt(_0x3ac4e5(0x1ac))/0xb;if(_0x1ff4a9===_0x238a53)break;else _0x4f109d['push'](_0x4f109d['shift']());}catch(_0xa7533){_0x4f109d['push'](_0x4f109d['shift']());}}}(a3_0x4566,0x3aca2),((()=>{var _0x5cc488=a3_0x4871,_0x1755d1,_0x32c2d8,_0x1e8113,_0xbbebe4,_0x4ae36f={0x62:function(_0x1dfb3d,_0x3e12c4){var _0x408603=a3_0x4871,_0x2a413b=_0x408603(0x229)!=typeof self?self:this,_0x9fd398=(function(){var _0x4f2245=_0x408603;function _0x5587db(){var _0x47619d=a3_0x4871;this[_0x47619d(0x29f)]=!0x1,this['DOMException']=_0x2a413b['DOMException'];}return _0x5587db[_0x4f2245(0x186)]=_0x2a413b,new _0x5587db();}());!function(_0x3dc8d6){!function(_0x36339a){var _0x23bdd0=a3_0x4871,_0xf64781='URLSearchParams'in _0x3dc8d6,_0x31b5b6='Symbol'in _0x3dc8d6&&'iterator'in Symbol,_0xf57489='FileReader'in _0x3dc8d6&&_0x23bdd0(0x3df)in _0x3dc8d6&&(function(){try{return new Blob(),!0x0;}catch(_0x548b7c){return!0x1;}}()),_0x56ab4c=_0x23bdd0(0x446)in _0x3dc8d6,_0x1ddc0f=_0x23bdd0(0x41d)in _0x3dc8d6;if(_0x1ddc0f)var _0x45288b=[_0x23bdd0(0x2d6),_0x23bdd0(0x35f),'[object\x20Uint8ClampedArray]','[object\x20Int16Array]','[object\x20Uint16Array]',_0x23bdd0(0x2d9),'[object\x20Uint32Array]',_0x23bdd0(0x259),'[object\x20Float64Array]'],_0x4a96a6=ArrayBuffer['isView']||function(_0x5edc5e){var _0x22aa38=_0x23bdd0;return _0x5edc5e&&_0x45288b[_0x22aa38(0x209)](Object[_0x22aa38(0x186)][_0x22aa38(0x3b6)][_0x22aa38(0x508)](_0x5edc5e))>-0x1;};function _0xcdc58e(_0x4ab925){var _0x509a8c=_0x23bdd0;if(_0x509a8c(0x383)!=typeof _0x4ab925&&(_0x4ab925=String(_0x4ab925)),/[^a-z0-9\-#$%&'*+.^_`|~]/i[_0x509a8c(0x3bd)](_0x4ab925))throw new TypeError(_0x509a8c(0x3f5));return _0x4ab925['toLowerCase']();}function _0x5d00c1(_0x28b178){var _0x457809=_0x23bdd0;return _0x457809(0x383)!=typeof _0x28b178&&(_0x28b178=String(_0x28b178)),_0x28b178;}function _0x2f5522(_0x3a723f){var _0x14c70a=_0x23bdd0,_0x54cc4d={'next':function(){var _0x11d8b3=_0x3a723f['shift']();return{'done':void 0x0===_0x11d8b3,'value':_0x11d8b3};}};return _0x31b5b6&&(_0x54cc4d[Symbol[_0x14c70a(0x234)]]=function(){return _0x54cc4d;}),_0x54cc4d;}function _0x57d2e0(_0x284e6b){var _0x46b634=_0x23bdd0;this['map']={},_0x284e6b instanceof _0x57d2e0?_0x284e6b[_0x46b634(0x2b0)](function(_0x498cdf,_0x2ef11e){var _0x18a997=_0x46b634;this[_0x18a997(0x2d1)](_0x2ef11e,_0x498cdf);},this):Array[_0x46b634(0x1de)](_0x284e6b)?_0x284e6b[_0x46b634(0x2b0)](function(_0x381feb){this['append'](_0x381feb[0x0],_0x381feb[0x1]);},this):_0x284e6b&&Object[_0x46b634(0x3dd)](_0x284e6b)[_0x46b634(0x2b0)](function(_0x559c87){var _0x3e00e4=_0x46b634;this[_0x3e00e4(0x2d1)](_0x559c87,_0x284e6b[_0x559c87]);},this);}function _0x46cb92(_0x1c6e00){var _0x1de6a4=_0x23bdd0;if(_0x1c6e00[_0x1de6a4(0x467)])return Promise['reject'](new TypeError(_0x1de6a4(0x4d3)));_0x1c6e00[_0x1de6a4(0x467)]=!0x0;}function _0xead0a3(_0x4dc679){return new Promise(function(_0x20add4,_0x7a4b76){var _0x3d8f5b=a3_0x4871;_0x4dc679[_0x3d8f5b(0x43d)]=function(){_0x20add4(_0x4dc679['result']);},_0x4dc679[_0x3d8f5b(0x202)]=function(){var _0x436310=_0x3d8f5b;_0x7a4b76(_0x4dc679[_0x436310(0x428)]);};});}function _0x3b4557(_0x1f1d64){var _0x6f9162=_0x23bdd0,_0x26b6a5=new FileReader(),_0x472d63=_0xead0a3(_0x26b6a5);return _0x26b6a5[_0x6f9162(0x387)](_0x1f1d64),_0x472d63;}function _0x14c66a(_0x10e5f9){var _0x5262e8=_0x23bdd0;if(_0x10e5f9[_0x5262e8(0x2f7)])return _0x10e5f9[_0x5262e8(0x2f7)](0x0);var _0xac8fb6=new Uint8Array(_0x10e5f9['byteLength']);return _0xac8fb6[_0x5262e8(0x313)](new Uint8Array(_0x10e5f9)),_0xac8fb6[_0x5262e8(0x46d)];}function _0x5604f7(){var _0x43f986=_0x23bdd0;return this[_0x43f986(0x467)]=!0x1,this[_0x43f986(0x3ff)]=function(_0x54abdf){var _0x5b82bc=_0x43f986,_0x28139f;this[_0x5b82bc(0x3ab)]=_0x54abdf,_0x54abdf?_0x5b82bc(0x383)==typeof _0x54abdf?this[_0x5b82bc(0x3d8)]=_0x54abdf:_0xf57489&&Blob[_0x5b82bc(0x186)][_0x5b82bc(0x537)](_0x54abdf)?this['_bodyBlob']=_0x54abdf:_0x56ab4c&&FormData['prototype'][_0x5b82bc(0x537)](_0x54abdf)?this['_bodyFormData']=_0x54abdf:_0xf64781&&URLSearchParams[_0x5b82bc(0x186)][_0x5b82bc(0x537)](_0x54abdf)?this[_0x5b82bc(0x3d8)]=_0x54abdf[_0x5b82bc(0x3b6)]():_0x1ddc0f&&_0xf57489&&(_0x28139f=_0x54abdf)&&DataView[_0x5b82bc(0x186)][_0x5b82bc(0x537)](_0x28139f)?(this['_bodyArrayBuffer']=_0x14c66a(_0x54abdf['buffer']),this[_0x5b82bc(0x3ab)]=new Blob([this[_0x5b82bc(0x24d)]])):_0x1ddc0f&&(ArrayBuffer[_0x5b82bc(0x186)][_0x5b82bc(0x537)](_0x54abdf)||_0x4a96a6(_0x54abdf))?this[_0x5b82bc(0x24d)]=_0x14c66a(_0x54abdf):this[_0x5b82bc(0x3d8)]=_0x54abdf=Object[_0x5b82bc(0x186)]['toString'][_0x5b82bc(0x508)](_0x54abdf):this[_0x5b82bc(0x3d8)]='',this['headers'][_0x5b82bc(0x1c5)]('content-type')||(_0x5b82bc(0x383)==typeof _0x54abdf?this[_0x5b82bc(0x2f6)]['set'](_0x5b82bc(0x257),_0x5b82bc(0x4d7)):this[_0x5b82bc(0x486)]&&this[_0x5b82bc(0x486)][_0x5b82bc(0x21e)]?this[_0x5b82bc(0x2f6)][_0x5b82bc(0x313)]('content-type',this['_bodyBlob'][_0x5b82bc(0x21e)]):_0xf64781&&URLSearchParams[_0x5b82bc(0x186)][_0x5b82bc(0x537)](_0x54abdf)&&this['headers'][_0x5b82bc(0x313)](_0x5b82bc(0x257),_0x5b82bc(0x470)));},_0xf57489&&(this[_0x43f986(0x2ce)]=function(){var _0x15ee10=_0x43f986,_0x11a502=_0x46cb92(this);if(_0x11a502)return _0x11a502;if(this[_0x15ee10(0x486)])return Promise['resolve'](this[_0x15ee10(0x486)]);if(this[_0x15ee10(0x24d)])return Promise[_0x15ee10(0x1c7)](new Blob([this[_0x15ee10(0x24d)]]));if(this[_0x15ee10(0x45d)])throw new Error('could\x20not\x20read\x20FormData\x20body\x20as\x20blob');return Promise['resolve'](new Blob([this[_0x15ee10(0x3d8)]]));},this[_0x43f986(0x2d5)]=function(){var _0x1969e1=_0x43f986;return this[_0x1969e1(0x24d)]?_0x46cb92(this)||Promise[_0x1969e1(0x1c7)](this[_0x1969e1(0x24d)]):this[_0x1969e1(0x2ce)]()[_0x1969e1(0x2a2)](_0x3b4557);}),this[_0x43f986(0x288)]=function(){var _0x57142b=_0x43f986,_0x357a70,_0x42e20f,_0x3d4840,_0x182e3e=_0x46cb92(this);if(_0x182e3e)return _0x182e3e;if(this[_0x57142b(0x486)])return _0x357a70=this[_0x57142b(0x486)],_0x3d4840=_0xead0a3(_0x42e20f=new FileReader()),_0x42e20f[_0x57142b(0x487)](_0x357a70),_0x3d4840;if(this[_0x57142b(0x24d)])return Promise[_0x57142b(0x1c7)](function(_0x4a34cf){var _0x2d018d=_0x57142b;for(var _0x425222=new Uint8Array(_0x4a34cf),_0x306cde=new Array(_0x425222[_0x2d018d(0x50a)]),_0xfb40fd=0x0;_0xfb40fd<_0x425222[_0x2d018d(0x50a)];_0xfb40fd++)_0x306cde[_0xfb40fd]=String[_0x2d018d(0x27f)](_0x425222[_0xfb40fd]);return _0x306cde[_0x2d018d(0x514)]('');}(this[_0x57142b(0x24d)]));if(this[_0x57142b(0x45d)])throw new Error(_0x57142b(0x4c4));return Promise[_0x57142b(0x1c7)](this[_0x57142b(0x3d8)]);},_0x56ab4c&&(this[_0x43f986(0x489)]=function(){var _0x5e31af=_0x43f986;return this[_0x5e31af(0x288)]()[_0x5e31af(0x2a2)](_0x52483d);}),this['json']=function(){var _0x58a783=_0x43f986;return this[_0x58a783(0x288)]()[_0x58a783(0x2a2)](JSON[_0x58a783(0x3eb)]);},this;}_0x57d2e0[_0x23bdd0(0x186)]['append']=function(_0x309d1e,_0x5251bb){var _0x2e5c9b=_0x23bdd0;_0x309d1e=_0xcdc58e(_0x309d1e),_0x5251bb=_0x5d00c1(_0x5251bb);var _0x58c0f8=this[_0x2e5c9b(0x391)][_0x309d1e];this[_0x2e5c9b(0x391)][_0x309d1e]=_0x58c0f8?_0x58c0f8+',\x20'+_0x5251bb:_0x5251bb;},_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x1e1)]=function(_0x394f9c){var _0x3f5af0=_0x23bdd0;delete this[_0x3f5af0(0x391)][_0xcdc58e(_0x394f9c)];},_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x1c5)]=function(_0x57f13d){var _0x4d5816=_0x23bdd0;return _0x57f13d=_0xcdc58e(_0x57f13d),this['has'](_0x57f13d)?this[_0x4d5816(0x391)][_0x57f13d]:null;},_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x24f)]=function(_0x3efc99){var _0x3d5d7c=_0x23bdd0;return this[_0x3d5d7c(0x391)]['hasOwnProperty'](_0xcdc58e(_0x3efc99));},_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x313)]=function(_0x25043e,_0x44899a){this['map'][_0xcdc58e(_0x25043e)]=_0x5d00c1(_0x44899a);},_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x2b0)]=function(_0x1fb941,_0x30c440){var _0x3dda58=_0x23bdd0;for(var _0x15cd65 in this['map'])this[_0x3dda58(0x391)][_0x3dda58(0x344)](_0x15cd65)&&_0x1fb941[_0x3dda58(0x508)](_0x30c440,this[_0x3dda58(0x391)][_0x15cd65],_0x15cd65,this);},_0x57d2e0['prototype'][_0x23bdd0(0x1eb)]=function(){var _0x389ef1=[];return this['forEach'](function(_0x3efd2f,_0x1ea839){_0x389ef1['push'](_0x1ea839);}),_0x2f5522(_0x389ef1);},_0x57d2e0[_0x23bdd0(0x186)]['values']=function(){var _0x1080c3=_0x23bdd0,_0x9a58d8=[];return this[_0x1080c3(0x2b0)](function(_0x159d15){var _0x1ad0b9=_0x1080c3;_0x9a58d8[_0x1ad0b9(0x36a)](_0x159d15);}),_0x2f5522(_0x9a58d8);},_0x57d2e0[_0x23bdd0(0x186)]['entries']=function(){var _0x1e00c4=_0x23bdd0,_0x1cb0a4=[];return this[_0x1e00c4(0x2b0)](function(_0x5da8c5,_0x18f9a6){var _0x38ec70=_0x1e00c4;_0x1cb0a4[_0x38ec70(0x36a)]([_0x18f9a6,_0x5da8c5]);}),_0x2f5522(_0x1cb0a4);},_0x31b5b6&&(_0x57d2e0[_0x23bdd0(0x186)][Symbol[_0x23bdd0(0x234)]]=_0x57d2e0[_0x23bdd0(0x186)][_0x23bdd0(0x41c)]);var _0x44de68=[_0x23bdd0(0x4b5),'GET','HEAD',_0x23bdd0(0x177),_0x23bdd0(0x217),_0x23bdd0(0x2bf)];function _0x987ef2(_0x5b8260,_0x253975){var _0x32938b=_0x23bdd0,_0xf1ec6e,_0x3d6153,_0x5ca51f=(_0x253975=_0x253975||{})[_0x32938b(0x3fa)];if(_0x5b8260 instanceof _0x987ef2){if(_0x5b8260['bodyUsed'])throw new TypeError('Already\x20read');this[_0x32938b(0x3c6)]=_0x5b8260[_0x32938b(0x3c6)],this['credentials']=_0x5b8260[_0x32938b(0x2d7)],_0x253975[_0x32938b(0x2f6)]||(this[_0x32938b(0x2f6)]=new _0x57d2e0(_0x5b8260['headers'])),this[_0x32938b(0x43b)]=_0x5b8260[_0x32938b(0x43b)],this['mode']=_0x5b8260[_0x32938b(0x2e7)],this[_0x32938b(0x529)]=_0x5b8260[_0x32938b(0x529)],_0x5ca51f||null==_0x5b8260[_0x32938b(0x3ab)]||(_0x5ca51f=_0x5b8260['_bodyInit'],_0x5b8260[_0x32938b(0x467)]=!0x0);}else this[_0x32938b(0x3c6)]=String(_0x5b8260);if(this[_0x32938b(0x2d7)]=_0x253975[_0x32938b(0x2d7)]||this['credentials']||_0x32938b(0x332),!_0x253975['headers']&&this[_0x32938b(0x2f6)]||(this[_0x32938b(0x2f6)]=new _0x57d2e0(_0x253975[_0x32938b(0x2f6)])),this[_0x32938b(0x43b)]=(_0x3d6153=(_0xf1ec6e=_0x253975[_0x32938b(0x43b)]||this[_0x32938b(0x43b)]||'GET')[_0x32938b(0x27e)](),_0x44de68[_0x32938b(0x209)](_0x3d6153)>-0x1?_0x3d6153:_0xf1ec6e),this[_0x32938b(0x2e7)]=_0x253975[_0x32938b(0x2e7)]||this[_0x32938b(0x2e7)]||null,this[_0x32938b(0x529)]=_0x253975[_0x32938b(0x529)]||this[_0x32938b(0x529)],this['referrer']=null,(_0x32938b(0x1ed)===this['method']||'HEAD'===this['method'])&&_0x5ca51f)throw new TypeError(_0x32938b(0x18e));this['_initBody'](_0x5ca51f);}function _0x52483d(_0x31302d){var _0x4940c3=_0x23bdd0,_0x279b20=new FormData();return _0x31302d[_0x4940c3(0x2a4)]()[_0x4940c3(0x322)]('&')[_0x4940c3(0x2b0)](function(_0x5ba7e7){var _0x49bb51=_0x4940c3;if(_0x5ba7e7){var _0x468bb0=_0x5ba7e7[_0x49bb51(0x322)]('='),_0x2b0bc2=_0x468bb0[_0x49bb51(0x47c)]()[_0x49bb51(0x390)](/\+/g,'\x20'),_0x4f7d70=_0x468bb0['join']('=')['replace'](/\+/g,'\x20');_0x279b20[_0x49bb51(0x2d1)](decodeURIComponent(_0x2b0bc2),decodeURIComponent(_0x4f7d70));}}),_0x279b20;}function _0x47c4db(_0x3291e8,_0x46122c){var _0xbc0c4b=_0x23bdd0;_0x46122c||(_0x46122c={}),this['type']=_0xbc0c4b(0x276),this[_0xbc0c4b(0x42a)]=void 0x0===_0x46122c[_0xbc0c4b(0x42a)]?0xc8:_0x46122c[_0xbc0c4b(0x42a)],this['ok']=this[_0xbc0c4b(0x42a)]>=0xc8&&this['status']<0x12c,this[_0xbc0c4b(0x41b)]=_0xbc0c4b(0x41b)in _0x46122c?_0x46122c['statusText']:'OK',this[_0xbc0c4b(0x2f6)]=new _0x57d2e0(_0x46122c[_0xbc0c4b(0x2f6)]),this[_0xbc0c4b(0x3c6)]=_0x46122c['url']||'',this[_0xbc0c4b(0x3ff)](_0x3291e8);}_0x987ef2[_0x23bdd0(0x186)][_0x23bdd0(0x36c)]=function(){var _0xb8787d=_0x23bdd0;return new _0x987ef2(this,{'body':this[_0xb8787d(0x3ab)]});},_0x5604f7['call'](_0x987ef2[_0x23bdd0(0x186)]),_0x5604f7['call'](_0x47c4db[_0x23bdd0(0x186)]),_0x47c4db['prototype']['clone']=function(){var _0x3cd796=_0x23bdd0;return new _0x47c4db(this['_bodyInit'],{'status':this[_0x3cd796(0x42a)],'statusText':this[_0x3cd796(0x41b)],'headers':new _0x57d2e0(this[_0x3cd796(0x2f6)]),'url':this[_0x3cd796(0x3c6)]});},_0x47c4db['error']=function(){var _0x282b10=_0x23bdd0,_0x2750cd=new _0x47c4db(null,{'status':0x0,'statusText':''});return _0x2750cd[_0x282b10(0x21e)]=_0x282b10(0x428),_0x2750cd;};var _0x35358e=[0x12d,0x12e,0x12f,0x133,0x134];_0x47c4db['redirect']=function(_0x5155fe,_0x2c761a){if(-0x1===_0x35358e['indexOf'](_0x2c761a))throw new RangeError('Invalid\x20status\x20code');return new _0x47c4db(null,{'status':_0x2c761a,'headers':{'location':_0x5155fe}});},_0x36339a[_0x23bdd0(0x1f9)]=_0x3dc8d6[_0x23bdd0(0x1f9)];try{new _0x36339a[(_0x23bdd0(0x1f9))]();}catch(_0x82460){_0x36339a[_0x23bdd0(0x1f9)]=function(_0x4649ca,_0x34b643){var _0x3a63ba=_0x23bdd0;this['message']=_0x4649ca,this['name']=_0x34b643;var _0x1a6924=Error(_0x4649ca);this[_0x3a63ba(0x527)]=_0x1a6924[_0x3a63ba(0x527)];},_0x36339a['DOMException']['prototype']=Object[_0x23bdd0(0x302)](Error[_0x23bdd0(0x186)]),_0x36339a[_0x23bdd0(0x1f9)][_0x23bdd0(0x186)][_0x23bdd0(0x3fb)]=_0x36339a[_0x23bdd0(0x1f9)];}function _0x5a7dd6(_0xa3043e,_0x2bcef0){return new Promise(function(_0x100e86,_0x241491){var _0x17cf50=a3_0x4871,_0x2d17fe=new _0x987ef2(_0xa3043e,_0x2bcef0);if(_0x2d17fe[_0x17cf50(0x529)]&&_0x2d17fe[_0x17cf50(0x529)][_0x17cf50(0x1fd)])return _0x241491(new _0x36339a[(_0x17cf50(0x1f9))](_0x17cf50(0x1ec),_0x17cf50(0x222)));var _0x7afef3=new XMLHttpRequest();function _0x4f8b7f(){_0x7afef3['abort']();}_0x7afef3[_0x17cf50(0x43d)]=function(){var _0x9b6ee0=_0x17cf50,_0x39e820,_0x3efb4f,_0x355e2b={'status':_0x7afef3[_0x9b6ee0(0x42a)],'statusText':_0x7afef3['statusText'],'headers':(_0x39e820=_0x7afef3[_0x9b6ee0(0x200)]()||'',_0x3efb4f=new _0x57d2e0(),_0x39e820[_0x9b6ee0(0x390)](/\r?\n[\t ]+/g,'\x20')[_0x9b6ee0(0x322)](/\r?\n/)[_0x9b6ee0(0x2b0)](function(_0x8ecd6){var _0x494ce9=_0x9b6ee0,_0x8525a8=_0x8ecd6[_0x494ce9(0x322)](':'),_0x41ca04=_0x8525a8['shift']()[_0x494ce9(0x2a4)]();if(_0x41ca04){var _0x3f6fc2=_0x8525a8['join'](':')['trim']();_0x3efb4f[_0x494ce9(0x2d1)](_0x41ca04,_0x3f6fc2);}}),_0x3efb4f)};_0x355e2b[_0x9b6ee0(0x3c6)]=_0x9b6ee0(0x1c9)in _0x7afef3?_0x7afef3[_0x9b6ee0(0x1c9)]:_0x355e2b[_0x9b6ee0(0x2f6)][_0x9b6ee0(0x1c5)]('X-Request-URL');var _0x48e239=_0x9b6ee0(0x543)in _0x7afef3?_0x7afef3[_0x9b6ee0(0x543)]:_0x7afef3[_0x9b6ee0(0x3f0)];_0x100e86(new _0x47c4db(_0x48e239,_0x355e2b));},_0x7afef3[_0x17cf50(0x202)]=function(){var _0x136c6a=_0x17cf50;_0x241491(new TypeError(_0x136c6a(0x295)));},_0x7afef3[_0x17cf50(0x4e2)]=function(){var _0x43093f=_0x17cf50;_0x241491(new TypeError(_0x43093f(0x295)));},_0x7afef3['onabort']=function(){var _0xd63b9c=_0x17cf50;_0x241491(new _0x36339a['DOMException'](_0xd63b9c(0x1ec),'AbortError'));},_0x7afef3[_0x17cf50(0x4fd)](_0x2d17fe[_0x17cf50(0x43b)],_0x2d17fe[_0x17cf50(0x3c6)],!0x0),_0x17cf50(0x427)===_0x2d17fe[_0x17cf50(0x2d7)]?_0x7afef3[_0x17cf50(0x421)]=!0x0:_0x17cf50(0x4e9)===_0x2d17fe[_0x17cf50(0x2d7)]&&(_0x7afef3[_0x17cf50(0x421)]=!0x1),_0x17cf50(0x2bd)in _0x7afef3&&_0xf57489&&(_0x7afef3[_0x17cf50(0x2bd)]='blob'),_0x2d17fe[_0x17cf50(0x2f6)][_0x17cf50(0x2b0)](function(_0x13ebcb,_0x461723){_0x7afef3['setRequestHeader'](_0x461723,_0x13ebcb);}),_0x2d17fe[_0x17cf50(0x529)]&&(_0x2d17fe['signal'][_0x17cf50(0x440)](_0x17cf50(0x3b3),_0x4f8b7f),_0x7afef3[_0x17cf50(0x34e)]=function(){var _0x3560e3=_0x17cf50;0x4===_0x7afef3['readyState']&&_0x2d17fe['signal'][_0x3560e3(0x22c)](_0x3560e3(0x3b3),_0x4f8b7f);}),_0x7afef3[_0x17cf50(0x4f9)](void 0x0===_0x2d17fe[_0x17cf50(0x3ab)]?null:_0x2d17fe[_0x17cf50(0x3ab)]);});}_0x5a7dd6['polyfill']=!0x0,_0x3dc8d6[_0x23bdd0(0x29f)]||(_0x3dc8d6[_0x23bdd0(0x29f)]=_0x5a7dd6,_0x3dc8d6[_0x23bdd0(0x1f5)]=_0x57d2e0,_0x3dc8d6[_0x23bdd0(0x227)]=_0x987ef2,_0x3dc8d6[_0x23bdd0(0x1ce)]=_0x47c4db),_0x36339a[_0x23bdd0(0x1f5)]=_0x57d2e0,_0x36339a[_0x23bdd0(0x227)]=_0x987ef2,_0x36339a[_0x23bdd0(0x1ce)]=_0x47c4db,_0x36339a[_0x23bdd0(0x29f)]=_0x5a7dd6,Object[_0x23bdd0(0x3e6)](_0x36339a,_0x23bdd0(0x3b8),{'value':!0x0});}({});}(_0x9fd398),_0x9fd398[_0x408603(0x29f)][_0x408603(0x43f)]=!0x0,delete _0x9fd398[_0x408603(0x29f)][_0x408603(0x4fa)];var _0x4f7685=_0x9fd398;(_0x3e12c4=_0x4f7685['fetch'])[_0x408603(0x276)]=_0x4f7685[_0x408603(0x29f)],_0x3e12c4['fetch']=_0x4f7685[_0x408603(0x29f)],_0x3e12c4[_0x408603(0x1f5)]=_0x4f7685[_0x408603(0x1f5)],_0x3e12c4[_0x408603(0x227)]=_0x4f7685[_0x408603(0x227)],_0x3e12c4[_0x408603(0x1ce)]=_0x4f7685[_0x408603(0x1ce)],_0x1dfb3d[_0x408603(0x361)]=_0x3e12c4;},0x109:(_0x32cf71,_0x360f54,_0x153db4)=>{'use strict';var _0x4a0f72=a3_0x4871;_0x153db4['d'](_0x360f54,{'Z':()=>_0x9c0cb1});var _0x580b4c=_0x153db4(0x219),_0x1bdb94=_0x153db4['n'](_0x580b4c),_0x38c608=_0x153db4(0x285),_0x42ef25=_0x153db4['n'](_0x38c608),_0x3be3f0=_0x153db4(0x29b),_0x464f48=_0x153db4['n'](_0x3be3f0),_0xda106b=new URL(_0x153db4(0x38d),_0x153db4['b']),_0x493072=new URL(_0x153db4(0x85),_0x153db4['b']),_0x345d7f=new URL(_0x153db4(0x259),_0x153db4['b']),_0x494099=new URL(_0x153db4(0x2ae),_0x153db4['b']),_0x4a0427=_0x42ef25()(_0x1bdb94()),_0x295fdf=_0x464f48()(_0xda106b),_0x581843=_0x464f48()(_0x493072),_0x5a7148=_0x464f48()(_0x345d7f),_0x3e62f4=_0x464f48()(_0x494099);_0x4a0427[_0x4a0f72(0x36a)]([_0x32cf71['id'],_0x4a0f72(0x299)+_0x295fdf+_0x4a0f72(0x31d)+_0x581843+');\x0a}\x0a\x0a[type=\x27radio\x27]:checked\x20{\x0a\x20\x20background-image:\x20url('+_0x5a7148+_0x4a0f72(0x2ad)+_0x3e62f4+_0x4a0f72(0x382)+_0x295fdf+_0x4a0f72(0x393),'',{'version':0x3,'sources':['webpack://./src/styles.css'],'names':[],'mappings':_0x4a0f72(0x2c0),'sourcesContent':[_0x4a0f72(0x4a1)],'sourceRoot':''}]);const _0x9c0cb1=_0x4a0427;},0x285:_0x5d13e9=>{'use strict';var _0x43ad73=a3_0x4871;_0x5d13e9[_0x43ad73(0x361)]=function(_0x149c82){var _0x3ecbd3=[];return _0x3ecbd3['toString']=function(){var _0x272360=a3_0x4871;return this[_0x272360(0x391)](function(_0x3aa10b){var _0x598b21=_0x272360,_0x594864='',_0x42fb8a=void 0x0!==_0x3aa10b[0x5];return _0x3aa10b[0x4]&&(_0x594864+=_0x598b21(0x50e)['concat'](_0x3aa10b[0x4],_0x598b21(0x349))),_0x3aa10b[0x2]&&(_0x594864+='@media\x20'['concat'](_0x3aa10b[0x2],'\x20{')),_0x42fb8a&&(_0x594864+=_0x598b21(0x2b3)[_0x598b21(0x335)](_0x3aa10b[0x5][_0x598b21(0x50a)]>0x0?'\x20'['concat'](_0x3aa10b[0x5]):'','\x20{')),_0x594864+=_0x149c82(_0x3aa10b),_0x42fb8a&&(_0x594864+='}'),_0x3aa10b[0x2]&&(_0x594864+='}'),_0x3aa10b[0x4]&&(_0x594864+='}'),_0x594864;})[_0x272360(0x514)]('');},_0x3ecbd3['i']=function(_0x1c1c83,_0x16c543,_0x5938b4,_0x28ee16,_0x175204){var _0x30abef=a3_0x4871;_0x30abef(0x383)==typeof _0x1c1c83&&(_0x1c1c83=[[null,_0x1c1c83,void 0x0]]);var _0x259acf={};if(_0x5938b4)for(var _0xabc56b=0x0;_0xabc56b<this[_0x30abef(0x50a)];_0xabc56b++){var _0x1c77df=this[_0xabc56b][0x0];null!=_0x1c77df&&(_0x259acf[_0x1c77df]=!0x0);}for(var _0x1bb09d=0x0;_0x1bb09d<_0x1c1c83[_0x30abef(0x50a)];_0x1bb09d++){var _0x322704=[]['concat'](_0x1c1c83[_0x1bb09d]);_0x5938b4&&_0x259acf[_0x322704[0x0]]||(void 0x0!==_0x175204&&(void 0x0===_0x322704[0x5]||(_0x322704[0x1]=_0x30abef(0x2b3)[_0x30abef(0x335)](_0x322704[0x5]['length']>0x0?'\x20'[_0x30abef(0x335)](_0x322704[0x5]):'','\x20{')[_0x30abef(0x335)](_0x322704[0x1],'}')),_0x322704[0x5]=_0x175204),_0x16c543&&(_0x322704[0x2]?(_0x322704[0x1]=_0x30abef(0x19d)[_0x30abef(0x335)](_0x322704[0x2],'\x20{')[_0x30abef(0x335)](_0x322704[0x1],'}'),_0x322704[0x2]=_0x16c543):_0x322704[0x2]=_0x16c543),_0x28ee16&&(_0x322704[0x4]?(_0x322704[0x1]=_0x30abef(0x50e)[_0x30abef(0x335)](_0x322704[0x4],_0x30abef(0x349))['concat'](_0x322704[0x1],'}'),_0x322704[0x4]=_0x28ee16):_0x322704[0x4]=''['concat'](_0x28ee16)),_0x3ecbd3['push'](_0x322704));}},_0x3ecbd3;};},0x29b:_0x2522fa=>{'use strict';var _0x307aed=a3_0x4871;_0x2522fa[_0x307aed(0x361)]=function(_0x4e5700,_0x388fbd){var _0x16d314=_0x307aed;return _0x388fbd||(_0x388fbd={}),_0x4e5700?(_0x4e5700=String(_0x4e5700[_0x16d314(0x3b8)]?_0x4e5700[_0x16d314(0x276)]:_0x4e5700),/^['"].*['"]$/['test'](_0x4e5700)&&(_0x4e5700=_0x4e5700[_0x16d314(0x2f7)](0x1,-0x1)),_0x388fbd[_0x16d314(0x37d)]&&(_0x4e5700+=_0x388fbd['hash']),/["'() \t\n]|(%20)/['test'](_0x4e5700)||_0x388fbd[_0x16d314(0x214)]?'\x22'[_0x16d314(0x335)](_0x4e5700[_0x16d314(0x390)](/"/g,'\x5c\x22')[_0x16d314(0x390)](/\n/g,'\x5cn'),'\x22'):_0x4e5700):_0x4e5700;};},0x219:_0x118d71=>{'use strict';var _0x143224=a3_0x4871;_0x118d71[_0x143224(0x361)]=function(_0x3b4289){var _0x4e5c16=_0x143224,_0xa73d8a=_0x3b4289[0x1],_0x1f0471=_0x3b4289[0x3];if(!_0x1f0471)return _0xa73d8a;if('function'==typeof btoa){var _0x572c03=btoa(unescape(encodeURIComponent(JSON[_0x4e5c16(0x402)](_0x1f0471)))),_0x336505='sourceMappingURL=data:application/json;charset=utf-8;base64,'[_0x4e5c16(0x335)](_0x572c03),_0x169eb3=_0x4e5c16(0x274)[_0x4e5c16(0x335)](_0x336505,_0x4e5c16(0x51a)),_0x3005ea=_0x1f0471[_0x4e5c16(0x304)]['map'](function(_0x7d717f){var _0x484013=_0x4e5c16;return _0x484013(0x328)[_0x484013(0x335)](_0x1f0471['sourceRoot']||'')[_0x484013(0x335)](_0x7d717f,'\x20*/');});return[_0xa73d8a][_0x4e5c16(0x335)](_0x3005ea)[_0x4e5c16(0x335)]([_0x169eb3])[_0x4e5c16(0x514)]('\x0a');}return[_0xa73d8a][_0x4e5c16(0x514)]('\x0a');};},0x11c:_0x54c782=>{var _0x19d073=a3_0x4871,_0x20426d=function(){var _0xb8b92d=a3_0x4871;if('object'==typeof self&&self)return self;if(_0xb8b92d(0x538)==typeof window&&window)return window;throw new Error('Unable\x20to\x20resolve\x20global\x20`this`');};_0x54c782[_0x19d073(0x361)]=(function(){var _0x3981f6=_0x19d073;if(this)return this;if('object'==typeof globalThis&&globalThis)return globalThis;try{Object[_0x3981f6(0x3e6)](Object[_0x3981f6(0x186)],_0x3981f6(0x20c),{'get':function(){return this;},'configurable':!0x0});}catch(_0x3ba784){return _0x20426d();}try{return __global__||_0x20426d();}finally{delete Object['prototype'][_0x3981f6(0x20c)];}}());},0x202:_0xb8226=>{var _0xe82a6b=a3_0x4871;_0xb8226[_0xe82a6b(0x361)]=window['FormData'];},0x32b:(_0x582af3,_0x3b3e1b)=>{'use strict';var _0x4dd8bb=a3_0x4871;Object[_0x4dd8bb(0x3e6)](_0x3b3e1b,'__esModule',{'value':!0x0});var _0x396146=(function(){function _0x3f970f(_0x29d411,_0x5b49b3){var _0x53e6f5=a3_0x4871;for(var _0x2fcd83=0x0;_0x2fcd83<_0x5b49b3[_0x53e6f5(0x50a)];_0x2fcd83++){var _0x320cb2=_0x5b49b3[_0x2fcd83];_0x320cb2['enumerable']=_0x320cb2[_0x53e6f5(0x2de)]||!0x1,_0x320cb2[_0x53e6f5(0x1a6)]=!0x0,_0x53e6f5(0x4d0)in _0x320cb2&&(_0x320cb2[_0x53e6f5(0x3f9)]=!0x0),Object['defineProperty'](_0x29d411,_0x320cb2[_0x53e6f5(0x426)],_0x320cb2);}}return function(_0x404bf5,_0x56bae0,_0x35d399){var _0x30069c=a3_0x4871;return _0x56bae0&&_0x3f970f(_0x404bf5[_0x30069c(0x186)],_0x56bae0),_0x35d399&&_0x3f970f(_0x404bf5,_0x35d399),_0x404bf5;};}()),_0x519f05=(function(){var _0x332a12=_0x4dd8bb;function _0x30feda(){!function(_0xbee751,_0x4db4e3){var _0x2dfa5c=a3_0x4871;if(!(_0xbee751 instanceof _0x4db4e3))throw new TypeError(_0x2dfa5c(0x367));}(this,_0x30feda);}return _0x396146(_0x30feda,[{'key':_0x332a12(0x460),'value':function(_0x9feea2){var _0x5e22f6=_0x332a12,_0x2d2053=this,_0xa8818=arguments['length']<=0x1||void 0x0===arguments[0x1]?null:arguments[0x1];if(this[_0x5e22f6(0x3a8)]=this['_eventListeners']||{},this[_0x5e22f6(0x3a8)][_0x9feea2]=this[_0x5e22f6(0x3a8)][_0x9feea2]||[],!_0xa8818)return new Promise(function(_0x36fa73,_0xd58432){var _0xbc7bf9=_0x5e22f6;_0x36fa73[_0xbc7bf9(0x384)]=!0x0,_0x2d2053[_0xbc7bf9(0x3a8)][_0x9feea2][_0xbc7bf9(0x36a)](_0x36fa73);});this['_eventListeners'][_0x9feea2][_0x5e22f6(0x36a)](_0xa8818);}},{'key':'on','value':function(){var _0x51ebee=_0x332a12;return this[_0x51ebee(0x460)]['apply'](this,arguments);}},{'key':_0x332a12(0x440),'value':function(){var _0x43b1fb=_0x332a12;return this[_0x43b1fb(0x460)][_0x43b1fb(0x26e)](this,arguments);}},{'key':_0x332a12(0x4c2),'value':function(_0x21a35c){var _0x416e93=_0x332a12;for(var _0x43b6f1=this['_eventListeners']&&this[_0x416e93(0x3a8)][_0x21a35c]||[],_0x460fd6=arguments['length'],_0x51ff50=Array(_0x460fd6>0x1?_0x460fd6-0x1:0x0),_0x45f96d=0x1;_0x45f96d<_0x460fd6;_0x45f96d++)_0x51ff50[_0x45f96d-0x1]=arguments[_0x45f96d];var _0x58aae1=!0x0,_0x351862=!0x1,_0x182eef=void 0x0;try{for(var _0x5456f9,_0x5f2e20=_0x43b6f1[Symbol[_0x416e93(0x234)]]();!(_0x58aae1=(_0x5456f9=_0x5f2e20['next']())['done']);_0x58aae1=!0x0){var _0xa05d4=_0x5456f9[_0x416e93(0x4d0)];_0xa05d4[_0x416e93(0x26e)](this,_0x51ff50);}}catch(_0x10dfed){_0x351862=!0x0,_0x182eef=_0x10dfed;}finally{try{!_0x58aae1&&_0x5f2e20[_0x416e93(0x1d1)]&&_0x5f2e20[_0x416e93(0x1d1)]();}finally{if(_0x351862)throw _0x182eef;}}for(var _0x5270b3=0x0;_0x5270b3<_0x43b6f1[_0x416e93(0x50a)];_0x5270b3++)_0x43b6f1[_0x5270b3][_0x416e93(0x384)]&&_0x43b6f1[_0x416e93(0x51c)](_0x5270b3--,0x1);}},{'key':_0x332a12(0x287),'value':function(){var _0x55dffd=_0x332a12;return this[_0x55dffd(0x4c2)]['apply'](this,arguments);}},{'key':_0x332a12(0x29b),'value':function(){var _0x3c7b80=_0x332a12;return this[_0x3c7b80(0x4c2)][_0x3c7b80(0x26e)](this,arguments);}}]),_0x30feda;}());_0x3b3e1b['default']=_0x519f05,_0x519f05['mixin']=function(_0x5dd43f){var _0x33b958=_0x4dd8bb;for(var _0x4d4a1b in _0x519f05[_0x33b958(0x186)])_0x519f05[_0x33b958(0x186)][_0x33b958(0x344)](_0x4d4a1b)&&(_0x5dd43f[_0x4d4a1b]=_0x519f05['prototype'][_0x4d4a1b]);},_0x582af3['exports']=_0x3b3e1b[_0x4dd8bb(0x276)];},0x249:(_0x1f450d,_0x4246bf)=>{'use strict';var _0x326ff3=a3_0x4871;Object[_0x326ff3(0x3e6)](_0x4246bf,_0x326ff3(0x3b8),{'value':!0x0}),_0x4246bf[_0x326ff3(0x276)]={'Information':_0x326ff3(0x1ee),'Question':_0x326ff3(0x4dc),'Success':_0x326ff3(0x42b),'Warning':_0x326ff3(0x1b0),'Failed':_0x326ff3(0x480),'Deleted':_0x326ff3(0x1f0)},_0x1f450d['exports']=_0x4246bf['default'];},0x271:(_0x5995be,_0x2cbc3f,_0x575828)=>{'use strict';var _0x20b76c=a3_0x4871;Object[_0x20b76c(0x3e6)](_0x2cbc3f,'__esModule',{'value':!0x0});var _0x357765=(function(){function _0x2d0fd6(_0x1b1b0b,_0x37a3dc){var _0x1c376f=a3_0x4871;for(var _0x151e02=0x0;_0x151e02<_0x37a3dc[_0x1c376f(0x50a)];_0x151e02++){var _0xca9a57=_0x37a3dc[_0x151e02];_0xca9a57['enumerable']=_0xca9a57['enumerable']||!0x1,_0xca9a57['configurable']=!0x0,_0x1c376f(0x4d0)in _0xca9a57&&(_0xca9a57[_0x1c376f(0x3f9)]=!0x0),Object['defineProperty'](_0x1b1b0b,_0xca9a57['key'],_0xca9a57);}}return function(_0xbd41db,_0x57b699,_0x29decf){var _0x3d48d0=a3_0x4871;return _0x57b699&&_0x2d0fd6(_0xbd41db[_0x3d48d0(0x186)],_0x57b699),_0x29decf&&_0x2d0fd6(_0xbd41db,_0x29decf),_0xbd41db;};}()),_0x1f33d4=_0x2b5680(_0x575828(0x3a1)),_0x2ba41f=_0x2b5680(_0x575828(0x32b)),_0x287b08=_0x2b5680(_0x575828(0x249));function _0x2b5680(_0x479725){var _0x47f8e5=_0x20b76c;return _0x479725&&_0x479725[_0x47f8e5(0x3b8)]?_0x479725:{'default':_0x479725};}function _0xa26e40(_0x3d22ba,_0x280952){var _0xcfc0f=_0x20b76c;if(!(_0x3d22ba instanceof _0x280952))throw new TypeError(_0xcfc0f(0x367));}function _0xc8833(_0x54676b,_0xbd54){var _0x4f1d7f=_0x20b76c;if(!_0x54676b)throw new ReferenceError('this\x20hasn\x27t\x20been\x20initialised\x20-\x20super()\x20hasn\x27t\x20been\x20called');return!_0xbd54||_0x4f1d7f(0x538)!=typeof _0xbd54&&_0x4f1d7f(0x4fe)!=typeof _0xbd54?_0x54676b:_0xbd54;}var _0x525751=function(_0x5d7be7){var _0xdf96f3=_0x20b76c;function _0xef9ab5(){var _0x29ae53=a3_0x4871,_0xa51e59=arguments[_0x29ae53(0x50a)]<=0x0||void 0x0===arguments[0x0]?'':arguments[0x0],_0x1182ac=arguments[_0x29ae53(0x50a)]<=0x1||void 0x0===arguments[0x1]?'':arguments[0x1];_0xa26e40(this,_0xef9ab5);var _0x25b029=_0xc8833(this,Object[_0x29ae53(0x25f)](_0xef9ab5)[_0x29ae53(0x508)](this));return _0x25b029[_0x29ae53(0x1bd)]={},_0x25b029[_0x29ae53(0x3fe)]=_0x1182ac,_0x25b029[_0x29ae53(0x288)]=_0xa51e59,_0x25b029[_0x29ae53(0x216)]=[],_0x25b029[_0x29ae53(0x3ef)]=[],_0x25b029['result']=!0x1,_0x25b029['iconURL']=null,_0x25b029[_0x29ae53(0x4ea)]=!0x0,_0x25b029[_0x29ae53(0x3af)]=!0x1,_0x25b029[_0x29ae53(0x507)]=!0x1,_0x25b029;}return function(_0x4d5e7a,_0x222009){var _0x48e5d5=a3_0x4871;if(_0x48e5d5(0x4fe)!=typeof _0x222009&&null!==_0x222009)throw new TypeError(_0x48e5d5(0x3b4)+typeof _0x222009);_0x4d5e7a[_0x48e5d5(0x186)]=Object['create'](_0x222009&&_0x222009[_0x48e5d5(0x186)],{'constructor':{'value':_0x4d5e7a,'enumerable':!0x1,'writable':!0x0,'configurable':!0x0}}),_0x222009&&(Object['setPrototypeOf']?Object[_0x48e5d5(0x280)](_0x4d5e7a,_0x222009):_0x4d5e7a[_0x48e5d5(0x1b1)]=_0x222009);}(_0xef9ab5,_0x5d7be7),_0x357765(_0xef9ab5,null,[{'key':_0xdf96f3(0x2e5),'value':function(_0x4cb884,_0x433bfd,_0xdccddc){var _0xfba059=_0xdf96f3,_0xb2fd85=arguments[_0xfba059(0x50a)]<=0x3||void 0x0===arguments[0x3]?_0xfba059(0x4ca):arguments[0x3];if(_0xfba059(0x229)==typeof window)return Promise['resolve'](console[_0xfba059(0x3aa)](_0xfba059(0x2d0)+_0x4cb884));var _0x472f8a=new _0xef9ab5(_0x4cb884,_0x433bfd);return _0x472f8a[_0xfba059(0x28b)](_0xb2fd85,null),!0x1!==_0xdccddc&&_0x472f8a[_0xfba059(0x3f8)](_0xdccddc||_0xef9ab5[_0xfba059(0x242)][_0xfba059(0x230)]),_0x472f8a[_0xfba059(0x3ee)]();}},{'key':_0xdf96f3(0x20b),'value':function(_0x47dcba,_0x5ecf1b,_0x1d28e0){var _0x5f0ab2=_0xdf96f3,_0x24353b=arguments['length']<=0x3||void 0x0===arguments[0x3]?'OK':arguments[0x3],_0x58c663=arguments['length']<=0x4||void 0x0===arguments[0x4]?_0x5f0ab2(0x266):arguments[0x4];if(_0x5f0ab2(0x229)==typeof window)return Promise[_0x5f0ab2(0x1c7)](console[_0x5f0ab2(0x3aa)](_0x5f0ab2(0x2d0)+_0x47dcba));var _0x147a2b=new _0xef9ab5(_0x47dcba,_0x5ecf1b);return _0x147a2b['addButton'](_0x24353b,!0x0),_0x147a2b[_0x5f0ab2(0x28b)](_0x58c663,!0x1),!0x1!==_0x1d28e0&&_0x147a2b[_0x5f0ab2(0x3f8)](_0x1d28e0||_0xef9ab5[_0x5f0ab2(0x242)][_0x5f0ab2(0x1a2)]),_0x147a2b['show']();}},{'key':'prompt','value':function(_0x1cf9db,_0x3a6bbe,_0x236e59,_0x351d80,_0xb08eac){var _0x275cd6=_0xdf96f3,_0x5ca01e=arguments[_0x275cd6(0x50a)]<=0x5||void 0x0===arguments[0x5]?'OK':arguments[0x5],_0x1e0f5e=arguments[_0x275cd6(0x50a)]<=0x6||void 0x0===arguments[0x6]?_0x275cd6(0x266):arguments[0x6];if(_0x275cd6(0x229)==typeof window)return Promise[_0x275cd6(0x1c7)](console[_0x275cd6(0x3aa)](_0x275cd6(0x2d0)+_0x1cf9db));var _0x35f926=new _0xef9ab5(_0x1cf9db,_0x351d80);return _0x35f926[_0x275cd6(0x28b)](_0x5ca01e,!0x0,_0x275cd6(0x276)),_0x35f926[_0x275cd6(0x28b)](_0x1e0f5e,!0x1,_0x275cd6(0x401)),!0x1!==_0xb08eac&&_0x35f926[_0x275cd6(0x3f8)](_0xb08eac||_0xef9ab5[_0x275cd6(0x242)][_0x275cd6(0x1a2)]),_0x35f926[_0x275cd6(0x52c)](_0x3a6bbe,null,_0x236e59),_0x35f926[_0x275cd6(0x3ee)]()[_0x275cd6(0x2a2)](function(_0x290655){var _0x2a5fbd=_0x275cd6;return _0x35f926[_0x2a5fbd(0x3af)]?null:_0x35f926[_0x2a5fbd(0x4bf)](0x0);});}},{'key':_0xdf96f3(0x33e),'value':function(_0x54faf3,_0x4720cd){var _0x3a96b4=_0xdf96f3;if(_0x3a96b4(0x229)==typeof window)return Promise['resolve'](console[_0x3a96b4(0x3aa)](_0x3a96b4(0x442)+_0x54faf3));var _0x334f2f=new _0xef9ab5(_0x54faf3);return _0x334f2f[_0x3a96b4(0x4ea)]=_0x4720cd,_0x334f2f['show']();}}]),_0x357765(_0xef9ab5,[{'key':_0xdf96f3(0x3f8),'value':function(_0x265649){var _0x2546d6=_0xdf96f3;this[_0x2546d6(0x49b)]=_0x265649;}},{'key':_0xdf96f3(0x28b),'value':function(_0x5b3ca5,_0x4241b4,_0x7d118a){var _0x36af31=this;return new Promise(function(_0x45eaa2,_0xd733){var _0x357a8e=a3_0x4871;_0x36af31['buttons'][_0x357a8e(0x36a)]({'text':_0x5b3ca5,'value':void 0x0===_0x4241b4?_0x5b3ca5:_0x4241b4,'type':_0x7d118a||(0x0==_0x36af31[_0x357a8e(0x216)][_0x357a8e(0x50a)]?'default':'normal'),'callback':_0x45eaa2});});}},{'key':_0xdf96f3(0x52c),'value':function(_0x2282aa,_0x5331f6,_0x4f6c1b){var _0x349d4f=_0xdf96f3;this[_0x349d4f(0x3ef)][_0x349d4f(0x36a)]({'value':_0x2282aa||'','type':_0x5331f6||_0x349d4f(0x288),'placeholder':_0x4f6c1b||''});}},{'key':_0xdf96f3(0x4bf),'value':function(_0xef632e){var _0x4ccda3=_0xdf96f3,_0xea2a5=this[_0x4ccda3(0x3ef)][_0xef632e];return _0xea2a5['elem']?_0xea2a5['elem'][_0x4ccda3(0x4d0)]:_0xea2a5['value'];}},{'key':_0xdf96f3(0x3ee),'value':function(){var _0x2243eb=_0xdf96f3,_0x58389f=this;return _0xef9ab5[_0x2243eb(0x3d3)][_0x2243eb(0x24c)](this)[_0x2243eb(0x2a2)](function(){var _0x310946=_0x2243eb;_0x58389f[_0x310946(0x2ea)](),_0x58389f[_0x310946(0x4c2)]('opened');}),this;}},{'key':_0xdf96f3(0x2a2),'value':function(_0x2ddfeb){var _0x47a95f=_0xdf96f3;return this[_0x47a95f(0x460)](_0x47a95f(0x2bc))[_0x47a95f(0x2a2)](_0x2ddfeb);}},{'key':_0xdf96f3(0x1e5),'value':function(_0x58e5e3){var _0x144afa=_0xdf96f3;if(!this[_0x144afa(0x507)])return this[_0x144afa(0x507)]=!0x0,_0xef9ab5['popupQueue'][_0x144afa(0x504)](this),this[_0x144afa(0x247)]=_0x58e5e3,void 0x0===_0x58e5e3&&(this['cancelled']=!0x0),this['removeElements'](),window['removeEventListener'](_0x144afa(0x253),this),this[_0x144afa(0x3af)]?this[_0x144afa(0x4c2)](_0x144afa(0x3af),this['result']):this[_0x144afa(0x4c2)](_0x144afa(0x3b5),this[_0x144afa(0x247)]),this[_0x144afa(0x4c2)](_0x144afa(0x2bc),this['result']),this;}},{'key':_0xdf96f3(0x28d),'value':function(_0x5069ef){var _0x348bcb=_0xdf96f3;return setTimeout(this[_0x348bcb(0x1e5)][_0x348bcb(0x3c0)](this),_0x5069ef),this;}},{'key':'_show','value':function(){var _0x29463c=_0xdf96f3;this[_0x29463c(0x19e)](),this[_0x29463c(0x357)](),window[_0x29463c(0x440)](_0x29463c(0x253),this);}},{'key':'createBackground','value':function(){var _0x5f1bd0=_0xdf96f3,_0x2be3d7=this;this[_0x5f1bd0(0x1bd)][_0x5f1bd0(0x4ef)]=document[_0x5f1bd0(0x53e)]('div'),this['elems'][_0x5f1bd0(0x4ef)][_0x5f1bd0(0x252)][_0x5f1bd0(0x1f8)]=_0x5f1bd0(0x1b6),document[_0x5f1bd0(0x3fa)]['appendChild'](this[_0x5f1bd0(0x1bd)][_0x5f1bd0(0x4ef)]),setTimeout(function(){var _0x145a8f=_0x5f1bd0;_0x2be3d7[_0x145a8f(0x1bd)][_0x145a8f(0x4ef)][_0x145a8f(0x1d5)],_0x2be3d7['elems']['background'][_0x145a8f(0x252)][_0x145a8f(0x331)]=0x1;},0x0);}},{'key':_0xdf96f3(0x357),'value':function(){var _0x2e5a35=_0xdf96f3,_0x4e00d2=this;this[_0x2e5a35(0x1bd)][_0x2e5a35(0x411)]=document[_0x2e5a35(0x53e)](_0x2e5a35(0x21b)),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x411)][_0x2e5a35(0x3da)]=!0x0,this[_0x2e5a35(0x1bd)][_0x2e5a35(0x411)][_0x2e5a35(0x252)][_0x2e5a35(0x1f8)]=_0x2e5a35(0x482),document[_0x2e5a35(0x3fa)][_0x2e5a35(0x244)](this['elems'][_0x2e5a35(0x411)]),setTimeout(function(){var _0x9ae30a=_0x2e5a35;_0x4e00d2['elems'][_0x9ae30a(0x411)][_0x9ae30a(0x1d5)],_0x4e00d2[_0x9ae30a(0x1bd)]['container'][_0x9ae30a(0x252)][_0x9ae30a(0x331)]=0x1,_0x4e00d2[_0x9ae30a(0x1bd)]['container'][_0x9ae30a(0x252)][_0x9ae30a(0x4b3)]=_0x9ae30a(0x38b);},0x0),this[_0x2e5a35(0x2b4)](this['elems'][_0x2e5a35(0x411)],function(){var _0x2b19ea=_0x2e5a35;_0x4e00d2[_0x2b19ea(0x4ea)]&&(_0x4e00d2[_0x2b19ea(0x3af)]=!0x0,_0x4e00d2['dismiss']());}),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)]=document['createElement'](_0x2e5a35(0x21b)),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)]['style'][_0x2e5a35(0x1f8)]='position:\x20relative;\x20background-color:\x20rgba(255,\x20255,\x20255,\x200.95);\x20box-shadow:\x200px\x200px\x2020px\x20rgba(0,\x200,\x200,\x200.25);\x20border-radius:\x205px;\x20padding:\x2010px;\x20min-width:\x2050px;\x20min-height:\x2010px;\x20max-width:\x2050%;\x20max-height:\x2090%;\x20backdrop-filter:\x20blur(8px);\x20-webkit-backdrop-filter:\x20blur(8px);\x20',this[_0x2e5a35(0x1bd)][_0x2e5a35(0x411)][_0x2e5a35(0x244)](this[_0x2e5a35(0x1bd)]['window']),this[_0x2e5a35(0x49b)]&&(this[_0x2e5a35(0x1bd)]['icon']=document[_0x2e5a35(0x53e)](_0x2e5a35(0x4d8)),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x463)][_0x2e5a35(0x252)][_0x2e5a35(0x1f8)]='display:\x20block;\x20margin:\x20auto;\x20max-height:\x2040px;\x20text-align:\x20center;\x20font-family:\x20Helvetica,\x20Arial;\x20font-size:\x2017px;\x20font-weight:\x20bold;\x20color:\x20#000;\x20cursor:\x20default;\x20padding:\x2010px\x200px;\x20',this[_0x2e5a35(0x1bd)][_0x2e5a35(0x463)][_0x2e5a35(0x1e9)]=this[_0x2e5a35(0x49b)],this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)]['appendChild'](this['elems'][_0x2e5a35(0x463)])),this['title']&&(this[_0x2e5a35(0x1bd)]['title']=document[_0x2e5a35(0x53e)]('div'),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x3fe)][_0x2e5a35(0x252)][_0x2e5a35(0x1f8)]=_0x2e5a35(0x33a),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x3fe)][_0x2e5a35(0x2a3)]=this[_0x2e5a35(0x3fe)],this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)][_0x2e5a35(0x244)](this[_0x2e5a35(0x1bd)]['title'])),this[_0x2e5a35(0x288)]&&(this['elems']['text']=document[_0x2e5a35(0x53e)]('div'),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x288)][_0x2e5a35(0x252)][_0x2e5a35(0x1f8)]=_0x2e5a35(0x4c5),this['elems'][_0x2e5a35(0x288)][_0x2e5a35(0x2a3)]=this[_0x2e5a35(0x288)],this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)][_0x2e5a35(0x244)](this[_0x2e5a35(0x1bd)][_0x2e5a35(0x288)])),this['textFields'][_0x2e5a35(0x50a)]>0x0&&(this[_0x2e5a35(0x1bd)][_0x2e5a35(0x3ef)]=document[_0x2e5a35(0x53e)](_0x2e5a35(0x21b)),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x3ef)]['style'][_0x2e5a35(0x1f8)]='display:\x20block;\x20',this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)][_0x2e5a35(0x244)](this[_0x2e5a35(0x1bd)][_0x2e5a35(0x3ef)]),this[_0x2e5a35(0x3ef)][_0x2e5a35(0x2b0)](function(_0x2a153d,_0x16c7b9){var _0x56c498=_0x2e5a35;_0x2a153d['elem']=document['createElement'](_0x56c498(0x330)),_0x2a153d[_0x56c498(0x174)][_0x56c498(0x252)][_0x56c498(0x1f8)]='display:\x20block;\x20width:\x2090%;\x20min-width:\x20250px;\x20padding:\x205px\x200px;\x20margin:\x2010px\x20auto;\x20background-color:\x20#FFF;\x20border:\x201px\x20solid\x20#EEE;\x20border-radius:\x205px;\x20text-align:\x20center;\x20font-family:\x20Helvetica,\x20Arial;\x20font-size:\x2015px;\x20color:\x20#222;\x20',_0x2a153d[_0x56c498(0x174)][_0x56c498(0x4d0)]=_0x2a153d[_0x56c498(0x4d0)],_0x2a153d[_0x56c498(0x174)][_0x56c498(0x4fb)]=_0x2a153d[_0x56c498(0x4fb)],_0x2a153d[_0x56c498(0x174)][_0x56c498(0x21e)]=_0x2a153d[_0x56c498(0x21e)],_0x4e00d2[_0x56c498(0x1bd)]['textFields'][_0x56c498(0x244)](_0x2a153d[_0x56c498(0x174)]),_0x2a153d[_0x56c498(0x174)]['addEventListener'](_0x56c498(0x4e8),function(_0x6ff11d){var _0x173034=_0x56c498;0xd==_0x6ff11d[_0x173034(0x201)]&&(_0x16c7b9+0x1>=_0x4e00d2['textFields'][_0x173034(0x50a)]?_0x4e00d2[_0x173034(0x1e5)](_0x173034(0x17c)):_0x4e00d2[_0x173034(0x3ef)][_0x16c7b9+0x1][_0x173034(0x174)][_0x173034(0x409)]());});}),this[_0x2e5a35(0x3ef)][0x0]['elem']['focus']()),this[_0x2e5a35(0x216)][_0x2e5a35(0x50a)]>0x0&&(this['elems'][_0x2e5a35(0x216)]=document['createElement'](_0x2e5a35(0x21b)),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x216)][_0x2e5a35(0x252)][_0x2e5a35(0x1f8)]=_0x2e5a35(0x189),this[_0x2e5a35(0x1bd)][_0x2e5a35(0x45e)][_0x2e5a35(0x244)](this[_0x2e5a35(0x1bd)][_0x2e5a35(0x216)]),this['buttons'][_0x2e5a35(0x2b0)](function(_0x201b52){var _0xe79aa5=_0x2e5a35,_0x367f36=document[_0xe79aa5(0x53e)](_0xe79aa5(0x21b));_0x367f36[_0xe79aa5(0x252)]['cssText']='display:\x20inline-block;\x20font-family:\x20Helvetica,\x20Arial;\x20font-size:\x2015px;\x20font-weight:\x20200;\x20color:\x20#08F;\x20padding:\x2010px\x2020px;\x20padding-bottom:\x200px;\x20cursor:\x20pointer;\x20',_0x367f36[_0xe79aa5(0x255)]=_0x201b52[_0xe79aa5(0x288)],_0x4e00d2['elems'][_0xe79aa5(0x216)][_0xe79aa5(0x244)](_0x367f36),_0x4e00d2[_0xe79aa5(0x2b4)](_0x367f36,function(){var _0xf24313=_0xe79aa5;_0x201b52[_0xf24313(0x22a)]&&_0x201b52[_0xf24313(0x22a)](_0x201b52['value']),_0xf24313(0x401)==_0x201b52[_0xf24313(0x21e)]&&(_0x4e00d2[_0xf24313(0x3af)]=!0x0),_0x4e00d2[_0xf24313(0x1e5)](_0x201b52[_0xf24313(0x4d0)]);});}));}},{'key':_0xdf96f3(0x1dc),'value':function(){var _0x48aca8=_0xdf96f3,_0x1d8b20=this;this[_0x48aca8(0x1bd)]&&this[_0x48aca8(0x1bd)][_0x48aca8(0x411)]&&(this['elems']['background'][_0x48aca8(0x252)][_0x48aca8(0x331)]=0x0,this[_0x48aca8(0x1bd)][_0x48aca8(0x411)][_0x48aca8(0x252)][_0x48aca8(0x331)]=0x0,this['elems'][_0x48aca8(0x411)]['style']['transform']=_0x48aca8(0x2fa),setTimeout(function(){var _0x1605f8=_0x48aca8;_0x1d8b20[_0x1605f8(0x1e2)](_0x1d8b20[_0x1605f8(0x1bd)][_0x1605f8(0x4ef)]),_0x1d8b20[_0x1605f8(0x1e2)](_0x1d8b20['elems'][_0x1605f8(0x411)]);},0xfa));}},{'key':'removeElement','value':function(_0x357520){var _0x5e9e67=_0xdf96f3;_0x357520&&_0x357520[_0x5e9e67(0x31b)]&&_0x357520['parentNode'][_0x5e9e67(0x3c8)](_0x357520);}},{'key':'addTouchHandler','value':function(_0x51ded6,_0x356547){var _0x5c3d25=_0xdf96f3,_0x29df3f=function(_0x27973c){var _0x47d775=a3_0x4871;'input'!=_0x27973c[_0x47d775(0x278)][_0x47d775(0x29c)]['toLowerCase']()&&_0x27973c['preventDefault'](),_0x27973c[_0x47d775(0x278)]==_0x51ded6&&_0x356547();};this[_0x5c3d25(0x1bd)]['container']['addEventListener'](_0x5c3d25(0x4ed),_0x29df3f,!0x0),this[_0x5c3d25(0x1bd)][_0x5c3d25(0x411)][_0x5c3d25(0x440)](_0x5c3d25(0x2f4),_0x29df3f,!0x0);}},{'key':_0xdf96f3(0x2d2),'value':function(_0x589074){var _0x190c80=_0xdf96f3;if(0xd==_0x589074['keyCode']){for(var _0x28b22c=0x0;_0x28b22c<this[_0x190c80(0x216)][_0x190c80(0x50a)];_0x28b22c++)if('default'==this['buttons'][_0x28b22c][_0x190c80(0x21e)])return this[_0x190c80(0x1e5)](this[_0x190c80(0x216)][_0x28b22c][_0x190c80(0x4d0)]),_0x589074[_0x190c80(0x4c9)](),void(this['buttons'][_0x28b22c][_0x190c80(0x22a)]&&this[_0x190c80(0x216)][_0x28b22c][_0x190c80(0x22a)](this['result']));return this[_0x190c80(0x3af)]=!0x0,void this[_0x190c80(0x1e5)]();}if(0x1b==_0x589074[_0x190c80(0x201)]){if(!this[_0x190c80(0x4ea)])return;for(this[_0x190c80(0x3af)]=!0x0,this[_0x190c80(0x247)]=null,_0x28b22c=0x0;_0x28b22c<this[_0x190c80(0x216)][_0x190c80(0x50a)];_0x28b22c++)if('cancel'==this[_0x190c80(0x216)][_0x28b22c][_0x190c80(0x21e)])return this['dismiss'](this['buttons'][_0x28b22c][_0x190c80(0x4d0)]),_0x589074[_0x190c80(0x4c9)](),void(this[_0x190c80(0x216)][_0x28b22c][_0x190c80(0x22a)]&&this['buttons'][_0x28b22c][_0x190c80(0x22a)](this[_0x190c80(0x247)]));return this[_0x190c80(0x3af)]=!0x0,void this['dismiss']();}}}]),_0xef9ab5;}(_0x2ba41f[_0x20b76c(0x276)]);_0x2cbc3f[_0x20b76c(0x276)]=_0x525751,_0x525751['Icons']=_0x287b08['default'],_0x525751[_0x20b76c(0x3d3)]=new _0x1f33d4['default'](),_0x525751[_0x20b76c(0x3bc)]=_0x1f33d4['default'],_0x525751[_0x20b76c(0x52d)]=_0x2ba41f[_0x20b76c(0x276)],_0x5995be[_0x20b76c(0x361)]=_0x2cbc3f['default'];},0x3a1:(_0x1aadd7,_0xa99ea5,_0x2a5f0a)=>{'use strict';var _0x5ae198=a3_0x4871;Object[_0x5ae198(0x3e6)](_0xa99ea5,_0x5ae198(0x3b8),{'value':!0x0});var _0x17229c,_0x46273c=(function(){function _0x5349e0(_0x342443,_0x282f1a){var _0x2fc83c=a3_0x4871;for(var _0x505590=0x0;_0x505590<_0x282f1a[_0x2fc83c(0x50a)];_0x505590++){var _0x113e8a=_0x282f1a[_0x505590];_0x113e8a['enumerable']=_0x113e8a['enumerable']||!0x1,_0x113e8a['configurable']=!0x0,_0x2fc83c(0x4d0)in _0x113e8a&&(_0x113e8a[_0x2fc83c(0x3f9)]=!0x0),Object['defineProperty'](_0x342443,_0x113e8a[_0x2fc83c(0x426)],_0x113e8a);}}return function(_0x330610,_0x3ae915,_0x1485a7){var _0x161443=a3_0x4871;return _0x3ae915&&_0x5349e0(_0x330610[_0x161443(0x186)],_0x3ae915),_0x1485a7&&_0x5349e0(_0x330610,_0x1485a7),_0x330610;};}()),_0x1594e1=function(_0x200c9a){var _0x2967c3=_0x5ae198;function _0x423b55(){var _0x33c454=a3_0x4871;!function(_0x4e7316,_0x58befe){var _0x26d38f=a3_0x4871;if(!(_0x4e7316 instanceof _0x58befe))throw new TypeError(_0x26d38f(0x367));}(this,_0x423b55);var _0x89b129=function(_0x3b7bfd,_0x1d441c){var _0x5dc844=a3_0x4871;if(!_0x3b7bfd)throw new ReferenceError(_0x5dc844(0x41f));return!_0x1d441c||_0x5dc844(0x538)!=typeof _0x1d441c&&_0x5dc844(0x4fe)!=typeof _0x1d441c?_0x3b7bfd:_0x1d441c;}(this,Object[_0x33c454(0x25f)](_0x423b55)[_0x33c454(0x508)](this));return _0x89b129['items']=[],_0x89b129[_0x33c454(0x40e)]=null,_0x89b129;}return function(_0xe584ca,_0x26841b){var _0x1f0a4d=a3_0x4871;if('function'!=typeof _0x26841b&&null!==_0x26841b)throw new TypeError(_0x1f0a4d(0x3b4)+typeof _0x26841b);_0xe584ca[_0x1f0a4d(0x186)]=Object['create'](_0x26841b&&_0x26841b[_0x1f0a4d(0x186)],{'constructor':{'value':_0xe584ca,'enumerable':!0x1,'writable':!0x0,'configurable':!0x0}}),_0x26841b&&(Object[_0x1f0a4d(0x280)]?Object[_0x1f0a4d(0x280)](_0xe584ca,_0x26841b):_0xe584ca[_0x1f0a4d(0x1b1)]=_0x26841b);}(_0x423b55,_0x200c9a),_0x46273c(_0x423b55,[{'key':'add','value':function(_0x2c62cb){var _0x202fb1=this;return new Promise(function(_0x3c616d,_0x788927){var _0x5ebb7a=a3_0x4871;_0x202fb1[_0x5ebb7a(0x3c4)][_0x5ebb7a(0x36a)]({'item':_0x2c62cb,'activateHandler':_0x3c616d}),_0x202fb1['emit']('added',_0x2c62cb),setTimeout(_0x202fb1['checkActivated']['bind'](_0x202fb1),0x1);});}},{'key':_0x2967c3(0x215),'value':function(){var _0x21cea1=_0x2967c3;if(!this[_0x21cea1(0x40e)]){if(0x0!=this[_0x21cea1(0x3c4)][_0x21cea1(0x50a)]){this[_0x21cea1(0x40e)]=this[_0x21cea1(0x3c4)][0x0];var _0x18b652={'item':this[_0x21cea1(0x40e)][_0x21cea1(0x41e)]};this[_0x21cea1(0x40e)][_0x21cea1(0x434)]&&this['current'][_0x21cea1(0x434)](_0x18b652),this[_0x21cea1(0x4c2)](_0x21cea1(0x358),_0x18b652);}else this[_0x21cea1(0x4c2)](_0x21cea1(0x325));}}},{'key':'remove','value':function(_0xed6bef){var _0x37a00b=_0x2967c3;for(var _0xe42f3e=0x0;_0xe42f3e<this[_0x37a00b(0x3c4)][_0x37a00b(0x50a)];_0xe42f3e++)this[_0x37a00b(0x3c4)][_0xe42f3e][_0x37a00b(0x41e)]==_0xed6bef&&this[_0x37a00b(0x3c4)][_0x37a00b(0x51c)](_0xe42f3e--,0x1);this[_0x37a00b(0x4c2)](_0x37a00b(0x187),_0xed6bef),this[_0x37a00b(0x40e)]&&this[_0x37a00b(0x40e)]['item']==_0xed6bef&&(this['current']=null),setTimeout(this['checkActivated'][_0x37a00b(0x3c0)](this),0x1);}}]),_0x423b55;}(((_0x17229c=_0x2a5f0a(0x32b))&&_0x17229c[_0x5ae198(0x3b8)]?_0x17229c:{'default':_0x17229c})[_0x5ae198(0x276)]);_0xa99ea5[_0x5ae198(0x276)]=_0x1594e1,_0x1aadd7[_0x5ae198(0x361)]=_0xa99ea5[_0x5ae198(0x276)];},0xf5:()=>{!function(_0x49a5eb){var _0x56ec39={};function _0x387280(_0x514fe3){var _0x57706a=a3_0x4871;if(_0x56ec39[_0x514fe3])return _0x56ec39[_0x514fe3][_0x57706a(0x361)];var _0x57d46d=_0x56ec39[_0x514fe3]={'i':_0x514fe3,'l':!0x1,'exports':{}};return _0x49a5eb[_0x514fe3][_0x57706a(0x508)](_0x57d46d['exports'],_0x57d46d,_0x57d46d[_0x57706a(0x361)],_0x387280),_0x57d46d['l']=!0x0,_0x57d46d[_0x57706a(0x361)];}_0x387280['m']=_0x49a5eb,_0x387280['c']=_0x56ec39,_0x387280['d']=function(_0x15c150,_0x5c6a99,_0x50f748){var _0x2a8ff5=a3_0x4871;_0x387280['o'](_0x15c150,_0x5c6a99)||Object[_0x2a8ff5(0x3e6)](_0x15c150,_0x5c6a99,{'enumerable':!0x0,'get':_0x50f748});},_0x387280['r']=function(_0x4b4777){var _0x3d893e=a3_0x4871;_0x3d893e(0x229)!=typeof Symbol&&Symbol[_0x3d893e(0x224)]&&Object[_0x3d893e(0x3e6)](_0x4b4777,Symbol['toStringTag'],{'value':_0x3d893e(0x464)}),Object[_0x3d893e(0x3e6)](_0x4b4777,_0x3d893e(0x3b8),{'value':!0x0});},_0x387280['t']=function(_0x33cca3,_0x3f4118){var _0x1118bc=a3_0x4871;if(0x1&_0x3f4118&&(_0x33cca3=_0x387280(_0x33cca3)),0x8&_0x3f4118)return _0x33cca3;if(0x4&_0x3f4118&&'object'==typeof _0x33cca3&&_0x33cca3&&_0x33cca3[_0x1118bc(0x3b8)])return _0x33cca3;var _0x1b670a=Object[_0x1118bc(0x302)](null);if(_0x387280['r'](_0x1b670a),Object[_0x1118bc(0x3e6)](_0x1b670a,'default',{'enumerable':!0x0,'value':_0x33cca3}),0x2&_0x3f4118&&_0x1118bc(0x383)!=typeof _0x33cca3){for(var _0xb8d6b4 in _0x33cca3)_0x387280['d'](_0x1b670a,_0xb8d6b4,function(_0x4e7cad){return _0x33cca3[_0x4e7cad];}[_0x1118bc(0x3c0)](null,_0xb8d6b4));}return _0x1b670a;},_0x387280['n']=function(_0x32ad4e){var _0x48ba64=a3_0x4871,_0x26d81a=_0x32ad4e&&_0x32ad4e[_0x48ba64(0x3b8)]?function(){var _0xcce369=_0x48ba64;return _0x32ad4e[_0xcce369(0x276)];}:function(){return _0x32ad4e;};return _0x387280['d'](_0x26d81a,'a',_0x26d81a),_0x26d81a;},_0x387280['o']=function(_0x5c8361,_0x2889ef){var _0x1f5f74=a3_0x4871;return Object[_0x1f5f74(0x186)][_0x1f5f74(0x344)]['call'](_0x5c8361,_0x2889ef);},_0x387280['p']='',_0x387280(_0x387280['s']=0x0);}([function(_0x51fd37,_0x19a90d,_0xd5a4ed){var _0x598817=a3_0x4871;_0x51fd37[_0x598817(0x361)]=_0xd5a4ed(0x1);},function(_0x106eb3,_0x3a4055){var _0x3a844c=a3_0x4871,_0x36120c=(function(){var _0x35814d=a3_0x4871;function _0xa81b79(){var _0x8e1bba=a3_0x4871;!function(_0x442962,_0x284ccc){var _0x2601e3=a3_0x4871;if(!(_0x442962 instanceof _0x284ccc))throw new TypeError(_0x2601e3(0x367));}(this,_0xa81b79),this[_0x8e1bba(0x4c3)]={'overlayBackgroundColor':'#666666','overlayOpacity':0.6,'spinnerIcon':_0x8e1bba(0x40d),'spinnerColor':_0x8e1bba(0x17a),'spinnerSize':'3x','overlayIDName':_0x8e1bba(0x31c),'spinnerIDName':_0x8e1bba(0x3be),'offsetY':0x0,'offsetX':0x0,'lockScroll':!0x1,'containerID':null,'spinnerZIndex':0x1869f,'overlayZIndex':0x1869e},this['stylesheetBaseURL']=_0x8e1bba(0x39c),this['spinner']=null,this['spinnerStylesheetURL']=null,this[_0x8e1bba(0x4f5)]={'ball-8bits':0x10,'ball-atom':0x4,'ball-beat':0x3,'ball-circus':0x5,'ball-climbing-dot':0x1,'ball-clip-rotate':0x1,'ball-clip-rotate-multiple':0x2,'ball-clip-rotate-pulse':0x2,'ball-elastic-dots':0x5,'ball-fall':0x3,'ball-fussion':0x4,'ball-grid-beat':0x9,'ball-grid-pulse':0x9,'ball-newton-cradle':0x4,'ball-pulse':0x3,'ball-pulse-rise':0x5,'ball-pulse-sync':0x3,'ball-rotate':0x1,'ball-running-dots':0x5,'ball-scale':0x1,'ball-scale-multiple':0x3,'ball-scale-pulse':0x2,'ball-scale-ripple':0x1,'ball-scale-ripple-multiple':0x3,'ball-spin':0x8,'ball-spin-clockwise':0x8,'ball-spin-clockwise-fade':0x8,'ball-spin-clockwise-fade-rotating':0x8,'ball-spin-fade':0x8,'ball-spin-fade-rotating':0x8,'ball-spin-rotate':0x2,'ball-square-clockwise-spin':0x8,'ball-square-spin':0x8,'ball-triangle-path':0x3,'ball-zig-zag':0x2,'ball-zig-zag-deflect':0x2,'cog':0x1,'cube-transition':0x2,'fire':0x3,'line-scale':0x5,'line-scale-party':0x5,'line-scale-pulse-out':0x5,'line-scale-pulse-out-rapid':0x5,'line-spin-clockwise-fade':0x8,'line-spin-clockwise-fade-rotating':0x8,'line-spin-fade':0x8,'line-spin-fade-rotating':0x8,'pacman':0x6,'square-jelly-box':0x2,'square-loader':0x1,'square-spin':0x1,'timer':0x1,'triangle-skew-spin':0x1};}var _0x128ce2;return(_0x128ce2=[{'key':_0x35814d(0x3ee),'value':function(_0xb9fac8){var _0x483598=_0x35814d;this[_0x483598(0x195)](_0xb9fac8),this['addSpinnerStylesheet'](),this[_0x483598(0x403)](),this[_0x483598(0x4c3)][_0x483598(0x297)]&&(document['body'][_0x483598(0x252)]['overflow']='hidden',document[_0x483598(0x1d6)][_0x483598(0x252)][_0x483598(0x291)]=_0x483598(0x3a4)),this[_0x483598(0x50c)]();}},{'key':_0x35814d(0x2ec),'value':function(){var _0x6051a9=_0x35814d;this[_0x6051a9(0x4c3)][_0x6051a9(0x297)]&&(document['body'][_0x6051a9(0x252)][_0x6051a9(0x291)]='',document[_0x6051a9(0x1d6)]['style'][_0x6051a9(0x291)]='');var _0x3ca89b=document[_0x6051a9(0x312)](_0x6051a9(0x433));_0x3ca89b&&(_0x3ca89b[_0x6051a9(0x4f6)]=!0x0,_0x3ca89b[_0x6051a9(0x31b)][_0x6051a9(0x3c8)](_0x3ca89b),document[_0x6051a9(0x312)](this[_0x6051a9(0x4c3)][_0x6051a9(0x1af)])['remove'](),document['getElementById'](this[_0x6051a9(0x4c3)][_0x6051a9(0x19a)])['remove']());}},{'key':_0x35814d(0x195),'value':function(_0x13587f){var _0x10e45e=_0x35814d;if(void 0x0!==_0x13587f){for(var _0x1ece2f in _0x13587f)this[_0x10e45e(0x4c3)][_0x1ece2f]=_0x13587f[_0x1ece2f];}}},{'key':_0x35814d(0x50c),'value':function(){var _0x57a79c=_0x35814d,_0x5e25dd='50%';0x0!==this[_0x57a79c(0x4c3)][_0x57a79c(0x43e)]&&(_0x5e25dd='calc(50%\x20+\x20'+this[_0x57a79c(0x4c3)][_0x57a79c(0x43e)]+')');var _0x5a23e3=_0x57a79c(0x51b);if(0x0!==this[_0x57a79c(0x4c3)][_0x57a79c(0x342)]&&(_0x5a23e3='calc(50%\x20+\x20'+this[_0x57a79c(0x4c3)][_0x57a79c(0x342)]+')'),this[_0x57a79c(0x4c3)][_0x57a79c(0x3ea)]&&document['body']['contains'](document[_0x57a79c(0x312)](this[_0x57a79c(0x4c3)][_0x57a79c(0x3ea)]))){var _0x30e705=_0x57a79c(0x369)[_0x57a79c(0x335)](this['options'][_0x57a79c(0x1af)],_0x57a79c(0x19b))['concat'](this[_0x57a79c(0x4c3)][_0x57a79c(0x318)],_0x57a79c(0x21a))[_0x57a79c(0x335)](this[_0x57a79c(0x4c3)][_0x57a79c(0x42c)],_0x57a79c(0x27d))[_0x57a79c(0x335)](this['options'][_0x57a79c(0x19a)],'\x22\x20style=\x22display:\x20block\x20!important;\x20position:\x20absolute;\x20top:\x20')[_0x57a79c(0x335)](_0x5a23e3,_0x57a79c(0x485))[_0x57a79c(0x335)](_0x5e25dd,_0x57a79c(0x25b))[_0x57a79c(0x335)](this['spinner'],_0x57a79c(0x23e)),_0x1d4fa7=document['getElementById'](this[_0x57a79c(0x4c3)]['containerID']);return _0x1d4fa7[_0x57a79c(0x252)]['position']='relative',void _0x1d4fa7[_0x57a79c(0x32b)](_0x57a79c(0x375),_0x30e705);}var _0x46222d=_0x57a79c(0x369)[_0x57a79c(0x335)](this[_0x57a79c(0x4c3)][_0x57a79c(0x1af)],_0x57a79c(0x1e3))[_0x57a79c(0x335)](this[_0x57a79c(0x4c3)][_0x57a79c(0x318)],_0x57a79c(0x21a))[_0x57a79c(0x335)](this['options']['overlayBackgroundColor'],_0x57a79c(0x517))[_0x57a79c(0x335)](this[_0x57a79c(0x4c3)][_0x57a79c(0x2aa)],_0x57a79c(0x2a8))['concat'](this['options'][_0x57a79c(0x19a)],_0x57a79c(0x1f7))['concat'](_0x5a23e3,_0x57a79c(0x485))[_0x57a79c(0x335)](_0x5e25dd,';\x20-webkit-transform:\x20translate(-50%);\x20-ms-transform:\x20translate(-50%);\x20transform:\x20translate(-50%);\x20z-index:\x20')[_0x57a79c(0x335)](this[_0x57a79c(0x4c3)][_0x57a79c(0x2be)],_0x57a79c(0x212))[_0x57a79c(0x335)](this['spinner'],'</div>');document[_0x57a79c(0x3fa)][_0x57a79c(0x32b)]('beforeend',_0x46222d);}},{'key':'generateSpinnerElement','value':function(){var _0x1a36ba=_0x35814d,_0x2983c3=this,_0x502f99=Object[_0x1a36ba(0x1eb)](this[_0x1a36ba(0x4f5)])['find'](function(_0x15c791){var _0x44c406=_0x1a36ba;return _0x15c791===_0x2983c3['options'][_0x44c406(0x21c)];}),_0x417012=this[_0x1a36ba(0x53f)](this[_0x1a36ba(0x4f5)][_0x502f99]);this[_0x1a36ba(0x3be)]='<div\x20style=\x22color:\x20'[_0x1a36ba(0x335)](this[_0x1a36ba(0x4c3)][_0x1a36ba(0x28a)],'\x22\x20class=\x22la-')['concat'](this['options']['spinnerIcon'],'\x20la-')[_0x1a36ba(0x335)](this[_0x1a36ba(0x4c3)][_0x1a36ba(0x458)],'\x22>')[_0x1a36ba(0x335)](_0x417012,'</div>');}},{'key':_0x35814d(0x4e0),'value':function(){var _0x81d9c7=_0x35814d;this[_0x81d9c7(0x275)]();var _0x12df61=document['createElement'](_0x81d9c7(0x2df));_0x12df61[_0x81d9c7(0x1c2)]('id','loading-overlay-stylesheet'),_0x12df61['setAttribute'](_0x81d9c7(0x457),'stylesheet'),_0x12df61[_0x81d9c7(0x1c2)]('type',_0x81d9c7(0x4d2)),_0x12df61[_0x81d9c7(0x1c2)](_0x81d9c7(0x3a5),this['spinnerStylesheetURL']),document['getElementsByTagName'](_0x81d9c7(0x4f1))[0x0][_0x81d9c7(0x244)](_0x12df61);}},{'key':_0x35814d(0x275),'value':function(){var _0x4b8e7b=_0x35814d;this[_0x4b8e7b(0x203)]=this[_0x4b8e7b(0x2b8)]+this[_0x4b8e7b(0x4c3)][_0x4b8e7b(0x21c)]+_0x4b8e7b(0x392);}},{'key':_0x35814d(0x53f),'value':function(_0x197079){var _0x21c041=_0x35814d;for(var _0x466b32='',_0x2c6b24=0x1;_0x2c6b24<=_0x197079;_0x2c6b24++)_0x466b32+=_0x21c041(0x218);return _0x466b32;}}])&&function(_0x2be78b,_0x3ab8f2){var _0x368f8f=_0x35814d;for(var _0x2b3828=0x0;_0x2b3828<_0x3ab8f2[_0x368f8f(0x50a)];_0x2b3828++){var _0x892fb=_0x3ab8f2[_0x2b3828];_0x892fb[_0x368f8f(0x2de)]=_0x892fb['enumerable']||!0x1,_0x892fb[_0x368f8f(0x1a6)]=!0x0,_0x368f8f(0x4d0)in _0x892fb&&(_0x892fb['writable']=!0x0),Object[_0x368f8f(0x3e6)](_0x2be78b,_0x892fb['key'],_0x892fb);}}(_0xa81b79[_0x35814d(0x186)],_0x128ce2),_0xa81b79;}());window[_0x3a844c(0x41a)]=new _0x36120c(),_0x106eb3['exports']=JsLoadingOverlay;}]);},0x17b:_0x1c1c2f=>{'use strict';var _0x109b28=[];function _0x20554a(_0x446335){var _0x3e51c9=a3_0x4871;for(var _0x33009d=-0x1,_0x22d5f9=0x0;_0x22d5f9<_0x109b28[_0x3e51c9(0x50a)];_0x22d5f9++)if(_0x109b28[_0x22d5f9][_0x3e51c9(0x49c)]===_0x446335){_0x33009d=_0x22d5f9;break;}return _0x33009d;}function _0x30e537(_0x43409a,_0x302641){var _0x16ba93=a3_0x4871;for(var _0xa6e059={},_0x58f1a1=[],_0x30f139=0x0;_0x30f139<_0x43409a[_0x16ba93(0x50a)];_0x30f139++){var _0x455710=_0x43409a[_0x30f139],_0x975cc7=_0x302641[_0x16ba93(0x3e8)]?_0x455710[0x0]+_0x302641[_0x16ba93(0x3e8)]:_0x455710[0x0],_0x27ae=_0xa6e059[_0x975cc7]||0x0,_0x10a37a=''[_0x16ba93(0x335)](_0x975cc7,'\x20')['concat'](_0x27ae);_0xa6e059[_0x975cc7]=_0x27ae+0x1;var _0x440ce3=_0x20554a(_0x10a37a),_0x5ceef3={'css':_0x455710[0x1],'media':_0x455710[0x2],'sourceMap':_0x455710[0x3],'supports':_0x455710[0x4],'layer':_0x455710[0x5]};if(-0x1!==_0x440ce3)_0x109b28[_0x440ce3]['references']++,_0x109b28[_0x440ce3][_0x16ba93(0x50b)](_0x5ceef3);else{var _0x18ff93=_0x18953d(_0x5ceef3,_0x302641);_0x302641[_0x16ba93(0x1c4)]=_0x30f139,_0x109b28[_0x16ba93(0x51c)](_0x30f139,0x0,{'identifier':_0x10a37a,'updater':_0x18ff93,'references':0x1});}_0x58f1a1['push'](_0x10a37a);}return _0x58f1a1;}function _0x18953d(_0x35885c,_0x4977d9){var _0x294ab5=a3_0x4871,_0x5bdcd5=_0x4977d9[_0x294ab5(0x243)](_0x4977d9);return _0x5bdcd5['update'](_0x35885c),function(_0x4c918a){var _0x216cad=_0x294ab5;if(_0x4c918a){if(_0x4c918a['css']===_0x35885c[_0x216cad(0x1df)]&&_0x4c918a['media']===_0x35885c[_0x216cad(0x37a)]&&_0x4c918a[_0x216cad(0x262)]===_0x35885c['sourceMap']&&_0x4c918a[_0x216cad(0x2dd)]===_0x35885c['supports']&&_0x4c918a[_0x216cad(0x24a)]===_0x35885c[_0x216cad(0x24a)])return;_0x5bdcd5['update'](_0x35885c=_0x4c918a);}else _0x5bdcd5['remove']();};}_0x1c1c2f['exports']=function(_0x3de47d,_0x2ffbe8){var _0x4b50ff=_0x30e537(_0x3de47d=_0x3de47d||[],_0x2ffbe8=_0x2ffbe8||{});return function(_0x2fc95d){var _0x96a93d=a3_0x4871;_0x2fc95d=_0x2fc95d||[];for(var _0x5dd554=0x0;_0x5dd554<_0x4b50ff[_0x96a93d(0x50a)];_0x5dd554++){var _0x48576e=_0x20554a(_0x4b50ff[_0x5dd554]);_0x109b28[_0x48576e][_0x96a93d(0x1ff)]--;}for(var _0x37b24c=_0x30e537(_0x2fc95d,_0x2ffbe8),_0x314f36=0x0;_0x314f36<_0x4b50ff['length'];_0x314f36++){var _0x2535d0=_0x20554a(_0x4b50ff[_0x314f36]);0x0===_0x109b28[_0x2535d0][_0x96a93d(0x1ff)]&&(_0x109b28[_0x2535d0]['updater'](),_0x109b28['splice'](_0x2535d0,0x1));}_0x4b50ff=_0x37b24c;};};},0x239:_0x47e4b4=>{'use strict';var _0x2c79f4=a3_0x4871;var _0x46c5b0={};_0x47e4b4[_0x2c79f4(0x361)]=function(_0x4040ca,_0x5f480c){var _0x182a9c=_0x2c79f4,_0x104460=function(_0x509dc0){var _0x2b8146=a3_0x4871;if(void 0x0===_0x46c5b0[_0x509dc0]){var _0x383ca8=document[_0x2b8146(0x2b7)](_0x509dc0);if(window[_0x2b8146(0x1f3)]&&_0x383ca8 instanceof window['HTMLIFrameElement'])try{_0x383ca8=_0x383ca8[_0x2b8146(0x52b)]['head'];}catch(_0x33ee0c){_0x383ca8=null;}_0x46c5b0[_0x509dc0]=_0x383ca8;}return _0x46c5b0[_0x509dc0];}(_0x4040ca);if(!_0x104460)throw new Error(_0x182a9c(0x53b));_0x104460[_0x182a9c(0x244)](_0x5f480c);};},0xd8:_0xb05f4e=>{'use strict';var _0x2f7580=a3_0x4871;_0xb05f4e[_0x2f7580(0x361)]=function(_0x5effc1){var _0x28c064=_0x2f7580,_0x299a12=document[_0x28c064(0x53e)](_0x28c064(0x252));return _0x5effc1[_0x28c064(0x519)](_0x299a12,_0x5effc1['attributes']),_0x5effc1['insert'](_0x299a12,_0x5effc1[_0x28c064(0x4c3)]),_0x299a12;};},0x235:(_0x10e52c,_0x5c4188,_0x4f5f8a)=>{'use strict';var _0x3638d3=a3_0x4871;_0x10e52c[_0x3638d3(0x361)]=function(_0xe0af05){var _0x1cb0d8=_0x3638d3,_0x44f17b=_0x4f5f8a['nc'];_0x44f17b&&_0xe0af05[_0x1cb0d8(0x1c2)](_0x1cb0d8(0x494),_0x44f17b);};},0x31b:_0x43cf58=>{'use strict';_0x43cf58['exports']=function(_0x46fc35){var _0xc568b2=a3_0x4871,_0x42b1a3=_0x46fc35[_0xc568b2(0x4ab)](_0x46fc35);return{'update':function(_0x2f4335){!function(_0x3e9a05,_0x3a83f6,_0x29bd77){var _0x114c1b=a3_0x4871,_0x43e633='';_0x29bd77[_0x114c1b(0x2dd)]&&(_0x43e633+=_0x114c1b(0x50e)[_0x114c1b(0x335)](_0x29bd77[_0x114c1b(0x2dd)],_0x114c1b(0x349))),_0x29bd77[_0x114c1b(0x37a)]&&(_0x43e633+=_0x114c1b(0x19d)[_0x114c1b(0x335)](_0x29bd77[_0x114c1b(0x37a)],'\x20{'));var _0x5be445=void 0x0!==_0x29bd77[_0x114c1b(0x24a)];_0x5be445&&(_0x43e633+=_0x114c1b(0x2b3)[_0x114c1b(0x335)](_0x29bd77['layer'][_0x114c1b(0x50a)]>0x0?'\x20'[_0x114c1b(0x335)](_0x29bd77[_0x114c1b(0x24a)]):'','\x20{')),_0x43e633+=_0x29bd77[_0x114c1b(0x1df)],_0x5be445&&(_0x43e633+='}'),_0x29bd77['media']&&(_0x43e633+='}'),_0x29bd77[_0x114c1b(0x2dd)]&&(_0x43e633+='}');var _0xc83d5f=_0x29bd77[_0x114c1b(0x262)];_0xc83d5f&&_0x114c1b(0x229)!=typeof btoa&&(_0x43e633+='\x0a/*#\x20sourceMappingURL=data:application/json;base64,'['concat'](btoa(unescape(encodeURIComponent(JSON[_0x114c1b(0x402)](_0xc83d5f)))),'\x20*/')),_0x3a83f6[_0x114c1b(0x2b9)](_0x43e633,_0x3e9a05,_0x3a83f6[_0x114c1b(0x4c3)]);}(_0x42b1a3,_0x46fc35,_0x2f4335);},'remove':function(){!function(_0x1c2139){if(null===_0x1c2139['parentNode'])return!0x1;_0x1c2139['parentNode']['removeChild'](_0x1c2139);}(_0x42b1a3);}};};},0x24d:_0x322870=>{'use strict';var _0x2743e2=a3_0x4871;_0x322870[_0x2743e2(0x361)]=function(_0x36834b,_0x2e4f06){var _0x1c05e3=_0x2743e2;if(_0x2e4f06[_0x1c05e3(0x4a8)])_0x2e4f06[_0x1c05e3(0x4a8)][_0x1c05e3(0x1f8)]=_0x36834b;else{for(;_0x2e4f06[_0x1c05e3(0x298)];)_0x2e4f06[_0x1c05e3(0x3c8)](_0x2e4f06[_0x1c05e3(0x298)]);_0x2e4f06[_0x1c05e3(0x244)](document[_0x1c05e3(0x2e0)](_0x36834b));}};},0x348:(_0x1cc73b,_0x4d888d,_0x5b2c87)=>{var _0x1d0416=a3_0x4871,_0x157389;if(_0x1d0416(0x538)==typeof globalThis)_0x157389=globalThis;else try{_0x157389=_0x5b2c87(0x11c);}catch(_0x1a3091){}finally{if(_0x157389||_0x1d0416(0x229)==typeof window||(_0x157389=window),!_0x157389)throw new Error('Could\x20not\x20determine\x20global\x20this');}var _0x5b3892=_0x157389['WebSocket']||_0x157389[_0x1d0416(0x371)],_0x4667a0=_0x5b2c87(0x183);function _0x2e98d9(_0x421f59,_0x49b5ba){return _0x49b5ba?new _0x5b3892(_0x421f59,_0x49b5ba):new _0x5b3892(_0x421f59);}_0x5b3892&&[_0x1d0416(0x205),_0x1d0416(0x4a3),_0x1d0416(0x347),_0x1d0416(0x204)][_0x1d0416(0x2b0)](function(_0x5c666e){Object['defineProperty'](_0x2e98d9,_0x5c666e,{'get':function(){return _0x5b3892[_0x5c666e];}});}),_0x1cc73b[_0x1d0416(0x361)]={'w3cwebsocket':_0x5b3892?_0x2e98d9:null,'version':_0x4667a0};},0x183:(_0x1c7c16,_0x1c2541,_0x3431e8)=>{var _0x2263aa=a3_0x4871;_0x1c7c16[_0x2263aa(0x361)]=_0x3431e8(0x31a)[_0x2263aa(0x196)];},0x259:_0x29d83b=>{'use strict';var _0x182874=a3_0x4871;_0x29d83b['exports']=_0x182874(0x544);},0x85:_0x2b4bbf=>{'use strict';var _0xc951de=a3_0x4871;_0x2b4bbf['exports']=_0xc951de(0x436);},0x2ae:_0x2bdb64=>{'use strict';var _0x5bb4e6=a3_0x4871;_0x2bdb64[_0x5bb4e6(0x361)]=_0x5bb4e6(0x4e5);},0x38d:_0x2f21a2=>{'use strict';var _0x1682ea=a3_0x4871;_0x2f21a2['exports']=_0x1682ea(0x320);},0x31a:_0x4feb79=>{'use strict';var _0x5abeb2=a3_0x4871;_0x4feb79[_0x5abeb2(0x361)]={'version':_0x5abeb2(0x1a9)};}},_0x3086a8={};function _0x5d9274(_0xdc7dc8){var _0x5bc5c6=a3_0x4871,_0x13edc8=_0x3086a8[_0xdc7dc8];if(void 0x0!==_0x13edc8)return _0x13edc8[_0x5bc5c6(0x361)];var _0x22733b=_0x3086a8[_0xdc7dc8]={'id':_0xdc7dc8,'exports':{}};return _0x4ae36f[_0xdc7dc8][_0x5bc5c6(0x508)](_0x22733b[_0x5bc5c6(0x361)],_0x22733b,_0x22733b[_0x5bc5c6(0x361)],_0x5d9274),_0x22733b[_0x5bc5c6(0x361)];}_0x5d9274['m']=_0x4ae36f,_0x5d9274['n']=_0x2de9f8=>{var _0x2a5af0=a3_0x4871,_0x4e6d58=_0x2de9f8&&_0x2de9f8[_0x2a5af0(0x3b8)]?()=>_0x2de9f8['default']:()=>_0x2de9f8;return _0x5d9274['d'](_0x4e6d58,{'a':_0x4e6d58}),_0x4e6d58;},_0x32c2d8=Object['getPrototypeOf']?_0x8f98ef=>Object[_0x5cc488(0x25f)](_0x8f98ef):_0x40c5cd=>_0x40c5cd[_0x5cc488(0x1b1)],_0x5d9274['t']=function(_0x2be58e,_0x39c030){var _0x15a66f=_0x5cc488;if(0x1&_0x39c030&&(_0x2be58e=this(_0x2be58e)),0x8&_0x39c030)return _0x2be58e;if(_0x15a66f(0x538)==typeof _0x2be58e&&_0x2be58e){if(0x4&_0x39c030&&_0x2be58e['__esModule'])return _0x2be58e;if(0x10&_0x39c030&&'function'==typeof _0x2be58e[_0x15a66f(0x2a2)])return _0x2be58e;}var _0x5776cb=Object['create'](null);_0x5d9274['r'](_0x5776cb);var _0x5cde45={};_0x1755d1=_0x1755d1||[null,_0x32c2d8({}),_0x32c2d8([]),_0x32c2d8(_0x32c2d8)];for(var _0xd406bc=0x2&_0x39c030&&_0x2be58e;_0x15a66f(0x538)==typeof _0xd406bc&&!~_0x1755d1[_0x15a66f(0x209)](_0xd406bc);_0xd406bc=_0x32c2d8(_0xd406bc))Object[_0x15a66f(0x3dd)](_0xd406bc)[_0x15a66f(0x2b0)](_0x4241c3=>_0x5cde45[_0x4241c3]=()=>_0x2be58e[_0x4241c3]);return _0x5cde45[_0x15a66f(0x276)]=()=>_0x2be58e,_0x5d9274['d'](_0x5776cb,_0x5cde45),_0x5776cb;},_0x5d9274['d']=(_0x4458aa,_0x11ebd5)=>{var _0xf23baa=_0x5cc488;for(var _0x33cd2c in _0x11ebd5)_0x5d9274['o'](_0x11ebd5,_0x33cd2c)&&!_0x5d9274['o'](_0x4458aa,_0x33cd2c)&&Object[_0xf23baa(0x3e6)](_0x4458aa,_0x33cd2c,{'enumerable':!0x0,'get':_0x11ebd5[_0x33cd2c]});},_0x5d9274['f']={},_0x5d9274['e']=_0x4d6320=>Promise[_0x5cc488(0x28f)](Object[_0x5cc488(0x1eb)](_0x5d9274['f'])[_0x5cc488(0x450)]((_0x1a8d24,_0x4801d6)=>(_0x5d9274['f'][_0x4801d6](_0x4d6320,_0x1a8d24),_0x1a8d24),[])),_0x5d9274['u']=_0x350c3c=>_0x350c3c+'.js',_0x5d9274['g']=(function(){var _0x2394dd=_0x5cc488;if('object'==typeof globalThis)return globalThis;try{return this||new Function(_0x2394dd(0x306))();}catch(_0x57ed23){if(_0x2394dd(0x538)==typeof window)return window;}}()),_0x5d9274['o']=(_0x4029fe,_0x3d5d42)=>Object[_0x5cc488(0x186)][_0x5cc488(0x344)][_0x5cc488(0x508)](_0x4029fe,_0x3d5d42),_0x1e8113={},_0xbbebe4=_0x5cc488(0x1cb),_0x5d9274['l']=(_0xda335f,_0x3a5151,_0x374376,_0x150a55)=>{var _0x58d46b=_0x5cc488;if(_0x1e8113[_0xda335f])_0x1e8113[_0xda335f][_0x58d46b(0x36a)](_0x3a5151);else{var _0x2f606f,_0x5423d9;if(void 0x0!==_0x374376)for(var _0x2149f2=document[_0x58d46b(0x2ef)](_0x58d46b(0x536)),_0x548af5=0x0;_0x548af5<_0x2149f2[_0x58d46b(0x50a)];_0x548af5++){var _0x531c00=_0x2149f2[_0x548af5];if(_0x531c00[_0x58d46b(0x4bd)](_0x58d46b(0x1e9))==_0xda335f||_0x531c00[_0x58d46b(0x4bd)]('data-webpack')==_0xbbebe4+_0x374376){_0x2f606f=_0x531c00;break;}}_0x2f606f||(_0x5423d9=!0x0,(_0x2f606f=document[_0x58d46b(0x53e)](_0x58d46b(0x536)))[_0x58d46b(0x339)]=_0x58d46b(0x179),_0x2f606f['timeout']=0x78,_0x5d9274['nc']&&_0x2f606f[_0x58d46b(0x1c2)](_0x58d46b(0x494),_0x5d9274['nc']),_0x2f606f[_0x58d46b(0x1c2)](_0x58d46b(0x182),_0xbbebe4+_0x374376),_0x2f606f[_0x58d46b(0x1e9)]=_0xda335f),_0x1e8113[_0xda335f]=[_0x3a5151];var _0x848e8a=(_0x4bc85c,_0x920da0)=>{var _0x58dc63=_0x58d46b;_0x2f606f[_0x58dc63(0x202)]=_0x2f606f[_0x58dc63(0x43d)]=null,clearTimeout(_0x4ae14e);var _0x1d6bab=_0x1e8113[_0xda335f];if(delete _0x1e8113[_0xda335f],_0x2f606f[_0x58dc63(0x31b)]&&_0x2f606f[_0x58dc63(0x31b)][_0x58dc63(0x3c8)](_0x2f606f),_0x1d6bab&&_0x1d6bab[_0x58dc63(0x2b0)](_0x42caec=>_0x42caec(_0x920da0)),_0x4bc85c)return _0x4bc85c(_0x920da0);},_0x4ae14e=setTimeout(_0x848e8a[_0x58d46b(0x3c0)](null,void 0x0,{'type':'timeout','target':_0x2f606f}),0x1d4c0);_0x2f606f['onerror']=_0x848e8a[_0x58d46b(0x3c0)](null,_0x2f606f[_0x58d46b(0x202)]),_0x2f606f['onload']=_0x848e8a[_0x58d46b(0x3c0)](null,_0x2f606f['onload']),_0x5423d9&&document[_0x58d46b(0x4f1)]['appendChild'](_0x2f606f);}},_0x5d9274['r']=_0x130bde=>{var _0x17ea35=_0x5cc488;_0x17ea35(0x229)!=typeof Symbol&&Symbol['toStringTag']&&Object[_0x17ea35(0x3e6)](_0x130bde,Symbol[_0x17ea35(0x224)],{'value':'Module'}),Object['defineProperty'](_0x130bde,_0x17ea35(0x3b8),{'value':!0x0});},((()=>{var _0x59ab74=_0x5cc488,_0x1a4f9c;_0x5d9274['g'][_0x59ab74(0x452)]&&(_0x1a4f9c=_0x5d9274['g'][_0x59ab74(0x323)]+'');var _0x249b90=_0x5d9274['g'][_0x59ab74(0x44e)];if(!_0x1a4f9c&&_0x249b90&&(_0x249b90['currentScript']&&(_0x1a4f9c=_0x249b90[_0x59ab74(0x535)][_0x59ab74(0x1e9)]),!_0x1a4f9c)){var _0x1b0d0b=_0x249b90[_0x59ab74(0x2ef)](_0x59ab74(0x536));_0x1b0d0b[_0x59ab74(0x50a)]&&(_0x1a4f9c=_0x1b0d0b[_0x1b0d0b['length']-0x1][_0x59ab74(0x1e9)]);}if(!_0x1a4f9c)throw new Error(_0x59ab74(0x1d2));_0x1a4f9c=_0x1a4f9c[_0x59ab74(0x390)](/#.*$/,'')[_0x59ab74(0x390)](/\?.*$/,'')[_0x59ab74(0x390)](/\/[^\/]+$/,'/'),_0x5d9274['p']=_0x1a4f9c;})()),((()=>{var _0x1d7441=_0x5cc488;_0x5d9274['b']=document[_0x1d7441(0x285)]||self[_0x1d7441(0x323)][_0x1d7441(0x3a5)];var _0x196887={0x2a8:0x0,0x62:0x0};_0x5d9274['f']['j']=(_0x5966f2,_0x4ae8c8)=>{var _0x59ba91=_0x1d7441,_0x236116=_0x5d9274['o'](_0x196887,_0x5966f2)?_0x196887[_0x5966f2]:void 0x0;if(0x0!==_0x236116){if(_0x236116)_0x4ae8c8[_0x59ba91(0x36a)](_0x236116[0x2]);else{var _0x4e266d=new Promise((_0x32c28c,_0x418bab)=>_0x236116=_0x196887[_0x5966f2]=[_0x32c28c,_0x418bab]);_0x4ae8c8['push'](_0x236116[0x2]=_0x4e266d);var _0x402d36=_0x5d9274['p']+_0x5d9274['u'](_0x5966f2),_0x1b49bf=new Error();_0x5d9274['l'](_0x402d36,_0x1db8b8=>{var _0x4b6933=_0x59ba91;if(_0x5d9274['o'](_0x196887,_0x5966f2)&&(0x0!==(_0x236116=_0x196887[_0x5966f2])&&(_0x196887[_0x5966f2]=void 0x0),_0x236116)){var _0x23799c=_0x1db8b8&&(_0x4b6933(0x35c)===_0x1db8b8['type']?_0x4b6933(0x36d):_0x1db8b8[_0x4b6933(0x21e)]),_0x41f682=_0x1db8b8&&_0x1db8b8['target']&&_0x1db8b8[_0x4b6933(0x278)][_0x4b6933(0x1e9)];_0x1b49bf[_0x4b6933(0x441)]='Loading\x20chunk\x20'+_0x5966f2+_0x4b6933(0x35e)+_0x23799c+':\x20'+_0x41f682+')',_0x1b49bf['name']=_0x4b6933(0x2c4),_0x1b49bf['type']=_0x23799c,_0x1b49bf[_0x4b6933(0x237)]=_0x41f682,_0x236116[0x1](_0x1b49bf);}},'chunk-'+_0x5966f2,_0x5966f2);}}};var _0x194324=(_0x46e86b,_0x20f286)=>{var _0xcf7022=_0x1d7441,_0x35ec18,_0x610c94,[_0x5aa248,_0x77c5db,_0x3599fb]=_0x20f286,_0x329cd5=0x0;if(_0x5aa248[_0xcf7022(0x2b1)](_0x54a7e1=>0x0!==_0x196887[_0x54a7e1])){for(_0x35ec18 in _0x77c5db)_0x5d9274['o'](_0x77c5db,_0x35ec18)&&(_0x5d9274['m'][_0x35ec18]=_0x77c5db[_0x35ec18]);_0x3599fb&&_0x3599fb(_0x5d9274);}for(_0x46e86b&&_0x46e86b(_0x20f286);_0x329cd5<_0x5aa248[_0xcf7022(0x50a)];_0x329cd5++)_0x610c94=_0x5aa248[_0x329cd5],_0x5d9274['o'](_0x196887,_0x610c94)&&_0x196887[_0x610c94]&&_0x196887[_0x610c94][0x0](),_0x196887[_0x610c94]=0x0;},_0x3747e3=self['webpackChunktts']=self[_0x1d7441(0x385)]||[];_0x3747e3[_0x1d7441(0x2b0)](_0x194324['bind'](null,0x0)),_0x3747e3[_0x1d7441(0x36a)]=_0x194324[_0x1d7441(0x3c0)](null,_0x3747e3[_0x1d7441(0x36a)][_0x1d7441(0x3c0)](_0x3747e3));})()),_0x5d9274['nc']=void 0x0,((()=>{'use strict';var _0x4eebfa=_0x5cc488;_0x5d9274(0xf5),_0x5d9274(0x202);var _0x11f0f7=_0x5d9274(0x62);class _0x50dae0{constructor(_0x355b6f){this['client']=_0x355b6f;}static[_0x4eebfa(0x220)](_0x20418f,_0x219063=''){var _0x1fe714=_0x4eebfa;let _0x52e1ab={};for(const _0x60863b in _0x20418f){let _0x4d544e=_0x20418f[_0x60863b],_0x3289b2=_0x219063?_0x219063+'['+_0x60863b+']':_0x60863b;Array[_0x1fe714(0x1de)](_0x4d544e)?_0x52e1ab=Object[_0x1fe714(0x46b)](_0x52e1ab,this['flatten'](_0x4d544e,_0x3289b2)):_0x52e1ab[_0x3289b2]=_0x4d544e;}return _0x52e1ab;}}_0x50dae0[_0x4eebfa(0x1a1)]=0x500000;class _0x31279b{}_0x31279b[_0x4eebfa(0x3b7)]=(_0x549f7a,_0x15af97)=>_0x31279b[_0x4eebfa(0x1e0)](_0x549f7a,_0x4eebfa(0x3b7),_0x15af97),_0x31279b[_0x4eebfa(0x178)]=(_0x4c99c4,_0x2b9940)=>_0x31279b[_0x4eebfa(0x1e0)](_0x4c99c4,_0x4eebfa(0x178),_0x2b9940),_0x31279b[_0x4eebfa(0x183)]=(_0x46aabe,_0x30a71b)=>_0x31279b['addQuery'](_0x46aabe,_0x4eebfa(0x183),_0x30a71b),_0x31279b[_0x4eebfa(0x3d1)]=(_0x34123c,_0x6fa07c)=>_0x31279b['addQuery'](_0x34123c,_0x4eebfa(0x3d1),_0x6fa07c),_0x31279b['greater']=(_0x41344c,_0x1830a3)=>_0x31279b['addQuery'](_0x41344c,_0x4eebfa(0x359),_0x1830a3),_0x31279b[_0x4eebfa(0x388)]=(_0x250467,_0x506d21)=>_0x31279b['addQuery'](_0x250467,_0x4eebfa(0x388),_0x506d21),_0x31279b[_0x4eebfa(0x3e9)]=(_0x40fcf3,_0x10e718)=>_0x31279b[_0x4eebfa(0x1e0)](_0x40fcf3,_0x4eebfa(0x3e9),_0x10e718),_0x31279b['addQuery']=(_0x488a76,_0x57f0dc,_0x74e63b)=>_0x74e63b instanceof Array?_0x488a76+'.'+_0x57f0dc+'('+_0x74e63b['map'](_0x16f4f5=>_0x31279b[_0x4eebfa(0x1bc)](_0x16f4f5))['join'](',')+')':_0x488a76+'.'+_0x57f0dc+'('+_0x31279b[_0x4eebfa(0x1bc)](_0x74e63b)+')',_0x31279b[_0x4eebfa(0x1bc)]=_0x24922f=>_0x4eebfa(0x383)==typeof _0x24922f||_0x24922f instanceof String?'\x22'+_0x24922f+'\x22':''+_0x24922f;class _0x32f3c4 extends Error{constructor(_0x43cc45,_0x54357e=0x0,_0x242cb6='',_0x3ca751=''){var _0x510098=_0x4eebfa;super(_0x43cc45),this[_0x510098(0x23b)]=_0x510098(0x180),this[_0x510098(0x441)]=_0x43cc45,this[_0x510098(0x42d)]=_0x54357e,this[_0x510098(0x21e)]=_0x242cb6,this[_0x510098(0x543)]=_0x3ca751;}}var _0x1e5e8b=_0x5d9274(0x17b),_0x2b9efa=_0x5d9274['n'](_0x1e5e8b),_0x192d1a=_0x5d9274(0x31b),_0x24819c=_0x5d9274['n'](_0x192d1a),_0x2e2c73=_0x5d9274(0x239),_0x33aff3=_0x5d9274['n'](_0x2e2c73),_0x11e0e5=_0x5d9274(0x235),_0x433264=_0x5d9274['n'](_0x11e0e5),_0x18a93d=_0x5d9274(0xd8),_0x313d09=_0x5d9274['n'](_0x18a93d),_0x467182=_0x5d9274(0x24d),_0x321b61=_0x5d9274['n'](_0x467182),_0x49b63b=_0x5d9274(0x109),_0x276778={};_0x276778[_0x4eebfa(0x2b9)]=_0x321b61(),_0x276778[_0x4eebfa(0x519)]=_0x433264(),_0x276778[_0x4eebfa(0x2fc)]=_0x33aff3()['bind'](null,_0x4eebfa(0x4f1)),_0x276778['domAPI']=_0x24819c(),_0x276778[_0x4eebfa(0x4ab)]=_0x313d09(),_0x2b9efa()(_0x49b63b['Z'],_0x276778),_0x49b63b['Z']&&_0x49b63b['Z'][_0x4eebfa(0x2a5)]&&_0x49b63b['Z'][_0x4eebfa(0x2a5)];var _0x10368b=_0x5d9274(0x271),_0x49e655=_0x5d9274['n'](_0x10368b);const _0xdc9742={'X-Client-Info':'supabase-js/1.35.6'},_0x49055c=_0x4eebfa(0x47b),_0xcf858d=_0x4eebfa(0x292),_0x4f3236={'name':'sb','lifetime':0x7080,'domain':'','path':'/','sameSite':_0x4eebfa(0x211)};var _0xa19749=function(_0x1f0cb8,_0xa9da6a,_0x1183f6,_0x82ae1f){return new(_0x1183f6||(_0x1183f6=Promise))(function(_0x460ced,_0x559883){var _0x14e865=a3_0x4871;function _0x17b28e(_0x104085){var _0x4664ba=a3_0x4871;try{_0x12cd4d(_0x82ae1f[_0x4664ba(0x1ef)](_0x104085));}catch(_0x1a4f93){_0x559883(_0x1a4f93);}}function _0x4c0583(_0x387f60){var _0x135f72=a3_0x4871;try{_0x12cd4d(_0x82ae1f[_0x135f72(0x3c1)](_0x387f60));}catch(_0x4e25d3){_0x559883(_0x4e25d3);}}function _0x12cd4d(_0x1aee57){var _0x5fa9fd=a3_0x4871,_0x4f4811;_0x1aee57[_0x5fa9fd(0x2c9)]?_0x460ced(_0x1aee57[_0x5fa9fd(0x4d0)]):(_0x4f4811=_0x1aee57[_0x5fa9fd(0x4d0)],_0x4f4811 instanceof _0x1183f6?_0x4f4811:new _0x1183f6(function(_0x16599f){_0x16599f(_0x4f4811);}))[_0x5fa9fd(0x2a2)](_0x17b28e,_0x4c0583);}_0x12cd4d((_0x82ae1f=_0x82ae1f[_0x14e865(0x26e)](_0x1f0cb8,_0xa9da6a||[]))[_0x14e865(0x1ef)]());});};const _0x449bdf=_0x21ff36=>_0x21ff36[_0x4eebfa(0x412)]||_0x21ff36[_0x4eebfa(0x441)]||_0x21ff36[_0x4eebfa(0x2c6)]||_0x21ff36[_0x4eebfa(0x428)]||JSON[_0x4eebfa(0x402)](_0x21ff36);function _0x2b7dc6(_0x410ed5,_0x46401f,_0x29c478,_0x145cca,_0x1b8136){return _0xa19749(this,void 0x0,void 0x0,function*(){return new Promise((_0x4be416,_0x352e52)=>{var _0x9e1d7=a3_0x4871;_0x410ed5(_0x29c478,((_0x1fbd13,_0x1038ae,_0x54bf3d)=>{var _0x15a796=a3_0x4871;const _0x2b2897={'method':_0x1fbd13,'headers':(null==_0x1038ae?void 0x0:_0x1038ae[_0x15a796(0x2f6)])||{}};return _0x15a796(0x1ed)===_0x1fbd13||(_0x2b2897[_0x15a796(0x2f6)]=Object[_0x15a796(0x46b)]({'Content-Type':_0x15a796(0x4d7)},null==_0x1038ae?void 0x0:_0x1038ae[_0x15a796(0x2f6)]),_0x2b2897[_0x15a796(0x3fa)]=JSON[_0x15a796(0x402)](_0x54bf3d)),_0x2b2897;})(_0x46401f,_0x145cca,_0x1b8136))[_0x9e1d7(0x2a2)](_0x4300e1=>{var _0x3355c5=_0x9e1d7;if(!_0x4300e1['ok'])throw _0x4300e1;return(null==_0x145cca?void 0x0:_0x145cca[_0x3355c5(0x271)])?_0x4be416:_0x4300e1[_0x3355c5(0x263)]();})[_0x9e1d7(0x2a2)](_0x301425=>_0x4be416(_0x301425))['catch'](_0x43f932=>((_0x483e38,_0x1cec49)=>(null==_0x483e38?void 0x0:_0x483e38[_0x9e1d7(0x42a)])?_0x9e1d7(0x4fe)!=typeof _0x483e38[_0x9e1d7(0x263)]?_0x1cec49(_0x483e38):void _0x483e38[_0x9e1d7(0x263)]()['then'](_0x31cb00=>_0x1cec49({'message':_0x449bdf(_0x31cb00),'status':(null==_0x483e38?void 0x0:_0x483e38[_0x9e1d7(0x42a)])||0x1f4})):_0x1cec49({'message':_0x49055c}))(_0x43f932,_0x352e52));});});}function _0x340ccc(_0x19b9be,_0x338971,_0x2b1e15){return _0xa19749(this,void 0x0,void 0x0,function*(){var _0x4aabb6=a3_0x4871;return _0x2b7dc6(_0x19b9be,_0x4aabb6(0x1ed),_0x338971,_0x2b1e15);});}function _0x4e0b5e(_0xb3ada4,_0x4fe493,_0x5ce901,_0x285b15){return _0xa19749(this,void 0x0,void 0x0,function*(){var _0x29623f=a3_0x4871;return _0x2b7dc6(_0xb3ada4,_0x29623f(0x217),_0x4fe493,_0x285b15,_0x5ce901);});}function _0x2a8be7(_0x803c38,_0x260b71,_0x11b12c,_0x4b48db){return _0xa19749(this,void 0x0,void 0x0,function*(){var _0x1d79db=a3_0x4871;return _0x2b7dc6(_0x803c38,_0x1d79db(0x2bf),_0x260b71,_0x4b48db,_0x11b12c);});}function _0x115f78(_0x50dc5f,_0x326ece,_0x2db054){var _0x3e82be=_0x4eebfa;const _0x5ec9ca=_0x2db054[_0x3e82be(0x391)](_0x33ab21=>{var _0x5320c5=_0x3e82be;return _0x333794=_0x33ab21,_0x1173b2=function(_0x4e1015){var _0x4a6283=a3_0x4871;if(!_0x4e1015||!_0x4e1015[_0x4a6283(0x2f6)]||!_0x4e1015[_0x4a6283(0x2f6)]['host'])throw new Error(_0x4a6283(0x4d9));const _0x30be55=_0x4e1015['headers'][_0x4a6283(0x423)][_0x4a6283(0x209)](':')>-0x1&&_0x4e1015[_0x4a6283(0x2f6)]['host']['split'](':')[0x0]||_0x4e1015[_0x4a6283(0x2f6)][_0x4a6283(0x423)];return!([_0x4a6283(0x1ca),_0x4a6283(0x240)][_0x4a6283(0x209)](_0x30be55)>-0x1||_0x30be55['endsWith'](_0x4a6283(0x184)));}(_0x50dc5f),function(_0x3934b9,_0x1621d6,_0x15f948){var _0x1717ce=a3_0x4871;const _0x33c550=_0x15f948||{},_0x7a643a=encodeURIComponent,_0x2dbcb9=/^[\u0009\u0020-\u007e\u0080-\u00ff]+$/;if(_0x1717ce(0x4fe)!=typeof _0x7a643a)throw new TypeError(_0x1717ce(0x4f0));if(!_0x2dbcb9['test'](_0x3934b9))throw new TypeError(_0x1717ce(0x2cf));const _0x2a04d1=_0x7a643a(_0x1621d6);if(_0x2a04d1&&!_0x2dbcb9[_0x1717ce(0x3bd)](_0x2a04d1))throw new TypeError(_0x1717ce(0x1d3));let _0xf95b07=_0x3934b9+'='+_0x2a04d1;if(null!=_0x33c550['maxAge']){const _0x4f9fc2=_0x33c550[_0x1717ce(0x1cf)]-0x0;if(isNaN(_0x4f9fc2)||!isFinite(_0x4f9fc2))throw new TypeError(_0x1717ce(0x28c));_0xf95b07+=_0x1717ce(0x1f4)+Math[_0x1717ce(0x4c1)](_0x4f9fc2);}if(_0x33c550[_0x1717ce(0x33d)]){if(!_0x2dbcb9[_0x1717ce(0x3bd)](_0x33c550[_0x1717ce(0x33d)]))throw new TypeError(_0x1717ce(0x506));_0xf95b07+=_0x1717ce(0x25c)+_0x33c550[_0x1717ce(0x33d)];}if(_0x33c550[_0x1717ce(0x4d5)]){if(!_0x2dbcb9[_0x1717ce(0x3bd)](_0x33c550[_0x1717ce(0x4d5)]))throw new TypeError('option\x20path\x20is\x20invalid');_0xf95b07+=_0x1717ce(0x48e)+_0x33c550['path'];}if(_0x33c550[_0x1717ce(0x368)]){if('function'!=typeof _0x33c550['expires'][_0x1717ce(0x341)])throw new TypeError(_0x1717ce(0x48f));_0xf95b07+=';\x20Expires='+_0x33c550[_0x1717ce(0x368)][_0x1717ce(0x341)]();}if(_0x33c550[_0x1717ce(0x29e)]&&(_0xf95b07+=_0x1717ce(0x277)),_0x33c550[_0x1717ce(0x4a9)]&&(_0xf95b07+=_0x1717ce(0x1a4)),_0x33c550[_0x1717ce(0x4dd)])switch(_0x1717ce(0x383)==typeof _0x33c550[_0x1717ce(0x4dd)]?_0x33c550['sameSite'][_0x1717ce(0x2ca)]():_0x33c550[_0x1717ce(0x4dd)]){case _0x1717ce(0x211):_0xf95b07+=_0x1717ce(0x444);break;case _0x1717ce(0x3ae):_0xf95b07+=_0x1717ce(0x50d);break;case _0x1717ce(0x46e):_0xf95b07+=_0x1717ce(0x2f8);break;default:throw new TypeError(_0x1717ce(0x316));}return _0xf95b07;}(_0x333794[_0x5320c5(0x23b)],_0x333794['value'],{'maxAge':_0x333794['maxAge'],'expires':new Date(Date[_0x5320c5(0x30b)]()+0x3e8*_0x333794[_0x5320c5(0x1cf)]),'httpOnly':!0x0,'secure':_0x1173b2,'path':null!==(_0x4577f9=_0x333794[_0x5320c5(0x4d5)])&&void 0x0!==_0x4577f9?_0x4577f9:'/','domain':null!==(_0x399891=_0x333794[_0x5320c5(0x33d)])&&void 0x0!==_0x399891?_0x399891:'','sameSite':null!==(_0x8823ec=_0x333794['sameSite'])&&void 0x0!==_0x8823ec?_0x8823ec:'lax'});var _0x333794,_0x1173b2,_0x4577f9,_0x399891,_0x8823ec;}),_0x30def2=_0x326ece['getHeader'](_0x3e82be(0x4a4));return _0x30def2&&(_0x30def2 instanceof Array?Array[_0x3e82be(0x186)][_0x3e82be(0x36a)][_0x3e82be(0x26e)](_0x5ec9ca,_0x30def2):_0x3e82be(0x383)==typeof _0x30def2&&_0x5ec9ca[_0x3e82be(0x36a)](_0x30def2)),_0x5ec9ca;}function _0x255fc6(_0x325973,_0x285080,_0xf6c83f){var _0x43e227=_0x4eebfa;_0x285080[_0x43e227(0x419)]('Set-Cookie',_0x115f78(_0x325973,_0x285080,_0xf6c83f));}var _0x18dd31=function(_0x284b56,_0x179998,_0x353f0d,_0xaf64cb){return new(_0x353f0d||(_0x353f0d=Promise))(function(_0x198613,_0xd89e3c){var _0x409e2b=a3_0x4871;function _0x46b100(_0x4cffbc){var _0x5423dc=a3_0x4871;try{_0x532e9f(_0xaf64cb[_0x5423dc(0x1ef)](_0x4cffbc));}catch(_0x1d6799){_0xd89e3c(_0x1d6799);}}function _0x187129(_0x570bfc){try{_0x532e9f(_0xaf64cb['throw'](_0x570bfc));}catch(_0x136c24){_0xd89e3c(_0x136c24);}}function _0x532e9f(_0x15a2b0){var _0x2fb211=a3_0x4871,_0x30e209;_0x15a2b0[_0x2fb211(0x2c9)]?_0x198613(_0x15a2b0['value']):(_0x30e209=_0x15a2b0['value'],_0x30e209 instanceof _0x353f0d?_0x30e209:new _0x353f0d(function(_0x3507bb){_0x3507bb(_0x30e209);}))[_0x2fb211(0x2a2)](_0x46b100,_0x187129);}_0x532e9f((_0xaf64cb=_0xaf64cb[_0x409e2b(0x26e)](_0x284b56,_0x179998||[]))[_0x409e2b(0x1ef)]());});};function _0x57aee4(_0x26677a){var _0x354522=_0x4eebfa;return Math[_0x354522(0x175)](Date['now']()/0x3e8)+_0x26677a;}const _0x3c8b2e=()=>_0x4eebfa(0x229)!=typeof window;function _0x2b006e(_0x401573,_0x11b42f){var _0x119f4e=_0x4eebfa,_0x49ba4d;_0x11b42f||(_0x11b42f=(null===(_0x49ba4d=null===window||void 0x0===window?void 0x0:window[_0x119f4e(0x323)])||void 0x0===_0x49ba4d?void 0x0:_0x49ba4d['href'])||''),_0x401573=_0x401573[_0x119f4e(0x390)](/[\[\]]/g,'\x5c$&');const _0x195e3e=new RegExp(_0x119f4e(0x1c6)+_0x401573+'(=([^&#]*)|&|#|$)')[_0x119f4e(0x44d)](_0x11b42f);return _0x195e3e?_0x195e3e[0x2]?decodeURIComponent(_0x195e3e[0x2][_0x119f4e(0x390)](/\+/g,'\x20')):'':null;}const _0x4e3f8a=_0x91814d=>{var _0x325919=_0x4eebfa;let _0x2f5c17;return _0x2f5c17=_0x91814d||(_0x325919(0x229)==typeof fetch?(..._0x308778)=>_0x18dd31(void 0x0,void 0x0,void 0x0,function*(){var _0x2f05ee=_0x325919;return yield(yield _0x5d9274['e'](0x62)[_0x2f05ee(0x2a2)](_0x5d9274['t'][_0x2f05ee(0x3c0)](_0x5d9274,0x62,0x17)))[_0x2f05ee(0x29f)](..._0x308778);}):fetch),(..._0x4e4158)=>_0x2f5c17(..._0x4e4158);};var _0x3f3027=function(_0x4341de,_0x4e08c9,_0x38ba9f,_0x5f2f46){return new(_0x38ba9f||(_0x38ba9f=Promise))(function(_0x584160,_0x1d9777){var _0xb96a53=a3_0x4871;function _0x1453b4(_0x72b71f){var _0x3f8660=a3_0x4871;try{_0x482398(_0x5f2f46[_0x3f8660(0x1ef)](_0x72b71f));}catch(_0x3a9222){_0x1d9777(_0x3a9222);}}function _0x17d9fa(_0x2d5b0d){try{_0x482398(_0x5f2f46['throw'](_0x2d5b0d));}catch(_0x1eb787){_0x1d9777(_0x1eb787);}}function _0x482398(_0x3d4414){var _0x328f4d=a3_0x4871,_0x1f20a3;_0x3d4414['done']?_0x584160(_0x3d4414[_0x328f4d(0x4d0)]):(_0x1f20a3=_0x3d4414[_0x328f4d(0x4d0)],_0x1f20a3 instanceof _0x38ba9f?_0x1f20a3:new _0x38ba9f(function(_0x521134){_0x521134(_0x1f20a3);}))[_0x328f4d(0x2a2)](_0x1453b4,_0x17d9fa);}_0x482398((_0x5f2f46=_0x5f2f46[_0xb96a53(0x26e)](_0x4341de,_0x4e08c9||[]))[_0xb96a53(0x1ef)]());});};class _0x443b3b{constructor({url:_0x1502ea='',headers:_0x2f0a02={},cookieOptions:_0x487efc,fetch:_0x22ab15}){var _0x21282b=_0x4eebfa;this[_0x21282b(0x3c6)]=_0x1502ea,this[_0x21282b(0x2f6)]=_0x2f0a02,this[_0x21282b(0x3e3)]=Object[_0x21282b(0x46b)](Object[_0x21282b(0x46b)]({},_0x4f3236),_0x487efc),this['fetch']=_0x4e3f8a(_0x22ab15);}['_createRequestHeaders'](_0x450e5d){var _0x2a372f=_0x4eebfa;const _0x36a139=Object[_0x2a372f(0x46b)]({},this['headers']);return _0x36a139[_0x2a372f(0x2ba)]=_0x2a372f(0x2d4)+_0x450e5d,_0x36a139;}['cookieName'](){var _0x1299a8=_0x4eebfa,_0x125e7b;return null!==(_0x125e7b=this[_0x1299a8(0x3e3)][_0x1299a8(0x23b)])&&void 0x0!==_0x125e7b?_0x125e7b:'';}['getUrlForProvider'](_0x462e15,_0x45a52){var _0x51a576=_0x4eebfa;const _0x2a1b3b=[_0x51a576(0x2e4)+encodeURIComponent(_0x462e15)];if((null==_0x45a52?void 0x0:_0x45a52[_0x51a576(0x4f4)])&&_0x2a1b3b[_0x51a576(0x36a)](_0x51a576(0x219)+encodeURIComponent(_0x45a52[_0x51a576(0x4f4)])),(null==_0x45a52?void 0x0:_0x45a52['scopes'])&&_0x2a1b3b[_0x51a576(0x36a)](_0x51a576(0x475)+encodeURIComponent(_0x45a52[_0x51a576(0x310)])),null==_0x45a52?void 0x0:_0x45a52['queryParams']){const _0x587b89=new URLSearchParams(_0x45a52[_0x51a576(0x400)]);_0x2a1b3b[_0x51a576(0x36a)](''+_0x587b89);}return this[_0x51a576(0x3c6)]+_0x51a576(0x50f)+_0x2a1b3b[_0x51a576(0x514)]('&');}[_0x4eebfa(0x465)](_0x24fb30,_0x2632c4,_0x2cb6ae={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x34e3e9=a3_0x4871;try{const _0x4ece64=Object[_0x34e3e9(0x46b)]({},this[_0x34e3e9(0x2f6)]);let _0x2557e6='';_0x2cb6ae[_0x34e3e9(0x4f4)]&&(_0x2557e6=_0x34e3e9(0x18b)+encodeURIComponent(_0x2cb6ae[_0x34e3e9(0x4f4)]));const _0x2790ea=yield _0x4e0b5e(this[_0x34e3e9(0x29f)],this[_0x34e3e9(0x3c6)]+'/signup'+_0x2557e6,{'email':_0x24fb30,'password':_0x2632c4,'data':_0x2cb6ae[_0x34e3e9(0x326)],'gotrue_meta_security':{'captcha_token':_0x2cb6ae[_0x34e3e9(0x462)]}},{'headers':_0x4ece64}),_0x2eab4d=Object[_0x34e3e9(0x46b)]({},_0x2790ea);return _0x2eab4d[_0x34e3e9(0x228)]&&(_0x2eab4d[_0x34e3e9(0x542)]=_0x57aee4(_0x2790ea['expires_in'])),{'data':_0x2eab4d,'error':null};}catch(_0x13c4f7){return{'data':null,'error':_0x13c4f7};}});}[_0x4eebfa(0x30d)](_0x2e1c1c,_0x45d1c1,_0xb16f60={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x101acd=a3_0x4871;try{const _0x1ef737=Object['assign']({},this[_0x101acd(0x2f6)]);let _0x297e5c=_0x101acd(0x3ba);_0xb16f60[_0x101acd(0x4f4)]&&(_0x297e5c+=_0x101acd(0x210)+encodeURIComponent(_0xb16f60['redirectTo']));const _0x1ede4e=yield _0x4e0b5e(this[_0x101acd(0x29f)],this['url']+_0x101acd(0x37e)+_0x297e5c,{'email':_0x2e1c1c,'password':_0x45d1c1,'gotrue_meta_security':{'captcha_token':_0xb16f60[_0x101acd(0x462)]}},{'headers':_0x1ef737}),_0x5210fa=Object['assign']({},_0x1ede4e);return _0x5210fa[_0x101acd(0x228)]&&(_0x5210fa[_0x101acd(0x542)]=_0x57aee4(_0x1ede4e[_0x101acd(0x228)])),{'data':_0x5210fa,'error':null};}catch(_0x2a3f7f){return{'data':null,'error':_0x2a3f7f};}});}[_0x4eebfa(0x3bb)](_0x55c68b,_0x4cdf04,_0x1411e8={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x14d4a3=a3_0x4871;try{const _0x3fe85b=Object['assign']({},this[_0x14d4a3(0x2f6)]),_0x20a694=yield _0x4e0b5e(this[_0x14d4a3(0x29f)],this[_0x14d4a3(0x3c6)]+_0x14d4a3(0x429),{'phone':_0x55c68b,'password':_0x4cdf04,'data':_0x1411e8[_0x14d4a3(0x326)],'gotrue_meta_security':{'captcha_token':_0x1411e8[_0x14d4a3(0x462)]}},{'headers':_0x3fe85b}),_0x3fb778=Object[_0x14d4a3(0x46b)]({},_0x20a694);return _0x3fb778['expires_in']&&(_0x3fb778[_0x14d4a3(0x542)]=_0x57aee4(_0x20a694[_0x14d4a3(0x228)])),{'data':_0x3fb778,'error':null};}catch(_0x52d091){return{'data':null,'error':_0x52d091};}});}[_0x4eebfa(0x2a9)](_0x2ef44b,_0x2bffa4,_0xb8cc5a={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x589b4c=a3_0x4871;try{const _0x310fcf=Object[_0x589b4c(0x46b)]({},this[_0x589b4c(0x2f6)]),_0x18a8b5=_0x589b4c(0x3ba),_0x18d7db=yield _0x4e0b5e(this[_0x589b4c(0x29f)],this[_0x589b4c(0x3c6)]+'/token'+_0x18a8b5,{'phone':_0x2ef44b,'password':_0x2bffa4,'gotrue_meta_security':{'captcha_token':_0xb8cc5a[_0x589b4c(0x462)]}},{'headers':_0x310fcf}),_0x2ddbe5=Object['assign']({},_0x18d7db);return _0x2ddbe5['expires_in']&&(_0x2ddbe5[_0x589b4c(0x542)]=_0x57aee4(_0x18d7db[_0x589b4c(0x228)])),{'data':_0x2ddbe5,'error':null};}catch(_0x520c4d){return{'data':null,'error':_0x520c4d};}});}[_0x4eebfa(0x4e6)]({id_token:_0x47b4ff,nonce:_0x26a62d,client_id:_0x155f0d,issuer:_0x5c0d56,provider:_0x2dc981}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x2f881f=a3_0x4871;try{const _0x5d5227=Object[_0x2f881f(0x46b)]({},this['headers']),_0x2375a7=_0x2f881f(0x512),_0x61ef56=yield _0x4e0b5e(this['fetch'],this[_0x2f881f(0x3c6)]+_0x2f881f(0x37e)+_0x2375a7,{'id_token':_0x47b4ff,'nonce':_0x26a62d,'client_id':_0x155f0d,'issuer':_0x5c0d56,'provider':_0x2dc981},{'headers':_0x5d5227}),_0x1629ea=Object[_0x2f881f(0x46b)]({},_0x61ef56);return _0x1629ea[_0x2f881f(0x228)]&&(_0x1629ea[_0x2f881f(0x542)]=_0x57aee4(_0x61ef56[_0x2f881f(0x228)])),{'data':_0x1629ea,'error':null};}catch(_0x53647d){return{'data':null,'error':_0x53647d};}});}[_0x4eebfa(0x251)](_0x2a0b84,_0x32d842={}){var _0x45a252;return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x3a60ee=a3_0x4871;try{const _0x1dddc3=Object['assign']({},this[_0x3a60ee(0x2f6)]);let _0x1f6ca5='';_0x32d842[_0x3a60ee(0x4f4)]&&(_0x1f6ca5+=_0x3a60ee(0x18b)+encodeURIComponent(_0x32d842['redirectTo']));const _0x264da5=null===(_0x45a252=_0x32d842[_0x3a60ee(0x197)])||void 0x0===_0x45a252||_0x45a252;return{'data':yield _0x4e0b5e(this[_0x3a60ee(0x29f)],this[_0x3a60ee(0x3c6)]+_0x3a60ee(0x469)+_0x1f6ca5,{'email':_0x2a0b84,'create_user':_0x264da5,'gotrue_meta_security':{'captcha_token':_0x32d842[_0x3a60ee(0x462)]}},{'headers':_0x1dddc3}),'error':null};}catch(_0x7c4d7){return{'data':null,'error':_0x7c4d7};}});}[_0x4eebfa(0x2ab)](_0x2c0d41,_0x2f0042={}){var _0x3e7a26;return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x3a351c=a3_0x4871;try{const _0x39baf5=null===(_0x3e7a26=_0x2f0042['shouldCreateUser'])||void 0x0===_0x3e7a26||_0x3e7a26,_0x430034=Object[_0x3a351c(0x46b)]({},this[_0x3a351c(0x2f6)]);return{'data':yield _0x4e0b5e(this[_0x3a351c(0x29f)],this['url']+'/otp',{'phone':_0x2c0d41,'create_user':_0x39baf5,'gotrue_meta_security':{'captcha_token':_0x2f0042[_0x3a351c(0x462)]}},{'headers':_0x430034}),'error':null};}catch(_0x273ee8){return{'data':null,'error':_0x273ee8};}});}[_0x4eebfa(0x372)](_0x4b1219){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x3e1eaf=a3_0x4871;try{return yield _0x4e0b5e(this[_0x3e1eaf(0x29f)],this[_0x3e1eaf(0x3c6)]+_0x3e1eaf(0x399),{},{'headers':this[_0x3e1eaf(0x363)](_0x4b1219),'noResolveJson':!0x0}),{'error':null};}catch(_0x41111b){return{'error':_0x41111b};}});}[_0x4eebfa(0x366)](_0xaace3b,_0x5126c1,_0x33caa9={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x4a987c=a3_0x4871;try{const _0x4e9c55=Object['assign']({},this[_0x4a987c(0x2f6)]),_0x37994c=yield _0x4e0b5e(this[_0x4a987c(0x29f)],this[_0x4a987c(0x3c6)]+_0x4a987c(0x500),{'phone':_0xaace3b,'token':_0x5126c1,'type':_0x4a987c(0x351),'redirect_to':_0x33caa9[_0x4a987c(0x4f4)]},{'headers':_0x4e9c55}),_0x1e0290=Object[_0x4a987c(0x46b)]({},_0x37994c);return _0x1e0290[_0x4a987c(0x228)]&&(_0x1e0290[_0x4a987c(0x542)]=_0x57aee4(_0x37994c[_0x4a987c(0x228)])),{'data':_0x1e0290,'error':null};}catch(_0x70d864){return{'data':null,'error':_0x70d864};}});}[_0x4eebfa(0x18a)]({email:_0x26aba0,phone:_0x1bc1ab,token:_0x5a6f58,type:_0x4b4d56='sms'},_0x589e9d={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x3ed045=a3_0x4871;try{const _0x5cd7f5=Object[_0x3ed045(0x46b)]({},this[_0x3ed045(0x2f6)]),_0x1e713c=yield _0x4e0b5e(this[_0x3ed045(0x29f)],this[_0x3ed045(0x3c6)]+_0x3ed045(0x500),{'email':_0x26aba0,'phone':_0x1bc1ab,'token':_0x5a6f58,'type':_0x4b4d56,'redirect_to':_0x589e9d[_0x3ed045(0x4f4)]},{'headers':_0x5cd7f5}),_0xbd54aa=Object[_0x3ed045(0x46b)]({},_0x1e713c);return _0xbd54aa[_0x3ed045(0x228)]&&(_0xbd54aa[_0x3ed045(0x542)]=_0x57aee4(_0x1e713c[_0x3ed045(0x228)])),{'data':_0xbd54aa,'error':null};}catch(_0x17caab){return{'data':null,'error':_0x17caab};}});}[_0x4eebfa(0x4ae)](_0x2ce8f5,_0x155bb3={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x1b1cca=a3_0x4871;try{const _0x2ae443=Object[_0x1b1cca(0x46b)]({},this['headers']);let _0x352acb='';return _0x155bb3[_0x1b1cca(0x4f4)]&&(_0x352acb+=_0x1b1cca(0x18b)+encodeURIComponent(_0x155bb3[_0x1b1cca(0x4f4)])),{'data':yield _0x4e0b5e(this[_0x1b1cca(0x29f)],this[_0x1b1cca(0x3c6)]+'/invite'+_0x352acb,{'email':_0x2ce8f5,'data':_0x155bb3[_0x1b1cca(0x326)]},{'headers':_0x2ae443}),'error':null};}catch(_0x29fb34){return{'data':null,'error':_0x29fb34};}});}['resetPasswordForEmail'](_0x2c7c0f,_0x1ba4bf={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x3e77f3=a3_0x4871;try{const _0x53b903=Object[_0x3e77f3(0x46b)]({},this['headers']);let _0x1a72c9='';return _0x1ba4bf[_0x3e77f3(0x4f4)]&&(_0x1a72c9+=_0x3e77f3(0x18b)+encodeURIComponent(_0x1ba4bf[_0x3e77f3(0x4f4)])),{'data':yield _0x4e0b5e(this['fetch'],this[_0x3e77f3(0x3c6)]+_0x3e77f3(0x49e)+_0x1a72c9,{'email':_0x2c7c0f,'gotrue_meta_security':{'captcha_token':_0x1ba4bf[_0x3e77f3(0x462)]}},{'headers':_0x53b903}),'error':null};}catch(_0x3cbe88){return{'data':null,'error':_0x3cbe88};}});}[_0x4eebfa(0x4cb)](_0x4146f5){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x595bd4=a3_0x4871;try{const _0x13e96f=yield _0x4e0b5e(this[_0x595bd4(0x29f)],this[_0x595bd4(0x3c6)]+_0x595bd4(0x2f5),{'refresh_token':_0x4146f5},{'headers':this[_0x595bd4(0x2f6)]}),_0x363e21=Object[_0x595bd4(0x46b)]({},_0x13e96f);return _0x363e21[_0x595bd4(0x228)]&&(_0x363e21[_0x595bd4(0x542)]=_0x57aee4(_0x13e96f[_0x595bd4(0x228)])),{'data':_0x363e21,'error':null};}catch(_0x28cdb2){return{'data':null,'error':_0x28cdb2};}});}[_0x4eebfa(0x4e4)](_0x4ea673,_0x1e73ab){var _0x11b204=_0x4eebfa;_0x11b204(0x217)!==_0x4ea673[_0x11b204(0x43b)]&&(_0x1e73ab[_0x11b204(0x419)]('Allow','POST'),_0x1e73ab[_0x11b204(0x42a)](0x195)['end'](_0x11b204(0x3a0)));const {event:_0x23def2,session:_0x2ef33e}=_0x4ea673[_0x11b204(0x3fa)];if(!_0x23def2)throw new Error(_0x11b204(0x3f3));if('SIGNED_IN'===_0x23def2){if(!_0x2ef33e)throw new Error(_0x11b204(0x47d));_0x255fc6(_0x4ea673,_0x1e73ab,[{'key':_0x11b204(0x22e),'value':_0x2ef33e[_0x11b204(0x4e1)]},{'key':_0x11b204(0x4e7),'value':_0x2ef33e[_0x11b204(0x2f3)]}][_0x11b204(0x391)](_0x5004ff=>{var _0x367a82=_0x11b204,_0x148e78;return{'name':this[_0x367a82(0x272)]()+'-'+_0x5004ff[_0x367a82(0x426)],'value':_0x5004ff[_0x367a82(0x4d0)],'domain':this['cookieOptions'][_0x367a82(0x33d)],'maxAge':null!==(_0x148e78=this[_0x367a82(0x3e3)][_0x367a82(0x531)])&&void 0x0!==_0x148e78?_0x148e78:0x0,'path':this[_0x367a82(0x3e3)][_0x367a82(0x4d5)],'sameSite':this[_0x367a82(0x3e3)][_0x367a82(0x4dd)]};}));}_0x11b204(0x3dc)===_0x23def2&&_0x255fc6(_0x4ea673,_0x1e73ab,[_0x11b204(0x22e),_0x11b204(0x4e7)]['map'](_0x4bfb86=>({'name':this[_0x11b204(0x272)]()+'-'+_0x4bfb86,'value':'','maxAge':-0x1}))),_0x1e73ab['status'](0xc8)[_0x11b204(0x263)]({});}[_0x4eebfa(0x3a6)](_0x215e49,_0x38c57d,{redirectTo:_0x1f09ce='/'}){var _0x36fcb2=_0x4eebfa;return _0x255fc6(_0x215e49,_0x38c57d,[_0x36fcb2(0x22e),'refresh-token'][_0x36fcb2(0x391)](_0x33aaa2=>({'name':this[_0x36fcb2(0x272)]()+'-'+_0x33aaa2,'value':'','maxAge':-0x1}))),_0x38c57d[_0x36fcb2(0x17d)](0x133,_0x1f09ce);}[_0x4eebfa(0x3c9)](_0x90bf30,_0x3c3dab){var _0x156346=_0x4eebfa;'POST'!==_0x90bf30['method']&&(_0x3c3dab['setHeader'](_0x156346(0x1b5),_0x156346(0x217)),_0x3c3dab['status'](0x195)[_0x156346(0x2c7)](_0x156346(0x3a0)));const {event:_0x1adea4,session:_0x1cbae3}=_0x90bf30[_0x156346(0x3fa)];if(!_0x1adea4)throw new Error(_0x156346(0x3f3));if(_0x156346(0x225)===_0x1adea4){if(!_0x1cbae3)throw new Error(_0x156346(0x47d));return _0x115f78(_0x90bf30,_0x3c3dab,[{'key':_0x156346(0x22e),'value':_0x1cbae3[_0x156346(0x4e1)]},{'key':_0x156346(0x4e7),'value':_0x1cbae3['refresh_token']}][_0x156346(0x391)](_0x2f64ac=>{var _0x1bac90=_0x156346,_0x241e44;return{'name':this[_0x1bac90(0x272)]()+'-'+_0x2f64ac[_0x1bac90(0x426)],'value':_0x2f64ac[_0x1bac90(0x4d0)],'domain':this[_0x1bac90(0x3e3)][_0x1bac90(0x33d)],'maxAge':null!==(_0x241e44=this[_0x1bac90(0x3e3)]['lifetime'])&&void 0x0!==_0x241e44?_0x241e44:0x0,'path':this[_0x1bac90(0x3e3)][_0x1bac90(0x4d5)],'sameSite':this['cookieOptions'][_0x1bac90(0x4dd)]};}));}return _0x156346(0x3dc)===_0x1adea4?_0x115f78(_0x90bf30,_0x3c3dab,['access-token','refresh-token']['map'](_0xf18131=>({'name':this[_0x156346(0x272)]()+'-'+_0xf18131,'value':'','maxAge':-0x1}))):_0x3c3dab[_0x156346(0x2a1)](_0x156346(0x4a4));}[_0x4eebfa(0x1d0)](_0x490255,_0x3f0dfe,_0x4c8c43={}){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0xa3cf87=a3_0x4871;try{return{'data':yield _0x4e0b5e(this[_0xa3cf87(0x29f)],this[_0xa3cf87(0x3c6)]+_0xa3cf87(0x324),{'type':_0x490255,'email':_0x3f0dfe,'password':_0x4c8c43['password'],'data':_0x4c8c43[_0xa3cf87(0x326)],'redirect_to':_0x4c8c43['redirectTo']},{'headers':this[_0xa3cf87(0x2f6)]}),'error':null};}catch(_0x22b4db){return{'data':null,'error':_0x22b4db};}});}[_0x4eebfa(0x329)](_0x34d768){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x1b7d88=a3_0x4871;try{const _0x1ab480=yield _0x4e0b5e(this['fetch'],this[_0x1b7d88(0x3c6)]+_0x1b7d88(0x260),_0x34d768,{'headers':this[_0x1b7d88(0x2f6)]});return{'user':_0x1ab480,'data':_0x1ab480,'error':null};}catch(_0x35f2ef){return{'user':null,'data':null,'error':_0x35f2ef};}});}['listUsers'](){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x506a17=a3_0x4871;try{return{'data':(yield _0x340ccc(this[_0x506a17(0x29f)],this[_0x506a17(0x3c6)]+'/admin/users',{'headers':this[_0x506a17(0x2f6)]}))[_0x506a17(0x192)],'error':null};}catch(_0x309d04){return{'data':null,'error':_0x309d04};}});}[_0x4eebfa(0x223)](_0x123897){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x2b5e0f=a3_0x4871;try{return{'data':yield _0x340ccc(this[_0x2b5e0f(0x29f)],this[_0x2b5e0f(0x3c6)]+'/admin/users/'+_0x123897,{'headers':this[_0x2b5e0f(0x2f6)]}),'error':null};}catch(_0x43eed1){return{'data':null,'error':_0x43eed1};}});}[_0x4eebfa(0x3ce)](_0x354e27,_0x4133a5){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x7824be=a3_0x4871;try{if(!_0x354e27[_0x7824be(0x510)])throw new Error('Not\x20able\x20to\x20parse\x20cookies!\x20When\x20using\x20Express\x20make\x20sure\x20the\x20cookie-parser\x20middleware\x20is\x20in\x20use!');const _0x2cb6b0=_0x354e27['cookies'][this[_0x7824be(0x272)]()+_0x7824be(0x38d)],_0x507a8b=_0x354e27[_0x7824be(0x510)][this['cookieName']()+'-refresh-token'];if(!_0x2cb6b0)throw new Error('No\x20cookie\x20found!');const {user:_0x453d96,error:_0x57cbd5}=yield this[_0x7824be(0x490)](_0x2cb6b0);if(_0x57cbd5){if(!_0x507a8b)throw new Error(_0x7824be(0x4df));if(!_0x4133a5)throw new Error(_0x7824be(0x17b));const {data:_0x21e402,error:_0x1a7f0f}=yield this[_0x7824be(0x4cb)](_0x507a8b);if(_0x1a7f0f)throw _0x1a7f0f;if(_0x21e402)return _0x255fc6(_0x354e27,_0x4133a5,[{'key':_0x7824be(0x22e),'value':_0x21e402[_0x7824be(0x4e1)]},{'key':_0x7824be(0x4e7),'value':_0x21e402[_0x7824be(0x2f3)]}][_0x7824be(0x391)](_0x3160bc=>{var _0x6e76d=_0x7824be,_0x575706;return{'name':this[_0x6e76d(0x272)]()+'-'+_0x3160bc['key'],'value':_0x3160bc[_0x6e76d(0x4d0)],'domain':this[_0x6e76d(0x3e3)][_0x6e76d(0x33d)],'maxAge':null!==(_0x575706=this[_0x6e76d(0x3e3)][_0x6e76d(0x531)])&&void 0x0!==_0x575706?_0x575706:0x0,'path':this[_0x6e76d(0x3e3)]['path'],'sameSite':this[_0x6e76d(0x3e3)][_0x6e76d(0x4dd)]};})),{'token':_0x21e402['access_token'],'user':_0x21e402['user'],'data':_0x21e402['user'],'error':null};}return{'token':_0x2cb6b0,'user':_0x453d96,'data':_0x453d96,'error':null};}catch(_0x4a7838){return{'token':null,'user':null,'data':null,'error':_0x4a7838};}});}[_0x4eebfa(0x268)](_0x1bf031,_0x4b803f){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x16d1e9=a3_0x4871;try{const _0xb057ad=yield _0x2a8be7(this['fetch'],this[_0x16d1e9(0x3c6)]+_0x16d1e9(0x3e2)+_0x1bf031,_0x4b803f,{'headers':this[_0x16d1e9(0x2f6)]});return{'user':_0xb057ad,'data':_0xb057ad,'error':null};}catch(_0x50d1ca){return{'user':null,'data':null,'error':_0x50d1ca};}});}[_0x4eebfa(0x3d6)](_0x45ed06){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x4319e1=a3_0x4871;try{const _0x2e820a=yield function(_0x4a389c,_0x5cb6c2,_0x5b4b61,_0x54c4e5){return _0xa19749(this,void 0x0,void 0x0,function*(){var _0x157a6b=a3_0x4871;return _0x2b7dc6(_0x4a389c,_0x157a6b(0x4b5),_0x5cb6c2,_0x54c4e5,_0x5b4b61);});}(this['fetch'],this['url']+_0x4319e1(0x3e2)+_0x45ed06,{},{'headers':this['headers']});return{'user':_0x2e820a,'data':_0x2e820a,'error':null};}catch(_0x343e9d){return{'user':null,'data':null,'error':_0x343e9d};}});}[_0x4eebfa(0x490)](_0x48329f){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x104d39=a3_0x4871;try{const _0x5b4998=yield _0x340ccc(this['fetch'],this['url']+_0x104d39(0x505),{'headers':this[_0x104d39(0x363)](_0x48329f)});return{'user':_0x5b4998,'data':_0x5b4998,'error':null};}catch(_0x4cfb3f){return{'user':null,'data':null,'error':_0x4cfb3f};}});}[_0x4eebfa(0x53c)](_0x4c0fd7,_0x50bd06){return _0x3f3027(this,void 0x0,void 0x0,function*(){var _0x382962=a3_0x4871;try{const _0x50f03e=yield _0x2a8be7(this[_0x382962(0x29f)],this[_0x382962(0x3c6)]+_0x382962(0x505),_0x50bd06,{'headers':this['_createRequestHeaders'](_0x4c0fd7)});return{'user':_0x50f03e,'data':_0x50f03e,'error':null};}catch(_0x485c1e){return{'user':null,'data':null,'error':_0x485c1e};}});}}var _0x485808=function(_0x3528fe,_0x1f1744,_0x26c512,_0x493242){return new(_0x26c512||(_0x26c512=Promise))(function(_0x366603,_0x43f1e8){var _0xbb267d=a3_0x4871;function _0x5df725(_0x1fc9db){var _0x44ab29=a3_0x4871;try{_0x4c9822(_0x493242[_0x44ab29(0x1ef)](_0x1fc9db));}catch(_0x34f46f){_0x43f1e8(_0x34f46f);}}function _0x528c35(_0x32b51d){try{_0x4c9822(_0x493242['throw'](_0x32b51d));}catch(_0x212c3d){_0x43f1e8(_0x212c3d);}}function _0x4c9822(_0x4eb80e){var _0x39ea15=a3_0x4871,_0x45fe67;_0x4eb80e[_0x39ea15(0x2c9)]?_0x366603(_0x4eb80e[_0x39ea15(0x4d0)]):(_0x45fe67=_0x4eb80e['value'],_0x45fe67 instanceof _0x26c512?_0x45fe67:new _0x26c512(function(_0x2b9f1c){_0x2b9f1c(_0x45fe67);}))[_0x39ea15(0x2a2)](_0x5df725,_0x528c35);}_0x4c9822((_0x493242=_0x493242[_0xbb267d(0x26e)](_0x3528fe,_0x1f1744||[]))['next']());});};!(function(){var _0x2b74d7=_0x4eebfa;if(_0x2b74d7(0x538)!=typeof globalThis)try{Object[_0x2b74d7(0x3e6)](Object['prototype'],_0x2b74d7(0x32a),{'get':function(){return this;},'configurable':!0x0}),__magic__['globalThis']=__magic__,delete Object['prototype'][_0x2b74d7(0x32a)];}catch(_0x489434){'undefined'!=typeof self&&(self[_0x2b74d7(0x2c8)]=self);}}());const _0x33162f={'url':_0x4eebfa(0x378),'autoRefreshToken':!0x0,'persistSession':!0x0,'detectSessionInUrl':!0x0,'multiTab':!0x0,'headers':{'X-Client-Info':'gotrue-js/1.22.22'}};class _0x5632da extends class{constructor(_0x215476){var _0x5af5cd=_0x4eebfa;this['stateChangeEmitters']=new Map(),this[_0x5af5cd(0x432)]=0x0;const _0x28d79a=Object[_0x5af5cd(0x46b)](Object[_0x5af5cd(0x46b)]({},_0x33162f),_0x215476);this[_0x5af5cd(0x221)]=null,this[_0x5af5cd(0x345)]=null,this[_0x5af5cd(0x4b8)]=_0x28d79a['autoRefreshToken'],this[_0x5af5cd(0x20d)]=_0x28d79a['persistSession'],this[_0x5af5cd(0x430)]=_0x28d79a[_0x5af5cd(0x430)],this[_0x5af5cd(0x4bb)]=_0x28d79a['localStorage']||globalThis['localStorage'],this[_0x5af5cd(0x4f8)]=new _0x443b3b({'url':_0x28d79a[_0x5af5cd(0x3c6)],'headers':_0x28d79a[_0x5af5cd(0x2f6)],'cookieOptions':_0x28d79a[_0x5af5cd(0x3e3)],'fetch':_0x28d79a[_0x5af5cd(0x29f)]}),this[_0x5af5cd(0x213)](),this[_0x5af5cd(0x3d4)](),this[_0x5af5cd(0x2c1)](),this[_0x5af5cd(0x1dd)](),_0x28d79a[_0x5af5cd(0x439)]&&_0x3c8b2e()&&_0x2b006e(_0x5af5cd(0x4e1))&&this['getSessionFromUrl']({'storeSession':!0x0})[_0x5af5cd(0x2a2)](({error:_0xc67c81})=>{if(_0xc67c81)throw new Error('Error\x20getting\x20session\x20from\x20URL.');});}[_0x4eebfa(0x3f1)]({email:_0x38bf34,password:_0x42955b,phone:_0x1c3579},_0x381d17={}){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x589a6e=a3_0x4871;try{this['_removeSession']();const {data:_0x5d9aaf,error:_0x2a602d}=_0x1c3579&&_0x42955b?yield this['api'][_0x589a6e(0x3bb)](_0x1c3579,_0x42955b,{'data':_0x381d17['data'],'captchaToken':_0x381d17[_0x589a6e(0x462)]}):yield this['api'][_0x589a6e(0x465)](_0x38bf34,_0x42955b,{'redirectTo':_0x381d17['redirectTo'],'data':_0x381d17[_0x589a6e(0x326)],'captchaToken':_0x381d17['captchaToken']});if(_0x2a602d)throw _0x2a602d;if(!_0x5d9aaf)throw _0x589a6e(0x2e2);let _0x5dbba0=null,_0x433d3e=null;return _0x5d9aaf[_0x589a6e(0x4e1)]&&(_0x5dbba0=_0x5d9aaf,_0x433d3e=_0x5dbba0['user'],this[_0x589a6e(0x483)](_0x5dbba0),this['_notifyAllSubscribers'](_0x589a6e(0x225))),_0x5d9aaf['id']&&(_0x433d3e=_0x5d9aaf),{'user':_0x433d3e,'session':_0x5dbba0,'error':null};}catch(_0xbaf723){return{'user':null,'session':null,'error':_0xbaf723};}});}[_0x4eebfa(0x281)]({email:_0x5eb38e,phone:_0x519e51,password:_0x3c725d,refreshToken:_0x80e3c1,provider:_0x456236,oidc:_0x4ecd7a},_0x1152b4={}){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x25e9f2=a3_0x4871;try{if(this[_0x25e9f2(0x1d4)](),_0x5eb38e&&!_0x3c725d){const {error:_0x1b3e5a}=yield this[_0x25e9f2(0x4f8)]['sendMagicLinkEmail'](_0x5eb38e,{'redirectTo':_0x1152b4[_0x25e9f2(0x4f4)],'shouldCreateUser':_0x1152b4[_0x25e9f2(0x197)],'captchaToken':_0x1152b4[_0x25e9f2(0x462)]});return{'user':null,'session':null,'error':_0x1b3e5a};}if(_0x5eb38e&&_0x3c725d)return this[_0x25e9f2(0x315)](_0x5eb38e,_0x3c725d,{'redirectTo':_0x1152b4['redirectTo'],'captchaToken':_0x1152b4[_0x25e9f2(0x462)]});if(_0x519e51&&!_0x3c725d){const {error:_0x46f466}=yield this[_0x25e9f2(0x4f8)]['sendMobileOTP'](_0x519e51,{'shouldCreateUser':_0x1152b4[_0x25e9f2(0x197)],'captchaToken':_0x1152b4[_0x25e9f2(0x462)]});return{'user':null,'session':null,'error':_0x46f466};}if(_0x519e51&&_0x3c725d)return this[_0x25e9f2(0x3cd)](_0x519e51,_0x3c725d);if(_0x80e3c1){const {error:_0x4795a9}=yield this[_0x25e9f2(0x3f4)](_0x80e3c1);if(_0x4795a9)throw _0x4795a9;return{'user':this[_0x25e9f2(0x221)],'session':this[_0x25e9f2(0x345)],'error':null};}if(_0x456236)return this[_0x25e9f2(0x438)](_0x456236,{'redirectTo':_0x1152b4[_0x25e9f2(0x4f4)],'scopes':_0x1152b4['scopes'],'queryParams':_0x1152b4[_0x25e9f2(0x400)]});if(_0x4ecd7a)return this[_0x25e9f2(0x3a1)](_0x4ecd7a);throw new Error('You\x20must\x20provide\x20either\x20an\x20email,\x20phone\x20number,\x20a\x20third-party\x20provider\x20or\x20OpenID\x20Connect.');}catch(_0x20c82f){return{'user':null,'session':null,'error':_0x20c82f};}});}[_0x4eebfa(0x18a)](_0x287936,_0x4e94f3={}){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x21b853=a3_0x4871;try{this['_removeSession']();const {data:_0x3af587,error:_0x2fa9a5}=yield this[_0x21b853(0x4f8)]['verifyOTP'](_0x287936,_0x4e94f3);if(_0x2fa9a5)throw _0x2fa9a5;if(!_0x3af587)throw _0x21b853(0x24b);let _0x2feb38=null,_0x38e34c=null;return _0x3af587[_0x21b853(0x4e1)]&&(_0x2feb38=_0x3af587,_0x38e34c=_0x2feb38[_0x21b853(0x1da)],this[_0x21b853(0x483)](_0x2feb38),this[_0x21b853(0x28e)](_0x21b853(0x225))),_0x3af587['id']&&(_0x38e34c=_0x3af587),{'user':_0x38e34c,'session':_0x2feb38,'error':null};}catch(_0x464671){return{'user':null,'session':null,'error':_0x464671};}});}['user'](){var _0xe957ef=_0x4eebfa;return this[_0xe957ef(0x221)];}['session'](){var _0x2b35f1=_0x4eebfa;return this[_0x2b35f1(0x345)];}[_0x4eebfa(0x194)](){var _0xc0b0d8;return _0x485808(this,void 0x0,void 0x0,function*(){var _0xa8591e=a3_0x4871;try{if(!(null===(_0xc0b0d8=this[_0xa8591e(0x345)])||void 0x0===_0xc0b0d8?void 0x0:_0xc0b0d8[_0xa8591e(0x4e1)]))throw new Error(_0xa8591e(0x1c1));const {error:_0x5ded75}=yield this['_callRefreshToken']();if(_0x5ded75)throw _0x5ded75;return{'data':this[_0xa8591e(0x345)],'user':this['currentUser'],'error':null};}catch(_0x5317de){return{'data':null,'user':null,'error':_0x5317de};}});}[_0x4eebfa(0x431)](_0x294266){var _0x238bcc;return _0x485808(this,void 0x0,void 0x0,function*(){var _0x10c6c0=a3_0x4871;try{if(!(null===(_0x238bcc=this[_0x10c6c0(0x345)])||void 0x0===_0x238bcc?void 0x0:_0x238bcc['access_token']))throw new Error(_0x10c6c0(0x1c1));const {user:_0xfc8b06,error:_0x5a4ff8}=yield this[_0x10c6c0(0x4f8)][_0x10c6c0(0x53c)](this['currentSession'][_0x10c6c0(0x4e1)],_0x294266);if(_0x5a4ff8)throw _0x5a4ff8;if(!_0xfc8b06)throw Error(_0x10c6c0(0x472));const _0x3c5ebd=Object[_0x10c6c0(0x46b)](Object[_0x10c6c0(0x46b)]({},this['currentSession']),{'user':_0xfc8b06});return this[_0x10c6c0(0x483)](_0x3c5ebd),this[_0x10c6c0(0x28e)]('USER_UPDATED'),{'data':_0xfc8b06,'user':_0xfc8b06,'error':null};}catch(_0x1b04ed){return{'data':null,'user':null,'error':_0x1b04ed};}});}[_0x4eebfa(0x1f1)](_0x383a09){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x190e25=a3_0x4871;try{if(!_0x383a09)throw new Error(_0x190e25(0x1fe));const {data:_0xd648ee,error:_0x4ac5af}=yield this['api']['refreshAccessToken'](_0x383a09);return _0x4ac5af?{'session':null,'error':_0x4ac5af}:(this[_0x190e25(0x483)](_0xd648ee),this[_0x190e25(0x28e)](_0x190e25(0x225)),{'session':_0xd648ee,'error':null});}catch(_0x4fd59e){return{'error':_0x4fd59e,'session':null};}});}[_0x4eebfa(0x499)](_0x22efbf){var _0x188dde=_0x4eebfa;return this['currentSession']=Object[_0x188dde(0x46b)](Object[_0x188dde(0x46b)]({},this[_0x188dde(0x345)]),{'access_token':_0x22efbf,'token_type':_0x188dde(0x4ba),'user':this[_0x188dde(0x1da)]()}),this['_notifyAllSubscribers'](_0x188dde(0x1d7)),this['currentSession'];}[_0x4eebfa(0x4b0)](_0x577cf7){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x244144=a3_0x4871;try{if(!_0x3c8b2e())throw new Error(_0x244144(0x29d));const _0x47c0fd=_0x2b006e(_0x244144(0x2c6));if(_0x47c0fd)throw new Error(_0x47c0fd);const _0x45620a=_0x2b006e(_0x244144(0x350)),_0x203287=_0x2b006e(_0x244144(0x4e1));if(!_0x203287)throw new Error(_0x244144(0x4cf));const _0x572fe5=_0x2b006e(_0x244144(0x228));if(!_0x572fe5)throw new Error(_0x244144(0x4de));const _0x38ad91=_0x2b006e(_0x244144(0x2f3));if(!_0x38ad91)throw new Error('No\x20refresh_token\x20detected.');const _0x18b836=_0x2b006e('token_type');if(!_0x18b836)throw new Error(_0x244144(0x51f));const _0x49b001=Math['round'](Date[_0x244144(0x30b)]()/0x3e8)+parseInt(_0x572fe5),{user:_0x3ce303,error:_0x51e15c}=yield this[_0x244144(0x4f8)][_0x244144(0x490)](_0x203287);if(_0x51e15c)throw _0x51e15c;const _0xd54309={'provider_token':_0x45620a,'access_token':_0x203287,'expires_in':parseInt(_0x572fe5),'expires_at':_0x49b001,'refresh_token':_0x38ad91,'token_type':_0x18b836,'user':_0x3ce303};if(null==_0x577cf7?void 0x0:_0x577cf7['storeSession']){this['_saveSession'](_0xd54309);const _0x495a2=_0x2b006e(_0x244144(0x21e));this[_0x244144(0x28e)](_0x244144(0x225)),'recovery'===_0x495a2&&this['_notifyAllSubscribers'](_0x244144(0x47a));}return window[_0x244144(0x323)][_0x244144(0x37d)]='',{'data':_0xd54309,'error':null};}catch(_0xe181a5){return{'data':null,'error':_0xe181a5};}});}[_0x4eebfa(0x372)](){var _0xe746aa;return _0x485808(this,void 0x0,void 0x0,function*(){var _0x24a58d=a3_0x4871;const _0x3c3ee4=null===(_0xe746aa=this[_0x24a58d(0x345)])||void 0x0===_0xe746aa?void 0x0:_0xe746aa[_0x24a58d(0x4e1)];if(this['_removeSession'](),this[_0x24a58d(0x28e)](_0x24a58d(0x3dc)),_0x3c3ee4){const {error:_0x1c1c1d}=yield this[_0x24a58d(0x4f8)][_0x24a58d(0x372)](_0x3c3ee4);if(_0x1c1c1d)return{'error':_0x1c1c1d};}return{'error':null};});}['onAuthStateChange'](_0xdffe30){var _0x18cb69=_0x4eebfa;try{const _0x5f516b=_0x18cb69(0x250)[_0x18cb69(0x390)](/[xy]/g,function(_0xf9c58b){var _0x896cc=_0x18cb69;const _0x4af238=0x10*Math['random']()|0x0;return('x'==_0xf9c58b?_0x4af238:0x3&_0x4af238|0x8)[_0x896cc(0x3b6)](0x10);}),_0xa8973e={'id':_0x5f516b,'callback':_0xdffe30,'unsubscribe':()=>{var _0xf43f93=_0x18cb69;this[_0xf43f93(0x25a)][_0xf43f93(0x1e1)](_0x5f516b);}};return this[_0x18cb69(0x25a)][_0x18cb69(0x313)](_0x5f516b,_0xa8973e),{'data':_0xa8973e,'error':null};}catch(_0xfc8b6a){return{'data':null,'error':_0xfc8b6a};}}['_handleEmailSignIn'](_0x11dfd8,_0x41d89a,_0xb4124={}){var _0x1c2cc2,_0x2c9a97;return _0x485808(this,void 0x0,void 0x0,function*(){var _0x23aa68=a3_0x4871;try{const {data:_0x45ae67,error:_0x4c8d22}=yield this['api']['signInWithEmail'](_0x11dfd8,_0x41d89a,{'redirectTo':_0xb4124[_0x23aa68(0x4f4)],'captchaToken':_0xb4124[_0x23aa68(0x462)]});return _0x4c8d22||!_0x45ae67?{'data':null,'user':null,'session':null,'error':_0x4c8d22}:(((null===(_0x1c2cc2=null==_0x45ae67?void 0x0:_0x45ae67['user'])||void 0x0===_0x1c2cc2?void 0x0:_0x1c2cc2[_0x23aa68(0x4f7)])||(null===(_0x2c9a97=null==_0x45ae67?void 0x0:_0x45ae67[_0x23aa68(0x1da)])||void 0x0===_0x2c9a97?void 0x0:_0x2c9a97['email_confirmed_at']))&&(this[_0x23aa68(0x483)](_0x45ae67),this[_0x23aa68(0x28e)](_0x23aa68(0x225))),{'data':_0x45ae67,'user':_0x45ae67['user'],'session':_0x45ae67,'error':null});}catch(_0x5cf85a){return{'data':null,'user':null,'session':null,'error':_0x5cf85a};}});}[_0x4eebfa(0x3cd)](_0x4d2d3f,_0x4437f9,_0x2c703e={}){var _0x428ee6;return _0x485808(this,void 0x0,void 0x0,function*(){var _0x5e5849=a3_0x4871;try{const {data:_0x323c87,error:_0x76068b}=yield this[_0x5e5849(0x4f8)][_0x5e5849(0x2a9)](_0x4d2d3f,_0x4437f9,_0x2c703e);return _0x76068b||!_0x323c87?{'data':null,'user':null,'session':null,'error':_0x76068b}:((null===(_0x428ee6=null==_0x323c87?void 0x0:_0x323c87[_0x5e5849(0x1da)])||void 0x0===_0x428ee6?void 0x0:_0x428ee6['phone_confirmed_at'])&&(this['_saveSession'](_0x323c87),this['_notifyAllSubscribers']('SIGNED_IN')),{'data':_0x323c87,'user':_0x323c87['user'],'session':_0x323c87,'error':null});}catch(_0x589f70){return{'data':null,'user':null,'session':null,'error':_0x589f70};}});}['_handleProviderSignIn'](_0x41f599,_0x4ef5ed={}){var _0x207f40=_0x4eebfa;const _0x44be81=this[_0x207f40(0x4f8)][_0x207f40(0x453)](_0x41f599,{'redirectTo':_0x4ef5ed[_0x207f40(0x4f4)],'scopes':_0x4ef5ed[_0x207f40(0x310)],'queryParams':_0x4ef5ed[_0x207f40(0x400)]});try{return _0x3c8b2e()&&(window[_0x207f40(0x323)][_0x207f40(0x3a5)]=_0x44be81),{'provider':_0x41f599,'url':_0x44be81,'data':null,'session':null,'user':null,'error':null};}catch(_0x2c87f9){return _0x44be81?{'provider':_0x41f599,'url':_0x44be81,'data':null,'session':null,'user':null,'error':null}:{'data':null,'user':null,'session':null,'error':_0x2c87f9};}}[_0x4eebfa(0x3a1)]({id_token:_0x526afe,nonce:_0xe0f728,client_id:_0x525422,issuer:_0x27ad92,provider:_0x5a91cf}){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x4ca181=a3_0x4871;if(_0x526afe&&_0xe0f728&&(_0x525422&&_0x27ad92||_0x5a91cf))try{const {data:_0x1d1410,error:_0x157f9e}=yield this[_0x4ca181(0x4f8)][_0x4ca181(0x4e6)]({'id_token':_0x526afe,'nonce':_0xe0f728,'client_id':_0x525422,'issuer':_0x27ad92,'provider':_0x5a91cf});return _0x157f9e||!_0x1d1410?{'user':null,'session':null,'error':_0x157f9e}:(this[_0x4ca181(0x483)](_0x1d1410),this[_0x4ca181(0x28e)](_0x4ca181(0x225)),{'user':_0x1d1410[_0x4ca181(0x1da)],'session':_0x1d1410,'error':null});}catch(_0x10adee){return{'user':null,'session':null,'error':_0x10adee};}throw new Error(_0x4ca181(0x4db));});}[_0x4eebfa(0x213)](){var _0x1394d9=_0x4eebfa;try{const _0x2666b7=((_0x10d411,_0x31323b)=>{var _0x469afa=a3_0x4871;const _0x1e44dd=_0x3c8b2e()&&(null==_0x10d411?void 0x0:_0x10d411[_0x469afa(0x2da)](_0x469afa(0x292)));if(!_0x1e44dd||_0x469afa(0x383)!=typeof _0x1e44dd)return null;try{return JSON[_0x469afa(0x3eb)](_0x1e44dd);}catch(_0x5dd1cc){return _0x1e44dd;}})(this[_0x1394d9(0x4bb)]);if(!_0x2666b7)return null;const {currentSession:_0x3a2f26,expiresAt:_0x2a83e7}=_0x2666b7;_0x2a83e7>=Math[_0x1394d9(0x175)](Date['now']()/0x3e8)+0xa&&(null==_0x3a2f26?void 0x0:_0x3a2f26[_0x1394d9(0x1da)])&&(this[_0x1394d9(0x483)](_0x3a2f26),this['_notifyAllSubscribers'](_0x1394d9(0x225)));}catch(_0x2fbd83){console['log'](_0x1394d9(0x428),_0x2fbd83);}}['_recoverAndRefresh'](){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x2c4d21=a3_0x4871;try{const _0x546cd9=yield(_0x41a580=this[_0x2c4d21(0x4bb)],_0xcf858d,_0x18dd31(void 0x0,void 0x0,void 0x0,function*(){var _0x5d8f9e=_0x2c4d21;const _0x105c51=_0x3c8b2e()&&(yield null==_0x41a580?void 0x0:_0x41a580[_0x5d8f9e(0x2da)]('supabase.auth.token'));if(!_0x105c51)return null;try{return JSON[_0x5d8f9e(0x3eb)](_0x105c51);}catch(_0x249dfc){return _0x105c51;}}));if(!_0x546cd9)return null;const {currentSession:_0x5b8673,expiresAt:_0x3bd9ec}=_0x546cd9;if(_0x3bd9ec<Math[_0x2c4d21(0x175)](Date[_0x2c4d21(0x30b)]()/0x3e8)+0xa){if(this['autoRefreshToken']&&_0x5b8673[_0x2c4d21(0x2f3)]){this[_0x2c4d21(0x432)]++;const {error:_0x2c01bc}=yield this[_0x2c4d21(0x3f4)](_0x5b8673[_0x2c4d21(0x2f3)]);if(_0x2c01bc){if(console['log'](_0x2c01bc['message']),_0x2c01bc[_0x2c4d21(0x441)]===_0x49055c&&this[_0x2c4d21(0x432)]<0xa)return this[_0x2c4d21(0x532)]&&clearTimeout(this[_0x2c4d21(0x532)]),void(this['refreshTokenTimer']=setTimeout(()=>this[_0x2c4d21(0x3d4)](),0x64*Math[_0x2c4d21(0x471)](0x2,this[_0x2c4d21(0x432)])));yield this[_0x2c4d21(0x1d4)]();}this[_0x2c4d21(0x432)]=0x0;}else this[_0x2c4d21(0x1d4)]();}else _0x5b8673?(this[_0x2c4d21(0x483)](_0x5b8673),this['_notifyAllSubscribers']('SIGNED_IN')):(console[_0x2c4d21(0x3aa)](_0x2c4d21(0x395)),this[_0x2c4d21(0x1d4)]());}catch(_0x4b6591){return console[_0x2c4d21(0x428)](_0x4b6591),null;}var _0x41a580;});}[_0x4eebfa(0x3f4)](_0x28d599){var _0xe76a73=_0x4eebfa,_0x3d7a0b;return void 0x0===_0x28d599&&(_0x28d599=null===(_0x3d7a0b=this[_0xe76a73(0x345)])||void 0x0===_0x3d7a0b?void 0x0:_0x3d7a0b['refresh_token']),_0x485808(this,void 0x0,void 0x0,function*(){var _0xb49e6e=_0xe76a73;try{if(!_0x28d599)throw new Error(_0xb49e6e(0x1fe));const {data:_0x18f963,error:_0x13b549}=yield this[_0xb49e6e(0x4f8)][_0xb49e6e(0x4cb)](_0x28d599);if(_0x13b549)throw _0x13b549;if(!_0x18f963)throw Error(_0xb49e6e(0x2ee));return this[_0xb49e6e(0x483)](_0x18f963),this[_0xb49e6e(0x28e)](_0xb49e6e(0x1d7)),this[_0xb49e6e(0x28e)](_0xb49e6e(0x225)),{'data':_0x18f963,'error':null};}catch(_0x357257){return{'data':null,'error':_0x357257};}});}[_0x4eebfa(0x28e)](_0x3480cf){var _0xc94f2c=_0x4eebfa;this[_0xc94f2c(0x25a)]['forEach'](_0x16d2aa=>_0x16d2aa[_0xc94f2c(0x22a)](_0x3480cf,this[_0xc94f2c(0x345)]));}[_0x4eebfa(0x483)](_0x54eda6){var _0x2c1498=_0x4eebfa;this[_0x2c1498(0x345)]=_0x54eda6,this[_0x2c1498(0x221)]=_0x54eda6[_0x2c1498(0x1da)];const _0x273295=_0x54eda6[_0x2c1498(0x542)];if(_0x273295){const _0x238cdf=_0x273295-Math[_0x2c1498(0x175)](Date[_0x2c1498(0x30b)]()/0x3e8),_0x41fbd5=_0x238cdf>0xa?0xa:0.5;this[_0x2c1498(0x23f)](0x3e8*(_0x238cdf-_0x41fbd5));}this[_0x2c1498(0x20d)]&&_0x54eda6[_0x2c1498(0x542)]&&this['_persistSession'](this[_0x2c1498(0x345)]);}[_0x4eebfa(0x420)](_0x36b172){var _0x370a41=_0x4eebfa;const _0x4f33c7={'currentSession':_0x36b172,'expiresAt':_0x36b172['expires_at']};((_0x1f7940,_0x32063a,_0x274ef3)=>{_0x18dd31(void 0x0,void 0x0,void 0x0,function*(){var _0x367761=a3_0x4871;_0x3c8b2e()&&(yield null==_0x1f7940?void 0x0:_0x1f7940[_0x367761(0x1ea)](_0x367761(0x292),JSON['stringify'](_0x274ef3)));});})(this[_0x370a41(0x4bb)],0x0,_0x4f33c7);}[_0x4eebfa(0x1d4)](){return _0x485808(this,void 0x0,void 0x0,function*(){var _0x482762=a3_0x4871,_0x1ec7ad;this[_0x482762(0x345)]=null,this[_0x482762(0x221)]=null,this['refreshTokenTimer']&&clearTimeout(this[_0x482762(0x532)]),_0x1ec7ad=this['localStorage'],_0x18dd31(void 0x0,void 0x0,void 0x0,function*(){var _0x503b6b=_0x482762;_0x3c8b2e()&&(yield null==_0x1ec7ad?void 0x0:_0x1ec7ad[_0x503b6b(0x49a)](_0x503b6b(0x292)));});});}[_0x4eebfa(0x23f)](_0x18f0c9){var _0x11a56d=_0x4eebfa;this[_0x11a56d(0x532)]&&clearTimeout(this[_0x11a56d(0x532)]),_0x18f0c9<=0x0||!this['autoRefreshToken']||(this[_0x11a56d(0x532)]=setTimeout(()=>_0x485808(this,void 0x0,void 0x0,function*(){var _0x312215=_0x11a56d;this[_0x312215(0x432)]++;const {error:_0x23c7e2}=yield this[_0x312215(0x3f4)]();_0x23c7e2||(this[_0x312215(0x432)]=0x0),(null==_0x23c7e2?void 0x0:_0x23c7e2[_0x312215(0x441)])===_0x49055c&&this['networkRetries']<0xa&&this[_0x312215(0x23f)](0x64*Math[_0x312215(0x471)](0x2,this[_0x312215(0x432)]));}),_0x18f0c9),'function'==typeof this[_0x11a56d(0x532)][_0x11a56d(0x30a)]&&this[_0x11a56d(0x532)][_0x11a56d(0x30a)]());}[_0x4eebfa(0x2c1)](){var _0x3e4b97=_0x4eebfa;if(!this['multiTab']||!_0x3c8b2e()||!(null===window||void 0x0===window?void 0x0:window['addEventListener']))return!0x1;try{null===window||void 0x0===window||window[_0x3e4b97(0x440)]('storage',_0x1bc7ae=>{var _0x40ebe5=_0x3e4b97,_0x2e1255;if(_0x1bc7ae['key']===_0xcf858d){const _0x43d870=JSON[_0x40ebe5(0x3eb)](String(_0x1bc7ae[_0x40ebe5(0x3ec)]));(null===(_0x2e1255=null==_0x43d870?void 0x0:_0x43d870[_0x40ebe5(0x345)])||void 0x0===_0x2e1255?void 0x0:_0x2e1255[_0x40ebe5(0x4e1)])?(this[_0x40ebe5(0x483)](_0x43d870[_0x40ebe5(0x345)]),this['_notifyAllSubscribers'](_0x40ebe5(0x225))):(this[_0x40ebe5(0x1d4)](),this['_notifyAllSubscribers']('SIGNED_OUT'));}});}catch(_0x15d03e){console[_0x3e4b97(0x428)]('_listenForMultiTabEvents',_0x15d03e);}}[_0x4eebfa(0x1dd)](){var _0x28c885=_0x4eebfa;if(!this[_0x28c885(0x430)]||!_0x3c8b2e()||!(null===window||void 0x0===window?void 0x0:window[_0x28c885(0x440)]))return!0x1;try{null===window||void 0x0===window||window[_0x28c885(0x440)](_0x28c885(0x370),()=>{var _0x245727=_0x28c885;'visible'===document[_0x245727(0x1a3)]&&this[_0x245727(0x3d4)]();});}catch(_0x31a509){console[_0x28c885(0x428)](_0x28c885(0x1dd),_0x31a509);}}}{constructor(_0x4351fa){super(_0x4351fa);}}var _0x1056ae=function(_0xc3961e,_0x4564e4,_0x2d67c0,_0x5c85fa){return new(_0x2d67c0||(_0x2d67c0=Promise))(function(_0x8dbdcd,_0x2c0b0f){var _0x4d5e67=a3_0x4871;function _0xb35228(_0x44bc1b){var _0x506dbe=a3_0x4871;try{_0x20b3ba(_0x5c85fa[_0x506dbe(0x1ef)](_0x44bc1b));}catch(_0x3f8d62){_0x2c0b0f(_0x3f8d62);}}function _0x4eb143(_0x4c8e58){try{_0x20b3ba(_0x5c85fa['throw'](_0x4c8e58));}catch(_0x1407ca){_0x2c0b0f(_0x1407ca);}}function _0x20b3ba(_0x1b7ac4){var _0x774c8f=a3_0x4871,_0x4e0227;_0x1b7ac4[_0x774c8f(0x2c9)]?_0x8dbdcd(_0x1b7ac4['value']):(_0x4e0227=_0x1b7ac4[_0x774c8f(0x4d0)],_0x4e0227 instanceof _0x2d67c0?_0x4e0227:new _0x2d67c0(function(_0x538773){_0x538773(_0x4e0227);}))[_0x774c8f(0x2a2)](_0xb35228,_0x4eb143);}_0x20b3ba((_0x5c85fa=_0x5c85fa[_0x4d5e67(0x26e)](_0xc3961e,_0x4564e4||[]))[_0x4d5e67(0x1ef)]());});};class _0x440d17{constructor(_0x29371a){var _0x26a67e=_0x4eebfa;let _0x47c291;Object[_0x26a67e(0x46b)](this,_0x29371a),_0x47c291=_0x29371a[_0x26a67e(0x29f)]?_0x29371a['fetch']:_0x26a67e(0x229)==typeof fetch?(..._0x388241)=>_0x1056ae(this,void 0x0,void 0x0,function*(){var _0x3f9866=_0x26a67e;return yield(yield _0x5d9274['e'](0x62)['then'](_0x5d9274['t'][_0x3f9866(0x3c0)](_0x5d9274,0x62,0x17)))[_0x3f9866(0x29f)](..._0x388241);}):fetch,this[_0x26a67e(0x29f)]=(..._0x14ccb7)=>_0x47c291(..._0x14ccb7),this['shouldThrowOnError']=_0x29371a[_0x26a67e(0x49f)]||!0x1,this[_0x26a67e(0x3e5)]=_0x29371a[_0x26a67e(0x3e5)]||!0x1;}[_0x4eebfa(0x190)](_0x2a4e8e){var _0x2ad072=_0x4eebfa;return null==_0x2a4e8e&&(_0x2a4e8e=!0x0),this[_0x2ad072(0x49f)]=_0x2a4e8e,this;}[_0x4eebfa(0x2a2)](_0x173686,_0x1fa6fa){var _0x11fbf3=_0x4eebfa;void 0x0===this[_0x11fbf3(0x248)]||([_0x11fbf3(0x1ed),_0x11fbf3(0x4b9)]['includes'](this[_0x11fbf3(0x43b)])?this[_0x11fbf3(0x2f6)][_0x11fbf3(0x238)]=this[_0x11fbf3(0x248)]:this[_0x11fbf3(0x2f6)][_0x11fbf3(0x267)]=this[_0x11fbf3(0x248)]),_0x11fbf3(0x1ed)!==this[_0x11fbf3(0x43b)]&&'HEAD'!==this[_0x11fbf3(0x43b)]&&(this[_0x11fbf3(0x2f6)][_0x11fbf3(0x1f2)]=_0x11fbf3(0x32e));let _0x7c368b=this[_0x11fbf3(0x29f)](this[_0x11fbf3(0x3c6)]['toString'](),{'method':this[_0x11fbf3(0x43b)],'headers':this[_0x11fbf3(0x2f6)],'body':JSON['stringify'](this[_0x11fbf3(0x3fa)]),'signal':this[_0x11fbf3(0x529)]})['then'](_0xfd6986=>_0x1056ae(this,void 0x0,void 0x0,function*(){var _0x4df7af=_0x11fbf3,_0x1b33e3,_0x195177,_0x506716,_0xc6046e;let _0x27aeef=null,_0x5857d2=null,_0x2dbfd6=null,_0x53bda6=_0xfd6986[_0x4df7af(0x42a)],_0x41b025=_0xfd6986[_0x4df7af(0x41b)];if(_0xfd6986['ok']){const _0x2cfd2d=null===(_0x1b33e3=this[_0x4df7af(0x2f6)][_0x4df7af(0x51d)])||void 0x0===_0x1b33e3?void 0x0:_0x1b33e3[_0x4df7af(0x322)](',')[_0x4df7af(0x1c8)](_0x4df7af(0x39b));if(_0x4df7af(0x4b9)!==this['method']&&!_0x2cfd2d){const _0x276f50=yield _0xfd6986[_0x4df7af(0x288)]();_0x276f50&&(_0x5857d2='text/csv'===this[_0x4df7af(0x2f6)][_0x4df7af(0x1a5)]?_0x276f50:JSON[_0x4df7af(0x3eb)](_0x276f50));}const _0x451a48=null===(_0x195177=this[_0x4df7af(0x2f6)]['Prefer'])||void 0x0===_0x195177?void 0x0:_0x195177[_0x4df7af(0x47f)](/count=(exact|planned|estimated)/),_0x40bedc=null===(_0x506716=_0xfd6986['headers'][_0x4df7af(0x1c5)](_0x4df7af(0x3d9)))||void 0x0===_0x506716?void 0x0:_0x506716['split']('/');_0x451a48&&_0x40bedc&&_0x40bedc[_0x4df7af(0x50a)]>0x1&&(_0x2dbfd6=parseInt(_0x40bedc[0x1]));}else{const _0x32c12b=yield _0xfd6986[_0x4df7af(0x288)]();try{_0x27aeef=JSON['parse'](_0x32c12b);}catch(_0x421c7c){_0x27aeef={'message':_0x32c12b};}if(_0x27aeef&&this[_0x4df7af(0x3e5)]&&(null===(_0xc6046e=null==_0x27aeef?void 0x0:_0x27aeef['details'])||void 0x0===_0xc6046e?void 0x0:_0xc6046e[_0x4df7af(0x1c8)](_0x4df7af(0x21f)))&&(_0x27aeef=null,_0x53bda6=0xc8,_0x41b025='OK'),_0x27aeef&&this[_0x4df7af(0x49f)])throw _0x27aeef;}return{'error':_0x27aeef,'data':_0x5857d2,'count':_0x2dbfd6,'status':_0x53bda6,'statusText':_0x41b025,'body':_0x5857d2};}));return this['shouldThrowOnError']||(_0x7c368b=_0x7c368b[_0x11fbf3(0x2ff)](_0x465486=>({'error':{'message':_0x11fbf3(0x501)+_0x465486[_0x11fbf3(0x441)],'details':'','hint':'','code':_0x465486[_0x11fbf3(0x42d)]||''},'data':null,'body':null,'count':null,'status':0x190,'statusText':_0x11fbf3(0x413)}))),_0x7c368b[_0x11fbf3(0x2a2)](_0x173686,_0x1fa6fa);}}class _0x50fd57 extends _0x440d17{[_0x4eebfa(0x376)](_0x514590='*'){var _0x576b87=_0x4eebfa;let _0x17ab2d=!0x1;const _0x30af5a=_0x514590['split']('')['map'](_0x21a892=>/\s/[_0x576b87(0x3bd)](_0x21a892)&&!_0x17ab2d?'':('\x22'===_0x21a892&&(_0x17ab2d=!_0x17ab2d),_0x21a892))[_0x576b87(0x514)]('');return this[_0x576b87(0x3c6)][_0x576b87(0x34b)]['set'](_0x576b87(0x376),_0x30af5a),this;}['order'](_0x45da1d,{ascending:_0x304062=!0x0,nullsFirst:_0x50b6d9=!0x1,foreignTable:_0x39316b}={}){var _0x4246a0=_0x4eebfa;const _0x3f1271=void 0x0===_0x39316b?_0x4246a0(0x2ac):_0x39316b+'.order',_0x1158ff=this[_0x4246a0(0x3c6)]['searchParams']['get'](_0x3f1271);return this[_0x4246a0(0x3c6)][_0x4246a0(0x34b)][_0x4246a0(0x313)](_0x3f1271,''+(_0x1158ff?_0x1158ff+',':'')+_0x45da1d+'.'+(_0x304062?'asc':'desc')+'.'+(_0x50b6d9?'nullsfirst':_0x4246a0(0x26b))),this;}[_0x4eebfa(0x48b)](_0x5d9a44,{foreignTable:_0x3816ab}={}){var _0x2a7c6e=_0x4eebfa;const _0x217735=void 0x0===_0x3816ab?_0x2a7c6e(0x48b):_0x3816ab+'.limit';return this[_0x2a7c6e(0x3c6)][_0x2a7c6e(0x34b)]['set'](_0x217735,''+_0x5d9a44),this;}[_0x4eebfa(0x394)](_0x24137e,_0x47a4f6,{foreignTable:_0x2f42ff}={}){var _0x36014e=_0x4eebfa;const _0x1a256c=void 0x0===_0x2f42ff?_0x36014e(0x1d9):_0x2f42ff+_0x36014e(0x38a),_0x18b433=void 0x0===_0x2f42ff?_0x36014e(0x48b):_0x2f42ff+_0x36014e(0x199);return this['url'][_0x36014e(0x34b)][_0x36014e(0x313)](_0x1a256c,''+_0x24137e),this[_0x36014e(0x3c6)]['searchParams']['set'](_0x18b433,''+(_0x47a4f6-_0x24137e+0x1)),this;}[_0x4eebfa(0x40f)](_0x554b74){var _0x1b6944=_0x4eebfa;return this[_0x1b6944(0x529)]=_0x554b74,this;}[_0x4eebfa(0x176)](){var _0x448a11=_0x4eebfa;return this['headers']['Accept']=_0x448a11(0x484),this;}['maybeSingle'](){var _0x5766e1=_0x4eebfa;return this[_0x5766e1(0x2f6)]['Accept']=_0x5766e1(0x484),this[_0x5766e1(0x3e5)]=!0x0,this;}[_0x4eebfa(0x26c)](){var _0x2a56fa=_0x4eebfa;return this[_0x2a56fa(0x2f6)][_0x2a56fa(0x1a5)]=_0x2a56fa(0x40c),this;}}class _0x44e5a3 extends _0x50fd57{constructor(){var _0x75970f=_0x4eebfa;super(...arguments),this['cs']=this[_0x75970f(0x417)],this['cd']=this[_0x75970f(0x321)],this['sl']=this[_0x75970f(0x23c)],this['sr']=this[_0x75970f(0x48c)],this[_0x75970f(0x270)]=this['rangeGte'],this[_0x75970f(0x4d1)]=this[_0x75970f(0x407)],this['adj']=this[_0x75970f(0x468)],this['ov']=this['overlaps'];}[_0x4eebfa(0x3c7)](_0x830e30,_0x38f5ad,_0x14c521){var _0x3114f9=_0x4eebfa;return this['url']['searchParams'][_0x3114f9(0x2d1)](''+_0x830e30,_0x3114f9(0x1b9)+_0x38f5ad+'.'+_0x14c521),this;}['or'](_0x4f12de,{foreignTable:_0x40f1f0}={}){var _0x1663a8=_0x4eebfa;const _0x4467b6=void 0x0===_0x40f1f0?'or':_0x40f1f0+_0x1663a8(0x188);return this[_0x1663a8(0x3c6)][_0x1663a8(0x34b)]['append'](_0x4467b6,'('+_0x4f12de+')'),this;}['eq'](_0x417a8b,_0x3760e5){var _0x31540a=_0x4eebfa;return this[_0x31540a(0x3c6)]['searchParams'][_0x31540a(0x2d1)](''+_0x417a8b,_0x31540a(0x3fc)+_0x3760e5),this;}[_0x4eebfa(0x374)](_0x1e8ea7,_0x408644){var _0x129f4b=_0x4eebfa;return this[_0x129f4b(0x3c6)][_0x129f4b(0x34b)][_0x129f4b(0x2d1)](''+_0x1e8ea7,_0x129f4b(0x4eb)+_0x408644),this;}['gt'](_0x378324,_0x4d09b5){var _0x18cc78=_0x4eebfa;return this[_0x18cc78(0x3c6)]['searchParams']['append'](''+_0x378324,_0x18cc78(0x2a0)+_0x4d09b5),this;}['gte'](_0x3a2b9c,_0x30d8a7){var _0x1a07a1=_0x4eebfa;return this[_0x1a07a1(0x3c6)][_0x1a07a1(0x34b)][_0x1a07a1(0x2d1)](''+_0x3a2b9c,_0x1a07a1(0x2e3)+_0x30d8a7),this;}['lt'](_0x1cd3ef,_0x36b158){var _0xbf44af=_0x4eebfa;return this[_0xbf44af(0x3c6)]['searchParams'][_0xbf44af(0x2d1)](''+_0x1cd3ef,'lt.'+_0x36b158),this;}['lte'](_0xf0fa2b,_0x472648){var _0x596f3b=_0x4eebfa;return this[_0x596f3b(0x3c6)][_0x596f3b(0x34b)][_0x596f3b(0x2d1)](''+_0xf0fa2b,'lte.'+_0x472648),this;}[_0x4eebfa(0x173)](_0x59d66f,_0x189803){var _0x55dd9b=_0x4eebfa;return this[_0x55dd9b(0x3c6)]['searchParams'][_0x55dd9b(0x2d1)](''+_0x59d66f,'like.'+_0x189803),this;}[_0x4eebfa(0x1c3)](_0x259cd8,_0x2ace7b){var _0x640c3e=_0x4eebfa;return this[_0x640c3e(0x3c6)]['searchParams'][_0x640c3e(0x2d1)](''+_0x259cd8,_0x640c3e(0x478)+_0x2ace7b),this;}['is'](_0xc8f4d5,_0x18f6b3){var _0x5423d6=_0x4eebfa;return this[_0x5423d6(0x3c6)][_0x5423d6(0x34b)][_0x5423d6(0x2d1)](''+_0xc8f4d5,_0x5423d6(0x4c6)+_0x18f6b3),this;}['in'](_0x2763ee,_0x2ff8bf){var _0x289189=_0x4eebfa;const _0x757567=_0x2ff8bf['map'](_0x1f13b1=>_0x289189(0x383)==typeof _0x1f13b1&&new RegExp('[,()]')['test'](_0x1f13b1)?'\x22'+_0x1f13b1+'\x22':''+_0x1f13b1)['join'](',');return this[_0x289189(0x3c6)][_0x289189(0x34b)]['append'](''+_0x2763ee,_0x289189(0x47e)+_0x757567+')'),this;}[_0x4eebfa(0x417)](_0x2d831e,_0x26765c){var _0x25aec4=_0x4eebfa;return _0x25aec4(0x383)==typeof _0x26765c?this['url'][_0x25aec4(0x34b)][_0x25aec4(0x2d1)](''+_0x2d831e,_0x25aec4(0x4fc)+_0x26765c):Array['isArray'](_0x26765c)?this['url'][_0x25aec4(0x34b)]['append'](''+_0x2d831e,'cs.{'+_0x26765c[_0x25aec4(0x514)](',')+'}'):this[_0x25aec4(0x3c6)][_0x25aec4(0x34b)]['append'](''+_0x2d831e,_0x25aec4(0x4fc)+JSON[_0x25aec4(0x402)](_0x26765c)),this;}['containedBy'](_0xb3cdab,_0x233869){var _0x2d5ba6=_0x4eebfa;return'string'==typeof _0x233869?this[_0x2d5ba6(0x3c6)]['searchParams']['append'](''+_0xb3cdab,'cd.'+_0x233869):Array[_0x2d5ba6(0x1de)](_0x233869)?this[_0x2d5ba6(0x3c6)]['searchParams'][_0x2d5ba6(0x2d1)](''+_0xb3cdab,_0x2d5ba6(0x3a2)+_0x233869[_0x2d5ba6(0x514)](',')+'}'):this[_0x2d5ba6(0x3c6)][_0x2d5ba6(0x34b)][_0x2d5ba6(0x2d1)](''+_0xb3cdab,_0x2d5ba6(0x309)+JSON[_0x2d5ba6(0x402)](_0x233869)),this;}[_0x4eebfa(0x23c)](_0x455c51,_0x5e46eb){var _0xb1ffcb=_0x4eebfa;return this[_0xb1ffcb(0x3c6)][_0xb1ffcb(0x34b)]['append'](''+_0x455c51,_0xb1ffcb(0x18c)+_0x5e46eb),this;}[_0x4eebfa(0x48c)](_0x4921ee,_0x146625){var _0x70c03c=_0x4eebfa;return this[_0x70c03c(0x3c6)][_0x70c03c(0x34b)]['append'](''+_0x4921ee,_0x70c03c(0x33c)+_0x146625),this;}[_0x4eebfa(0x327)](_0xc59c52,_0x1180d2){var _0x37104a=_0x4eebfa;return this[_0x37104a(0x3c6)][_0x37104a(0x34b)][_0x37104a(0x2d1)](''+_0xc59c52,_0x37104a(0x289)+_0x1180d2),this;}[_0x4eebfa(0x407)](_0x2b8200,_0x2b5243){var _0x17e17f=_0x4eebfa;return this[_0x17e17f(0x3c6)][_0x17e17f(0x34b)][_0x17e17f(0x2d1)](''+_0x2b8200,_0x17e17f(0x46c)+_0x2b5243),this;}[_0x4eebfa(0x468)](_0x300cd8,_0x44bab6){var _0x39c230=_0x4eebfa;return this[_0x39c230(0x3c6)][_0x39c230(0x34b)]['append'](''+_0x300cd8,_0x39c230(0x509)+_0x44bab6),this;}['overlaps'](_0x4ace4f,_0x469113){var _0x5b1595=_0x4eebfa;return _0x5b1595(0x383)==typeof _0x469113?this[_0x5b1595(0x3c6)][_0x5b1595(0x34b)][_0x5b1595(0x2d1)](''+_0x4ace4f,_0x5b1595(0x414)+_0x469113):this[_0x5b1595(0x3c6)]['searchParams']['append'](''+_0x4ace4f,'ov.{'+_0x469113[_0x5b1595(0x514)](',')+'}'),this;}[_0x4eebfa(0x39e)](_0x5afbc2,_0x20b8da,{config:_0x193254,type:_0x5444d7=null}={}){var _0x66047a=_0x4eebfa;let _0xbbd978='';_0x66047a(0x2cc)===_0x5444d7?_0xbbd978='pl':_0x66047a(0x26d)===_0x5444d7?_0xbbd978='ph':_0x66047a(0x181)===_0x5444d7&&(_0xbbd978='w');const _0x564022=void 0x0===_0x193254?'':'('+_0x193254+')';return this[_0x66047a(0x3c6)][_0x66047a(0x34b)][_0x66047a(0x2d1)](''+_0x5afbc2,_0xbbd978+_0x66047a(0x39a)+_0x564022+'.'+_0x20b8da),this;}[_0x4eebfa(0x39a)](_0x5800de,_0x32c210,{config:_0x30a773}={}){var _0x4213f9=_0x4eebfa;const _0x362b47=void 0x0===_0x30a773?'':'('+_0x30a773+')';return this[_0x4213f9(0x3c6)][_0x4213f9(0x34b)][_0x4213f9(0x2d1)](''+_0x5800de,_0x4213f9(0x39a)+_0x362b47+'.'+_0x32c210),this;}[_0x4eebfa(0x4d6)](_0x16b865,_0x41ddb0,{config:_0x24ce05}={}){var _0x422a45=_0x4eebfa;const _0x4463fd=void 0x0===_0x24ce05?'':'('+_0x24ce05+')';return this[_0x422a45(0x3c6)][_0x422a45(0x34b)][_0x422a45(0x2d1)](''+_0x16b865,_0x422a45(0x4d6)+_0x4463fd+'.'+_0x41ddb0),this;}[_0x4eebfa(0x26f)](_0x55bd54,_0x417890,{config:_0x167344}={}){var _0x2fc368=_0x4eebfa;const _0x231e92=void 0x0===_0x167344?'':'('+_0x167344+')';return this['url'][_0x2fc368(0x34b)][_0x2fc368(0x2d1)](''+_0x55bd54,'phfts'+_0x231e92+'.'+_0x417890),this;}[_0x4eebfa(0x3d7)](_0x325cb3,_0x182b1c,{config:_0xa06052}={}){var _0x39e270=_0x4eebfa;const _0x55f2b9=void 0x0===_0xa06052?'':'('+_0xa06052+')';return this[_0x39e270(0x3c6)][_0x39e270(0x34b)][_0x39e270(0x2d1)](''+_0x325cb3,_0x39e270(0x3d7)+_0x55f2b9+'.'+_0x182b1c),this;}[_0x4eebfa(0x511)](_0x566608,_0x4b849d,_0x2061d4){var _0x4a899d=_0x4eebfa;return this[_0x4a899d(0x3c6)][_0x4a899d(0x34b)][_0x4a899d(0x2d1)](''+_0x566608,_0x4b849d+'.'+_0x2061d4),this;}['match'](_0x18dba3){var _0x441eba=_0x4eebfa;return Object[_0x441eba(0x1eb)](_0x18dba3)[_0x441eba(0x2b0)](_0x218d88=>{var _0x532157=_0x441eba;this[_0x532157(0x3c6)][_0x532157(0x34b)][_0x532157(0x2d1)](''+_0x218d88,_0x532157(0x3fc)+_0x18dba3[_0x218d88]);}),this;}}class _0x35896e extends _0x440d17{constructor(_0x5e023e,{headers:_0x2c7f51={},schema:_0x2660a0,fetch:_0x5a96db,shouldThrowOnError:_0x4b2d41}={}){var _0x3347df=_0x4eebfa;super({'fetch':_0x5a96db,'shouldThrowOnError':_0x4b2d41}),this[_0x3347df(0x3c6)]=new URL(_0x5e023e),this[_0x3347df(0x2f6)]=Object[_0x3347df(0x46b)]({},_0x2c7f51),this[_0x3347df(0x248)]=_0x2660a0;}[_0x4eebfa(0x376)](_0x3fe170='*',{head:_0x530561=!0x1,count:_0x5d0820=null}={}){var _0x7dee06=_0x4eebfa;this['method']=_0x7dee06(0x1ed);let _0x380951=!0x1;const _0x16a9db=_0x3fe170['split']('')[_0x7dee06(0x391)](_0xa46da8=>/\s/['test'](_0xa46da8)&&!_0x380951?'':('\x22'===_0xa46da8&&(_0x380951=!_0x380951),_0xa46da8))['join']('');return this['url'][_0x7dee06(0x34b)]['set'](_0x7dee06(0x376),_0x16a9db),_0x5d0820&&(this[_0x7dee06(0x2f6)]['Prefer']=_0x7dee06(0x365)+_0x5d0820),_0x530561&&(this['method']=_0x7dee06(0x4b9)),new _0x44e5a3(this);}[_0x4eebfa(0x2fc)](_0x103b90,{upsert:_0x5c1164=!0x1,onConflict:_0x50f4a2,returning:_0x5a45bf='representation',count:_0x33e002=null}={}){var _0x4539f3=_0x4eebfa;this['method']=_0x4539f3(0x217);const _0x400321=[_0x4539f3(0x346)+_0x5a45bf];if(_0x5c1164&&_0x400321[_0x4539f3(0x36a)]('resolution=merge-duplicates'),_0x5c1164&&void 0x0!==_0x50f4a2&&this['url']['searchParams'][_0x4539f3(0x313)]('on_conflict',_0x50f4a2),this[_0x4539f3(0x3fa)]=_0x103b90,_0x33e002&&_0x400321[_0x4539f3(0x36a)](_0x4539f3(0x365)+_0x33e002),this[_0x4539f3(0x2f6)][_0x4539f3(0x51d)]&&_0x400321['unshift'](this[_0x4539f3(0x2f6)]['Prefer']),this[_0x4539f3(0x2f6)][_0x4539f3(0x51d)]=_0x400321[_0x4539f3(0x514)](','),Array[_0x4539f3(0x1de)](_0x103b90)){const _0x1295f1=_0x103b90['reduce']((_0x273554,_0x27e8f9)=>_0x273554[_0x4539f3(0x335)](Object['keys'](_0x27e8f9)),[]);if(_0x1295f1[_0x4539f3(0x50a)]>0x0){const _0x1ab418=[...new Set(_0x1295f1)][_0x4539f3(0x391)](_0x2bd2f5=>'\x22'+_0x2bd2f5+'\x22');this[_0x4539f3(0x3c6)][_0x4539f3(0x34b)]['set']('columns',_0x1ab418[_0x4539f3(0x514)](','));}}return new _0x44e5a3(this);}[_0x4eebfa(0x32f)](_0x64402d,{onConflict:_0x1c7e70,returning:_0x5cc3a8=_0x4eebfa(0x20a),count:_0x48d22d=null,ignoreDuplicates:_0x11b57f=!0x1}={}){var _0x2032f3=_0x4eebfa;this[_0x2032f3(0x43b)]='POST';const _0x137c43=['resolution='+(_0x11b57f?_0x2032f3(0x1cc):'merge')+_0x2032f3(0x44b),_0x2032f3(0x346)+_0x5cc3a8];return void 0x0!==_0x1c7e70&&this[_0x2032f3(0x3c6)][_0x2032f3(0x34b)]['set'](_0x2032f3(0x516),_0x1c7e70),this[_0x2032f3(0x3fa)]=_0x64402d,_0x48d22d&&_0x137c43[_0x2032f3(0x36a)](_0x2032f3(0x365)+_0x48d22d),this[_0x2032f3(0x2f6)][_0x2032f3(0x51d)]&&_0x137c43[_0x2032f3(0x476)](this['headers'][_0x2032f3(0x51d)]),this[_0x2032f3(0x2f6)][_0x2032f3(0x51d)]=_0x137c43[_0x2032f3(0x514)](','),new _0x44e5a3(this);}[_0x4eebfa(0x431)](_0xa6fe7,{returning:_0x13459e=_0x4eebfa(0x20a),count:_0x3172cd=null}={}){var _0x2d9178=_0x4eebfa;this[_0x2d9178(0x43b)]=_0x2d9178(0x445);const _0x25e960=[_0x2d9178(0x346)+_0x13459e];return this[_0x2d9178(0x3fa)]=_0xa6fe7,_0x3172cd&&_0x25e960[_0x2d9178(0x36a)]('count='+_0x3172cd),this['headers']['Prefer']&&_0x25e960[_0x2d9178(0x476)](this[_0x2d9178(0x2f6)][_0x2d9178(0x51d)]),this['headers'][_0x2d9178(0x51d)]=_0x25e960[_0x2d9178(0x514)](','),new _0x44e5a3(this);}[_0x4eebfa(0x1e1)]({returning:_0x42addb=_0x4eebfa(0x20a),count:_0x483a05=null}={}){var _0x1c2423=_0x4eebfa;this[_0x1c2423(0x43b)]=_0x1c2423(0x4b5);const _0x39c74e=['return='+_0x42addb];return _0x483a05&&_0x39c74e[_0x1c2423(0x36a)](_0x1c2423(0x365)+_0x483a05),this[_0x1c2423(0x2f6)][_0x1c2423(0x51d)]&&_0x39c74e['unshift'](this[_0x1c2423(0x2f6)]['Prefer']),this[_0x1c2423(0x2f6)][_0x1c2423(0x51d)]=_0x39c74e[_0x1c2423(0x514)](','),new _0x44e5a3(this);}}class _0x3de18d extends _0x440d17{constructor(_0x3fa91d,{headers:_0x5bb312={},schema:_0x1b32d9,fetch:_0x4026e1,shouldThrowOnError:_0x413e68}={}){var _0x303d5b=_0x4eebfa;super({'fetch':_0x4026e1,'shouldThrowOnError':_0x413e68}),this[_0x303d5b(0x3c6)]=new URL(_0x3fa91d),this[_0x303d5b(0x2f6)]=Object['assign']({},_0x5bb312),this[_0x303d5b(0x248)]=_0x1b32d9;}['rpc'](_0x4ca3bc,{head:_0x21cd6d=!0x1,count:_0x3ccd8c=null}={}){var _0x226dff=_0x4eebfa;return _0x21cd6d?(this[_0x226dff(0x43b)]='HEAD',_0x4ca3bc&&Object[_0x226dff(0x41c)](_0x4ca3bc)[_0x226dff(0x2b0)](([_0x483381,_0x86cab5])=>{var _0x5c2868=_0x226dff;this[_0x5c2868(0x3c6)][_0x5c2868(0x34b)][_0x5c2868(0x2d1)](_0x483381,_0x86cab5);})):(this['method']='POST',this['body']=_0x4ca3bc),_0x3ccd8c&&(void 0x0!==this['headers'][_0x226dff(0x51d)]?this[_0x226dff(0x2f6)][_0x226dff(0x51d)]+=_0x226dff(0x30c)+_0x3ccd8c:this[_0x226dff(0x2f6)][_0x226dff(0x51d)]='count='+_0x3ccd8c),new _0x44e5a3(this);}}const _0x177e07={'X-Client-Info':'postgrest-js/0.37.4'};class _0x43b73c{constructor(_0x9a870b,{headers:_0x4e7798={},schema:_0xa96900,fetch:_0x49d46d,throwOnError:_0x5ee67d}={}){var _0x462411=_0x4eebfa;this['url']=_0x9a870b,this[_0x462411(0x2f6)]=Object[_0x462411(0x46b)](Object[_0x462411(0x46b)]({},_0x177e07),_0x4e7798),this[_0x462411(0x248)]=_0xa96900,this[_0x462411(0x29f)]=_0x49d46d,this[_0x462411(0x49f)]=_0x5ee67d;}[_0x4eebfa(0x2fe)](_0x404308){var _0x1a4616=_0x4eebfa;return this[_0x1a4616(0x2f6)][_0x1a4616(0x2ba)]=_0x1a4616(0x2d4)+_0x404308,this;}[_0x4eebfa(0x30f)](_0xdfbdab){var _0x1e872d=_0x4eebfa;const _0x1b99cc=this[_0x1e872d(0x3c6)]+'/'+_0xdfbdab;return new _0x35896e(_0x1b99cc,{'headers':this[_0x1e872d(0x2f6)],'schema':this[_0x1e872d(0x248)],'fetch':this['fetch'],'shouldThrowOnError':this[_0x1e872d(0x49f)]});}[_0x4eebfa(0x354)](_0x2cf343,_0x750374,{head:_0x5e7303=!0x1,count:_0x3fca1d=null}={}){var _0x10e068=_0x4eebfa;const _0x43b13c=this[_0x10e068(0x3c6)]+'/rpc/'+_0x2cf343;return new _0x3de18d(_0x43b13c,{'headers':this['headers'],'schema':this[_0x10e068(0x248)],'fetch':this[_0x10e068(0x29f)],'shouldThrowOnError':this[_0x10e068(0x49f)]})['rpc'](_0x750374,{'head':_0x5e7303,'count':_0x3fca1d});}}var _0x55bf36;!function(_0x4e70b9){var _0x58809f=_0x4eebfa;_0x4e70b9[_0x58809f(0x236)]='abstime',_0x4e70b9[_0x58809f(0x2b2)]=_0x58809f(0x2b2),_0x4e70b9[_0x58809f(0x206)]=_0x58809f(0x206),_0x4e70b9[_0x58809f(0x45b)]=_0x58809f(0x45b),_0x4e70b9[_0x58809f(0x44f)]=_0x58809f(0x44f),_0x4e70b9[_0x58809f(0x4cd)]='float8',_0x4e70b9[_0x58809f(0x43c)]=_0x58809f(0x43c),_0x4e70b9['int4']='int4',_0x4e70b9[_0x58809f(0x338)]=_0x58809f(0x338),_0x4e70b9[_0x58809f(0x1db)]=_0x58809f(0x1db),_0x4e70b9['int8range']=_0x58809f(0x19f),_0x4e70b9[_0x58809f(0x263)]='json',_0x4e70b9['jsonb']=_0x58809f(0x4a6),_0x4e70b9['money']=_0x58809f(0x48d),_0x4e70b9[_0x58809f(0x207)]=_0x58809f(0x207),_0x4e70b9[_0x58809f(0x3d2)]=_0x58809f(0x3d2),_0x4e70b9[_0x58809f(0x373)]=_0x58809f(0x373),_0x4e70b9[_0x58809f(0x288)]=_0x58809f(0x288),_0x4e70b9[_0x58809f(0x4ce)]=_0x58809f(0x4ce),_0x4e70b9[_0x58809f(0x249)]=_0x58809f(0x249),_0x4e70b9[_0x58809f(0x33f)]=_0x58809f(0x33f),_0x4e70b9[_0x58809f(0x343)]=_0x58809f(0x343),_0x4e70b9[_0x58809f(0x241)]=_0x58809f(0x241),_0x4e70b9['tstzrange']=_0x58809f(0x2d8);}(_0x55bf36||(_0x55bf36={}));const _0x57b355=(_0x2cd2f8,_0xedfa33,_0xd26e6a={})=>{var _0x13c02f=_0x4eebfa,_0x5f0b39;const _0x32fcef=null!==(_0x5f0b39=_0xd26e6a[_0x13c02f(0x2e6)])&&void 0x0!==_0x5f0b39?_0x5f0b39:[];return Object[_0x13c02f(0x1eb)](_0xedfa33)[_0x13c02f(0x450)]((_0x297123,_0x875ec0)=>(_0x297123[_0x875ec0]=_0x321379(_0x875ec0,_0x2cd2f8,_0xedfa33,_0x32fcef),_0x297123),{});},_0x321379=(_0x3e1d73,_0x3252f6,_0x1f483b,_0x1faa48)=>{var _0xcb562e=_0x4eebfa;const _0x424108=_0x3252f6[_0xcb562e(0x355)](_0x5bcaa1=>_0x5bcaa1[_0xcb562e(0x23b)]===_0x3e1d73),_0x324e07=null==_0x424108?void 0x0:_0x424108['type'],_0x1e41d5=_0x1f483b[_0x3e1d73];return _0x324e07&&!_0x1faa48[_0xcb562e(0x1c8)](_0x324e07)?_0x27e21b(_0x324e07,_0x1e41d5):_0x421b09(_0x1e41d5);},_0x27e21b=(_0x27ffa6,_0x484dab)=>{var _0x4258fa=_0x4eebfa;if('_'===_0x27ffa6['charAt'](0x0)){const _0x4169a3=_0x27ffa6[_0x4258fa(0x2f7)](0x1,_0x27ffa6[_0x4258fa(0x50a)]);return _0x30f1a(_0x484dab,_0x4169a3);}switch(_0x27ffa6){case _0x55bf36[_0x4258fa(0x2b2)]:return _0x43be6c(_0x484dab);case _0x55bf36[_0x4258fa(0x44f)]:case _0x55bf36[_0x4258fa(0x4cd)]:case _0x55bf36[_0x4258fa(0x43c)]:case _0x55bf36[_0x4258fa(0x3e1)]:case _0x55bf36['int8']:case _0x55bf36[_0x4258fa(0x207)]:case _0x55bf36[_0x4258fa(0x3d2)]:return _0x314099(_0x484dab);case _0x55bf36[_0x4258fa(0x263)]:case _0x55bf36['jsonb']:return _0x5a2f15(_0x484dab);case _0x55bf36[_0x4258fa(0x249)]:return _0x570db0(_0x484dab);case _0x55bf36['abstime']:case _0x55bf36[_0x4258fa(0x206)]:case _0x55bf36['daterange']:case _0x55bf36[_0x4258fa(0x338)]:case _0x55bf36[_0x4258fa(0x19f)]:case _0x55bf36[_0x4258fa(0x48d)]:case _0x55bf36[_0x4258fa(0x373)]:case _0x55bf36[_0x4258fa(0x288)]:case _0x55bf36[_0x4258fa(0x4ce)]:case _0x55bf36[_0x4258fa(0x33f)]:case _0x55bf36['timetz']:case _0x55bf36[_0x4258fa(0x241)]:case _0x55bf36[_0x4258fa(0x2d8)]:default:return _0x421b09(_0x484dab);}},_0x421b09=_0x5af1fb=>_0x5af1fb,_0x43be6c=_0x324cda=>{switch(_0x324cda){case't':return!0x0;case'f':return!0x1;default:return _0x324cda;}},_0x314099=_0x161f7d=>{var _0x5769ff=_0x4eebfa;if('string'==typeof _0x161f7d){const _0x32f39f=parseFloat(_0x161f7d);if(!Number[_0x5769ff(0x3cc)](_0x32f39f))return _0x32f39f;}return _0x161f7d;},_0x5a2f15=_0xdd2d7=>{var _0x543a41=_0x4eebfa;if(_0x543a41(0x383)==typeof _0xdd2d7)try{return JSON[_0x543a41(0x3eb)](_0xdd2d7);}catch(_0x515964){return console[_0x543a41(0x3aa)](_0x543a41(0x1aa)+_0x515964),_0xdd2d7;}return _0xdd2d7;},_0x30f1a=(_0x488d92,_0x53efc7)=>{var _0x142b69=_0x4eebfa;if(_0x142b69(0x383)!=typeof _0x488d92)return _0x488d92;const _0x1e6c97=_0x488d92['length']-0x1,_0x4209c6=_0x488d92[_0x1e6c97];if('{'===_0x488d92[0x0]&&'}'===_0x4209c6){let _0x307773;const _0xf98755=_0x488d92[_0x142b69(0x2f7)](0x1,_0x1e6c97);try{_0x307773=JSON[_0x142b69(0x3eb)]('['+_0xf98755+']');}catch(_0x1cd9fa){_0x307773=_0xf98755?_0xf98755[_0x142b69(0x322)](','):[];}return _0x307773[_0x142b69(0x391)](_0x40f5fc=>_0x27e21b(_0x53efc7,_0x40f5fc));}return _0x488d92;},_0x570db0=_0x41a8ed=>_0x4eebfa(0x383)==typeof _0x41a8ed?_0x41a8ed[_0x4eebfa(0x390)]('\x20','T'):_0x41a8ed;var _0x1ffe9a=_0x5d9274(0x348);const _0x4b63d5={'X-Client-Info':'realtime-js/1.7.4'};var _0x206a76,_0x55879b,_0x1645a4,_0x5ec039,_0x2b75ad;!function(_0x5e4fba){var _0x7b8eb2=_0x4eebfa;_0x5e4fba[_0x5e4fba[_0x7b8eb2(0x422)]=0x0]='connecting',_0x5e4fba[_0x5e4fba[_0x7b8eb2(0x4fd)]=0x1]=_0x7b8eb2(0x4fd),_0x5e4fba[_0x5e4fba['closing']=0x2]='closing',_0x5e4fba[_0x5e4fba[_0x7b8eb2(0x2bc)]=0x3]=_0x7b8eb2(0x2bc);}(_0x206a76||(_0x206a76={})),function(_0x570b3a){var _0x105792=_0x4eebfa;_0x570b3a[_0x105792(0x2bc)]='closed',_0x570b3a[_0x105792(0x37b)]=_0x105792(0x37b),_0x570b3a['joined']=_0x105792(0x525),_0x570b3a[_0x105792(0x513)]='joining',_0x570b3a[_0x105792(0x264)]=_0x105792(0x264);}(_0x55879b||(_0x55879b={})),function(_0x313ef9){var _0x18edaa=_0x4eebfa;_0x313ef9['close']='phx_close',_0x313ef9[_0x18edaa(0x428)]=_0x18edaa(0x1e6),_0x313ef9[_0x18edaa(0x514)]='phx_join',_0x313ef9[_0x18edaa(0x456)]=_0x18edaa(0x1a0),_0x313ef9[_0x18edaa(0x3ad)]=_0x18edaa(0x410),_0x313ef9[_0x18edaa(0x4e1)]=_0x18edaa(0x4e1);}(_0x1645a4||(_0x1645a4={})),function(_0x5a4177){var _0x1bc2f7=_0x4eebfa;_0x5a4177[_0x1bc2f7(0x1ad)]=_0x1bc2f7(0x1ad);}(_0x5ec039||(_0x5ec039={})),function(_0x610fde){var _0x299daf=_0x4eebfa;_0x610fde[_0x299daf(0x4d4)]=_0x299daf(0x422),_0x610fde[_0x299daf(0x4ad)]=_0x299daf(0x4fd),_0x610fde[_0x299daf(0x528)]='closing',_0x610fde['Closed']=_0x299daf(0x2bc);}(_0x2b75ad||(_0x2b75ad={}));class _0x4e3cb4{constructor(_0x461b8d,_0x47bf8d){var _0x27d402=_0x4eebfa;this[_0x27d402(0x22a)]=_0x461b8d,this[_0x27d402(0x498)]=_0x47bf8d,this[_0x27d402(0x1b3)]=void 0x0,this['tries']=0x0,this[_0x27d402(0x22a)]=_0x461b8d,this['timerCalc']=_0x47bf8d;}[_0x4eebfa(0x3f2)](){var _0xe579a6=_0x4eebfa;this[_0xe579a6(0x245)]=0x0,clearTimeout(this[_0xe579a6(0x1b3)]);}['scheduleTimeout'](){var _0x1a4108=_0x4eebfa;clearTimeout(this['timer']),this[_0x1a4108(0x1b3)]=setTimeout(()=>{var _0x94c5c9=_0x1a4108;this[_0x94c5c9(0x245)]=this['tries']+0x1,this[_0x94c5c9(0x22a)]();},this['timerCalc'](this[_0x1a4108(0x245)]+0x1));}}class _0x4ef4c7{constructor(){var _0x4ebe04=_0x4eebfa;this[_0x4ebe04(0x38e)]=0x1;}[_0x4eebfa(0x3c2)](_0x46a9c8,_0x3e9b33){var _0x43cca7=_0x4eebfa;return _0x46a9c8['constructor']===ArrayBuffer?_0x3e9b33(this['_binaryDecode'](_0x46a9c8)):_0x3e9b33(_0x43cca7(0x383)==typeof _0x46a9c8?JSON[_0x43cca7(0x3eb)](_0x46a9c8):{});}['_binaryDecode'](_0x3b6401){var _0x4785b1=_0x4eebfa;const _0xb4d41f=new DataView(_0x3b6401),_0x24c4ba=new TextDecoder();return this[_0x4785b1(0x40b)](_0x3b6401,_0xb4d41f,_0x24c4ba);}[_0x4eebfa(0x40b)](_0x3fa534,_0x5dbf75,_0x1a0d5f){var _0x35b2ef=_0x4eebfa;const _0x27a5e6=_0x5dbf75[_0x35b2ef(0x4da)](0x1),_0x22f77b=_0x5dbf75[_0x35b2ef(0x4da)](0x2);let _0x2292aa=this[_0x35b2ef(0x38e)]+0x2;const _0x187f88=_0x1a0d5f['decode'](_0x3fa534[_0x35b2ef(0x2f7)](_0x2292aa,_0x2292aa+_0x27a5e6));_0x2292aa+=_0x27a5e6;const _0x2cd144=_0x1a0d5f[_0x35b2ef(0x3c2)](_0x3fa534['slice'](_0x2292aa,_0x2292aa+_0x22f77b));return _0x2292aa+=_0x22f77b,{'ref':null,'topic':_0x187f88,'event':_0x2cd144,'payload':JSON[_0x35b2ef(0x3eb)](_0x1a0d5f[_0x35b2ef(0x3c2)](_0x3fa534[_0x35b2ef(0x2f7)](_0x2292aa,_0x3fa534['byteLength'])))};}}class _0x44508a{constructor(_0x1073cc,_0x8999f8,_0x592f95={},_0x5a0316=0x2710){var _0x2cdc8b=_0x4eebfa;this[_0x2cdc8b(0x43a)]=_0x1073cc,this[_0x2cdc8b(0x17e)]=_0x8999f8,this[_0x2cdc8b(0x1fb)]=_0x592f95,this['timeout']=_0x5a0316,this[_0x2cdc8b(0x2c2)]=!0x1,this[_0x2cdc8b(0x34c)]=void 0x0,this[_0x2cdc8b(0x386)]='',this[_0x2cdc8b(0x1fa)]=null,this['recHooks']=[],this[_0x2cdc8b(0x3ac)]=null;}[_0x4eebfa(0x418)](_0x21feaf){var _0x413000=_0x4eebfa;this[_0x413000(0x3cf)]=_0x21feaf,this[_0x413000(0x20e)](),this[_0x413000(0x386)]='',this[_0x413000(0x3ac)]=null,this[_0x413000(0x1fa)]=null,this[_0x413000(0x2c2)]=!0x1,this['send']();}['send'](){var _0x2d1d55=_0x4eebfa;this['_hasReceived'](_0x2d1d55(0x3cf))||(this['startTimeout'](),this[_0x2d1d55(0x2c2)]=!0x0,this[_0x2d1d55(0x43a)][_0x2d1d55(0x1e4)][_0x2d1d55(0x36a)]({'topic':this[_0x2d1d55(0x43a)]['topic'],'event':this['event'],'payload':this[_0x2d1d55(0x1fb)],'ref':this[_0x2d1d55(0x386)]}));}['updatePayload'](_0x2235c9){var _0x546135=_0x4eebfa;this[_0x546135(0x1fb)]=Object[_0x546135(0x46b)](Object[_0x546135(0x46b)]({},this[_0x546135(0x1fb)]),_0x2235c9);}[_0x4eebfa(0x273)](_0x2a2603,_0x28f5e9){var _0x588f7e=_0x4eebfa,_0x4ab8c9;return this['_hasReceived'](_0x2a2603)&&_0x28f5e9(null===(_0x4ab8c9=this[_0x588f7e(0x1fa)])||void 0x0===_0x4ab8c9?void 0x0:_0x4ab8c9[_0x588f7e(0x543)]),this[_0x588f7e(0x466)]['push']({'status':_0x2a2603,'callback':_0x28f5e9}),this;}[_0x4eebfa(0x477)](){var _0x1416f8=_0x4eebfa;this[_0x1416f8(0x34c)]||(this[_0x1416f8(0x386)]=this['channel'][_0x1416f8(0x1e4)][_0x1416f8(0x2db)](),this[_0x1416f8(0x3ac)]=this[_0x1416f8(0x43a)][_0x1416f8(0x22d)](this[_0x1416f8(0x386)]),this[_0x1416f8(0x43a)]['on'](this[_0x1416f8(0x3ac)],_0x3d827d=>{var _0x4d2e6b=_0x1416f8;this[_0x4d2e6b(0x20e)](),this[_0x4d2e6b(0x34f)](),this[_0x4d2e6b(0x1fa)]=_0x3d827d,this[_0x4d2e6b(0x503)](_0x3d827d);}),this['timeoutTimer']=setTimeout(()=>{var _0x129a49=_0x1416f8;this[_0x129a49(0x287)](_0x129a49(0x3cf),{});},this[_0x1416f8(0x3cf)]));}[_0x4eebfa(0x287)](_0x38c775,_0x588ba2){var _0x4dbe61=_0x4eebfa;this[_0x4dbe61(0x3ac)]&&this[_0x4dbe61(0x43a)][_0x4dbe61(0x287)](this[_0x4dbe61(0x3ac)],{'status':_0x38c775,'response':_0x588ba2});}[_0x4eebfa(0x540)](){var _0x3455c1=_0x4eebfa;this[_0x3455c1(0x20e)](),this['_cancelTimeout']();}[_0x4eebfa(0x20e)](){var _0x5be874=_0x4eebfa;this[_0x5be874(0x3ac)]&&this[_0x5be874(0x43a)]['off'](this['refEvent']);}[_0x4eebfa(0x34f)](){var _0x18bbde=_0x4eebfa;clearTimeout(this[_0x18bbde(0x34c)]),this[_0x18bbde(0x34c)]=void 0x0;}['_matchReceive']({status:_0x167a60,response:_0x2ed6e2}){var _0x30cb98=_0x4eebfa;this[_0x30cb98(0x466)][_0x30cb98(0x511)](_0x514cd1=>_0x514cd1['status']===_0x167a60)['forEach'](_0xdb7031=>_0xdb7031[_0x30cb98(0x22a)](_0x2ed6e2));}[_0x4eebfa(0x4c8)](_0x37a558){var _0x56554d=_0x4eebfa;return this[_0x56554d(0x1fa)]&&this['receivedResp']['status']===_0x37a558;}}class _0x41ca9a{constructor(_0x1660c0,_0x574f64={},_0x197fbd){var _0x15860f=_0x4eebfa;this['topic']=_0x1660c0,this['params']=_0x574f64,this[_0x15860f(0x1e4)]=_0x197fbd,this['bindings']=[],this[_0x15860f(0x2ae)]=_0x55879b['closed'],this[_0x15860f(0x435)]=!0x1,this['pushBuffer']=[],this[_0x15860f(0x3cf)]=this['socket'][_0x15860f(0x3cf)],this[_0x15860f(0x4cc)]=new _0x44508a(this,_0x1645a4[_0x15860f(0x514)],this[_0x15860f(0x32c)],this[_0x15860f(0x3cf)]),this[_0x15860f(0x290)]=new _0x4e3cb4(()=>this[_0x15860f(0x2f9)](),this['socket'][_0x15860f(0x3db)]),this[_0x15860f(0x4cc)][_0x15860f(0x273)]('ok',()=>{var _0xf53e8c=_0x15860f;this[_0xf53e8c(0x2ae)]=_0x55879b[_0xf53e8c(0x525)],this[_0xf53e8c(0x290)][_0xf53e8c(0x3f2)](),this[_0xf53e8c(0x496)][_0xf53e8c(0x2b0)](_0xe54b6a=>_0xe54b6a[_0xf53e8c(0x4f9)]()),this[_0xf53e8c(0x496)]=[];}),this[_0x15860f(0x3b2)](()=>{var _0x5d89b3=_0x15860f;this[_0x5d89b3(0x290)][_0x5d89b3(0x3f2)](),this[_0x5d89b3(0x1e4)]['log']('channel',_0x5d89b3(0x311)+this[_0x5d89b3(0x539)]+'\x20'+this['joinRef']()),this[_0x5d89b3(0x2ae)]=_0x55879b[_0x5d89b3(0x2bc)],this['socket']['remove'](this);}),this[_0x15860f(0x3b0)](_0x3ff8ff=>{var _0x1481d6=_0x15860f;this[_0x1481d6(0x25e)]()||this[_0x1481d6(0x46f)]()||(this[_0x1481d6(0x1e4)][_0x1481d6(0x3aa)](_0x1481d6(0x43a),'error\x20'+this[_0x1481d6(0x539)],_0x3ff8ff),this[_0x1481d6(0x2ae)]=_0x55879b['errored'],this[_0x1481d6(0x290)]['scheduleTimeout']());}),this[_0x15860f(0x4cc)][_0x15860f(0x273)](_0x15860f(0x3cf),()=>{var _0x227d65=_0x15860f;this['isJoining']()&&(this[_0x227d65(0x1e4)][_0x227d65(0x3aa)](_0x227d65(0x43a),'timeout\x20'+this[_0x227d65(0x539)],this['joinPush'][_0x227d65(0x3cf)]),this[_0x227d65(0x2ae)]=_0x55879b['errored'],this[_0x227d65(0x290)][_0x227d65(0x42f)]());}),this['on'](_0x1645a4[_0x15860f(0x456)],(_0x596d17,_0x269f9c)=>{var _0x2d4d88=_0x15860f;this[_0x2d4d88(0x287)](this[_0x2d4d88(0x22d)](_0x269f9c),_0x596d17);});}[_0x4eebfa(0x2f9)](){var _0x558376=_0x4eebfa;this[_0x558376(0x290)][_0x558376(0x42f)](),this[_0x558376(0x1e4)]['isConnected']()&&this[_0x558376(0x4be)]();}[_0x4eebfa(0x40a)](_0xe1b3ac=this['timeout']){var _0x616222=_0x4eebfa;if(this[_0x616222(0x435)])throw'tried\x20to\x20subscribe\x20multiple\x20times.\x20\x27subscribe\x27\x20can\x20only\x20be\x20called\x20a\x20single\x20time\x20per\x20channel\x20instance';return this[_0x616222(0x435)]=!0x0,this[_0x616222(0x4be)](_0xe1b3ac),this['joinPush'];}['onClose'](_0x34676d){var _0x504887=_0x4eebfa;this['on'](_0x1645a4[_0x504887(0x497)],_0x34676d);}[_0x4eebfa(0x3b0)](_0xc575e1){var _0x396cd0=_0x4eebfa;this['on'](_0x1645a4[_0x396cd0(0x428)],_0x5dea17=>_0xc575e1(_0x5dea17));}['on'](_0x18fc50,_0x214552){var _0x2be8a8=_0x4eebfa;this[_0x2be8a8(0x1be)][_0x2be8a8(0x36a)]({'event':_0x18fc50,'callback':_0x214552});}[_0x4eebfa(0x348)](_0x4787ba){var _0x2d390f=_0x4eebfa;this[_0x2d390f(0x1be)]=this['bindings'][_0x2d390f(0x511)](_0x2880fb=>_0x2880fb[_0x2d390f(0x17e)]!==_0x4787ba);}[_0x4eebfa(0x282)](){var _0x5ab45b=_0x4eebfa;return this[_0x5ab45b(0x1e4)]['isConnected']()&&this['isJoined']();}[_0x4eebfa(0x36a)](_0x1ae554,_0x1df8cd,_0x487962=this[_0x4eebfa(0x3cf)]){var _0x31ac32=_0x4eebfa;if(!this[_0x31ac32(0x435)])throw _0x31ac32(0x261)+_0x1ae554+_0x31ac32(0x4b7)+this[_0x31ac32(0x539)]+_0x31ac32(0x39d);let _0x1a64b2=new _0x44508a(this,_0x1ae554,_0x1df8cd,_0x487962);return this[_0x31ac32(0x282)]()?_0x1a64b2[_0x31ac32(0x4f9)]():(_0x1a64b2['startTimeout'](),this[_0x31ac32(0x496)][_0x31ac32(0x36a)](_0x1a64b2)),_0x1a64b2;}[_0x4eebfa(0x360)](_0x561cc2){var _0x50da22=_0x4eebfa;this[_0x50da22(0x4cc)][_0x50da22(0x31e)](_0x561cc2);}[_0x4eebfa(0x48a)](_0x274ab2=this[_0x4eebfa(0x3cf)]){var _0x4a9676=_0x4eebfa;this[_0x4a9676(0x2ae)]=_0x55879b[_0x4a9676(0x264)];let _0x347fee=()=>{var _0x3ca0d5=_0x4a9676;this[_0x3ca0d5(0x1e4)][_0x3ca0d5(0x3aa)](_0x3ca0d5(0x43a),_0x3ca0d5(0x416)+this[_0x3ca0d5(0x539)]),this[_0x3ca0d5(0x287)](_0x1645a4[_0x3ca0d5(0x497)],_0x3ca0d5(0x3ad),this[_0x3ca0d5(0x296)]());};this[_0x4a9676(0x4cc)][_0x4a9676(0x540)]();let _0x2903ac=new _0x44508a(this,_0x1645a4[_0x4a9676(0x3ad)],{},_0x274ab2);return _0x2903ac[_0x4a9676(0x273)]('ok',()=>_0x347fee())[_0x4a9676(0x273)]('timeout',()=>_0x347fee()),_0x2903ac[_0x4a9676(0x4f9)](),this[_0x4a9676(0x282)]()||_0x2903ac[_0x4a9676(0x287)]('ok',{}),_0x2903ac;}['onMessage'](_0x34797a,_0x225518,_0xbc92b7){return _0x225518;}['isMember'](_0x69e9e5){var _0x44c748=_0x4eebfa;return this[_0x44c748(0x539)]===_0x69e9e5;}[_0x4eebfa(0x296)](){var _0x2793e3=_0x4eebfa;return this['joinPush'][_0x2793e3(0x386)];}['rejoin'](_0x37cc12=this[_0x4eebfa(0x3cf)]){var _0x14d726=_0x4eebfa;this['isLeaving']()||(this[_0x14d726(0x1e4)]['leaveOpenTopic'](this[_0x14d726(0x539)]),this[_0x14d726(0x2ae)]=_0x55879b[_0x14d726(0x513)],this[_0x14d726(0x4cc)][_0x14d726(0x418)](_0x37cc12));}[_0x4eebfa(0x287)](_0x554ff8,_0x1e706c,_0x1012d1){var _0x26b8cc=_0x4eebfa;let {close:_0x2e53e3,error:_0x393832,leave:_0x1bc809,join:_0x288066}=_0x1645a4;if(_0x1012d1&&[_0x2e53e3,_0x393832,_0x1bc809,_0x288066][_0x26b8cc(0x209)](_0x554ff8)>=0x0&&_0x1012d1!==this[_0x26b8cc(0x296)]())return;let _0x3d0980=this['onMessage'](_0x554ff8,_0x1e706c,_0x1012d1);if(_0x1e706c&&!_0x3d0980)throw'channel\x20onMessage\x20callbacks\x20must\x20return\x20the\x20payload,\x20modified\x20or\x20unmodified';this[_0x26b8cc(0x1be)]['filter'](_0x1543a0=>'*'===_0x1543a0['event']?_0x554ff8===(null==_0x1e706c?void 0x0:_0x1e706c[_0x26b8cc(0x21e)]):_0x1543a0['event']===_0x554ff8)[_0x26b8cc(0x391)](_0x5ddcda=>_0x5ddcda[_0x26b8cc(0x22a)](_0x3d0980,_0x1012d1));}[_0x4eebfa(0x22d)](_0xfe36b8){var _0x36fed5=_0x4eebfa;return _0x36fed5(0x404)+_0xfe36b8;}[_0x4eebfa(0x46f)](){var _0x41c9a2=_0x4eebfa;return this[_0x41c9a2(0x2ae)]===_0x55879b[_0x41c9a2(0x2bc)];}[_0x4eebfa(0x447)](){var _0x2256a7=_0x4eebfa;return this['state']===_0x55879b[_0x2256a7(0x37b)];}['isJoined'](){var _0x182426=_0x4eebfa;return this[_0x182426(0x2ae)]===_0x55879b[_0x182426(0x525)];}['isJoining'](){var _0x5e3780=_0x4eebfa;return this[_0x5e3780(0x2ae)]===_0x55879b['joining'];}[_0x4eebfa(0x25e)](){var _0x1cbb06=_0x4eebfa;return this['state']===_0x55879b[_0x1cbb06(0x264)];}}const _0x16b293=()=>{};class _0x1bac43{constructor(_0xd26375,_0x2103c5){var _0x3f1df5=_0x4eebfa;this[_0x3f1df5(0x4f3)]=null,this[_0x3f1df5(0x1a7)]=[],this[_0x3f1df5(0x437)]='',this[_0x3f1df5(0x2f6)]=_0x4b63d5,this[_0x3f1df5(0x32c)]={},this[_0x3f1df5(0x3cf)]=0x2710,this['transport']=_0x1ffe9a[_0x3f1df5(0x45a)],this[_0x3f1df5(0x3c5)]=0x7530,this[_0x3f1df5(0x2b6)]=0x4e20,this[_0x3f1df5(0x4c7)]=void 0x0,this[_0x3f1df5(0x424)]=null,this[_0x3f1df5(0x386)]=0x0,this[_0x3f1df5(0x2e9)]=_0x16b293,this['conn']=null,this[_0x3f1df5(0x352)]=[],this[_0x3f1df5(0x300)]=new _0x4ef4c7(),this[_0x3f1df5(0x2bb)]={'open':[],'close':[],'error':[],'message':[]},this[_0x3f1df5(0x437)]=_0xd26375+'/'+_0x5ec039[_0x3f1df5(0x1ad)],(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x32c)])&&(this[_0x3f1df5(0x32c)]=_0x2103c5[_0x3f1df5(0x32c)]),(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x2f6)])&&(this[_0x3f1df5(0x2f6)]=Object['assign'](Object[_0x3f1df5(0x46b)]({},this[_0x3f1df5(0x2f6)]),_0x2103c5[_0x3f1df5(0x2f6)])),(null==_0x2103c5?void 0x0:_0x2103c5['timeout'])&&(this['timeout']=_0x2103c5[_0x3f1df5(0x3cf)]),(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x2e9)])&&(this[_0x3f1df5(0x2e9)]=_0x2103c5[_0x3f1df5(0x2e9)]),(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x3a3)])&&(this[_0x3f1df5(0x3a3)]=_0x2103c5[_0x3f1df5(0x3a3)]),(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x3c5)])&&(this['heartbeatIntervalMs']=_0x2103c5[_0x3f1df5(0x3c5)]),(null==_0x2103c5?void 0x0:_0x2103c5['longpollerTimeout'])&&(this[_0x3f1df5(0x2b6)]=_0x2103c5[_0x3f1df5(0x2b6)]),this[_0x3f1df5(0x3db)]=(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x3db)])?_0x2103c5['reconnectAfterMs']:_0x94c7ce=>[0x3e8,0x7d0,0x1388,0x2710][_0x94c7ce-0x1]||0x2710,this['encode']=(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x3e7)])?_0x2103c5[_0x3f1df5(0x3e7)]:(_0x1ccbd1,_0x34fbf0)=>_0x34fbf0(JSON[_0x3f1df5(0x402)](_0x1ccbd1)),this['decode']=(null==_0x2103c5?void 0x0:_0x2103c5[_0x3f1df5(0x3c2)])?_0x2103c5[_0x3f1df5(0x3c2)]:this[_0x3f1df5(0x300)][_0x3f1df5(0x3c2)][_0x3f1df5(0x3c0)](this['serializer']),this[_0x3f1df5(0x340)]=new _0x4e3cb4(()=>{return _0x28cbd1=this,_0x1f8efd=void 0x0,_0x5dd6bb=function*(){var _0x11021a=a3_0x4871;yield this[_0x11021a(0x3de)](),this[_0x11021a(0x3b1)]();},new((_0x21a45d=void 0x0)||(_0x21a45d=Promise))(function(_0x57cc21,_0x9e5b70){var _0xe70d60=a3_0x4871;function _0x2380c3(_0x1b23c6){var _0xa9cefb=a3_0x4871;try{_0x1167b6(_0x5dd6bb[_0xa9cefb(0x1ef)](_0x1b23c6));}catch(_0x2c8266){_0x9e5b70(_0x2c8266);}}function _0x4b62d1(_0x380e36){try{_0x1167b6(_0x5dd6bb['throw'](_0x380e36));}catch(_0x554e34){_0x9e5b70(_0x554e34);}}function _0x1167b6(_0x3f825d){var _0x58c42c=a3_0x4871,_0x59232b;_0x3f825d[_0x58c42c(0x2c9)]?_0x57cc21(_0x3f825d['value']):(_0x59232b=_0x3f825d[_0x58c42c(0x4d0)],_0x59232b instanceof _0x21a45d?_0x59232b:new _0x21a45d(function(_0x276cdf){_0x276cdf(_0x59232b);}))[_0x58c42c(0x2a2)](_0x2380c3,_0x4b62d1);}_0x1167b6((_0x5dd6bb=_0x5dd6bb['apply'](_0x28cbd1,_0x1f8efd||[]))[_0xe70d60(0x1ef)]());});var _0x28cbd1,_0x1f8efd,_0x21a45d,_0x5dd6bb;},this['reconnectAfterMs']);}[_0x4eebfa(0x3b1)](){var _0x36950a=_0x4eebfa;this[_0x36950a(0x1bf)]||(this[_0x36950a(0x1bf)]=new this[(_0x36950a(0x3a3))](this[_0x36950a(0x4ff)](),[],null,this[_0x36950a(0x2f6)]),this[_0x36950a(0x1bf)]&&(this[_0x36950a(0x1bf)][_0x36950a(0x46a)]=_0x36950a(0x2b5),this[_0x36950a(0x1bf)][_0x36950a(0x226)]=()=>this[_0x36950a(0x1e7)](),this[_0x36950a(0x1bf)][_0x36950a(0x202)]=_0x42dbd6=>this[_0x36950a(0x2cb)](_0x42dbd6),this[_0x36950a(0x1bf)][_0x36950a(0x4a2)]=_0x462e1e=>this[_0x36950a(0x26a)](_0x462e1e),this[_0x36950a(0x1bf)][_0x36950a(0x24e)]=_0x11550c=>this['_onConnClose'](_0x11550c)));}[_0x4eebfa(0x3de)](_0x421363,_0x250262){return new Promise((_0x5f41bc,_0x4fc4e7)=>{var _0x46c533=a3_0x4871;try{this[_0x46c533(0x1bf)]&&(this[_0x46c533(0x1bf)][_0x46c533(0x24e)]=function(){},_0x421363?this[_0x46c533(0x1bf)]['close'](_0x421363,_0x250262||''):this[_0x46c533(0x1bf)][_0x46c533(0x497)](),this[_0x46c533(0x1bf)]=null,this[_0x46c533(0x4c7)]&&clearInterval(this[_0x46c533(0x4c7)]),this[_0x46c533(0x340)][_0x46c533(0x3f2)]()),_0x5f41bc({'error':null,'data':!0x0});}catch(_0x16bc94){_0x5f41bc({'error':_0x16bc94,'data':!0x1});}});}[_0x4eebfa(0x3aa)](_0x2752e5,_0x36afa8,_0x36e1fc){var _0x5047be=_0x4eebfa;this[_0x5047be(0x2e9)](_0x2752e5,_0x36afa8,_0x36e1fc);}[_0x4eebfa(0x22f)](_0x4d2b11){var _0x3fb22d=_0x4eebfa;this['stateChangeCallbacks'][_0x3fb22d(0x4fd)][_0x3fb22d(0x36a)](_0x4d2b11);}[_0x4eebfa(0x3b2)](_0x1ff884){var _0x29c328=_0x4eebfa;this[_0x29c328(0x2bb)][_0x29c328(0x497)][_0x29c328(0x36a)](_0x1ff884);}[_0x4eebfa(0x3b0)](_0x363a16){var _0x23319e=_0x4eebfa;this[_0x23319e(0x2bb)][_0x23319e(0x428)][_0x23319e(0x36a)](_0x363a16);}[_0x4eebfa(0x4bc)](_0x61ed16){var _0x707000=_0x4eebfa;this[_0x707000(0x2bb)][_0x707000(0x441)][_0x707000(0x36a)](_0x61ed16);}[_0x4eebfa(0x405)](){var _0x5571cd=_0x4eebfa;switch(this[_0x5571cd(0x1bf)]&&this[_0x5571cd(0x1bf)][_0x5571cd(0x256)]){case _0x206a76[_0x5571cd(0x422)]:return _0x2b75ad[_0x5571cd(0x4d4)];case _0x206a76[_0x5571cd(0x4fd)]:return _0x2b75ad[_0x5571cd(0x4ad)];case _0x206a76[_0x5571cd(0x1ba)]:return _0x2b75ad[_0x5571cd(0x528)];default:return _0x2b75ad[_0x5571cd(0x2f1)];}}['isConnected'](){var _0x5d6d02=_0x4eebfa;return this['connectionState']()===_0x2b75ad[_0x5d6d02(0x4ad)];}[_0x4eebfa(0x504)](_0x332951){var _0x24cf3d=_0x4eebfa;this[_0x24cf3d(0x1a7)]=this['channels'][_0x24cf3d(0x511)](_0xfb0dc9=>_0xfb0dc9[_0x24cf3d(0x296)]()!==_0x332951[_0x24cf3d(0x296)]());}[_0x4eebfa(0x43a)](_0x317c9e,_0x31797a={}){var _0x46eab9=_0x4eebfa;const _0x338a38=new _0x41ca9a(_0x317c9e,_0x31797a,this);return this[_0x46eab9(0x1a7)][_0x46eab9(0x36a)](_0x338a38),_0x338a38;}[_0x4eebfa(0x36a)](_0x2de0dc){var _0x2ce6cd=_0x4eebfa;const {topic:_0x14b3f8,event:_0x1adbff,payload:_0x213371,ref:_0x5c3a89}=_0x2de0dc;let _0x2b7eba=()=>{this['encode'](_0x2de0dc,_0x309e20=>{var _0xecfba0=a3_0x4871,_0x5a23dd;null===(_0x5a23dd=this[_0xecfba0(0x1bf)])||void 0x0===_0x5a23dd||_0x5a23dd[_0xecfba0(0x4f9)](_0x309e20);});};this[_0x2ce6cd(0x3aa)]('push',_0x14b3f8+'\x20'+_0x1adbff+'\x20('+_0x5c3a89+')',_0x213371),this[_0x2ce6cd(0x233)]()?_0x2b7eba():this[_0x2ce6cd(0x352)]['push'](_0x2b7eba);}['onConnMessage'](_0x12f455){var _0x5a3123=_0x4eebfa;this[_0x5a3123(0x3c2)](_0x12f455[_0x5a3123(0x326)],_0x4c98a2=>{var _0x1efd76=_0x5a3123;let {topic:_0xbab411,event:_0xddfb4f,payload:_0x409bc8,ref:_0x24d35d}=_0x4c98a2;(_0x24d35d&&_0x24d35d===this['pendingHeartbeatRef']||_0xddfb4f===(null==_0x409bc8?void 0x0:_0x409bc8[_0x1efd76(0x21e)]))&&(this[_0x1efd76(0x424)]=null),this[_0x1efd76(0x3aa)]('receive',(_0x409bc8[_0x1efd76(0x42a)]||'')+'\x20'+_0xbab411+'\x20'+_0xddfb4f+'\x20'+(_0x24d35d&&'('+_0x24d35d+')'||''),_0x409bc8),this['channels'][_0x1efd76(0x511)](_0x1264c4=>_0x1264c4['isMember'](_0xbab411))[_0x1efd76(0x2b0)](_0x1cc3fc=>_0x1cc3fc[_0x1efd76(0x287)](_0xddfb4f,_0x409bc8,_0x24d35d)),this[_0x1efd76(0x2bb)][_0x1efd76(0x441)][_0x1efd76(0x2b0)](_0x4551ea=>_0x4551ea(_0x4c98a2));});}['endPointURL'](){var _0x41af89=_0x4eebfa;return this[_0x41af89(0x2eb)](this[_0x41af89(0x437)],Object[_0x41af89(0x46b)]({},this[_0x41af89(0x32c)],{'vsn':_0x41af89(0x526)}));}[_0x4eebfa(0x2db)](){var _0x2c4b74=_0x4eebfa;let _0x11aa42=this[_0x2c4b74(0x386)]+0x1;return _0x11aa42===this[_0x2c4b74(0x386)]?this[_0x2c4b74(0x386)]=0x0:this[_0x2c4b74(0x386)]=_0x11aa42,this[_0x2c4b74(0x386)][_0x2c4b74(0x3b6)]();}['setAuth'](_0x38f79c){var _0x56b908=_0x4eebfa;this['accessToken']=_0x38f79c,this['channels'][_0x56b908(0x2b0)](_0x74ba7b=>{var _0x57e36e=_0x56b908;_0x38f79c&&_0x74ba7b[_0x57e36e(0x360)]({'user_token':_0x38f79c}),_0x74ba7b[_0x57e36e(0x435)]&&_0x74ba7b[_0x57e36e(0x38f)]()&&_0x74ba7b[_0x57e36e(0x36a)](_0x1645a4[_0x57e36e(0x4e1)],{'access_token':_0x38f79c});});}[_0x4eebfa(0x3fd)](_0xd5a962){var _0xdc63e7=_0x4eebfa;let _0x1251c7=this[_0xdc63e7(0x1a7)][_0xdc63e7(0x355)](_0x22ed55=>_0x22ed55[_0xdc63e7(0x539)]===_0xd5a962&&(_0x22ed55[_0xdc63e7(0x38f)]()||_0x22ed55[_0xdc63e7(0x208)]()));_0x1251c7&&(this[_0xdc63e7(0x3aa)](_0xdc63e7(0x3a3),_0xdc63e7(0x4aa)+_0xd5a962+'\x22'),_0x1251c7['unsubscribe']());}[_0x4eebfa(0x1e7)](){var _0x41a00f=_0x4eebfa;this['log']('transport',_0x41a00f(0x379)+this[_0x41a00f(0x4ff)]()),this[_0x41a00f(0x4b2)](),this['reconnectTimer'][_0x41a00f(0x3f2)](),this[_0x41a00f(0x4c7)]&&clearInterval(this[_0x41a00f(0x4c7)]),this[_0x41a00f(0x4c7)]=setInterval(()=>this['_sendHeartbeat'](),this[_0x41a00f(0x3c5)]),this['stateChangeCallbacks'][_0x41a00f(0x4fd)][_0x41a00f(0x2b0)](_0xe45ac0=>_0xe45ac0());}[_0x4eebfa(0x2e1)](_0x1c4c73){var _0x1c1af3=_0x4eebfa;this[_0x1c1af3(0x3aa)](_0x1c1af3(0x3a3),_0x1c1af3(0x497),_0x1c4c73),this[_0x1c1af3(0x52f)](),this['heartbeatTimer']&&clearInterval(this['heartbeatTimer']),this[_0x1c1af3(0x340)][_0x1c1af3(0x42f)](),this[_0x1c1af3(0x2bb)][_0x1c1af3(0x497)][_0x1c1af3(0x2b0)](_0x5bbed7=>_0x5bbed7(_0x1c4c73));}[_0x4eebfa(0x2cb)](_0x31c36f){var _0x53cb42=_0x4eebfa;this[_0x53cb42(0x3aa)]('transport',_0x31c36f[_0x53cb42(0x441)]),this[_0x53cb42(0x52f)](),this['stateChangeCallbacks'][_0x53cb42(0x428)][_0x53cb42(0x2b0)](_0x211788=>_0x211788(_0x31c36f));}[_0x4eebfa(0x52f)](){var _0x3193e1=_0x4eebfa;this['channels'][_0x3193e1(0x2b0)](_0x476218=>_0x476218[_0x3193e1(0x287)](_0x1645a4[_0x3193e1(0x428)]));}[_0x4eebfa(0x2eb)](_0x2d37e1,_0x1c2f26){var _0x2a8804=_0x4eebfa;if(0x0===Object[_0x2a8804(0x1eb)](_0x1c2f26)['length'])return _0x2d37e1;const _0x2fbfe1=_0x2d37e1[_0x2a8804(0x47f)](/\?/)?'&':'?';return''+_0x2d37e1+_0x2fbfe1+new URLSearchParams(_0x1c2f26);}[_0x4eebfa(0x4b2)](){var _0x599b2f=_0x4eebfa;this[_0x599b2f(0x233)]()&&this[_0x599b2f(0x352)][_0x599b2f(0x50a)]>0x0&&(this['sendBuffer']['forEach'](_0x5ab612=>_0x5ab612()),this[_0x599b2f(0x352)]=[]);}[_0x4eebfa(0x193)](){var _0x4d7d9b=_0x4eebfa,_0x505af6;if(this[_0x4d7d9b(0x233)]()){if(this['pendingHeartbeatRef'])return this['pendingHeartbeatRef']=null,this[_0x4d7d9b(0x3aa)](_0x4d7d9b(0x3a3),_0x4d7d9b(0x3cb)),void(null===(_0x505af6=this['conn'])||void 0x0===_0x505af6||_0x505af6[_0x4d7d9b(0x497)](0x3e8,_0x4d7d9b(0x4a0)));this['pendingHeartbeatRef']=this[_0x4d7d9b(0x2db)](),this[_0x4d7d9b(0x36a)]({'topic':'phoenix','event':_0x4d7d9b(0x493),'payload':{},'ref':this[_0x4d7d9b(0x424)]}),this[_0x4d7d9b(0x499)](this[_0x4d7d9b(0x4f3)]);}}}class _0x45cbb5{constructor(_0x1e6d08,_0x1e12a7,_0x5249ef,_0x47ef39){var _0x2ce422=_0x4eebfa;const _0x2ffaba={},_0x430755='*'===_0x47ef39?_0x2ce422(0x35b)+_0x5249ef:'realtime:'+_0x5249ef+':'+_0x47ef39,_0x2e6f4e=_0x1e12a7[_0x2ce422(0x2ba)][_0x2ce422(0x322)]('\x20')[0x1];_0x2e6f4e&&(_0x2ffaba[_0x2ce422(0x1cd)]=_0x2e6f4e),this['subscription']=_0x1e6d08[_0x2ce422(0x43a)](_0x430755,_0x2ffaba);}[_0x4eebfa(0x4a5)](_0x751805){var _0x9ed622=_0x4eebfa;const _0x574b78={'new':{},'old':{}};return _0x9ed622(0x35a)!==_0x751805[_0x9ed622(0x21e)]&&_0x9ed622(0x4f2)!==_0x751805[_0x9ed622(0x21e)]||(_0x574b78[_0x9ed622(0x3a9)]=_0x57b355(_0x751805[_0x9ed622(0x33b)],_0x751805[_0x9ed622(0x2d3)])),_0x9ed622(0x4f2)!==_0x751805[_0x9ed622(0x21e)]&&_0x9ed622(0x4b5)!==_0x751805[_0x9ed622(0x21e)]||(_0x574b78[_0x9ed622(0x4ec)]=_0x57b355(_0x751805[_0x9ed622(0x33b)],_0x751805[_0x9ed622(0x31a)])),_0x574b78;}['on'](_0x571a71,_0x5e1531){var _0xf8558e=_0x4eebfa;return this[_0xf8558e(0x49d)]['on'](_0x571a71,_0x484694=>{var _0x1cbecd=_0xf8558e;let _0x29c613={'schema':_0x484694[_0x1cbecd(0x248)],'table':_0x484694[_0x1cbecd(0x17f)],'commit_timestamp':_0x484694[_0x1cbecd(0x533)],'eventType':_0x484694['type'],'new':{},'old':{},'errors':_0x484694[_0x1cbecd(0x3d0)]};_0x29c613=Object[_0x1cbecd(0x46b)](Object[_0x1cbecd(0x46b)]({},_0x29c613),this[_0x1cbecd(0x4a5)](_0x484694)),_0x5e1531(_0x29c613);}),this;}[_0x4eebfa(0x40a)](_0x19e864=()=>{}){var _0x2582ff=_0x4eebfa;return this[_0x2582ff(0x49d)][_0x2582ff(0x3b0)](_0x5c67a1=>_0x19e864(_0x2582ff(0x336),_0x5c67a1)),this[_0x2582ff(0x49d)]['onClose'](()=>_0x19e864(_0x2582ff(0x204))),this[_0x2582ff(0x49d)][_0x2582ff(0x40a)]()[_0x2582ff(0x273)]('ok',()=>_0x19e864('SUBSCRIBED'))[_0x2582ff(0x273)](_0x2582ff(0x428),_0x5757fd=>_0x19e864(_0x2582ff(0x336),_0x5757fd))[_0x2582ff(0x273)](_0x2582ff(0x3cf),()=>_0x19e864('RETRYING_AFTER_TIMEOUT')),this['subscription'];}}class _0x302589 extends _0x35896e{constructor(_0x3a503b,{headers:_0x4fbf4b={},schema:_0x43c0fc,realtime:_0x229f53,table:_0x106c20,fetch:_0x2653a4,shouldThrowOnError:_0x5b8aee}){var _0x5461fb=_0x4eebfa;super(_0x3a503b,{'headers':_0x4fbf4b,'schema':_0x43c0fc,'fetch':_0x2653a4,'shouldThrowOnError':_0x5b8aee}),this['_subscription']=null,this['_realtime']=_0x229f53,this[_0x5461fb(0x39f)]=_0x4fbf4b,this[_0x5461fb(0x284)]=_0x43c0fc,this[_0x5461fb(0x3b9)]=_0x106c20;}['on'](_0x2ba949,_0x4a2ebb){var _0xfc0739=_0x4eebfa;return this[_0xfc0739(0x1c0)][_0xfc0739(0x233)]()||this[_0xfc0739(0x1c0)][_0xfc0739(0x3b1)](),this[_0xfc0739(0x4b4)]||(this[_0xfc0739(0x4b4)]=new _0x45cbb5(this[_0xfc0739(0x1c0)],this[_0xfc0739(0x39f)],this[_0xfc0739(0x284)],this[_0xfc0739(0x3b9)])),this[_0xfc0739(0x4b4)]['on'](_0x2ba949,_0x4a2ebb);}}const _0x44297f={'X-Client-Info':_0x4eebfa(0x1bb)};var _0x24ebde=function(_0x521281,_0xf03310,_0x16ebc9,_0x5c4d74){return new(_0x16ebc9||(_0x16ebc9=Promise))(function(_0x5dbf59,_0x5c537f){var _0x49e146=a3_0x4871;function _0x28318d(_0xd2e14d){var _0x4a368b=a3_0x4871;try{_0x1a5159(_0x5c4d74[_0x4a368b(0x1ef)](_0xd2e14d));}catch(_0x400688){_0x5c537f(_0x400688);}}function _0x2f6670(_0x1e09fa){var _0x3e269c=a3_0x4871;try{_0x1a5159(_0x5c4d74[_0x3e269c(0x3c1)](_0x1e09fa));}catch(_0x14bd90){_0x5c537f(_0x14bd90);}}function _0x1a5159(_0x157efd){var _0x50d281=a3_0x4871,_0x5bef79;_0x157efd[_0x50d281(0x2c9)]?_0x5dbf59(_0x157efd[_0x50d281(0x4d0)]):(_0x5bef79=_0x157efd[_0x50d281(0x4d0)],_0x5bef79 instanceof _0x16ebc9?_0x5bef79:new _0x16ebc9(function(_0x598111){_0x598111(_0x5bef79);}))[_0x50d281(0x2a2)](_0x28318d,_0x2f6670);}_0x1a5159((_0x5c4d74=_0x5c4d74[_0x49e146(0x26e)](_0x521281,_0xf03310||[]))[_0x49e146(0x1ef)]());});};const _0x49a45d=_0x562018=>_0x562018[_0x4eebfa(0x412)]||_0x562018[_0x4eebfa(0x441)]||_0x562018[_0x4eebfa(0x2c6)]||_0x562018[_0x4eebfa(0x428)]||JSON[_0x4eebfa(0x402)](_0x562018);function _0x57c696(_0x72f6b,_0x23f8a7,_0x27d8c9,_0x20107b,_0x275e5c,_0x3c0a68){return _0x24ebde(this,void 0x0,void 0x0,function*(){return new Promise((_0x49dd00,_0x3280ec)=>{var _0x77cc15=a3_0x4871;_0x72f6b(_0x27d8c9,((_0x4437a7,_0xdbaa52,_0xa049e3,_0x2412b6)=>{var _0x27d277=a3_0x4871;const _0x15b019={'method':_0x4437a7,'headers':(null==_0xdbaa52?void 0x0:_0xdbaa52['headers'])||{}};return _0x27d277(0x1ed)===_0x4437a7?_0x15b019:(_0x15b019[_0x27d277(0x2f6)]=Object[_0x27d277(0x46b)]({'Content-Type':_0x27d277(0x32e)},null==_0xdbaa52?void 0x0:_0xdbaa52['headers']),_0x15b019[_0x27d277(0x3fa)]=JSON[_0x27d277(0x402)](_0x2412b6),Object[_0x27d277(0x46b)](Object[_0x27d277(0x46b)]({},_0x15b019),_0xa049e3));})(_0x23f8a7,_0x20107b,_0x275e5c,_0x3c0a68))['then'](_0x10dbfd=>{var _0x510391=a3_0x4871;if(!_0x10dbfd['ok'])throw _0x10dbfd;return(null==_0x20107b?void 0x0:_0x20107b[_0x510391(0x271)])?_0x49dd00(_0x10dbfd):_0x10dbfd[_0x510391(0x263)]();})['then'](_0x43a244=>_0x49dd00(_0x43a244))[_0x77cc15(0x2ff)](_0x2dae91=>((_0x1667e9,_0x34375b)=>{var _0x6a85c4=_0x77cc15;if(_0x6a85c4(0x4fe)!=typeof _0x1667e9['json'])return _0x34375b(_0x1667e9);_0x1667e9['json']()[_0x6a85c4(0x2a2)](_0x29b303=>_0x34375b({'message':_0x49a45d(_0x29b303),'status':(null==_0x1667e9?void 0x0:_0x1667e9[_0x6a85c4(0x42a)])||0x1f4}));})(_0x2dae91,_0x3280ec));});});}function _0x5863ee(_0x238dfc,_0x13f3ca,_0xad53bc,_0x36e41c){return _0x24ebde(this,void 0x0,void 0x0,function*(){return _0x57c696(_0x238dfc,'GET',_0x13f3ca,_0xad53bc,_0x36e41c);});}function _0x43171d(_0x113fef,_0x1b5904,_0x2d9874,_0x38f527,_0x4d6270){return _0x24ebde(this,void 0x0,void 0x0,function*(){var _0x3b1601=a3_0x4871;return _0x57c696(_0x113fef,_0x3b1601(0x217),_0x1b5904,_0x38f527,_0x4d6270,_0x2d9874);});}function _0xf91f53(_0x3fdc5c,_0x3e44f0,_0x373894,_0x400817,_0x591167){return _0x24ebde(this,void 0x0,void 0x0,function*(){var _0x4427eb=a3_0x4871;return _0x57c696(_0x3fdc5c,_0x4427eb(0x4b5),_0x3e44f0,_0x400817,_0x591167,_0x373894);});}const _0x2cd74d=_0x143aeb=>{var _0x101eff=_0x4eebfa;let _0x4564f0;return _0x4564f0=_0x143aeb||(_0x101eff(0x229)==typeof fetch?(..._0x2cece8)=>{return _0x42ed3a=void 0x0,_0x1341ed=void 0x0,_0x36fd9c=function*(){var _0x46e1e4=a3_0x4871;return yield(yield _0x5d9274['e'](0x62)[_0x46e1e4(0x2a2)](_0x5d9274['t']['bind'](_0x5d9274,0x62,0x17)))[_0x46e1e4(0x29f)](..._0x2cece8);},new((_0x505f78=void 0x0)||(_0x505f78=Promise))(function(_0x3d1c82,_0x213be5){var _0x59af8d=a3_0x4871;function _0x33b916(_0x52dd82){try{_0xfe8a01(_0x36fd9c['next'](_0x52dd82));}catch(_0x1677b2){_0x213be5(_0x1677b2);}}function _0x324865(_0x30978f){var _0x3f9c0b=a3_0x4871;try{_0xfe8a01(_0x36fd9c[_0x3f9c0b(0x3c1)](_0x30978f));}catch(_0x5837c0){_0x213be5(_0x5837c0);}}function _0xfe8a01(_0x22025c){var _0x17d38a=a3_0x4871,_0x22f25f;_0x22025c[_0x17d38a(0x2c9)]?_0x3d1c82(_0x22025c[_0x17d38a(0x4d0)]):(_0x22f25f=_0x22025c['value'],_0x22f25f instanceof _0x505f78?_0x22f25f:new _0x505f78(function(_0x5cb365){_0x5cb365(_0x22f25f);}))[_0x17d38a(0x2a2)](_0x33b916,_0x324865);}_0xfe8a01((_0x36fd9c=_0x36fd9c[_0x59af8d(0x26e)](_0x42ed3a,_0x1341ed||[]))[_0x59af8d(0x1ef)]());});var _0x42ed3a,_0x1341ed,_0x505f78,_0x36fd9c;}:fetch),(..._0x3415f9)=>_0x4564f0(..._0x3415f9);};var _0x334da7=function(_0x1fa529,_0x4df243,_0x2bfc1f,_0x4fdfb6){return new(_0x2bfc1f||(_0x2bfc1f=Promise))(function(_0x2afc3c,_0x34f40f){var _0x2ba12a=a3_0x4871;function _0x3b495f(_0x379c75){try{_0x3e5642(_0x4fdfb6['next'](_0x379c75));}catch(_0x5bc932){_0x34f40f(_0x5bc932);}}function _0x39ebe2(_0xec1d08){var _0x11b970=a3_0x4871;try{_0x3e5642(_0x4fdfb6[_0x11b970(0x3c1)](_0xec1d08));}catch(_0x415669){_0x34f40f(_0x415669);}}function _0x3e5642(_0x2f519e){var _0x44d4e0=a3_0x4871,_0x48c5c0;_0x2f519e[_0x44d4e0(0x2c9)]?_0x2afc3c(_0x2f519e[_0x44d4e0(0x4d0)]):(_0x48c5c0=_0x2f519e[_0x44d4e0(0x4d0)],_0x48c5c0 instanceof _0x2bfc1f?_0x48c5c0:new _0x2bfc1f(function(_0x32ef57){_0x32ef57(_0x48c5c0);}))[_0x44d4e0(0x2a2)](_0x3b495f,_0x39ebe2);}_0x3e5642((_0x4fdfb6=_0x4fdfb6[_0x2ba12a(0x26e)](_0x1fa529,_0x4df243||[]))['next']());});},_0x4a298e=function(_0x595334,_0x1b9a3e,_0x53592f,_0x3f931a){return new(_0x53592f||(_0x53592f=Promise))(function(_0x1a9c39,_0x23172d){var _0x1d8b1d=a3_0x4871;function _0x1d9612(_0x509ada){var _0x514e58=a3_0x4871;try{_0x403c0e(_0x3f931a[_0x514e58(0x1ef)](_0x509ada));}catch(_0x2ff197){_0x23172d(_0x2ff197);}}function _0x2dc46f(_0x7402f1){try{_0x403c0e(_0x3f931a['throw'](_0x7402f1));}catch(_0x2c30ec){_0x23172d(_0x2c30ec);}}function _0x403c0e(_0x43d0e4){var _0x286315=a3_0x4871,_0x4a595f;_0x43d0e4[_0x286315(0x2c9)]?_0x1a9c39(_0x43d0e4[_0x286315(0x4d0)]):(_0x4a595f=_0x43d0e4[_0x286315(0x4d0)],_0x4a595f instanceof _0x53592f?_0x4a595f:new _0x53592f(function(_0x12107b){_0x12107b(_0x4a595f);}))[_0x286315(0x2a2)](_0x1d9612,_0x2dc46f);}_0x403c0e((_0x3f931a=_0x3f931a[_0x1d8b1d(0x26e)](_0x595334,_0x1b9a3e||[]))['next']());});};const _0xca0658={'limit':0x64,'offset':0x0,'sortBy':{'column':_0x4eebfa(0x23b),'order':_0x4eebfa(0x398)}},_0x385ef8={'cacheControl':_0x4eebfa(0x2dc),'contentType':_0x4eebfa(0x4d7),'upsert':!0x1};class _0x54595f{constructor(_0x37612c,_0x4721e1={},_0x53b535,_0xdecde7){var _0x4e9a61=_0x4eebfa;this['url']=_0x37612c,this['headers']=_0x4721e1,this['bucketId']=_0x53b535,this[_0x4e9a61(0x29f)]=_0x2cd74d(_0xdecde7);}[_0x4eebfa(0x38c)](_0x5ad462,_0x453773,_0x5f4165,_0x25ffee){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x3c3da7=a3_0x4871;try{let _0x125040;const _0xa8629b=Object[_0x3c3da7(0x46b)](Object[_0x3c3da7(0x46b)]({},_0x385ef8),_0x25ffee),_0x1379c9=Object[_0x3c3da7(0x46b)](Object[_0x3c3da7(0x46b)]({},this['headers']),'POST'===_0x5ad462&&{'x-upsert':String(_0xa8629b[_0x3c3da7(0x32f)])});_0x3c3da7(0x229)!=typeof Blob&&_0x5f4165 instanceof Blob?(_0x125040=new FormData(),_0x125040['append'](_0x3c3da7(0x52e),_0xa8629b[_0x3c3da7(0x52e)]),_0x125040['append']('',_0x5f4165)):'undefined'!=typeof FormData&&_0x5f4165 instanceof FormData?(_0x125040=_0x5f4165,_0x125040[_0x3c3da7(0x2d1)]('cacheControl',_0xa8629b[_0x3c3da7(0x52e)])):(_0x125040=_0x5f4165,_0x1379c9[_0x3c3da7(0x337)]=_0x3c3da7(0x380)+_0xa8629b[_0x3c3da7(0x52e)],_0x1379c9[_0x3c3da7(0x257)]=_0xa8629b[_0x3c3da7(0x356)]);const _0x2abd24=this[_0x3c3da7(0x1fc)](_0x453773),_0x437f09=this[_0x3c3da7(0x21d)](_0x2abd24),_0x176723=yield this[_0x3c3da7(0x29f)](this[_0x3c3da7(0x3c6)]+'/object/'+_0x437f09,{'method':_0x5ad462,'body':_0x125040,'headers':_0x1379c9});return _0x176723['ok']?{'data':{'Key':_0x437f09},'error':null}:{'data':null,'error':yield _0x176723[_0x3c3da7(0x263)]()};}catch(_0x1164c7){return{'data':null,'error':_0x1164c7};}});}[_0x4eebfa(0x2fb)](_0x1b8daa,_0x23fe9b,_0x34fdd8){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x43be69=a3_0x4871;return this[_0x43be69(0x38c)](_0x43be69(0x217),_0x1b8daa,_0x23fe9b,_0x34fdd8);});}[_0x4eebfa(0x431)](_0x4ab6d3,_0x1189bd,_0x4b394b){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x7fc1fb=a3_0x4871;return this[_0x7fc1fb(0x38c)](_0x7fc1fb(0x2bf),_0x4ab6d3,_0x1189bd,_0x4b394b);});}[_0x4eebfa(0x488)](_0x282da3,_0x5f0120){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0xb9c53e=a3_0x4871;try{return{'data':yield _0x43171d(this[_0xb9c53e(0x29f)],this[_0xb9c53e(0x3c6)]+_0xb9c53e(0x4ee),{'bucketId':this['bucketId'],'sourceKey':_0x282da3,'destinationKey':_0x5f0120},{'headers':this['headers']}),'error':null};}catch(_0x362a6e){return{'data':null,'error':_0x362a6e};}});}[_0x4eebfa(0x502)](_0x5d2d0b,_0xaf427){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x47e686=a3_0x4871;try{return{'data':yield _0x43171d(this['fetch'],this[_0x47e686(0x3c6)]+_0x47e686(0x265),{'bucketId':this[_0x47e686(0x523)],'sourceKey':_0x5d2d0b,'destinationKey':_0xaf427},{'headers':this['headers']}),'error':null};}catch(_0x5424df){return{'data':null,'error':_0x5424df};}});}[_0x4eebfa(0x4b1)](_0x41b2e1,_0x58db57){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x2f1b65=a3_0x4871;try{const _0x577d86=this[_0x2f1b65(0x21d)](_0x41b2e1);let _0x5906a5=yield _0x43171d(this[_0x2f1b65(0x29f)],this[_0x2f1b65(0x3c6)]+_0x2f1b65(0x1ae)+_0x577d86,{'expiresIn':_0x58db57},{'headers':this[_0x2f1b65(0x2f6)]});const _0x3f5124=''+this[_0x2f1b65(0x3c6)]+_0x5906a5[_0x2f1b65(0x443)];return _0x5906a5={'signedURL':_0x3f5124},{'data':_0x5906a5,'error':null,'signedURL':_0x3f5124};}catch(_0x2ba889){return{'data':null,'error':_0x2ba889,'signedURL':null};}});}[_0x4eebfa(0x3c3)](_0x20521d,_0x29ffa0){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x42aeea=a3_0x4871;try{return{'data':(yield _0x43171d(this[_0x42aeea(0x29f)],this[_0x42aeea(0x3c6)]+_0x42aeea(0x1ae)+this[_0x42aeea(0x523)],{'expiresIn':_0x29ffa0,'paths':_0x20521d},{'headers':this[_0x42aeea(0x2f6)]}))[_0x42aeea(0x391)](_0x96c28=>Object[_0x42aeea(0x46b)](Object[_0x42aeea(0x46b)]({},_0x96c28),{'signedURL':_0x96c28[_0x42aeea(0x443)]?''+this[_0x42aeea(0x3c6)]+_0x96c28['signedURL']:null})),'error':null};}catch(_0x41c420){return{'data':null,'error':_0x41c420};}});}[_0x4eebfa(0x35d)](_0x11d3b1){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x4e2d1a=a3_0x4871;try{const _0xea26d1=this['_getFinalPath'](_0x11d3b1),_0x32c3fd=yield _0x5863ee(this[_0x4e2d1a(0x29f)],this[_0x4e2d1a(0x3c6)]+'/object/'+_0xea26d1,{'headers':this[_0x4e2d1a(0x2f6)],'noResolveJson':!0x0});return{'data':yield _0x32c3fd[_0x4e2d1a(0x2ce)](),'error':null};}catch(_0xf90bf9){return{'data':null,'error':_0xf90bf9};}});}[_0x4eebfa(0x279)](_0x454388){var _0x2ca6ee=_0x4eebfa;try{const _0x4e4bc4=this['_getFinalPath'](_0x454388),_0x1ae30d=this[_0x2ca6ee(0x3c6)]+_0x2ca6ee(0x301)+_0x4e4bc4;return{'data':{'publicURL':_0x1ae30d},'error':null,'publicURL':_0x1ae30d};}catch(_0xdf9d3a){return{'data':null,'error':_0xdf9d3a,'publicURL':null};}}[_0x4eebfa(0x504)](_0x31cd8d){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x4346e8=a3_0x4871;try{return{'data':yield _0xf91f53(this[_0x4346e8(0x29f)],this['url']+'/object/'+this[_0x4346e8(0x523)],{'prefixes':_0x31cd8d},{'headers':this['headers']}),'error':null};}catch(_0x3d7cd4){return{'data':null,'error':_0x3d7cd4};}});}[_0x4eebfa(0x317)](_0x435ac2,_0x285a6d,_0x5e51b9){return _0x4a298e(this,void 0x0,void 0x0,function*(){var _0x3fdf68=a3_0x4871;try{const _0x4a0e46=Object['assign'](Object[_0x3fdf68(0x46b)](Object[_0x3fdf68(0x46b)]({},_0xca0658),_0x285a6d),{'prefix':_0x435ac2||''});return{'data':yield _0x43171d(this[_0x3fdf68(0x29f)],this[_0x3fdf68(0x3c6)]+_0x3fdf68(0x353)+this['bucketId'],_0x4a0e46,{'headers':this[_0x3fdf68(0x2f6)]},_0x5e51b9),'error':null};}catch(_0xe8d4bf){return{'data':null,'error':_0xe8d4bf};}});}[_0x4eebfa(0x21d)](_0x183e8a){var _0x271013=_0x4eebfa;return this[_0x271013(0x523)]+'/'+_0x183e8a;}[_0x4eebfa(0x1fc)](_0x300a03){var _0x54954d=_0x4eebfa;return _0x300a03['replace'](/^\/|\/$/g,'')[_0x54954d(0x390)](/\/+/g,'/');}}class _0x58f067 extends class{constructor(_0x5ee1a8,_0x306862={},_0x3b314c){var _0x3924ed=_0x4eebfa;this['url']=_0x5ee1a8,this[_0x3924ed(0x2f6)]=Object['assign'](Object[_0x3924ed(0x46b)]({},_0x44297f),_0x306862),this['fetch']=_0x2cd74d(_0x3b314c);}[_0x4eebfa(0x364)](){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x42a1d9=a3_0x4871;try{return{'data':yield _0x5863ee(this[_0x42a1d9(0x29f)],this[_0x42a1d9(0x3c6)]+_0x42a1d9(0x269),{'headers':this[_0x42a1d9(0x2f6)]}),'error':null};}catch(_0x4a5ebb){return{'data':null,'error':_0x4a5ebb};}});}['getBucket'](_0x20da34){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x4fc126=a3_0x4871;try{return{'data':yield _0x5863ee(this[_0x4fc126(0x29f)],this[_0x4fc126(0x3c6)]+_0x4fc126(0x27b)+_0x20da34,{'headers':this[_0x4fc126(0x2f6)]}),'error':null};}catch(_0x29a58a){return{'data':null,'error':_0x29a58a};}});}[_0x4eebfa(0x232)](_0x3d561d,_0x338f1d={'public':!0x1}){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x2532e5=a3_0x4871;try{return{'data':(yield _0x43171d(this[_0x2532e5(0x29f)],this['url']+_0x2532e5(0x269),{'id':_0x3d561d,'name':_0x3d561d,'public':_0x338f1d[_0x2532e5(0x2e8)]},{'headers':this[_0x2532e5(0x2f6)]}))[_0x2532e5(0x23b)],'error':null};}catch(_0x44f7b2){return{'data':null,'error':_0x44f7b2};}});}[_0x4eebfa(0x32d)](_0x73ad65,_0x873498){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x1e9ff4=a3_0x4871;try{const _0x546852=yield function(_0x442361,_0x24bf3a,_0x202ab1,_0x1fc622,_0x262c5d){return _0x24ebde(this,void 0x0,void 0x0,function*(){var _0x1743e2=a3_0x4871;return _0x57c696(_0x442361,_0x1743e2(0x2bf),_0x24bf3a,_0x1fc622,undefined,_0x202ab1);});}(this[_0x1e9ff4(0x29f)],this['url']+'/bucket/'+_0x73ad65,{'id':_0x73ad65,'name':_0x73ad65,'public':_0x873498[_0x1e9ff4(0x2e8)]},{'headers':this[_0x1e9ff4(0x2f6)]});return{'data':_0x546852,'error':null};}catch(_0x20a6b1){return{'data':null,'error':_0x20a6b1};}});}['emptyBucket'](_0x298128){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x4cf2de=a3_0x4871;try{return{'data':yield _0x43171d(this[_0x4cf2de(0x29f)],this[_0x4cf2de(0x3c6)]+_0x4cf2de(0x27b)+_0x298128+'/empty',{},{'headers':this[_0x4cf2de(0x2f6)]}),'error':null};}catch(_0xd9ba2e){return{'data':null,'error':_0xd9ba2e};}});}[_0x4eebfa(0x381)](_0x27cb68){return _0x334da7(this,void 0x0,void 0x0,function*(){var _0x5dd38f=a3_0x4871;try{return{'data':yield _0xf91f53(this[_0x5dd38f(0x29f)],this[_0x5dd38f(0x3c6)]+_0x5dd38f(0x27b)+_0x27cb68,{},{'headers':this[_0x5dd38f(0x2f6)]}),'error':null};}catch(_0x2d657f){return{'data':null,'error':_0x2d657f};}});}}{constructor(_0x237cc7,_0x32633d={},_0x4548f6){super(_0x237cc7,_0x32633d,_0x4548f6);}[_0x4eebfa(0x30f)](_0x14abe6){var _0x584326=_0x4eebfa;return new _0x54595f(this[_0x584326(0x3c6)],this[_0x584326(0x2f6)],_0x14abe6,this[_0x584326(0x29f)]);}}class _0x261a90{constructor(_0x53dd5f,{headers:_0x13cb84={},customFetch:_0x12368c}={}){this['url']=_0x53dd5f,this['headers']=_0x13cb84,this['fetch']=(_0xfce9fa=>{var _0x3bef36=a3_0x4871;let _0x1215e1;return _0x1215e1=_0xfce9fa||(_0x3bef36(0x229)==typeof fetch?(..._0x1f7450)=>{return _0x13d332=void 0x0,_0x5c17b5=void 0x0,_0x349db5=function*(){var _0x1e0bd0=a3_0x4871;return yield(yield _0x5d9274['e'](0x62)[_0x1e0bd0(0x2a2)](_0x5d9274['t'][_0x1e0bd0(0x3c0)](_0x5d9274,0x62,0x17)))[_0x1e0bd0(0x29f)](..._0x1f7450);},new((_0x58bdc1=void 0x0)||(_0x58bdc1=Promise))(function(_0x4f2b2c,_0xb49008){var _0x3f192a=a3_0x4871;function _0x5a7744(_0x1f4d86){var _0x36d9bb=a3_0x4871;try{_0x53b84d(_0x349db5[_0x36d9bb(0x1ef)](_0x1f4d86));}catch(_0x371fa8){_0xb49008(_0x371fa8);}}function _0x567b3e(_0x3c7679){var _0x4a6c64=a3_0x4871;try{_0x53b84d(_0x349db5[_0x4a6c64(0x3c1)](_0x3c7679));}catch(_0x3c6613){_0xb49008(_0x3c6613);}}function _0x53b84d(_0x30e5f1){var _0x5af1c3=a3_0x4871,_0xc7acf6;_0x30e5f1[_0x5af1c3(0x2c9)]?_0x4f2b2c(_0x30e5f1['value']):(_0xc7acf6=_0x30e5f1[_0x5af1c3(0x4d0)],_0xc7acf6 instanceof _0x58bdc1?_0xc7acf6:new _0x58bdc1(function(_0x282c6a){_0x282c6a(_0xc7acf6);}))['then'](_0x5a7744,_0x567b3e);}_0x53b84d((_0x349db5=_0x349db5['apply'](_0x13d332,_0x5c17b5||[]))[_0x3f192a(0x1ef)]());});var _0x13d332,_0x5c17b5,_0x58bdc1,_0x349db5;}:fetch),(..._0x130d42)=>_0x1215e1(..._0x130d42);})(_0x12368c);}[_0x4eebfa(0x499)](_0x567b79){var _0x5ec1ad=_0x4eebfa;this[_0x5ec1ad(0x2f6)]['Authorization']=_0x5ec1ad(0x2d4)+_0x567b79;}[_0x4eebfa(0x294)](_0x44ff78,_0x20334c){return _0x22f26a=this,_0x2fac97=void 0x0,_0x25ea7c=function*(){var _0x78327e=a3_0x4871;try{const {headers:_0x55afd0,body:_0x957b7d}=null!=_0x20334c?_0x20334c:{},_0x56c98e=yield this[_0x78327e(0x29f)](this[_0x78327e(0x3c6)]+'/'+_0x44ff78,{'method':_0x78327e(0x217),'headers':Object[_0x78327e(0x46b)]({},this[_0x78327e(0x2f6)],_0x55afd0),'body':_0x957b7d}),_0x3c7ea6=_0x56c98e[_0x78327e(0x2f6)][_0x78327e(0x1c5)](_0x78327e(0x451));if(_0x3c7ea6&&_0x78327e(0x2c3)===_0x3c7ea6)return{'data':null,'error':new Error(yield _0x56c98e['text']())};let _0x480836;const {responseType:_0x372884}=null!=_0x20334c?_0x20334c:{};return _0x480836=_0x372884&&_0x78327e(0x263)!==_0x372884?_0x78327e(0x2d5)===_0x372884?yield _0x56c98e[_0x78327e(0x2d5)]():_0x78327e(0x2ce)===_0x372884?yield _0x56c98e[_0x78327e(0x2ce)]():yield _0x56c98e[_0x78327e(0x288)]():yield _0x56c98e[_0x78327e(0x263)](),{'data':_0x480836,'error':null};}catch(_0x39193c){return{'data':null,'error':_0x39193c};}},new((_0x41f061=void 0x0)||(_0x41f061=Promise))(function(_0x9478e5,_0x208704){var _0x50d678=a3_0x4871;function _0x227b84(_0x358766){var _0x5d90cb=a3_0x4871;try{_0xdc76dc(_0x25ea7c[_0x5d90cb(0x1ef)](_0x358766));}catch(_0x239372){_0x208704(_0x239372);}}function _0x33f16d(_0x1fd91c){var _0x4ec858=a3_0x4871;try{_0xdc76dc(_0x25ea7c[_0x4ec858(0x3c1)](_0x1fd91c));}catch(_0x5be28a){_0x208704(_0x5be28a);}}function _0xdc76dc(_0x1ce0a9){var _0x37e0a4=a3_0x4871,_0x2fc2a2;_0x1ce0a9[_0x37e0a4(0x2c9)]?_0x9478e5(_0x1ce0a9[_0x37e0a4(0x4d0)]):(_0x2fc2a2=_0x1ce0a9['value'],_0x2fc2a2 instanceof _0x41f061?_0x2fc2a2:new _0x41f061(function(_0x518dd5){_0x518dd5(_0x2fc2a2);}))['then'](_0x227b84,_0x33f16d);}_0xdc76dc((_0x25ea7c=_0x25ea7c[_0x50d678(0x26e)](_0x22f26a,_0x2fac97||[]))['next']());});var _0x22f26a,_0x2fac97,_0x41f061,_0x25ea7c;}}var _0x117715=function(_0x4a31e4,_0x2d27a2,_0x14b536,_0x1eecaf){return new(_0x14b536||(_0x14b536=Promise))(function(_0xbecd84,_0x3c7476){var _0x448a3e=a3_0x4871;function _0x5d9a1a(_0x427706){var _0x276d61=a3_0x4871;try{_0x3ece44(_0x1eecaf[_0x276d61(0x1ef)](_0x427706));}catch(_0x1ab4af){_0x3c7476(_0x1ab4af);}}function _0xad1939(_0x33233a){try{_0x3ece44(_0x1eecaf['throw'](_0x33233a));}catch(_0x82579d){_0x3c7476(_0x82579d);}}function _0x3ece44(_0x20e005){var _0x4b26ce=a3_0x4871,_0x4c9e87;_0x20e005[_0x4b26ce(0x2c9)]?_0xbecd84(_0x20e005[_0x4b26ce(0x4d0)]):(_0x4c9e87=_0x20e005[_0x4b26ce(0x4d0)],_0x4c9e87 instanceof _0x14b536?_0x4c9e87:new _0x14b536(function(_0x1a5d22){_0x1a5d22(_0x4c9e87);}))[_0x4b26ce(0x2a2)](_0x5d9a1a,_0xad1939);}_0x3ece44((_0x1eecaf=_0x1eecaf[_0x448a3e(0x26e)](_0x4a31e4,_0x2d27a2||[]))[_0x448a3e(0x1ef)]());});};const _0x3ced19={'schema':_0x4eebfa(0x2e8),'autoRefreshToken':!0x0,'persistSession':!0x0,'detectSessionInUrl':!0x0,'multiTab':!0x0,'headers':_0xdc9742};class _0x4650c7{constructor(_0x5b2321,_0x4b0edf,_0x1cef52){var _0x230d52=_0x4eebfa;if(this['supabaseUrl']=_0x5b2321,this['supabaseKey']=_0x4b0edf,!_0x5b2321)throw new Error(_0x230d52(0x362));if(!_0x4b0edf)throw new Error(_0x230d52(0x1f6));const _0x140f02=_0x5b2321[_0x230d52(0x390)](/\/$/,''),_0x302b17=Object['assign'](Object[_0x230d52(0x46b)]({},_0x3ced19),_0x1cef52);if(this[_0x230d52(0x4c0)]=_0x140f02+_0x230d52(0x2af),this[_0x230d52(0x541)]=(_0x140f02+'/realtime/v1')['replace'](_0x230d52(0x3d5),'ws'),this[_0x230d52(0x518)]=_0x140f02+_0x230d52(0x45c),this['storageUrl']=_0x140f02+_0x230d52(0x246),_0x140f02['match'](/(supabase\.co)|(supabase\.in)/)){const _0x135458=_0x140f02[_0x230d52(0x322)]('.');this[_0x230d52(0x198)]=_0x135458[0x0]+_0x230d52(0x408)+_0x135458[0x1]+'.'+_0x135458[0x2];}else this[_0x230d52(0x198)]=_0x140f02+_0x230d52(0x23a);this[_0x230d52(0x248)]=_0x302b17[_0x230d52(0x248)],this['multiTab']=_0x302b17[_0x230d52(0x430)],this[_0x230d52(0x29f)]=_0x302b17[_0x230d52(0x29f)],this['headers']=Object[_0x230d52(0x46b)](Object[_0x230d52(0x46b)]({},_0xdc9742),null==_0x1cef52?void 0x0:_0x1cef52[_0x230d52(0x2f6)]),this[_0x230d52(0x49f)]=_0x302b17[_0x230d52(0x49f)]||!0x1,this[_0x230d52(0x2fe)]=this[_0x230d52(0x19c)](_0x302b17),this['realtime']=this[_0x230d52(0x3ca)](Object[_0x230d52(0x46b)]({'headers':this[_0x230d52(0x2f6)]},_0x302b17[_0x230d52(0x3f6)])),this[_0x230d52(0x2cd)](),this[_0x230d52(0x2c1)]();}get['functions'](){var _0x1940bf=_0x4eebfa;return new _0x261a90(this[_0x1940bf(0x198)],{'headers':this['_getAuthHeaders'](),'customFetch':this[_0x1940bf(0x29f)]});}get[_0x4eebfa(0x44c)](){var _0x5cbf63=_0x4eebfa;return new _0x58f067(this['storageUrl'],this[_0x5cbf63(0x34d)](),this[_0x5cbf63(0x29f)]);}[_0x4eebfa(0x30f)](_0x34c5d8){var _0x1e4e1c=_0x4eebfa;const _0x539740=this[_0x1e4e1c(0x4c0)]+'/'+_0x34c5d8;return new _0x302589(_0x539740,{'headers':this[_0x1e4e1c(0x34d)](),'schema':this[_0x1e4e1c(0x248)],'realtime':this[_0x1e4e1c(0x3f6)],'table':_0x34c5d8,'fetch':this[_0x1e4e1c(0x29f)],'shouldThrowOnError':this[_0x1e4e1c(0x49f)]});}[_0x4eebfa(0x354)](_0x8ba3a1,_0x370f7d,{head:_0x7fbe49=!0x1,count:_0x419e2a=null}={}){var _0x2c6307=_0x4eebfa;return this['_initPostgRESTClient']()[_0x2c6307(0x354)](_0x8ba3a1,_0x370f7d,{'head':_0x7fbe49,'count':_0x419e2a});}['removeAllSubscriptions'](){return _0x117715(this,void 0x0,void 0x0,function*(){var _0xed0033=a3_0x4871;const _0x568afe=this[_0xed0033(0x308)]()[_0xed0033(0x2f7)](),_0xe06f29=_0x568afe['map'](_0x263c69=>this[_0xed0033(0x474)](_0x263c69));return(yield Promise[_0xed0033(0x28f)](_0xe06f29))['map'](({error:_0x513f1a},_0x1fa07e)=>({'data':{'subscription':_0x568afe[_0x1fa07e]},'error':_0x513f1a}));});}['removeSubscription'](_0x4ccf7a){return _0x117715(this,void 0x0,void 0x0,function*(){var _0x4e203b=a3_0x4871;const {error:_0x214d4b}=yield this['_closeSubscription'](_0x4ccf7a),_0x3ae5d3=this[_0x4e203b(0x308)](),_0x44df1a=_0x3ae5d3[_0x4e203b(0x511)](_0x254108=>_0x254108[_0x4e203b(0x38f)]())['length'];return 0x0===_0x3ae5d3['length']&&(yield this[_0x4e203b(0x3f6)][_0x4e203b(0x3de)]()),{'data':{'openSubscriptions':_0x44df1a},'error':_0x214d4b};});}[_0x4eebfa(0x455)](_0x544a4f){return _0x117715(this,void 0x0,void 0x0,function*(){var _0x5f1adc=a3_0x4871;let _0x5acd5b=null;if(!_0x544a4f['isClosed']()){const {error:_0x1aa58d}=yield this[_0x5f1adc(0x36f)](_0x544a4f);_0x5acd5b=_0x1aa58d;}return this[_0x5f1adc(0x3f6)][_0x5f1adc(0x504)](_0x544a4f),{'error':_0x5acd5b};});}[_0x4eebfa(0x36f)](_0x441735){return new Promise(_0x3fbc79=>{var _0x1784fe=a3_0x4871;_0x441735['unsubscribe']()[_0x1784fe(0x273)]('ok',()=>_0x3fbc79({'error':null}))[_0x1784fe(0x273)](_0x1784fe(0x428),_0x29f964=>_0x3fbc79({'error':_0x29f964}))[_0x1784fe(0x273)]('timeout',()=>_0x3fbc79({'error':new Error('timed\x20out')}));});}[_0x4eebfa(0x308)](){var _0x3c2302=_0x4eebfa;return this[_0x3c2302(0x3f6)][_0x3c2302(0x1a7)];}[_0x4eebfa(0x19c)]({autoRefreshToken:_0x2ad7c8,persistSession:_0xcc5356,detectSessionInUrl:_0x4907e7,localStorage:_0x363bc6,headers:_0x132c73,fetch:_0xbd935d,cookieOptions:_0x51c157,multiTab:_0x503fc8}){var _0xf31b39=_0x4eebfa;const _0x40109={'Authorization':_0xf31b39(0x2d4)+this[_0xf31b39(0x235)],'apikey':''+this[_0xf31b39(0x235)]};return new _0x5632da({'url':this[_0xf31b39(0x518)],'headers':Object['assign'](Object[_0xf31b39(0x46b)]({},_0x132c73),_0x40109),'autoRefreshToken':_0x2ad7c8,'persistSession':_0xcc5356,'detectSessionInUrl':_0x4907e7,'localStorage':_0x363bc6,'fetch':_0xbd935d,'cookieOptions':_0x51c157,'multiTab':_0x503fc8});}[_0x4eebfa(0x3ca)](_0x27d11e){var _0x4d82e9=_0x4eebfa;return new _0x1bac43(this['realtimeUrl'],Object[_0x4d82e9(0x46b)](Object[_0x4d82e9(0x46b)]({},_0x27d11e),{'params':Object[_0x4d82e9(0x46b)](Object[_0x4d82e9(0x46b)]({},null==_0x27d11e?void 0x0:_0x27d11e[_0x4d82e9(0x32c)]),{'apikey':this[_0x4d82e9(0x235)]})}));}['_initPostgRESTClient'](){var _0x4b49a9=_0x4eebfa;return new _0x43b73c(this['restUrl'],{'headers':this['_getAuthHeaders'](),'schema':this[_0x4b49a9(0x248)],'fetch':this[_0x4b49a9(0x29f)],'throwOnError':this['shouldThrowOnError']});}[_0x4eebfa(0x34d)](){var _0x8d11da=_0x4eebfa,_0x5c93bc,_0x5338bf;const _0x27824b=Object[_0x8d11da(0x46b)]({},this['headers']),_0x440608=null!==(_0x5338bf=null===(_0x5c93bc=this[_0x8d11da(0x2fe)][_0x8d11da(0x51e)]())||void 0x0===_0x5c93bc?void 0x0:_0x5c93bc[_0x8d11da(0x4e1)])&&void 0x0!==_0x5338bf?_0x5338bf:this[_0x8d11da(0x235)];return _0x27824b['apikey']=this[_0x8d11da(0x235)],_0x27824b[_0x8d11da(0x2ba)]=_0x27824b[_0x8d11da(0x2ba)]||_0x8d11da(0x2d4)+_0x440608,_0x27824b;}['_listenForMultiTabEvents'](){var _0x2ff7df=_0x4eebfa;if(!this[_0x2ff7df(0x430)]||'undefined'==typeof window||!(null===window||void 0x0===window?void 0x0:window[_0x2ff7df(0x440)]))return null;try{return null===window||void 0x0===window?void 0x0:window[_0x2ff7df(0x440)](_0x2ff7df(0x44c),_0x44bbdd=>{var _0x5b70eb=_0x2ff7df,_0x404d2b,_0x15af37,_0x1a6829;if('supabase.auth.token'===_0x44bbdd[_0x5b70eb(0x426)]){const _0x392a94=JSON[_0x5b70eb(0x3eb)](String(_0x44bbdd[_0x5b70eb(0x3ec)])),_0x5b616c=null!==(_0x15af37=null===(_0x404d2b=null==_0x392a94?void 0x0:_0x392a94[_0x5b70eb(0x345)])||void 0x0===_0x404d2b?void 0x0:_0x404d2b[_0x5b70eb(0x4e1)])&&void 0x0!==_0x15af37?_0x15af37:void 0x0,_0x2247be=null===(_0x1a6829=this[_0x5b70eb(0x2fe)][_0x5b70eb(0x51e)]())||void 0x0===_0x1a6829?void 0x0:_0x1a6829['access_token'];_0x5b616c?!_0x2247be&&_0x5b616c?this['_handleTokenChanged']('SIGNED_IN',_0x5b616c,_0x5b70eb(0x495)):_0x2247be!==_0x5b616c&&this[_0x5b70eb(0x53d)]('TOKEN_REFRESHED',_0x5b616c,'STORAGE'):this['_handleTokenChanged'](_0x5b70eb(0x3dc),_0x5b616c,_0x5b70eb(0x495));}});}catch(_0x1abaae){return console[_0x2ff7df(0x428)](_0x2ff7df(0x2c1),_0x1abaae),null;}}[_0x4eebfa(0x2cd)](){var _0xa7b389=_0x4eebfa;let {data:_0x2aed17}=this['auth'][_0xa7b389(0x473)]((_0x2b5174,_0x14399e)=>{var _0x12b3b9=_0xa7b389;this[_0x12b3b9(0x53d)](_0x2b5174,null==_0x14399e?void 0x0:_0x14399e['access_token'],_0x12b3b9(0x333));});return _0x2aed17;}['_handleTokenChanged'](_0x2bc26d,_0x147890,_0x264cff){var _0x2916ab=_0x4eebfa;_0x2916ab(0x1d7)!==_0x2bc26d&&_0x2916ab(0x225)!==_0x2bc26d||this[_0x2916ab(0x3bf)]===_0x147890?_0x2916ab(0x3dc)!==_0x2bc26d&&_0x2916ab(0x479)!==_0x2bc26d||(this['realtime'][_0x2916ab(0x499)](this[_0x2916ab(0x235)]),'STORAGE'==_0x264cff&&this[_0x2916ab(0x2fe)][_0x2916ab(0x372)]()):(this['realtime']['setAuth'](_0x147890),_0x2916ab(0x495)==_0x264cff&&this[_0x2916ab(0x2fe)][_0x2916ab(0x499)](_0x147890),this[_0x2916ab(0x3bf)]=_0x147890);}}var _0x2e87fd={'overlayBackgroundColor':'#FFFFFF','overlayOpacity':0x1,'spinnerIcon':'line-circle','spinnerColor':'#000','spinnerSize':'2x','overlayIDName':_0x4eebfa(0x31c),'spinnerIDName':'spinner'};JsLoadingOverlay[_0x4eebfa(0x3ee)](_0x2e87fd),new class{constructor(){var _0x1d17f6=_0x4eebfa;this['config']={'endpoint':_0x1d17f6(0x2a6),'endpointRealtime':'','project':'','jwt':'','locale':''},this[_0x1d17f6(0x2f6)]={'x-sdk-version':_0x1d17f6(0x2a7),'X-Appwrite-Response-Format':'0.15.0'},this[_0x1d17f6(0x3f6)]={'socket':void 0x0,'timeout':void 0x0,'url':'','channels':new Set(),'subscriptions':new Map(),'subscriptionsCounter':0x0,'reconnect':!0x0,'reconnectAttempts':0x0,'lastMessage':void 0x0,'connect':()=>{var _0x4e8497=_0x1d17f6;clearTimeout(this[_0x4e8497(0x3f6)][_0x4e8497(0x3cf)]),this['realtime']['timeout']=null===window||void 0x0===window?void 0x0:window[_0x4e8497(0x303)](()=>{var _0x807cac=_0x4e8497;this[_0x807cac(0x3f6)][_0x807cac(0x534)]();},0x32);},'getTimeout':()=>{var _0x3eaeff=_0x1d17f6;switch(!0x0){case this['realtime'][_0x3eaeff(0x1b7)]<0x5:return 0x3e8;case this['realtime'][_0x3eaeff(0x1b7)]<0xf:return 0x1388;case this[_0x3eaeff(0x3f6)][_0x3eaeff(0x1b7)]<0x64:return 0x2710;default:return 0xea60;}},'createSocket':()=>{var _0x2e916e=_0x1d17f6,_0x174234,_0x4a34e5;if(this[_0x2e916e(0x3f6)]['channels'][_0x2e916e(0x45f)]<0x1)return;const _0x514d56=new URLSearchParams();_0x514d56[_0x2e916e(0x313)](_0x2e916e(0x18d),this[_0x2e916e(0x448)][_0x2e916e(0x18d)]),this[_0x2e916e(0x3f6)]['channels'][_0x2e916e(0x2b0)](_0x1a46e0=>{var _0xef7072=_0x2e916e;_0x514d56[_0xef7072(0x2d1)](_0xef7072(0x1b2),_0x1a46e0);});const _0x97fca6=this[_0x2e916e(0x448)]['endpointRealtime']+_0x2e916e(0x286)+_0x514d56[_0x2e916e(0x3b6)]();(_0x97fca6!==this[_0x2e916e(0x3f6)][_0x2e916e(0x3c6)]||!this['realtime'][_0x2e916e(0x1e4)]||(null===(_0x174234=this['realtime']['socket'])||void 0x0===_0x174234?void 0x0:_0x174234[_0x2e916e(0x256)])>WebSocket[_0x2e916e(0x4a3)])&&(this['realtime'][_0x2e916e(0x1e4)]&&(null===(_0x4a34e5=this[_0x2e916e(0x3f6)][_0x2e916e(0x1e4)])||void 0x0===_0x4a34e5?void 0x0:_0x4a34e5[_0x2e916e(0x256)])<WebSocket[_0x2e916e(0x347)]&&(this[_0x2e916e(0x3f6)][_0x2e916e(0x425)]=!0x1,this[_0x2e916e(0x3f6)]['socket'][_0x2e916e(0x497)]()),this[_0x2e916e(0x3f6)][_0x2e916e(0x3c6)]=_0x97fca6,this['realtime']['socket']=new WebSocket(_0x97fca6),this[_0x2e916e(0x3f6)][_0x2e916e(0x1e4)][_0x2e916e(0x440)](_0x2e916e(0x441),this[_0x2e916e(0x3f6)][_0x2e916e(0x4bc)]),this[_0x2e916e(0x3f6)]['socket'][_0x2e916e(0x440)](_0x2e916e(0x4fd),_0x12c3b7=>{var _0x8bd57=_0x2e916e;this[_0x8bd57(0x3f6)][_0x8bd57(0x1b7)]=0x0;}),this['realtime']['socket'][_0x2e916e(0x440)]('close',_0x59fb49=>{var _0x4688ca=_0x2e916e,_0x467e96,_0x3164d1,_0x35a260;if(!this[_0x4688ca(0x3f6)][_0x4688ca(0x425)]||_0x4688ca(0x428)===(null===(_0x3164d1=null===(_0x467e96=this[_0x4688ca(0x3f6)])||void 0x0===_0x467e96?void 0x0:_0x467e96['lastMessage'])||void 0x0===_0x3164d1?void 0x0:_0x3164d1[_0x4688ca(0x21e)])&&0x3f0===(null===(_0x35a260=this[_0x4688ca(0x3f6)])||void 0x0===_0x35a260?void 0x0:_0x35a260[_0x4688ca(0x27c)][_0x4688ca(0x326)])[_0x4688ca(0x42d)])return void(this[_0x4688ca(0x3f6)][_0x4688ca(0x425)]=!0x0);const _0x475c96=this[_0x4688ca(0x3f6)][_0x4688ca(0x22b)]();console['error']('Realtime\x20got\x20disconnected.\x20Reconnect\x20will\x20be\x20attempted\x20in\x20'+_0x475c96/0x3e8+_0x4688ca(0x4ac),_0x59fb49[_0x4688ca(0x36e)]),setTimeout(()=>{var _0x124d13=_0x4688ca;this['realtime'][_0x124d13(0x1b7)]++,this[_0x124d13(0x3f6)]['createSocket']();},_0x475c96);}));},'onMessage':_0xb91daf=>{var _0x1aefd4=_0x1d17f6,_0x4f82c5,_0x177849;try{const _0xa92e6d=JSON[_0x1aefd4(0x3eb)](_0xb91daf['data']);switch(this[_0x1aefd4(0x3f6)][_0x1aefd4(0x27c)]=_0xa92e6d,_0xa92e6d['type']){case _0x1aefd4(0x515):const _0x141951=JSON['parse'](null!==(_0x4f82c5=window[_0x1aefd4(0x4bb)][_0x1aefd4(0x2da)]('cookieFallback'))&&void 0x0!==_0x4f82c5?_0x4f82c5:'{}'),_0x46b17b=null==_0x141951?void 0x0:_0x141951[_0x1aefd4(0x191)+this[_0x1aefd4(0x448)]['project']],_0x2b8d90=_0xa92e6d[_0x1aefd4(0x326)];_0x46b17b&&!_0x2b8d90[_0x1aefd4(0x1da)]&&(null===(_0x177849=this[_0x1aefd4(0x3f6)]['socket'])||void 0x0===_0x177849||_0x177849[_0x1aefd4(0x4f9)](JSON[_0x1aefd4(0x402)]({'type':_0x1aefd4(0x37c),'data':{'session':_0x46b17b}})));break;case'event':let _0x327f6c=_0xa92e6d[_0x1aefd4(0x326)];if(null==_0x327f6c?void 0x0:_0x327f6c[_0x1aefd4(0x1a7)]){if(!_0x327f6c[_0x1aefd4(0x1a7)][_0x1aefd4(0x2b1)](_0xd563d7=>this[_0x1aefd4(0x3f6)]['channels'][_0x1aefd4(0x24f)](_0xd563d7)))return;this['realtime'][_0x1aefd4(0x314)][_0x1aefd4(0x2b0)](_0x12df79=>{var _0x4c7c47=_0x1aefd4;_0x327f6c[_0x4c7c47(0x1a7)][_0x4c7c47(0x2b1)](_0x3d0185=>_0x12df79[_0x4c7c47(0x1a7)][_0x4c7c47(0x1c8)](_0x3d0185))&&setTimeout(()=>_0x12df79['callback'](_0x327f6c));});}break;case _0x1aefd4(0x428):throw _0xa92e6d['data'];}}catch(_0x4b2436){console[_0x1aefd4(0x428)](_0x4b2436);}},'cleanUp':_0x323c8a=>{var _0x33ecff=_0x1d17f6;this['realtime'][_0x33ecff(0x1a7)]['forEach'](_0x3f7dbc=>{var _0x28f7f8=_0x33ecff;_0x323c8a[_0x28f7f8(0x1c8)](_0x3f7dbc)&&(Array[_0x28f7f8(0x30f)](this[_0x28f7f8(0x3f6)][_0x28f7f8(0x314)])[_0x28f7f8(0x2b1)](([_0x289f19,_0x1c6450])=>_0x1c6450[_0x28f7f8(0x1a7)][_0x28f7f8(0x1c8)](_0x3f7dbc))||this[_0x28f7f8(0x3f6)][_0x28f7f8(0x1a7)][_0x28f7f8(0x1e1)](_0x3f7dbc));});}};}[_0x4eebfa(0x377)](_0x4919b8){var _0x3efd92=_0x4eebfa;return this[_0x3efd92(0x448)]['endpoint']=_0x4919b8,this[_0x3efd92(0x448)][_0x3efd92(0x254)]=this[_0x3efd92(0x448)][_0x3efd92(0x254)]||this[_0x3efd92(0x448)][_0x3efd92(0x4e3)][_0x3efd92(0x390)](_0x3efd92(0x319),_0x3efd92(0x4b6))[_0x3efd92(0x390)](_0x3efd92(0x415),_0x3efd92(0x2fd)),this;}[_0x4eebfa(0x530)](_0x344c2a){var _0x2419d7=_0x4eebfa;return this[_0x2419d7(0x448)][_0x2419d7(0x254)]=_0x344c2a,this;}[_0x4eebfa(0x3ed)](_0x3d9e19){var _0x222788=_0x4eebfa;return this['headers'][_0x222788(0x30e)]=_0x3d9e19,this[_0x222788(0x448)][_0x222788(0x18d)]=_0x3d9e19,this;}[_0x4eebfa(0x481)](_0x45baf8){var _0x5af273=_0x4eebfa;return this[_0x5af273(0x2f6)][_0x5af273(0x283)]=_0x45baf8,this[_0x5af273(0x448)]['jwt']=_0x45baf8,this;}[_0x4eebfa(0x2c5)](_0x15b575){var _0x36fd9f=_0x4eebfa;return this['headers']['X-Appwrite-Locale']=_0x15b575,this[_0x36fd9f(0x448)][_0x36fd9f(0x4af)]=_0x15b575,this;}[_0x4eebfa(0x40a)](_0x300aa6,_0x4ac533){var _0x536ab7=_0x4eebfa;let _0x186925=_0x536ab7(0x383)==typeof _0x300aa6?[_0x300aa6]:_0x300aa6;_0x186925[_0x536ab7(0x2b0)](_0x419bf3=>this[_0x536ab7(0x3f6)][_0x536ab7(0x1a7)][_0x536ab7(0x24c)](_0x419bf3));const _0xdc8a46=this[_0x536ab7(0x3f6)][_0x536ab7(0x3a7)]++;return this[_0x536ab7(0x3f6)][_0x536ab7(0x314)][_0x536ab7(0x313)](_0xdc8a46,{'channels':_0x186925,'callback':_0x4ac533}),this[_0x536ab7(0x3f6)][_0x536ab7(0x3b1)](),()=>{var _0x337465=_0x536ab7;this[_0x337465(0x3f6)][_0x337465(0x314)][_0x337465(0x1e1)](_0xdc8a46),this[_0x337465(0x3f6)]['cleanUp'](_0x186925),this[_0x337465(0x3f6)][_0x337465(0x3b1)]();};}['call'](_0x59f730,_0x2d93bf,_0xdd3820={},_0x14ab0d={}){var _0x9d4379,_0x59f412,_0x1133c3,_0xce33da,_0x797a14,_0x5d15d3;return _0x1133c3=this,_0xce33da=void 0x0,_0x5d15d3=function*(){var _0x5bb111=a3_0x4871;_0x59f730=_0x59f730[_0x5bb111(0x27e)](),_0xdd3820=Object[_0x5bb111(0x46b)]({},this[_0x5bb111(0x2f6)],_0xdd3820);let _0x1e30e5={'method':_0x59f730,'headers':_0xdd3820,'credentials':'include'};if(_0x5bb111(0x229)!=typeof window&&window[_0x5bb111(0x4bb)]&&(_0xdd3820['X-Fallback-Cookies']=null!==(_0x9d4379=window[_0x5bb111(0x4bb)][_0x5bb111(0x2da)](_0x5bb111(0x31f)))&&void 0x0!==_0x9d4379?_0x9d4379:''),_0x5bb111(0x1ed)===_0x59f730){for(const [_0x283ebc,_0x56b696]of Object[_0x5bb111(0x41c)](_0x50dae0[_0x5bb111(0x220)](_0x14ab0d)))_0x2d93bf[_0x5bb111(0x34b)]['append'](_0x283ebc,_0x56b696);}else switch(_0xdd3820[_0x5bb111(0x257)]){case _0x5bb111(0x32e):_0x1e30e5[_0x5bb111(0x3fa)]=JSON['stringify'](_0x14ab0d);break;case'multipart/form-data':let _0x2294ce=new FormData();for(const _0x1560da in _0x14ab0d)Array[_0x5bb111(0x1de)](_0x14ab0d[_0x1560da])?_0x14ab0d[_0x1560da][_0x5bb111(0x2b0)](_0x322097=>{var _0x2bb54c=_0x5bb111;_0x2294ce[_0x2bb54c(0x2d1)](_0x1560da+'[]',_0x322097);}):_0x2294ce[_0x5bb111(0x2d1)](_0x1560da,_0x14ab0d[_0x1560da]);_0x1e30e5[_0x5bb111(0x3fa)]=_0x2294ce,delete _0xdd3820[_0x5bb111(0x257)];}try{let _0x25a9b5=null;const _0x430a62=yield(0x0,_0x11f0f7['fetch'])(_0x2d93bf['toString'](),_0x1e30e5);if(_0x25a9b5=(null===(_0x59f412=_0x430a62[_0x5bb111(0x2f6)][_0x5bb111(0x1c5)](_0x5bb111(0x257)))||void 0x0===_0x59f412?void 0x0:_0x59f412[_0x5bb111(0x1c8)](_0x5bb111(0x32e)))?yield _0x430a62[_0x5bb111(0x263)]():{'message':yield _0x430a62[_0x5bb111(0x288)]()},0x190<=_0x430a62[_0x5bb111(0x42a)])throw new _0x32f3c4(null==_0x25a9b5?void 0x0:_0x25a9b5[_0x5bb111(0x441)],_0x430a62['status'],null==_0x25a9b5?void 0x0:_0x25a9b5['type'],_0x25a9b5);const _0x4a1f0f=_0x430a62['headers'][_0x5bb111(0x1c5)](_0x5bb111(0x23d));return _0x5bb111(0x229)!=typeof window&&window['localStorage']&&_0x4a1f0f&&(window[_0x5bb111(0x491)][_0x5bb111(0x53a)]('Appwrite\x20is\x20using\x20localStorage\x20for\x20session\x20management.\x20Increase\x20your\x20security\x20by\x20adding\x20a\x20custom\x20domain\x20as\x20your\x20API\x20endpoint.'),window['localStorage'][_0x5bb111(0x1ea)](_0x5bb111(0x31f),_0x4a1f0f)),_0x25a9b5;}catch(_0x428da1){if(_0x428da1 instanceof _0x32f3c4)throw _0x428da1;throw new _0x32f3c4(_0x428da1[_0x5bb111(0x441)]);}},new((_0x797a14=void 0x0)||(_0x797a14=Promise))(function(_0x43b4cb,_0x286f15){var _0x50ebda=a3_0x4871;function _0x4f8350(_0x5cf27c){var _0x176415=a3_0x4871;try{_0x58b015(_0x5d15d3[_0x176415(0x1ef)](_0x5cf27c));}catch(_0x93b5f6){_0x286f15(_0x93b5f6);}}function _0xa1b1c3(_0x335d30){var _0xf9e5a7=a3_0x4871;try{_0x58b015(_0x5d15d3[_0xf9e5a7(0x3c1)](_0x335d30));}catch(_0x51bde8){_0x286f15(_0x51bde8);}}function _0x58b015(_0x1fe020){var _0x5f4f4a=a3_0x4871,_0x17b9f8;_0x1fe020[_0x5f4f4a(0x2c9)]?_0x43b4cb(_0x1fe020['value']):(_0x17b9f8=_0x1fe020[_0x5f4f4a(0x4d0)],_0x17b9f8 instanceof _0x797a14?_0x17b9f8:new _0x797a14(function(_0x2f2648){_0x2f2648(_0x17b9f8);}))[_0x5f4f4a(0x2a2)](_0x4f8350,_0xa1b1c3);}_0x58b015((_0x5d15d3=_0x5d15d3['apply'](_0x1133c3,_0xce33da||[]))[_0x50ebda(0x1ef)]());});}}(),window[_0x4eebfa(0x43d)]=JsLoadingOverlay[_0x4eebfa(0x2ec)]();const _0x6f1e42=new _0x4650c7('https://rsfcqodmucagrxohmkgx.supabase.co',_0x4eebfa(0x3e4),void 0x0);_0x6f1e42[_0x4eebfa(0x2fe)][_0x4eebfa(0x1da)]()?(document[_0x4eebfa(0x312)](_0x4eebfa(0x258))[_0x4eebfa(0x293)][_0x4eebfa(0x504)](_0x4eebfa(0x3a4)),document[_0x4eebfa(0x312)](_0x4eebfa(0x307))['classList'][_0x4eebfa(0x24c)]('hidden')):(document[_0x4eebfa(0x312)](_0x4eebfa(0x258))[_0x4eebfa(0x293)]['add'](_0x4eebfa(0x3a4)),document['getElementById'](_0x4eebfa(0x307))[_0x4eebfa(0x293)][_0x4eebfa(0x504)](_0x4eebfa(0x3a4)),document[_0x4eebfa(0x312)]('lex')[_0x4eebfa(0x2a3)]='Not\x20Logged\x20In');var _0x226c97=[],_0x4c6ae5=decodeURIComponent(window['location'][_0x4eebfa(0x3e9)]),_0x53046e=(_0x4c6ae5=_0x4c6ae5['substring'](0x1))['split']('&'),_0x4c8d72=_0x53046e[0x0][_0x4eebfa(0x2f7)](_0x53046e[0x0][_0x4eebfa(0x209)]('=')+0x1),_0xa61d3c=_0x53046e[0x1][_0x4eebfa(0x2f7)](_0x53046e[0x1][_0x4eebfa(0x209)]('=')+0x1);function _0x422252(_0x42369a){var _0x41e083=_0x4eebfa;return _0x42369a['toLowerCase']()[_0x41e083(0x322)]('\x20')[_0x41e083(0x391)](function(_0x2b247d){var _0x757a3c=_0x41e083;return _0x2b247d[0x0][_0x757a3c(0x27e)]()+_0x2b247d[_0x757a3c(0x20f)](0x1);})[_0x41e083(0x514)]('\x20');}function _0x228f38(_0x512cef){var _0x56cf6f=_0x4eebfa,_0x1f447c=_0x422252(_0x512cef[_0x56cf6f(0x520)]('_','\x20')),_0x1a5b9e='<div\x20class=\x22col-span-6\x20sm:col-span-3\x20w-auto\x20py-2\x20\x22>\x0a\x20\x20<label\x20for=\x22'+_0x512cef+'\x22\x20class=\x22block\x20text-sm\x20font-medium\x20text-gray-700\x20pt-4\x20mb-1\x22>'+_0x1f447c+_0x56cf6f(0x459)+_0x512cef+_0x56cf6f(0x397);document['getElementById'](_0x56cf6f(0x449))[_0x56cf6f(0x32b)](_0x56cf6f(0x34a),_0x1a5b9e),_0x226c97[_0x56cf6f(0x36a)](_0x512cef);}function _0x2e1417(_0x174a7e){var _0x349747=_0x4eebfa,_0x216fbb=_0x422252(_0x174a7e['replaceAll']('_','\x20')),_0x409051='<div\x20class=\x22col-span-6\x20sm:col-span-3\x20w-auto\x20py-2\x20\x22>\x0a\x20\x20<label\x20for=\x22'+_0x174a7e+'\x22\x20class=\x22block\x20text-sm\x20font-medium\x20text-gray-700\x20pt-4\x20mb-1\x22>'+_0x216fbb+_0x349747(0x1b8)+_0x174a7e+'\x22\x20id='+_0x174a7e+_0x349747(0x1d8);document[_0x349747(0x312)]('elelist')[_0x349747(0x32b)](_0x349747(0x34a),_0x409051),_0x226c97['push'](_0x174a7e);}function _0x38a52d(_0x45853a){var _0x1e8446=_0x4eebfa,_0x5bcd9a=_0x422252(_0x45853a[_0x1e8446(0x520)]('_','\x20')),_0x1ec9f0='<div\x20class=\x22col-span-6\x20sm:col-span-3\x20w-auto\x20py-2\x20\x22>\x0a\x20\x20<label\x20for=\x22'+_0x45853a+'\x22\x20class=\x22block\x20text-sm\x20font-medium\x20text-gray-700\x20pt-4\x20mb-1\x22>'+_0x5bcd9a+_0x1e8446(0x1b8)+_0x45853a+_0x1e8446(0x521)+_0x45853a+_0x1e8446(0x4a7);document[_0x1e8446(0x312)](_0x1e8446(0x449))[_0x1e8446(0x32b)]('afterbegin',_0x1ec9f0),_0x226c97[_0x1e8446(0x36a)](_0x45853a);}function _0x41e7d9(_0x199a49){var _0xccc865=_0x4eebfa,_0x2edb94=_0x422252(_0x199a49[_0xccc865(0x520)]('_','\x20')),_0x3d6bba=_0xccc865(0x3e0)+_0x199a49+_0xccc865(0x396)+_0x2edb94+_0xccc865(0x1b8)+_0x199a49+'\x22\x20id='+_0x199a49+_0xccc865(0x2ed);document[_0xccc865(0x312)]('elelist')[_0xccc865(0x32b)]('afterbegin',_0x3d6bba),_0x226c97[_0xccc865(0x36a)](_0x199a49);}function _0x8382c1(_0x958730){var _0x47ff78=_0x4eebfa,_0x1aea81=_0x422252(_0x958730[_0x47ff78(0x520)]('_','\x20')),_0x3429d0=_0x47ff78(0x3e0)+_0x958730+'\x22\x20class=\x22block\x20text-sm\x20font-medium\x20text-gray-700\x20pt-4\x20mb-1\x22>'+_0x1aea81+_0x47ff78(0x1b8)+_0x958730+_0x47ff78(0x521)+_0x958730+_0x47ff78(0x4a7);document[_0x47ff78(0x312)](_0x47ff78(0x449))['insertAdjacentHTML'](_0x47ff78(0x34a),_0x3429d0),_0x226c97[_0x47ff78(0x36a)](_0x958730);}async function _0x197ea3(){var _0x5556f4=_0x4eebfa,_0x104063=[];let {data:_0x3638c1,error:_0x28222d}=await _0x6f1e42['rpc']('xdesc',{'t':_0xa61d3c});JsLoadingOverlay[_0x5556f4(0x2ec)](),_0x28222d&&console['log'](_0x28222d);for(let _0x3225e1 in _0x3638c1)_0x104063[_0x5556f4(0x36a)](_0x3638c1[_0x3225e1]['column_name']);return _0x104063[_0x5556f4(0x334)](),_0x104063[_0x5556f4(0x42e)](),_0x104063;}!(async function(){var _0x3a1260=_0x4eebfa;JsLoadingOverlay['show'](_0x2e87fd);const {data:_0x26a5db,error:_0x44219d}=await _0x6f1e42[_0x3a1260(0x30f)](_0x3a1260(0x1a8))['select']();if(JsLoadingOverlay[_0x3a1260(0x2ec)](),void 0x0!==_0x26a5db[_0x4c8d72-0x1]&&_0x26a5db[_0x4c8d72-0x1][_0x3a1260(0x344)]('title'))document[_0x3a1260(0x312)](_0x3a1260(0x3fe))[_0x3a1260(0x2a3)]=_0x26a5db[_0x4c8d72-0x1][_0x3a1260(0x3fe)],document[_0x3a1260(0x312)]('description')[_0x3a1260(0x2a3)]=_0x26a5db[_0x4c8d72-0x1]['description'];else{document['getElementById']('formie')[_0x3a1260(0x293)][_0x3a1260(0x24c)](_0x3a1260(0x3a4)),document[_0x3a1260(0x312)](_0x3a1260(0x307))[_0x3a1260(0x293)][_0x3a1260(0x24c)](_0x3a1260(0x3a4));var _0x556a73=new(_0x49e655())(_0x3a1260(0x231),null,_0x49e655()[_0x3a1260(0x242)][_0x3a1260(0x522)]);_0x556a73[_0x3a1260(0x28b)](_0x3a1260(0x461))['then'](function(){var _0x4f50b7=_0x3a1260;window[_0x4f50b7(0x323)][_0x4f50b7(0x3a5)]='forms.html';}),_0x556a73['show']();}}()),(async function(){var _0x2e0e8b=_0x4eebfa;JsLoadingOverlay['show'](_0x2e87fd);const {data:_0x5af2be,error:_0x19e126}=await _0x6f1e42[_0x2e0e8b(0x30f)](_0xa61d3c)['select']();for(let _0x59eb4f in _0x5af2be)_0x5af2be[_0x59eb4f]['uid']==window['localStorage'][_0x2e0e8b(0x2da)](_0x2e0e8b(0x406))&&(document['getElementById'](_0x2e0e8b(0x258))[_0x2e0e8b(0x293)][_0x2e0e8b(0x24c)](_0x2e0e8b(0x3a4)),document['getElementById'](_0x2e0e8b(0x307))[_0x2e0e8b(0x293)][_0x2e0e8b(0x504)](_0x2e0e8b(0x3a4)),document[_0x2e0e8b(0x312)]('lex')[_0x2e0e8b(0x2a3)]=_0x2e0e8b(0x18f));var _0x20794b=await _0x197ea3();for(let _0x5d9c1b in _0x20794b){let _0x3e70cf=_0x20794b[_0x5d9c1b];switch(_0x3e70cf){case _0x2e0e8b(0x1b4):_0x2e1417(_0x3e70cf);break;case _0x2e0e8b(0x29a):_0x8382c1(_0x3e70cf);break;case _0x2e0e8b(0x389):_0x38a52d(_0x3e70cf);break;case _0x2e0e8b(0x52a):_0x41e7d9(_0x3e70cf);break;default:_0x228f38(_0x3e70cf);}}document['getElementById']('submit')['addEventListener'](_0x2e0e8b(0x2f2),_0x3f430f=>(_0x3f430f[_0x2e0e8b(0x4c9)](),(async function(){var _0x27023c=_0x2e0e8b;const {data:_0xc841bf,error:_0x540c34}=await _0x6f1e42[_0x27023c(0x30f)](_0xa61d3c)[_0x27023c(0x376)]();var _0x35e8e5,_0x29676a={'uid':window[_0x27023c(0x4bb)]['getItem'](_0x27023c(0x406))},_0x4a4be1=await _0x197ea3();_0x4a4be1[_0x27023c(0x334)](),_0x4a4be1[_0x27023c(0x42e)]();for(let _0x37ab9f in _0x4a4be1){if(''==document['getElementById'](_0x4a4be1[_0x37ab9f])['value']){_0x49e655()[_0x27023c(0x2e5)]('All\x20Fields\x20are\x20required',null,_0x49e655()[_0x27023c(0x242)][_0x27023c(0x522)]),_0x35e8e5=0x1;break;}_0x29676a[_0x4a4be1[_0x37ab9f]]=document[_0x27023c(0x312)](_0x4a4be1[_0x37ab9f])[_0x27023c(0x4d0)],_0x35e8e5=0x0;}0x0==_0x35e8e5&&(JsLoadingOverlay[_0x27023c(0x3ee)](_0x2e87fd),_0x6f1e42[_0x27023c(0x30f)](_0xa61d3c)[_0x27023c(0x2fc)](_0x29676a)[_0x27023c(0x2a2)](_0x158309=>{var _0xb75495=_0x27023c;JsLoadingOverlay[_0xb75495(0x2ec)](),document[_0xb75495(0x312)](_0xb75495(0x258))[_0xb75495(0x293)][_0xb75495(0x24c)](_0xb75495(0x3a4)),document[_0xb75495(0x312)]('notlogged')[_0xb75495(0x293)][_0xb75495(0x504)]('hidden'),document[_0xb75495(0x312)](_0xb75495(0x1ab))[_0xb75495(0x2a3)]=_0xb75495(0x36b);var _0x5172a0=new(_0x49e655())(_0xb75495(0x185),null,_0x49e655()[_0xb75495(0x242)][_0xb75495(0x2f0)]);_0x5172a0[_0xb75495(0x28b)](_0xb75495(0x461))['then'](function(){var _0x7b59d3=_0xb75495;window[_0x7b59d3(0x323)]['href']='forms.html';}),_0x5172a0[_0xb75495(0x3ee)]();})[_0x27023c(0x2ff)](_0xcffa6d=>{var _0x4b3f3e=_0x27023c;_0x49e655()['alert'](_0xcffa6d,null,_0x49e655()['Icons'][_0x4b3f3e(0x522)]);}));}()),!0x1));}()),window[_0x4eebfa(0x454)]=function(){console['log']('date\x20added');},window[_0x4eebfa(0x3f7)]=_0x228f38;})());})()));
+/******/ (() => { // webpackBootstrap
+/******/ 	var __webpack_modules__ = ({
+
+/***/ "./node_modules/@supabase/functions-js/dist/module/helper.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@supabase/functions-js/dist/module/helper.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "resolveFetch": () => (/* binding */ resolveFetch)
+/* harmony export */ });
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+const resolveFetch = (customFetch) => {
+    let _fetch;
+    if (customFetch) {
+        _fetch = customFetch;
+    }
+    else if (typeof fetch === 'undefined') {
+        _fetch = (...args) => __awaiter(void 0, void 0, void 0, function* () { return yield (yield __webpack_require__.e(/*! import() */ "vendors-node_modules_cross-fetch_dist_browser-ponyfill_js").then(__webpack_require__.t.bind(__webpack_require__, /*! cross-fetch */ "./node_modules/cross-fetch/dist/browser-ponyfill.js", 23))).fetch(...args); });
+    }
+    else {
+        _fetch = fetch;
+    }
+    return (...args) => _fetch(...args);
+};
+//# sourceMappingURL=helper.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/functions-js/dist/module/index.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/@supabase/functions-js/dist/module/index.js ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "FunctionsClient": () => (/* binding */ FunctionsClient)
+/* harmony export */ });
+/* harmony import */ var _helper__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helper */ "./node_modules/@supabase/functions-js/dist/module/helper.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+class FunctionsClient {
+    constructor(url, { headers = {}, customFetch, } = {}) {
+        this.url = url;
+        this.headers = headers;
+        this.fetch = (0,_helper__WEBPACK_IMPORTED_MODULE_0__.resolveFetch)(customFetch);
+    }
+    /**
+     * Updates the authorization header
+     * @params token - the new jwt token sent in the authorisation header
+     */
+    setAuth(token) {
+        this.headers.Authorization = `Bearer ${token}`;
+    }
+    /**
+     * Invokes a function
+     * @param functionName - the name of the function to invoke
+     * @param invokeOptions - object with the following properties
+     * `headers`: object representing the headers to send with the request
+     * `body`: the body of the request
+     * `responseType`: how the response should be parsed. The default is `json`
+     */
+    invoke(functionName, invokeOptions) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const { headers, body } = invokeOptions !== null && invokeOptions !== void 0 ? invokeOptions : {};
+                const response = yield this.fetch(`${this.url}/${functionName}`, {
+                    method: 'POST',
+                    headers: Object.assign({}, this.headers, headers),
+                    body,
+                });
+                const isRelayError = response.headers.get('x-relay-error');
+                if (isRelayError && isRelayError === 'true') {
+                    return { data: null, error: new Error(yield response.text()) };
+                }
+                let data;
+                const { responseType } = invokeOptions !== null && invokeOptions !== void 0 ? invokeOptions : {};
+                if (!responseType || responseType === 'json') {
+                    data = yield response.json();
+                }
+                else if (responseType === 'arrayBuffer') {
+                    data = yield response.arrayBuffer();
+                }
+                else if (responseType === 'blob') {
+                    data = yield response.blob();
+                }
+                else {
+                    data = yield response.text();
+                }
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+}
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/GoTrueApi.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/GoTrueApi.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ GoTrueApi)
+/* harmony export */ });
+/* harmony import */ var _lib_fetch__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lib/fetch */ "./node_modules/@supabase/gotrue-js/dist/module/lib/fetch.js");
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/gotrue-js/dist/module/lib/constants.js");
+/* harmony import */ var _lib_cookies__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/cookies */ "./node_modules/@supabase/gotrue-js/dist/module/lib/cookies.js");
+/* harmony import */ var _lib_helpers__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./lib/helpers */ "./node_modules/@supabase/gotrue-js/dist/module/lib/helpers.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+
+
+class GoTrueApi {
+    constructor({ url = '', headers = {}, cookieOptions, fetch, }) {
+        this.url = url;
+        this.headers = headers;
+        this.cookieOptions = Object.assign(Object.assign({}, _lib_constants__WEBPACK_IMPORTED_MODULE_1__.COOKIE_OPTIONS), cookieOptions);
+        this.fetch = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.resolveFetch)(fetch);
+    }
+    /**
+     * Create a temporary object with all configured headers and
+     * adds the Authorization token to be used on request methods
+     * @param jwt A valid, logged-in JWT.
+     */
+    _createRequestHeaders(jwt) {
+        const headers = Object.assign({}, this.headers);
+        headers['Authorization'] = `Bearer ${jwt}`;
+        return headers;
+    }
+    cookieName() {
+        var _a;
+        return (_a = this.cookieOptions.name) !== null && _a !== void 0 ? _a : '';
+    }
+    /**
+     * Generates the relevant login URL for a third-party provider.
+     * @param provider One of the providers supported by GoTrue.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param scopes A space-separated list of scopes granted to the OAuth application.
+     */
+    getUrlForProvider(provider, options) {
+        const urlParams = [`provider=${encodeURIComponent(provider)}`];
+        if (options === null || options === void 0 ? void 0 : options.redirectTo) {
+            urlParams.push(`redirect_to=${encodeURIComponent(options.redirectTo)}`);
+        }
+        if (options === null || options === void 0 ? void 0 : options.scopes) {
+            urlParams.push(`scopes=${encodeURIComponent(options.scopes)}`);
+        }
+        if (options === null || options === void 0 ? void 0 : options.queryParams) {
+            const query = new URLSearchParams(options.queryParams);
+            urlParams.push(`${query}`);
+        }
+        return `${this.url}/authorize?${urlParams.join('&')}`;
+    }
+    /**
+     * Creates a new user using their email address.
+     * @param email The email address of the user.
+     * @param password The password of the user.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param data Optional user metadata.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     *
+     * @returns A logged-in session if the server has "autoconfirm" ON
+     * @returns A user if the server has "autoconfirm" OFF
+     */
+    signUpWithEmail(email, password, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                let queryString = '';
+                if (options.redirectTo) {
+                    queryString = '?redirect_to=' + encodeURIComponent(options.redirectTo);
+                }
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/signup${queryString}`, {
+                    email,
+                    password,
+                    data: options.data,
+                    gotrue_meta_security: { captcha_token: options.captchaToken },
+                }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Logs in an existing user using their email address.
+     * @param email The email address of the user.
+     * @param password The password of the user.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    signInWithEmail(email, password, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                let queryString = '?grant_type=password';
+                if (options.redirectTo) {
+                    queryString += '&redirect_to=' + encodeURIComponent(options.redirectTo);
+                }
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/token${queryString}`, { email, password, gotrue_meta_security: { captcha_token: options.captchaToken } }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Signs up a new user using their phone number and a password.
+     * @param phone The phone number of the user.
+     * @param password The password of the user.
+     * @param data Optional user metadata.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    signUpWithPhone(phone, password, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/signup`, {
+                    phone,
+                    password,
+                    data: options.data,
+                    gotrue_meta_security: { captcha_token: options.captchaToken },
+                }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Logs in an existing user using their phone number and password.
+     * @param phone The phone number of the user.
+     * @param password The password of the user.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    signInWithPhone(phone, password, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                const queryString = '?grant_type=password';
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/token${queryString}`, { phone, password, gotrue_meta_security: { captcha_token: options.captchaToken } }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Logs in an OpenID Connect user using their id_token.
+     * @param id_token The IDToken of the user.
+     * @param nonce The nonce of the user. The nonce is a random value generated by the developer (= yourself) before the initial grant is started. You should check the OpenID Connect specification for details. https://openid.net/developers/specs/
+     * @param provider The provider of the user.
+     * @param client_id The clientID of the user.
+     * @param issuer The issuer of the user.
+     */
+    signInWithOpenIDConnect({ id_token, nonce, client_id, issuer, provider, }) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                const queryString = '?grant_type=id_token';
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/token${queryString}`, { id_token, nonce, client_id, issuer, provider }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Sends a magic login link to an email address.
+     * @param email The email address of the user.
+     * @param shouldCreateUser A boolean flag to indicate whether to automatically create a user on magiclink / otp sign-ins if the user doesn't exist. Defaults to true.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    sendMagicLinkEmail(email, options = {}) {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                let queryString = '';
+                if (options.redirectTo) {
+                    queryString += '?redirect_to=' + encodeURIComponent(options.redirectTo);
+                }
+                const shouldCreateUser = (_a = options.shouldCreateUser) !== null && _a !== void 0 ? _a : true;
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/otp${queryString}`, {
+                    email,
+                    create_user: shouldCreateUser,
+                    gotrue_meta_security: { captcha_token: options.captchaToken },
+                }, { headers });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Sends a mobile OTP via SMS. Will register the account if it doesn't already exist
+     * @param phone The user's phone number WITH international prefix
+     * @param shouldCreateUser A boolean flag to indicate whether to automatically create a user on magiclink / otp sign-ins if the user doesn't exist. Defaults to true.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    sendMobileOTP(phone, options = {}) {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const shouldCreateUser = (_a = options.shouldCreateUser) !== null && _a !== void 0 ? _a : true;
+                const headers = Object.assign({}, this.headers);
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/otp`, {
+                    phone,
+                    create_user: shouldCreateUser,
+                    gotrue_meta_security: { captcha_token: options.captchaToken },
+                }, { headers });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Removes a logged-in session.
+     * @param jwt A valid, logged-in JWT.
+     */
+    signOut(jwt) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/logout`, {}, { headers: this._createRequestHeaders(jwt), noResolveJson: true });
+                return { error: null };
+            }
+            catch (e) {
+                return { error: e };
+            }
+        });
+    }
+    /**
+     * @deprecated Use `verifyOTP` instead!
+     * @param phone The user's phone number WITH international prefix
+     * @param token token that user was sent to their mobile phone
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     */
+    verifyMobileOTP(phone, token, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/verify`, { phone, token, type: 'sms', redirect_to: options.redirectTo }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Send User supplied Email / Mobile OTP to be verified
+     * @param email The user's email address
+     * @param phone The user's phone number WITH international prefix
+     * @param token token that user was sent to their mobile phone
+     * @param type verification type that the otp is generated for
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     */
+    verifyOTP({ email, phone, token, type = 'sms' }, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/verify`, { email, phone, token, type, redirect_to: options.redirectTo }, { headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Sends an invite link to an email address.
+     * @param email The email address of the user.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param data Optional user metadata
+     */
+    inviteUserByEmail(email, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                let queryString = '';
+                if (options.redirectTo) {
+                    queryString += '?redirect_to=' + encodeURIComponent(options.redirectTo);
+                }
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/invite${queryString}`, { email, data: options.data }, { headers });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Sends a reset request to an email address.
+     * @param email The email address of the user.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     * @param captchaToken Verification token received when the user completes the captcha on your site.
+     */
+    resetPasswordForEmail(email, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const headers = Object.assign({}, this.headers);
+                let queryString = '';
+                if (options.redirectTo) {
+                    queryString += '?redirect_to=' + encodeURIComponent(options.redirectTo);
+                }
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/recover${queryString}`, { email, gotrue_meta_security: { captcha_token: options.captchaToken } }, { headers });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Generates a new JWT.
+     * @param refreshToken A valid refresh token that was returned on login.
+     */
+    refreshAccessToken(refreshToken) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/token?grant_type=refresh_token`, { refresh_token: refreshToken }, { headers: this.headers });
+                const session = Object.assign({}, data);
+                if (session.expires_in)
+                    session.expires_at = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.expiresAt)(data.expires_in);
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Set/delete the auth cookie based on the AuthChangeEvent.
+     * Works for Next.js & Express (requires cookie-parser middleware).
+     * @param req The request object.
+     * @param res The response object.
+     */
+    setAuthCookie(req, res) {
+        if (req.method !== 'POST') {
+            res.setHeader('Allow', 'POST');
+            res.status(405).end('Method Not Allowed');
+        }
+        const { event, session } = req.body;
+        if (!event)
+            throw new Error('Auth event missing!');
+        if (event === 'SIGNED_IN') {
+            if (!session)
+                throw new Error('Auth session missing!');
+            (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.setCookies)(req, res, [
+                { key: 'access-token', value: session.access_token },
+                { key: 'refresh-token', value: session.refresh_token },
+            ].map((token) => {
+                var _a;
+                return ({
+                    name: `${this.cookieName()}-${token.key}`,
+                    value: token.value,
+                    domain: this.cookieOptions.domain,
+                    maxAge: (_a = this.cookieOptions.lifetime) !== null && _a !== void 0 ? _a : 0,
+                    path: this.cookieOptions.path,
+                    sameSite: this.cookieOptions.sameSite,
+                });
+            }));
+        }
+        if (event === 'SIGNED_OUT') {
+            (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.setCookies)(req, res, ['access-token', 'refresh-token'].map((key) => ({
+                name: `${this.cookieName()}-${key}`,
+                value: '',
+                maxAge: -1,
+            })));
+        }
+        res.status(200).json({});
+    }
+    /**
+     * Deletes the Auth Cookies and redirects to the
+     * @param req The request object.
+     * @param res The response object.
+     * @param options Optionally specify a `redirectTo` URL in the options.
+     */
+    deleteAuthCookie(req, res, { redirectTo = '/' }) {
+        (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.setCookies)(req, res, ['access-token', 'refresh-token'].map((key) => ({
+            name: `${this.cookieName()}-${key}`,
+            value: '',
+            maxAge: -1,
+        })));
+        return res.redirect(307, redirectTo);
+    }
+    /**
+     * Helper method to generate the Auth Cookie string for you in case you can't use `setAuthCookie`.
+     * @param req The request object.
+     * @param res The response object.
+     * @returns The Cookie string that needs to be set as the value for the `Set-Cookie` header.
+     */
+    getAuthCookieString(req, res) {
+        if (req.method !== 'POST') {
+            res.setHeader('Allow', 'POST');
+            res.status(405).end('Method Not Allowed');
+        }
+        const { event, session } = req.body;
+        if (!event)
+            throw new Error('Auth event missing!');
+        if (event === 'SIGNED_IN') {
+            if (!session)
+                throw new Error('Auth session missing!');
+            return (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.getCookieString)(req, res, [
+                { key: 'access-token', value: session.access_token },
+                { key: 'refresh-token', value: session.refresh_token },
+            ].map((token) => {
+                var _a;
+                return ({
+                    name: `${this.cookieName()}-${token.key}`,
+                    value: token.value,
+                    domain: this.cookieOptions.domain,
+                    maxAge: (_a = this.cookieOptions.lifetime) !== null && _a !== void 0 ? _a : 0,
+                    path: this.cookieOptions.path,
+                    sameSite: this.cookieOptions.sameSite,
+                });
+            }));
+        }
+        if (event === 'SIGNED_OUT') {
+            return (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.getCookieString)(req, res, ['access-token', 'refresh-token'].map((key) => ({
+                name: `${this.cookieName()}-${key}`,
+                value: '',
+                maxAge: -1,
+            })));
+        }
+        return res.getHeader('Set-Cookie');
+    }
+    /**
+     * Generates links to be sent via email or other.
+     * @param type The link type ("signup" or "magiclink" or "recovery" or "invite").
+     * @param email The user's email.
+     * @param password User password. For signup only.
+     * @param data Optional user metadata. For signup only.
+     * @param redirectTo The link type ("signup" or "magiclink" or "recovery" or "invite").
+     */
+    generateLink(type, email, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/admin/generate_link`, {
+                    type,
+                    email,
+                    password: options.password,
+                    data: options.data,
+                    redirect_to: options.redirectTo,
+                }, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    // User Admin API
+    /**
+     * Creates a new user.
+     *
+     * This function should only be called on a server. Never expose your `service_role` key in the browser.
+     *
+     * @param attributes The data you want to create the user with.
+     */
+    createUser(attributes) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.post)(this.fetch, `${this.url}/admin/users`, attributes, {
+                    headers: this.headers,
+                });
+                return { user: data, data, error: null };
+            }
+            catch (e) {
+                return { user: null, data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Get a list of users.
+     *
+     * This function should only be called on a server. Never expose your `service_role` key in the browser.
+     */
+    listUsers() {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.get)(this.fetch, `${this.url}/admin/users`, {
+                    headers: this.headers,
+                });
+                return { data: data.users, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Get user by id.
+     *
+     * @param uid The user's unique identifier
+     *
+     * This function should only be called on a server. Never expose your `service_role` key in the browser.
+     */
+    getUserById(uid) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.get)(this.fetch, `${this.url}/admin/users/${uid}`, {
+                    headers: this.headers,
+                });
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Get user by reading the cookie from the request.
+     * Works for Next.js & Express (requires cookie-parser middleware).
+     */
+    getUserByCookie(req, res) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!req.cookies) {
+                    throw new Error('Not able to parse cookies! When using Express make sure the cookie-parser middleware is in use!');
+                }
+                const access_token = req.cookies[`${this.cookieName()}-access-token`];
+                const refresh_token = req.cookies[`${this.cookieName()}-refresh-token`];
+                if (!access_token) {
+                    throw new Error('No cookie found!');
+                }
+                const { user, error: getUserError } = yield this.getUser(access_token);
+                if (getUserError) {
+                    if (!refresh_token)
+                        throw new Error('No refresh_token cookie found!');
+                    if (!res)
+                        throw new Error('You need to pass the res object to automatically refresh the session!');
+                    const { data, error } = yield this.refreshAccessToken(refresh_token);
+                    if (error) {
+                        throw error;
+                    }
+                    else if (data) {
+                        (0,_lib_cookies__WEBPACK_IMPORTED_MODULE_2__.setCookies)(req, res, [
+                            { key: 'access-token', value: data.access_token },
+                            { key: 'refresh-token', value: data.refresh_token },
+                        ].map((token) => {
+                            var _a;
+                            return ({
+                                name: `${this.cookieName()}-${token.key}`,
+                                value: token.value,
+                                domain: this.cookieOptions.domain,
+                                maxAge: (_a = this.cookieOptions.lifetime) !== null && _a !== void 0 ? _a : 0,
+                                path: this.cookieOptions.path,
+                                sameSite: this.cookieOptions.sameSite,
+                            });
+                        }));
+                        return { token: data.access_token, user: data.user, data: data.user, error: null };
+                    }
+                }
+                return { token: access_token, user: user, data: user, error: null };
+            }
+            catch (e) {
+                return { token: null, user: null, data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Updates the user data.
+     *
+     * @param attributes The data you want to update.
+     *
+     * This function should only be called on a server. Never expose your `service_role` key in the browser.
+     */
+    updateUserById(uid, attributes) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                this; //
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.put)(this.fetch, `${this.url}/admin/users/${uid}`, attributes, {
+                    headers: this.headers,
+                });
+                return { user: data, data, error: null };
+            }
+            catch (e) {
+                return { user: null, data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Delete a user. Requires a `service_role` key.
+     *
+     * This function should only be called on a server. Never expose your `service_role` key in the browser.
+     *
+     * @param uid The user uid you want to remove.
+     */
+    deleteUser(uid) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.remove)(this.fetch, `${this.url}/admin/users/${uid}`, {}, {
+                    headers: this.headers,
+                });
+                return { user: data, data, error: null };
+            }
+            catch (e) {
+                return { user: null, data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Gets the current user details.
+     *
+     * This method is called by the GoTrueClient `update` where
+     * the jwt is set to this.currentSession.access_token
+     * and therefore, acts like getting the currently authenticated user
+     *
+     * @param jwt A valid, logged-in JWT. Typically, the access_token for the currentSession
+     */
+    getUser(jwt) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.get)(this.fetch, `${this.url}/user`, {
+                    headers: this._createRequestHeaders(jwt),
+                });
+                return { user: data, data, error: null };
+            }
+            catch (e) {
+                return { user: null, data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Updates the user data.
+     * @param jwt A valid, logged-in JWT.
+     * @param attributes The data you want to update.
+     */
+    updateUser(jwt, attributes) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_fetch__WEBPACK_IMPORTED_MODULE_0__.put)(this.fetch, `${this.url}/user`, attributes, {
+                    headers: this._createRequestHeaders(jwt),
+                });
+                return { user: data, data, error: null };
+            }
+            catch (e) {
+                return { user: null, data: null, error: e };
+            }
+        });
+    }
+}
+//# sourceMappingURL=GoTrueApi.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/GoTrueClient.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/GoTrueClient.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ GoTrueClient)
+/* harmony export */ });
+/* harmony import */ var _GoTrueApi__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./GoTrueApi */ "./node_modules/@supabase/gotrue-js/dist/module/GoTrueApi.js");
+/* harmony import */ var _lib_helpers__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/helpers */ "./node_modules/@supabase/gotrue-js/dist/module/lib/helpers.js");
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/gotrue-js/dist/module/lib/constants.js");
+/* harmony import */ var _lib_polyfills__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./lib/polyfills */ "./node_modules/@supabase/gotrue-js/dist/module/lib/polyfills.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+
+
+(0,_lib_polyfills__WEBPACK_IMPORTED_MODULE_3__.polyfillGlobalThis)(); // Make "globalThis" available
+const DEFAULT_OPTIONS = {
+    url: _lib_constants__WEBPACK_IMPORTED_MODULE_2__.GOTRUE_URL,
+    autoRefreshToken: true,
+    persistSession: true,
+    detectSessionInUrl: true,
+    multiTab: true,
+    headers: _lib_constants__WEBPACK_IMPORTED_MODULE_2__.DEFAULT_HEADERS,
+};
+class GoTrueClient {
+    /**
+     * Create a new client for use in the browser.
+     * @param options.url The URL of the GoTrue server.
+     * @param options.headers Any additional headers to send to the GoTrue server.
+     * @param options.detectSessionInUrl Set to "true" if you want to automatically detects OAuth grants in the URL and signs in the user.
+     * @param options.autoRefreshToken Set to "true" if you want to automatically refresh the token before expiring.
+     * @param options.persistSession Set to "true" if you want to automatically save the user session into local storage.
+     * @param options.localStorage Provide your own local storage implementation to use instead of the browser's local storage.
+     * @param options.multiTab Set to "false" if you want to disable multi-tab/window events.
+     * @param options.cookieOptions
+     * @param options.fetch A custom fetch implementation.
+     */
+    constructor(options) {
+        this.stateChangeEmitters = new Map();
+        this.networkRetries = 0;
+        const settings = Object.assign(Object.assign({}, DEFAULT_OPTIONS), options);
+        this.currentUser = null;
+        this.currentSession = null;
+        this.autoRefreshToken = settings.autoRefreshToken;
+        this.persistSession = settings.persistSession;
+        this.multiTab = settings.multiTab;
+        this.localStorage = settings.localStorage || globalThis.localStorage;
+        this.api = new _GoTrueApi__WEBPACK_IMPORTED_MODULE_0__["default"]({
+            url: settings.url,
+            headers: settings.headers,
+            cookieOptions: settings.cookieOptions,
+            fetch: settings.fetch,
+        });
+        this._recoverSession();
+        this._recoverAndRefresh();
+        this._listenForMultiTabEvents();
+        this._handleVisibilityChange();
+        if (settings.detectSessionInUrl && (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.isBrowser)() && !!(0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('access_token')) {
+            // Handle the OAuth redirect
+            this.getSessionFromUrl({ storeSession: true }).then(({ error }) => {
+                if (error) {
+                    throw new Error('Error getting session from URL.');
+                }
+            });
+        }
+    }
+    /**
+     * Creates a new user.
+     * @type UserCredentials
+     * @param email The user's email address.
+     * @param password The user's password.
+     * @param phone The user's phone number.
+     * @param redirectTo The redirect URL attached to the signup confirmation link. Does not redirect the user if it's a mobile signup.
+     * @param data Optional user metadata.
+     */
+    signUp({ email, password, phone }, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                this._removeSession();
+                const { data, error } = phone && password
+                    ? yield this.api.signUpWithPhone(phone, password, {
+                        data: options.data,
+                        captchaToken: options.captchaToken,
+                    })
+                    : yield this.api.signUpWithEmail(email, password, {
+                        redirectTo: options.redirectTo,
+                        data: options.data,
+                        captchaToken: options.captchaToken,
+                    });
+                if (error) {
+                    throw error;
+                }
+                if (!data) {
+                    throw 'An error occurred on sign up.';
+                }
+                let session = null;
+                let user = null;
+                if (data.access_token) {
+                    session = data;
+                    user = session.user;
+                    this._saveSession(session);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                }
+                if (data.id) {
+                    user = data;
+                }
+                return { user, session, error: null };
+            }
+            catch (e) {
+                return { user: null, session: null, error: e };
+            }
+        });
+    }
+    /**
+     * Log in an existing user, or login via a third-party provider.
+     * @type UserCredentials
+     * @param email The user's email address.
+     * @param phone The user's phone number.
+     * @param password The user's password.
+     * @param refreshToken A valid refresh token that was returned on login.
+     * @param provider One of the providers supported by GoTrue.
+     * @param redirectTo A URL to send the user to after they are confirmed (OAuth logins only).
+     * @param shouldCreateUser A boolean flag to indicate whether to automatically create a user on magiclink / otp sign-ins if the user doesn't exist. Defaults to true.
+     * @param scopes A space-separated list of scopes granted to the OAuth application.
+     */
+    signIn({ email, phone, password, refreshToken, provider, oidc }, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                this._removeSession();
+                if (email && !password) {
+                    const { error } = yield this.api.sendMagicLinkEmail(email, {
+                        redirectTo: options.redirectTo,
+                        shouldCreateUser: options.shouldCreateUser,
+                        captchaToken: options.captchaToken,
+                    });
+                    return { user: null, session: null, error };
+                }
+                if (email && password) {
+                    return this._handleEmailSignIn(email, password, {
+                        redirectTo: options.redirectTo,
+                        captchaToken: options.captchaToken,
+                    });
+                }
+                if (phone && !password) {
+                    const { error } = yield this.api.sendMobileOTP(phone, {
+                        shouldCreateUser: options.shouldCreateUser,
+                        captchaToken: options.captchaToken,
+                    });
+                    return { user: null, session: null, error };
+                }
+                if (phone && password) {
+                    return this._handlePhoneSignIn(phone, password);
+                }
+                if (refreshToken) {
+                    // currentSession and currentUser will be updated to latest on _callRefreshToken using the passed refreshToken
+                    const { error } = yield this._callRefreshToken(refreshToken);
+                    if (error)
+                        throw error;
+                    return {
+                        user: this.currentUser,
+                        session: this.currentSession,
+                        error: null,
+                    };
+                }
+                if (provider) {
+                    return this._handleProviderSignIn(provider, {
+                        redirectTo: options.redirectTo,
+                        scopes: options.scopes,
+                        queryParams: options.queryParams,
+                    });
+                }
+                if (oidc) {
+                    return this._handleOpenIDConnectSignIn(oidc);
+                }
+                throw new Error(`You must provide either an email, phone number, a third-party provider or OpenID Connect.`);
+            }
+            catch (e) {
+                return { user: null, session: null, error: e };
+            }
+        });
+    }
+    /**
+     * Log in a user given a User supplied OTP received via mobile.
+     * @param email The user's email address.
+     * @param phone The user's phone number.
+     * @param token The user's password.
+     * @param type The user's verification type.
+     * @param redirectTo A URL or mobile address to send the user to after they are confirmed.
+     */
+    verifyOTP(params, options = {}) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                this._removeSession();
+                const { data, error } = yield this.api.verifyOTP(params, options);
+                if (error) {
+                    throw error;
+                }
+                if (!data) {
+                    throw 'An error occurred on token verification.';
+                }
+                let session = null;
+                let user = null;
+                if (data.access_token) {
+                    session = data;
+                    user = session.user;
+                    this._saveSession(session);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                }
+                if (data.id) {
+                    user = data;
+                }
+                return { user, session, error: null };
+            }
+            catch (e) {
+                return { user: null, session: null, error: e };
+            }
+        });
+    }
+    /**
+     * Inside a browser context, `user()` will return the user data, if there is a logged in user.
+     *
+     * For server-side management, you can get a user through `auth.api.getUserByCookie()`
+     */
+    user() {
+        return this.currentUser;
+    }
+    /**
+     * Returns the session data, if there is an active session.
+     */
+    session() {
+        return this.currentSession;
+    }
+    /**
+     * Force refreshes the session including the user data in case it was updated in a different session.
+     */
+    refreshSession() {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!((_a = this.currentSession) === null || _a === void 0 ? void 0 : _a.access_token))
+                    throw new Error('Not logged in.');
+                // currentSession and currentUser will be updated to latest on _callRefreshToken
+                const { error } = yield this._callRefreshToken();
+                if (error)
+                    throw error;
+                return { data: this.currentSession, user: this.currentUser, error: null };
+            }
+            catch (e) {
+                return { data: null, user: null, error: e };
+            }
+        });
+    }
+    /**
+     * Updates user data, if there is a logged in user.
+     */
+    update(attributes) {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!((_a = this.currentSession) === null || _a === void 0 ? void 0 : _a.access_token))
+                    throw new Error('Not logged in.');
+                const { user, error } = yield this.api.updateUser(this.currentSession.access_token, attributes);
+                if (error)
+                    throw error;
+                if (!user)
+                    throw Error('Invalid user data.');
+                const session = Object.assign(Object.assign({}, this.currentSession), { user });
+                this._saveSession(session);
+                this._notifyAllSubscribers('USER_UPDATED');
+                return { data: user, user, error: null };
+            }
+            catch (e) {
+                return { data: null, user: null, error: e };
+            }
+        });
+    }
+    /**
+     * Sets the session data from refresh_token and returns current Session and Error
+     * @param refresh_token a JWT token
+     */
+    setSession(refresh_token) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!refresh_token) {
+                    throw new Error('No current session.');
+                }
+                const { data, error } = yield this.api.refreshAccessToken(refresh_token);
+                if (error) {
+                    return { session: null, error: error };
+                }
+                this._saveSession(data);
+                this._notifyAllSubscribers('SIGNED_IN');
+                return { session: data, error: null };
+            }
+            catch (e) {
+                return { error: e, session: null };
+            }
+        });
+    }
+    /**
+     * Overrides the JWT on the current client. The JWT will then be sent in all subsequent network requests.
+     * @param access_token a jwt access token
+     */
+    setAuth(access_token) {
+        this.currentSession = Object.assign(Object.assign({}, this.currentSession), { access_token, token_type: 'bearer', user: this.user() });
+        this._notifyAllSubscribers('TOKEN_REFRESHED');
+        return this.currentSession;
+    }
+    /**
+     * Gets the session data from a URL string
+     * @param options.storeSession Optionally store the session in the browser
+     */
+    getSessionFromUrl(options) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!(0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.isBrowser)())
+                    throw new Error('No browser detected.');
+                const error_description = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('error_description');
+                if (error_description)
+                    throw new Error(error_description);
+                const provider_token = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('provider_token');
+                const access_token = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('access_token');
+                if (!access_token)
+                    throw new Error('No access_token detected.');
+                const expires_in = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('expires_in');
+                if (!expires_in)
+                    throw new Error('No expires_in detected.');
+                const refresh_token = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('refresh_token');
+                if (!refresh_token)
+                    throw new Error('No refresh_token detected.');
+                const token_type = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('token_type');
+                if (!token_type)
+                    throw new Error('No token_type detected.');
+                const timeNow = Math.round(Date.now() / 1000);
+                const expires_at = timeNow + parseInt(expires_in);
+                const { user, error } = yield this.api.getUser(access_token);
+                if (error)
+                    throw error;
+                const session = {
+                    provider_token,
+                    access_token,
+                    expires_in: parseInt(expires_in),
+                    expires_at,
+                    refresh_token,
+                    token_type,
+                    user: user,
+                };
+                if (options === null || options === void 0 ? void 0 : options.storeSession) {
+                    this._saveSession(session);
+                    const recoveryMode = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getParameterByName)('type');
+                    this._notifyAllSubscribers('SIGNED_IN');
+                    if (recoveryMode === 'recovery') {
+                        this._notifyAllSubscribers('PASSWORD_RECOVERY');
+                    }
+                }
+                // Remove tokens from URL
+                window.location.hash = '';
+                return { data: session, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    /**
+     * Inside a browser context, `signOut()` will remove the logged in user from the browser session
+     * and log them out - removing all items from localstorage and then trigger a "SIGNED_OUT" event.
+     *
+     * For server-side management, you can revoke all refresh tokens for a user by passing a user's JWT through to `auth.api.signOut(JWT: string)`. There is no way to revoke a user's session JWT before it automatically expires
+     */
+    signOut() {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            const accessToken = (_a = this.currentSession) === null || _a === void 0 ? void 0 : _a.access_token;
+            this._removeSession();
+            this._notifyAllSubscribers('SIGNED_OUT');
+            if (accessToken) {
+                const { error } = yield this.api.signOut(accessToken);
+                if (error)
+                    return { error };
+            }
+            return { error: null };
+        });
+    }
+    /**
+     * Receive a notification every time an auth event happens.
+     * @returns {Subscription} A subscription object which can be used to unsubscribe itself.
+     */
+    onAuthStateChange(callback) {
+        try {
+            const id = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.uuid)();
+            const subscription = {
+                id,
+                callback,
+                unsubscribe: () => {
+                    this.stateChangeEmitters.delete(id);
+                },
+            };
+            this.stateChangeEmitters.set(id, subscription);
+            return { data: subscription, error: null };
+        }
+        catch (e) {
+            return { data: null, error: e };
+        }
+    }
+    _handleEmailSignIn(email, password, options = {}) {
+        var _a, _b;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const { data, error } = yield this.api.signInWithEmail(email, password, {
+                    redirectTo: options.redirectTo,
+                    captchaToken: options.captchaToken,
+                });
+                if (error || !data)
+                    return { data: null, user: null, session: null, error };
+                if (((_a = data === null || data === void 0 ? void 0 : data.user) === null || _a === void 0 ? void 0 : _a.confirmed_at) || ((_b = data === null || data === void 0 ? void 0 : data.user) === null || _b === void 0 ? void 0 : _b.email_confirmed_at)) {
+                    this._saveSession(data);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                }
+                return { data, user: data.user, session: data, error: null };
+            }
+            catch (e) {
+                return { data: null, user: null, session: null, error: e };
+            }
+        });
+    }
+    _handlePhoneSignIn(phone, password, options = {}) {
+        var _a;
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const { data, error } = yield this.api.signInWithPhone(phone, password, options);
+                if (error || !data)
+                    return { data: null, user: null, session: null, error };
+                if ((_a = data === null || data === void 0 ? void 0 : data.user) === null || _a === void 0 ? void 0 : _a.phone_confirmed_at) {
+                    this._saveSession(data);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                }
+                return { data, user: data.user, session: data, error: null };
+            }
+            catch (e) {
+                return { data: null, user: null, session: null, error: e };
+            }
+        });
+    }
+    _handleProviderSignIn(provider, options = {}) {
+        const url = this.api.getUrlForProvider(provider, {
+            redirectTo: options.redirectTo,
+            scopes: options.scopes,
+            queryParams: options.queryParams,
+        });
+        try {
+            // try to open on the browser
+            if ((0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.isBrowser)()) {
+                window.location.href = url;
+            }
+            return { provider, url, data: null, session: null, user: null, error: null };
+        }
+        catch (e) {
+            // fallback to returning the URL
+            if (url)
+                return { provider, url, data: null, session: null, user: null, error: null };
+            return { data: null, user: null, session: null, error: e };
+        }
+    }
+    _handleOpenIDConnectSignIn({ id_token, nonce, client_id, issuer, provider, }) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (id_token && nonce && ((client_id && issuer) || provider)) {
+                try {
+                    const { data, error } = yield this.api.signInWithOpenIDConnect({
+                        id_token,
+                        nonce,
+                        client_id,
+                        issuer,
+                        provider,
+                    });
+                    if (error || !data)
+                        return { user: null, session: null, error };
+                    this._saveSession(data);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                    return { user: data.user, session: data, error: null };
+                }
+                catch (e) {
+                    return { user: null, session: null, error: e };
+                }
+            }
+            throw new Error(`You must provide a OpenID Connect provider with your id token and nonce.`);
+        });
+    }
+    /**
+     * Attempts to get the session from LocalStorage
+     * Note: this should never be async (even for React Native), as we need it to return immediately in the constructor.
+     */
+    _recoverSession() {
+        try {
+            const data = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getItemSynchronously)(this.localStorage, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY);
+            if (!data)
+                return null;
+            const { currentSession, expiresAt } = data;
+            const timeNow = Math.round(Date.now() / 1000);
+            if (expiresAt >= timeNow + _lib_constants__WEBPACK_IMPORTED_MODULE_2__.EXPIRY_MARGIN && (currentSession === null || currentSession === void 0 ? void 0 : currentSession.user)) {
+                this._saveSession(currentSession);
+                this._notifyAllSubscribers('SIGNED_IN');
+            }
+        }
+        catch (error) {
+            console.log('error', error);
+        }
+    }
+    /**
+     * Recovers the session from LocalStorage and refreshes
+     * Note: this method is async to accommodate for AsyncStorage e.g. in React native.
+     */
+    _recoverAndRefresh() {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.getItemAsync)(this.localStorage, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY);
+                if (!data)
+                    return null;
+                const { currentSession, expiresAt } = data;
+                const timeNow = Math.round(Date.now() / 1000);
+                if (expiresAt < timeNow + _lib_constants__WEBPACK_IMPORTED_MODULE_2__.EXPIRY_MARGIN) {
+                    if (this.autoRefreshToken && currentSession.refresh_token) {
+                        this.networkRetries++;
+                        const { error } = yield this._callRefreshToken(currentSession.refresh_token);
+                        if (error) {
+                            console.log(error.message);
+                            if (error.message === _lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.ERROR_MESSAGE &&
+                                this.networkRetries < _lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.MAX_RETRIES) {
+                                if (this.refreshTokenTimer)
+                                    clearTimeout(this.refreshTokenTimer);
+                                this.refreshTokenTimer = setTimeout(() => this._recoverAndRefresh(), Math.pow(_lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.RETRY_INTERVAL, this.networkRetries) * 100 // exponential backoff
+                                );
+                                return;
+                            }
+                            yield this._removeSession();
+                        }
+                        this.networkRetries = 0;
+                    }
+                    else {
+                        this._removeSession();
+                    }
+                }
+                else if (!currentSession) {
+                    console.log('Current session is missing data.');
+                    this._removeSession();
+                }
+                else {
+                    // should be handled on _recoverSession method already
+                    // But we still need the code here to accommodate for AsyncStorage e.g. in React native
+                    this._saveSession(currentSession);
+                    this._notifyAllSubscribers('SIGNED_IN');
+                }
+            }
+            catch (err) {
+                console.error(err);
+                return null;
+            }
+        });
+    }
+    _callRefreshToken(refresh_token) {
+        var _a;
+        if (refresh_token === void 0) { refresh_token = (_a = this.currentSession) === null || _a === void 0 ? void 0 : _a.refresh_token; }
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                if (!refresh_token) {
+                    throw new Error('No current session.');
+                }
+                const { data, error } = yield this.api.refreshAccessToken(refresh_token);
+                if (error)
+                    throw error;
+                if (!data)
+                    throw Error('Invalid session data.');
+                this._saveSession(data);
+                this._notifyAllSubscribers('TOKEN_REFRESHED');
+                this._notifyAllSubscribers('SIGNED_IN');
+                return { data, error: null };
+            }
+            catch (e) {
+                return { data: null, error: e };
+            }
+        });
+    }
+    _notifyAllSubscribers(event) {
+        this.stateChangeEmitters.forEach((x) => x.callback(event, this.currentSession));
+    }
+    /**
+     * set currentSession and currentUser
+     * process to _startAutoRefreshToken if possible
+     */
+    _saveSession(session) {
+        this.currentSession = session;
+        this.currentUser = session.user;
+        const expiresAt = session.expires_at;
+        if (expiresAt) {
+            const timeNow = Math.round(Date.now() / 1000);
+            const expiresIn = expiresAt - timeNow;
+            const refreshDurationBeforeExpires = expiresIn > _lib_constants__WEBPACK_IMPORTED_MODULE_2__.EXPIRY_MARGIN ? _lib_constants__WEBPACK_IMPORTED_MODULE_2__.EXPIRY_MARGIN : 0.5;
+            this._startAutoRefreshToken((expiresIn - refreshDurationBeforeExpires) * 1000);
+        }
+        // Do we need any extra check before persist session
+        // access_token or user ?
+        if (this.persistSession && session.expires_at) {
+            this._persistSession(this.currentSession);
+        }
+    }
+    _persistSession(currentSession) {
+        const data = { currentSession, expiresAt: currentSession.expires_at };
+        (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.setItemAsync)(this.localStorage, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY, data);
+    }
+    _removeSession() {
+        return __awaiter(this, void 0, void 0, function* () {
+            this.currentSession = null;
+            this.currentUser = null;
+            if (this.refreshTokenTimer)
+                clearTimeout(this.refreshTokenTimer);
+            (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.removeItemAsync)(this.localStorage, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY);
+        });
+    }
+    /**
+     * Clear and re-create refresh token timer
+     * @param value time intervals in milliseconds
+     */
+    _startAutoRefreshToken(value) {
+        if (this.refreshTokenTimer)
+            clearTimeout(this.refreshTokenTimer);
+        if (value <= 0 || !this.autoRefreshToken)
+            return;
+        this.refreshTokenTimer = setTimeout(() => __awaiter(this, void 0, void 0, function* () {
+            this.networkRetries++;
+            const { error } = yield this._callRefreshToken();
+            if (!error)
+                this.networkRetries = 0;
+            if ((error === null || error === void 0 ? void 0 : error.message) === _lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.ERROR_MESSAGE &&
+                this.networkRetries < _lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.MAX_RETRIES)
+                this._startAutoRefreshToken(Math.pow(_lib_constants__WEBPACK_IMPORTED_MODULE_2__.NETWORK_FAILURE.RETRY_INTERVAL, this.networkRetries) * 100); // exponential backoff
+        }), value);
+        if (typeof this.refreshTokenTimer.unref === 'function')
+            this.refreshTokenTimer.unref();
+    }
+    /**
+     * Listens for changes to LocalStorage and updates the current session.
+     */
+    _listenForMultiTabEvents() {
+        if (!this.multiTab || !(0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.isBrowser)() || !(window === null || window === void 0 ? void 0 : window.addEventListener)) {
+            return false;
+        }
+        try {
+            window === null || window === void 0 ? void 0 : window.addEventListener('storage', (e) => {
+                var _a;
+                if (e.key === _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY) {
+                    const newSession = JSON.parse(String(e.newValue));
+                    if ((_a = newSession === null || newSession === void 0 ? void 0 : newSession.currentSession) === null || _a === void 0 ? void 0 : _a.access_token) {
+                        this._saveSession(newSession.currentSession);
+                        this._notifyAllSubscribers('SIGNED_IN');
+                    }
+                    else {
+                        this._removeSession();
+                        this._notifyAllSubscribers('SIGNED_OUT');
+                    }
+                }
+            });
+        }
+        catch (error) {
+            console.error('_listenForMultiTabEvents', error);
+        }
+    }
+    _handleVisibilityChange() {
+        if (!this.multiTab || !(0,_lib_helpers__WEBPACK_IMPORTED_MODULE_1__.isBrowser)() || !(window === null || window === void 0 ? void 0 : window.addEventListener)) {
+            return false;
+        }
+        try {
+            window === null || window === void 0 ? void 0 : window.addEventListener('visibilitychange', () => {
+                if (document.visibilityState === 'visible') {
+                    this._recoverAndRefresh();
+                }
+            });
+        }
+        catch (error) {
+            console.error('_handleVisibilityChange', error);
+        }
+    }
+}
+//# sourceMappingURL=GoTrueClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/index.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/index.js ***!
+  \***************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "GoTrueApi": () => (/* reexport safe */ _GoTrueApi__WEBPACK_IMPORTED_MODULE_0__["default"]),
+/* harmony export */   "GoTrueClient": () => (/* reexport safe */ _GoTrueClient__WEBPACK_IMPORTED_MODULE_1__["default"])
+/* harmony export */ });
+/* harmony import */ var _GoTrueApi__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./GoTrueApi */ "./node_modules/@supabase/gotrue-js/dist/module/GoTrueApi.js");
+/* harmony import */ var _GoTrueClient__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./GoTrueClient */ "./node_modules/@supabase/gotrue-js/dist/module/GoTrueClient.js");
+/* harmony import */ var _lib_types__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/types */ "./node_modules/@supabase/gotrue-js/dist/module/lib/types.js");
+
+
+
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/constants.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/constants.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "AUDIENCE": () => (/* binding */ AUDIENCE),
+/* harmony export */   "COOKIE_OPTIONS": () => (/* binding */ COOKIE_OPTIONS),
+/* harmony export */   "DEFAULT_HEADERS": () => (/* binding */ DEFAULT_HEADERS),
+/* harmony export */   "EXPIRY_MARGIN": () => (/* binding */ EXPIRY_MARGIN),
+/* harmony export */   "GOTRUE_URL": () => (/* binding */ GOTRUE_URL),
+/* harmony export */   "NETWORK_FAILURE": () => (/* binding */ NETWORK_FAILURE),
+/* harmony export */   "STORAGE_KEY": () => (/* binding */ STORAGE_KEY)
+/* harmony export */ });
+/* harmony import */ var _version__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./version */ "./node_modules/@supabase/gotrue-js/dist/module/lib/version.js");
+
+const GOTRUE_URL = 'http://localhost:9999';
+const AUDIENCE = '';
+const DEFAULT_HEADERS = { 'X-Client-Info': `gotrue-js/${_version__WEBPACK_IMPORTED_MODULE_0__.version}` };
+const EXPIRY_MARGIN = 10; // in seconds
+const NETWORK_FAILURE = {
+    ERROR_MESSAGE: 'Request Failed',
+    MAX_RETRIES: 10,
+    RETRY_INTERVAL: 2, // in deciseconds
+};
+const STORAGE_KEY = 'supabase.auth.token';
+const COOKIE_OPTIONS = {
+    name: 'sb',
+    lifetime: 60 * 60 * 8,
+    domain: '',
+    path: '/',
+    sameSite: 'lax',
+};
+//# sourceMappingURL=constants.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/cookies.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/cookies.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "deleteCookie": () => (/* binding */ deleteCookie),
+/* harmony export */   "getCookieString": () => (/* binding */ getCookieString),
+/* harmony export */   "setCookie": () => (/* binding */ setCookie),
+/* harmony export */   "setCookies": () => (/* binding */ setCookies)
+/* harmony export */ });
+/**
+ * Serialize data into a cookie header.
+ */
+function serialize(name, val, options) {
+    const opt = options || {};
+    const enc = encodeURIComponent;
+    /* eslint-disable-next-line no-control-regex */
+    const fieldContentRegExp = /^[\u0009\u0020-\u007e\u0080-\u00ff]+$/;
+    if (typeof enc !== 'function') {
+        throw new TypeError('option encode is invalid');
+    }
+    if (!fieldContentRegExp.test(name)) {
+        throw new TypeError('argument name is invalid');
+    }
+    const value = enc(val);
+    if (value && !fieldContentRegExp.test(value)) {
+        throw new TypeError('argument val is invalid');
+    }
+    let str = name + '=' + value;
+    if (null != opt.maxAge) {
+        const maxAge = opt.maxAge - 0;
+        if (isNaN(maxAge) || !isFinite(maxAge)) {
+            throw new TypeError('option maxAge is invalid');
+        }
+        str += '; Max-Age=' + Math.floor(maxAge);
+    }
+    if (opt.domain) {
+        if (!fieldContentRegExp.test(opt.domain)) {
+            throw new TypeError('option domain is invalid');
+        }
+        str += '; Domain=' + opt.domain;
+    }
+    if (opt.path) {
+        if (!fieldContentRegExp.test(opt.path)) {
+            throw new TypeError('option path is invalid');
+        }
+        str += '; Path=' + opt.path;
+    }
+    if (opt.expires) {
+        if (typeof opt.expires.toUTCString !== 'function') {
+            throw new TypeError('option expires is invalid');
+        }
+        str += '; Expires=' + opt.expires.toUTCString();
+    }
+    if (opt.httpOnly) {
+        str += '; HttpOnly';
+    }
+    if (opt.secure) {
+        str += '; Secure';
+    }
+    if (opt.sameSite) {
+        const sameSite = typeof opt.sameSite === 'string' ? opt.sameSite.toLowerCase() : opt.sameSite;
+        switch (sameSite) {
+            case 'lax':
+                str += '; SameSite=Lax';
+                break;
+            case 'strict':
+                str += '; SameSite=Strict';
+                break;
+            case 'none':
+                str += '; SameSite=None';
+                break;
+            default:
+                throw new TypeError('option sameSite is invalid');
+        }
+    }
+    return str;
+}
+/**
+ * Based on the environment and the request we know if a secure cookie can be set.
+ */
+function isSecureEnvironment(req) {
+    if (!req || !req.headers || !req.headers.host) {
+        throw new Error('The "host" request header is not available');
+    }
+    const host = (req.headers.host.indexOf(':') > -1 && req.headers.host.split(':')[0]) || req.headers.host;
+    if (['localhost', '127.0.0.1'].indexOf(host) > -1 || host.endsWith('.local')) {
+        return false;
+    }
+    return true;
+}
+/**
+ * Serialize a cookie to a string.
+ */
+function serializeCookie(cookie, secure) {
+    var _a, _b, _c;
+    return serialize(cookie.name, cookie.value, {
+        maxAge: cookie.maxAge,
+        expires: new Date(Date.now() + cookie.maxAge * 1000),
+        httpOnly: true,
+        secure,
+        path: (_a = cookie.path) !== null && _a !== void 0 ? _a : '/',
+        domain: (_b = cookie.domain) !== null && _b !== void 0 ? _b : '',
+        sameSite: (_c = cookie.sameSite) !== null && _c !== void 0 ? _c : 'lax',
+    });
+}
+/**
+ * Get Cookie Header strings.
+ */
+function getCookieString(req, res, cookies) {
+    const strCookies = cookies.map((c) => serializeCookie(c, isSecureEnvironment(req)));
+    const previousCookies = res.getHeader('Set-Cookie');
+    if (previousCookies) {
+        if (previousCookies instanceof Array) {
+            Array.prototype.push.apply(strCookies, previousCookies);
+        }
+        else if (typeof previousCookies === 'string') {
+            strCookies.push(previousCookies);
+        }
+    }
+    return strCookies;
+}
+/**
+ * Set one or more cookies.
+ */
+function setCookies(req, res, cookies) {
+    res.setHeader('Set-Cookie', getCookieString(req, res, cookies));
+}
+/**
+ * Set one or more cookies.
+ */
+function setCookie(req, res, cookie) {
+    setCookies(req, res, [cookie]);
+}
+function deleteCookie(req, res, name) {
+    setCookie(req, res, {
+        name,
+        value: '',
+        maxAge: -1,
+    });
+}
+//# sourceMappingURL=cookies.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/fetch.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/fetch.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "get": () => (/* binding */ get),
+/* harmony export */   "post": () => (/* binding */ post),
+/* harmony export */   "put": () => (/* binding */ put),
+/* harmony export */   "remove": () => (/* binding */ remove)
+/* harmony export */ });
+/* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./constants */ "./node_modules/@supabase/gotrue-js/dist/module/lib/constants.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+const _getErrorMessage = (err) => err.msg || err.message || err.error_description || err.error || JSON.stringify(err);
+const handleError = (error, reject) => {
+    if (!(error === null || error === void 0 ? void 0 : error.status)) {
+        return reject({ message: _constants__WEBPACK_IMPORTED_MODULE_0__.NETWORK_FAILURE.ERROR_MESSAGE });
+    }
+    if (typeof error.json !== 'function') {
+        return reject(error);
+    }
+    error.json().then((err) => {
+        return reject({
+            message: _getErrorMessage(err),
+            status: (error === null || error === void 0 ? void 0 : error.status) || 500,
+        });
+    });
+};
+const _getRequestParams = (method, options, body) => {
+    const params = { method, headers: (options === null || options === void 0 ? void 0 : options.headers) || {} };
+    if (method === 'GET') {
+        return params;
+    }
+    params.headers = Object.assign({ 'Content-Type': 'text/plain;charset=UTF-8' }, options === null || options === void 0 ? void 0 : options.headers);
+    params.body = JSON.stringify(body);
+    return params;
+};
+function _handleRequest(fetcher, method, url, options, body) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return new Promise((resolve, reject) => {
+            fetcher(url, _getRequestParams(method, options, body))
+                .then((result) => {
+                if (!result.ok)
+                    throw result;
+                if (options === null || options === void 0 ? void 0 : options.noResolveJson)
+                    return resolve;
+                return result.json();
+            })
+                .then((data) => resolve(data))
+                .catch((error) => handleError(error, reject));
+        });
+    });
+}
+function get(fetcher, url, options) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'GET', url, options);
+    });
+}
+function post(fetcher, url, body, options) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'POST', url, options, body);
+    });
+}
+function put(fetcher, url, body, options) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'PUT', url, options, body);
+    });
+}
+function remove(fetcher, url, body, options) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'DELETE', url, options, body);
+    });
+}
+//# sourceMappingURL=fetch.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/helpers.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/helpers.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "expiresAt": () => (/* binding */ expiresAt),
+/* harmony export */   "getItemAsync": () => (/* binding */ getItemAsync),
+/* harmony export */   "getItemSynchronously": () => (/* binding */ getItemSynchronously),
+/* harmony export */   "getParameterByName": () => (/* binding */ getParameterByName),
+/* harmony export */   "isBrowser": () => (/* binding */ isBrowser),
+/* harmony export */   "removeItemAsync": () => (/* binding */ removeItemAsync),
+/* harmony export */   "resolveFetch": () => (/* binding */ resolveFetch),
+/* harmony export */   "setItemAsync": () => (/* binding */ setItemAsync),
+/* harmony export */   "uuid": () => (/* binding */ uuid)
+/* harmony export */ });
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+function expiresAt(expiresIn) {
+    const timeNow = Math.round(Date.now() / 1000);
+    return timeNow + expiresIn;
+}
+function uuid() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+        const r = (Math.random() * 16) | 0, v = c == 'x' ? r : (r & 0x3) | 0x8;
+        return v.toString(16);
+    });
+}
+const isBrowser = () => typeof window !== 'undefined';
+function getParameterByName(name, url) {
+    var _a;
+    if (!url)
+        url = ((_a = window === null || window === void 0 ? void 0 : window.location) === null || _a === void 0 ? void 0 : _a.href) || '';
+    // eslint-disable-next-line no-useless-escape
+    name = name.replace(/[\[\]]/g, '\\$&');
+    const regex = new RegExp('[?&#]' + name + '(=([^&#]*)|&|#|$)'), results = regex.exec(url);
+    if (!results)
+        return null;
+    if (!results[2])
+        return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+const resolveFetch = (customFetch) => {
+    let _fetch;
+    if (customFetch) {
+        _fetch = customFetch;
+    }
+    else if (typeof fetch === 'undefined') {
+        _fetch = (...args) => __awaiter(void 0, void 0, void 0, function* () { return yield (yield __webpack_require__.e(/*! import() */ "vendors-node_modules_cross-fetch_dist_browser-ponyfill_js").then(__webpack_require__.t.bind(__webpack_require__, /*! cross-fetch */ "./node_modules/cross-fetch/dist/browser-ponyfill.js", 23))).fetch(...args); });
+    }
+    else {
+        _fetch = fetch;
+    }
+    return (...args) => _fetch(...args);
+};
+// LocalStorage helpers
+const setItemAsync = (storage, key, data) => __awaiter(void 0, void 0, void 0, function* () {
+    isBrowser() && (yield (storage === null || storage === void 0 ? void 0 : storage.setItem(key, JSON.stringify(data))));
+});
+const getItemAsync = (storage, key) => __awaiter(void 0, void 0, void 0, function* () {
+    const value = isBrowser() && (yield (storage === null || storage === void 0 ? void 0 : storage.getItem(key)));
+    if (!value)
+        return null;
+    try {
+        return JSON.parse(value);
+    }
+    catch (_a) {
+        return value;
+    }
+});
+const getItemSynchronously = (storage, key) => {
+    const value = isBrowser() && (storage === null || storage === void 0 ? void 0 : storage.getItem(key));
+    if (!value || typeof value !== 'string') {
+        return null;
+    }
+    try {
+        return JSON.parse(value);
+    }
+    catch (_a) {
+        return value;
+    }
+};
+const removeItemAsync = (storage, key) => __awaiter(void 0, void 0, void 0, function* () {
+    isBrowser() && (yield (storage === null || storage === void 0 ? void 0 : storage.removeItem(key)));
+});
+//# sourceMappingURL=helpers.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/polyfills.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/polyfills.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "polyfillGlobalThis": () => (/* binding */ polyfillGlobalThis)
+/* harmony export */ });
+/**
+ * https://mathiasbynens.be/notes/globalthis
+ */
+function polyfillGlobalThis() {
+    if (typeof globalThis === 'object')
+        return;
+    try {
+        Object.defineProperty(Object.prototype, '__magic__', {
+            get: function () {
+                return this;
+            },
+            configurable: true,
+        });
+        // @ts-expect-error 'Allow access to magic'
+        __magic__.globalThis = __magic__;
+        // @ts-expect-error 'Allow access to magic'
+        delete Object.prototype.__magic__;
+    }
+    catch (e) {
+        if (typeof self !== 'undefined') {
+            // @ts-expect-error 'Allow access to globals'
+            self.globalThis = self;
+        }
+    }
+}
+//# sourceMappingURL=polyfills.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/types.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/types.js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+
+//# sourceMappingURL=types.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/gotrue-js/dist/module/lib/version.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@supabase/gotrue-js/dist/module/lib/version.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "version": () => (/* binding */ version)
+/* harmony export */ });
+// generated by genversion
+const version = '1.22.22';
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/PostgrestClient.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/PostgrestClient.js ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PostgrestClient)
+/* harmony export */ });
+/* harmony import */ var _lib_PostgrestQueryBuilder__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lib/PostgrestQueryBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestQueryBuilder.js");
+/* harmony import */ var _lib_PostgrestRpcBuilder__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/PostgrestRpcBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestRpcBuilder.js");
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/postgrest-js/dist/module/lib/constants.js");
+
+
+
+class PostgrestClient {
+    /**
+     * Creates a PostgREST client.
+     *
+     * @param url  URL of the PostgREST endpoint.
+     * @param headers  Custom headers.
+     * @param schema  Postgres schema to switch to.
+     */
+    constructor(url, { headers = {}, schema, fetch, throwOnError, } = {}) {
+        this.url = url;
+        this.headers = Object.assign(Object.assign({}, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.DEFAULT_HEADERS), headers);
+        this.schema = schema;
+        this.fetch = fetch;
+        this.shouldThrowOnError = throwOnError;
+    }
+    /**
+     * Authenticates the request with JWT.
+     *
+     * @param token  The JWT token to use.
+     */
+    auth(token) {
+        this.headers['Authorization'] = `Bearer ${token}`;
+        return this;
+    }
+    /**
+     * Perform a table operation.
+     *
+     * @param table  The table name to operate on.
+     */
+    from(table) {
+        const url = `${this.url}/${table}`;
+        return new _lib_PostgrestQueryBuilder__WEBPACK_IMPORTED_MODULE_0__["default"](url, {
+            headers: this.headers,
+            schema: this.schema,
+            fetch: this.fetch,
+            shouldThrowOnError: this.shouldThrowOnError,
+        });
+    }
+    /**
+     * Perform a function call.
+     *
+     * @param fn  The function name to call.
+     * @param params  The parameters to pass to the function call.
+     * @param head  When set to true, no data will be returned.
+     * @param count  Count algorithm to use to count rows in a table.
+     */
+    rpc(fn, params, { head = false, count = null, } = {}) {
+        const url = `${this.url}/rpc/${fn}`;
+        return new _lib_PostgrestRpcBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](url, {
+            headers: this.headers,
+            schema: this.schema,
+            fetch: this.fetch,
+            shouldThrowOnError: this.shouldThrowOnError,
+        }).rpc(params, { head, count });
+    }
+}
+//# sourceMappingURL=PostgrestClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/index.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/index.js ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "PostgrestBuilder": () => (/* reexport safe */ _lib_types__WEBPACK_IMPORTED_MODULE_3__.PostgrestBuilder),
+/* harmony export */   "PostgrestClient": () => (/* reexport safe */ _PostgrestClient__WEBPACK_IMPORTED_MODULE_0__["default"]),
+/* harmony export */   "PostgrestFilterBuilder": () => (/* reexport safe */ _lib_PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"]),
+/* harmony export */   "PostgrestQueryBuilder": () => (/* reexport safe */ _lib_PostgrestQueryBuilder__WEBPACK_IMPORTED_MODULE_2__["default"])
+/* harmony export */ });
+/* harmony import */ var _PostgrestClient__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PostgrestClient */ "./node_modules/@supabase/postgrest-js/dist/module/PostgrestClient.js");
+/* harmony import */ var _lib_PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/PostgrestFilterBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js");
+/* harmony import */ var _lib_PostgrestQueryBuilder__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/PostgrestQueryBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestQueryBuilder.js");
+/* harmony import */ var _lib_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./lib/types */ "./node_modules/@supabase/postgrest-js/dist/module/lib/types.js");
+
+
+
+
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js":
+/*!***************************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js ***!
+  \***************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PostgrestFilterBuilder)
+/* harmony export */ });
+/* harmony import */ var _PostgrestTransformBuilder__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./PostgrestTransformBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestTransformBuilder.js");
+
+class PostgrestFilterBuilder extends _PostgrestTransformBuilder__WEBPACK_IMPORTED_MODULE_0__["default"] {
+    constructor() {
+        super(...arguments);
+        /** @deprecated Use `contains()` instead. */
+        this.cs = this.contains;
+        /** @deprecated Use `containedBy()` instead. */
+        this.cd = this.containedBy;
+        /** @deprecated Use `rangeLt()` instead. */
+        this.sl = this.rangeLt;
+        /** @deprecated Use `rangeGt()` instead. */
+        this.sr = this.rangeGt;
+        /** @deprecated Use `rangeGte()` instead. */
+        this.nxl = this.rangeGte;
+        /** @deprecated Use `rangeLte()` instead. */
+        this.nxr = this.rangeLte;
+        /** @deprecated Use `rangeAdjacent()` instead. */
+        this.adj = this.rangeAdjacent;
+        /** @deprecated Use `overlaps()` instead. */
+        this.ov = this.overlaps;
+    }
+    /**
+     * Finds all rows which doesn't satisfy the filter.
+     *
+     * @param column  The column to filter on.
+     * @param operator  The operator to filter with.
+     * @param value  The value to filter with.
+     */
+    not(column, operator, value) {
+        this.url.searchParams.append(`${column}`, `not.${operator}.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows satisfying at least one of the filters.
+     *
+     * @param filters  The filters to use, separated by commas.
+     * @param foreignTable  The foreign table to use (if `column` is a foreign column).
+     */
+    or(filters, { foreignTable } = {}) {
+        const key = typeof foreignTable === 'undefined' ? 'or' : `${foreignTable}.or`;
+        this.url.searchParams.append(key, `(${filters})`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` exactly matches the
+     * specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    eq(column, value) {
+        this.url.searchParams.append(`${column}`, `eq.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` doesn't match the
+     * specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    neq(column, value) {
+        this.url.searchParams.append(`${column}`, `neq.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` is greater than the
+     * specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    gt(column, value) {
+        this.url.searchParams.append(`${column}`, `gt.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` is greater than or
+     * equal to the specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    gte(column, value) {
+        this.url.searchParams.append(`${column}`, `gte.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` is less than the
+     * specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    lt(column, value) {
+        this.url.searchParams.append(`${column}`, `lt.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` is less than or equal
+     * to the specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    lte(column, value) {
+        this.url.searchParams.append(`${column}`, `lte.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value in the stated `column` matches the supplied
+     * `pattern` (case sensitive).
+     *
+     * @param column  The column to filter on.
+     * @param pattern  The pattern to filter with.
+     */
+    like(column, pattern) {
+        this.url.searchParams.append(`${column}`, `like.${pattern}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value in the stated `column` matches the supplied
+     * `pattern` (case insensitive).
+     *
+     * @param column  The column to filter on.
+     * @param pattern  The pattern to filter with.
+     */
+    ilike(column, pattern) {
+        this.url.searchParams.append(`${column}`, `ilike.${pattern}`);
+        return this;
+    }
+    /**
+     * A check for exact equality (null, true, false), finds all rows whose
+     * value on the stated `column` exactly match the specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    is(column, value) {
+        this.url.searchParams.append(`${column}`, `is.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose value on the stated `column` is found on the
+     * specified `values`.
+     *
+     * @param column  The column to filter on.
+     * @param values  The values to filter with.
+     */
+    in(column, values) {
+        const cleanedValues = values
+            .map((s) => {
+            // handle postgrest reserved characters
+            // https://postgrest.org/en/v7.0.0/api.html#reserved-characters
+            if (typeof s === 'string' && new RegExp('[,()]').test(s))
+                return `"${s}"`;
+            else
+                return `${s}`;
+        })
+            .join(',');
+        this.url.searchParams.append(`${column}`, `in.(${cleanedValues})`);
+        return this;
+    }
+    /**
+     * Finds all rows whose json, array, or range value on the stated `column`
+     * contains the values specified in `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    contains(column, value) {
+        if (typeof value === 'string') {
+            // range types can be inclusive '[', ']' or exclusive '(', ')' so just
+            // keep it simple and accept a string
+            this.url.searchParams.append(`${column}`, `cs.${value}`);
+        }
+        else if (Array.isArray(value)) {
+            // array
+            this.url.searchParams.append(`${column}`, `cs.{${value.join(',')}}`);
+        }
+        else {
+            // json
+            this.url.searchParams.append(`${column}`, `cs.${JSON.stringify(value)}`);
+        }
+        return this;
+    }
+    /**
+     * Finds all rows whose json, array, or range value on the stated `column` is
+     * contained by the specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    containedBy(column, value) {
+        if (typeof value === 'string') {
+            // range
+            this.url.searchParams.append(`${column}`, `cd.${value}`);
+        }
+        else if (Array.isArray(value)) {
+            // array
+            this.url.searchParams.append(`${column}`, `cd.{${value.join(',')}}`);
+        }
+        else {
+            // json
+            this.url.searchParams.append(`${column}`, `cd.${JSON.stringify(value)}`);
+        }
+        return this;
+    }
+    /**
+     * Finds all rows whose range value on the stated `column` is strictly to the
+     * left of the specified `range`.
+     *
+     * @param column  The column to filter on.
+     * @param range  The range to filter with.
+     */
+    rangeLt(column, range) {
+        this.url.searchParams.append(`${column}`, `sl.${range}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose range value on the stated `column` is strictly to
+     * the right of the specified `range`.
+     *
+     * @param column  The column to filter on.
+     * @param range  The range to filter with.
+     */
+    rangeGt(column, range) {
+        this.url.searchParams.append(`${column}`, `sr.${range}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose range value on the stated `column` does not extend
+     * to the left of the specified `range`.
+     *
+     * @param column  The column to filter on.
+     * @param range  The range to filter with.
+     */
+    rangeGte(column, range) {
+        this.url.searchParams.append(`${column}`, `nxl.${range}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose range value on the stated `column` does not extend
+     * to the right of the specified `range`.
+     *
+     * @param column  The column to filter on.
+     * @param range  The range to filter with.
+     */
+    rangeLte(column, range) {
+        this.url.searchParams.append(`${column}`, `nxr.${range}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose range value on the stated `column` is adjacent to
+     * the specified `range`.
+     *
+     * @param column  The column to filter on.
+     * @param range  The range to filter with.
+     */
+    rangeAdjacent(column, range) {
+        this.url.searchParams.append(`${column}`, `adj.${range}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose array or range value on the stated `column` overlaps
+     * (has a value in common) with the specified `value`.
+     *
+     * @param column  The column to filter on.
+     * @param value  The value to filter with.
+     */
+    overlaps(column, value) {
+        if (typeof value === 'string') {
+            // range
+            this.url.searchParams.append(`${column}`, `ov.${value}`);
+        }
+        else {
+            // array
+            this.url.searchParams.append(`${column}`, `ov.{${value.join(',')}}`);
+        }
+        return this;
+    }
+    /**
+     * Finds all rows whose text or tsvector value on the stated `column` matches
+     * the tsquery in `query`.
+     *
+     * @param column  The column to filter on.
+     * @param query  The Postgres tsquery string to filter with.
+     * @param config  The text search configuration to use.
+     * @param type  The type of tsquery conversion to use on `query`.
+     */
+    textSearch(column, query, { config, type = null, } = {}) {
+        let typePart = '';
+        if (type === 'plain') {
+            typePart = 'pl';
+        }
+        else if (type === 'phrase') {
+            typePart = 'ph';
+        }
+        else if (type === 'websearch') {
+            typePart = 'w';
+        }
+        const configPart = config === undefined ? '' : `(${config})`;
+        this.url.searchParams.append(`${column}`, `${typePart}fts${configPart}.${query}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose tsvector value on the stated `column` matches
+     * to_tsquery(`query`).
+     *
+     * @param column  The column to filter on.
+     * @param query  The Postgres tsquery string to filter with.
+     * @param config  The text search configuration to use.
+     *
+     * @deprecated Use `textSearch()` instead.
+     */
+    fts(column, query, { config } = {}) {
+        const configPart = typeof config === 'undefined' ? '' : `(${config})`;
+        this.url.searchParams.append(`${column}`, `fts${configPart}.${query}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose tsvector value on the stated `column` matches
+     * plainto_tsquery(`query`).
+     *
+     * @param column  The column to filter on.
+     * @param query  The Postgres tsquery string to filter with.
+     * @param config  The text search configuration to use.
+     *
+     * @deprecated Use `textSearch()` with `type: 'plain'` instead.
+     */
+    plfts(column, query, { config } = {}) {
+        const configPart = typeof config === 'undefined' ? '' : `(${config})`;
+        this.url.searchParams.append(`${column}`, `plfts${configPart}.${query}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose tsvector value on the stated `column` matches
+     * phraseto_tsquery(`query`).
+     *
+     * @param column  The column to filter on.
+     * @param query  The Postgres tsquery string to filter with.
+     * @param config  The text search configuration to use.
+     *
+     * @deprecated Use `textSearch()` with `type: 'phrase'` instead.
+     */
+    phfts(column, query, { config } = {}) {
+        const configPart = typeof config === 'undefined' ? '' : `(${config})`;
+        this.url.searchParams.append(`${column}`, `phfts${configPart}.${query}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose tsvector value on the stated `column` matches
+     * websearch_to_tsquery(`query`).
+     *
+     * @param column  The column to filter on.
+     * @param query  The Postgres tsquery string to filter with.
+     * @param config  The text search configuration to use.
+     *
+     * @deprecated Use `textSearch()` with `type: 'websearch'` instead.
+     */
+    wfts(column, query, { config } = {}) {
+        const configPart = typeof config === 'undefined' ? '' : `(${config})`;
+        this.url.searchParams.append(`${column}`, `wfts${configPart}.${query}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose `column` satisfies the filter.
+     *
+     * @param column  The column to filter on.
+     * @param operator  The operator to filter with.
+     * @param value  The value to filter with.
+     */
+    filter(column, operator, value) {
+        this.url.searchParams.append(`${column}`, `${operator}.${value}`);
+        return this;
+    }
+    /**
+     * Finds all rows whose columns match the specified `query` object.
+     *
+     * @param query  The object to filter with, with column names as keys mapped
+     *               to their filter values.
+     */
+    match(query) {
+        Object.keys(query).forEach((key) => {
+            this.url.searchParams.append(`${key}`, `eq.${query[key]}`);
+        });
+        return this;
+    }
+}
+//# sourceMappingURL=PostgrestFilterBuilder.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestQueryBuilder.js":
+/*!**************************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestQueryBuilder.js ***!
+  \**************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PostgrestQueryBuilder)
+/* harmony export */ });
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./types */ "./node_modules/@supabase/postgrest-js/dist/module/lib/types.js");
+/* harmony import */ var _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PostgrestFilterBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js");
+
+
+class PostgrestQueryBuilder extends _types__WEBPACK_IMPORTED_MODULE_0__.PostgrestBuilder {
+    constructor(url, { headers = {}, schema, fetch, shouldThrowOnError, } = {}) {
+        super({ fetch, shouldThrowOnError });
+        this.url = new URL(url);
+        this.headers = Object.assign({}, headers);
+        this.schema = schema;
+    }
+    /**
+     * Performs vertical filtering with SELECT.
+     *
+     * @param columns  The columns to retrieve, separated by commas.
+     * @param head  When set to true, select will void data.
+     * @param count  Count algorithm to use to count rows in a table.
+     */
+    select(columns = '*', { head = false, count = null, } = {}) {
+        this.method = 'GET';
+        // Remove whitespaces except when quoted
+        let quoted = false;
+        const cleanedColumns = columns
+            .split('')
+            .map((c) => {
+            if (/\s/.test(c) && !quoted) {
+                return '';
+            }
+            if (c === '"') {
+                quoted = !quoted;
+            }
+            return c;
+        })
+            .join('');
+        this.url.searchParams.set('select', cleanedColumns);
+        if (count) {
+            this.headers['Prefer'] = `count=${count}`;
+        }
+        if (head) {
+            this.method = 'HEAD';
+        }
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+    insert(values, { upsert = false, onConflict, returning = 'representation', count = null, } = {}) {
+        this.method = 'POST';
+        const prefersHeaders = [`return=${returning}`];
+        if (upsert)
+            prefersHeaders.push('resolution=merge-duplicates');
+        if (upsert && onConflict !== undefined)
+            this.url.searchParams.set('on_conflict', onConflict);
+        this.body = values;
+        if (count) {
+            prefersHeaders.push(`count=${count}`);
+        }
+        if (this.headers['Prefer']) {
+            prefersHeaders.unshift(this.headers['Prefer']);
+        }
+        this.headers['Prefer'] = prefersHeaders.join(',');
+        if (Array.isArray(values)) {
+            const columns = values.reduce((acc, x) => acc.concat(Object.keys(x)), []);
+            if (columns.length > 0) {
+                const uniqueColumns = [...new Set(columns)].map((column) => `"${column}"`);
+                this.url.searchParams.set('columns', uniqueColumns.join(','));
+            }
+        }
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+    /**
+     * Performs an UPSERT into the table.
+     *
+     * @param values  The values to insert.
+     * @param onConflict  By specifying the `on_conflict` query parameter, you can make UPSERT work on a column(s) that has a UNIQUE constraint.
+     * @param returning  By default the new record is returned. Set this to 'minimal' if you don't need this value.
+     * @param count  Count algorithm to use to count rows in a table.
+     * @param ignoreDuplicates  Specifies if duplicate rows should be ignored and not inserted.
+     */
+    upsert(values, { onConflict, returning = 'representation', count = null, ignoreDuplicates = false, } = {}) {
+        this.method = 'POST';
+        const prefersHeaders = [
+            `resolution=${ignoreDuplicates ? 'ignore' : 'merge'}-duplicates`,
+            `return=${returning}`,
+        ];
+        if (onConflict !== undefined)
+            this.url.searchParams.set('on_conflict', onConflict);
+        this.body = values;
+        if (count) {
+            prefersHeaders.push(`count=${count}`);
+        }
+        if (this.headers['Prefer']) {
+            prefersHeaders.unshift(this.headers['Prefer']);
+        }
+        this.headers['Prefer'] = prefersHeaders.join(',');
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+    /**
+     * Performs an UPDATE on the table.
+     *
+     * @param values  The values to update.
+     * @param returning  By default the updated record is returned. Set this to 'minimal' if you don't need this value.
+     * @param count  Count algorithm to use to count rows in a table.
+     */
+    update(values, { returning = 'representation', count = null, } = {}) {
+        this.method = 'PATCH';
+        const prefersHeaders = [`return=${returning}`];
+        this.body = values;
+        if (count) {
+            prefersHeaders.push(`count=${count}`);
+        }
+        if (this.headers['Prefer']) {
+            prefersHeaders.unshift(this.headers['Prefer']);
+        }
+        this.headers['Prefer'] = prefersHeaders.join(',');
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+    /**
+     * Performs a DELETE on the table.
+     *
+     * @param returning  If `true`, return the deleted row(s) in the response.
+     * @param count  Count algorithm to use to count rows in a table.
+     */
+    delete({ returning = 'representation', count = null, } = {}) {
+        this.method = 'DELETE';
+        const prefersHeaders = [`return=${returning}`];
+        if (count) {
+            prefersHeaders.push(`count=${count}`);
+        }
+        if (this.headers['Prefer']) {
+            prefersHeaders.unshift(this.headers['Prefer']);
+        }
+        this.headers['Prefer'] = prefersHeaders.join(',');
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+}
+//# sourceMappingURL=PostgrestQueryBuilder.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestRpcBuilder.js":
+/*!************************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestRpcBuilder.js ***!
+  \************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PostgrestRpcBuilder)
+/* harmony export */ });
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./types */ "./node_modules/@supabase/postgrest-js/dist/module/lib/types.js");
+/* harmony import */ var _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PostgrestFilterBuilder */ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestFilterBuilder.js");
+
+
+class PostgrestRpcBuilder extends _types__WEBPACK_IMPORTED_MODULE_0__.PostgrestBuilder {
+    constructor(url, { headers = {}, schema, fetch, shouldThrowOnError, } = {}) {
+        super({ fetch, shouldThrowOnError });
+        this.url = new URL(url);
+        this.headers = Object.assign({}, headers);
+        this.schema = schema;
+    }
+    /**
+     * Perform a function call.
+     */
+    rpc(params, { head = false, count = null, } = {}) {
+        if (head) {
+            this.method = 'HEAD';
+            if (params) {
+                Object.entries(params).forEach(([name, value]) => {
+                    this.url.searchParams.append(name, value);
+                });
+            }
+        }
+        else {
+            this.method = 'POST';
+            this.body = params;
+        }
+        if (count) {
+            if (this.headers['Prefer'] !== undefined)
+                this.headers['Prefer'] += `,count=${count}`;
+            else
+                this.headers['Prefer'] = `count=${count}`;
+        }
+        return new _PostgrestFilterBuilder__WEBPACK_IMPORTED_MODULE_1__["default"](this);
+    }
+}
+//# sourceMappingURL=PostgrestRpcBuilder.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestTransformBuilder.js":
+/*!******************************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/PostgrestTransformBuilder.js ***!
+  \******************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ PostgrestTransformBuilder)
+/* harmony export */ });
+/* harmony import */ var _types__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./types */ "./node_modules/@supabase/postgrest-js/dist/module/lib/types.js");
+
+/**
+ * Post-filters (transforms)
+ */
+class PostgrestTransformBuilder extends _types__WEBPACK_IMPORTED_MODULE_0__.PostgrestBuilder {
+    /**
+     * Performs vertical filtering with SELECT.
+     *
+     * @param columns  The columns to retrieve, separated by commas.
+     */
+    select(columns = '*') {
+        // Remove whitespaces except when quoted
+        let quoted = false;
+        const cleanedColumns = columns
+            .split('')
+            .map((c) => {
+            if (/\s/.test(c) && !quoted) {
+                return '';
+            }
+            if (c === '"') {
+                quoted = !quoted;
+            }
+            return c;
+        })
+            .join('');
+        this.url.searchParams.set('select', cleanedColumns);
+        return this;
+    }
+    /**
+     * Orders the result with the specified `column`.
+     *
+     * @param column  The column to order on.
+     * @param ascending  If `true`, the result will be in ascending order.
+     * @param nullsFirst  If `true`, `null`s appear first.
+     * @param foreignTable  The foreign table to use (if `column` is a foreign column).
+     */
+    order(column, { ascending = true, nullsFirst = false, foreignTable, } = {}) {
+        const key = typeof foreignTable === 'undefined' ? 'order' : `${foreignTable}.order`;
+        const existingOrder = this.url.searchParams.get(key);
+        this.url.searchParams.set(key, `${existingOrder ? `${existingOrder},` : ''}${column}.${ascending ? 'asc' : 'desc'}.${nullsFirst ? 'nullsfirst' : 'nullslast'}`);
+        return this;
+    }
+    /**
+     * Limits the result with the specified `count`.
+     *
+     * @param count  The maximum no. of rows to limit to.
+     * @param foreignTable  The foreign table to use (for foreign columns).
+     */
+    limit(count, { foreignTable } = {}) {
+        const key = typeof foreignTable === 'undefined' ? 'limit' : `${foreignTable}.limit`;
+        this.url.searchParams.set(key, `${count}`);
+        return this;
+    }
+    /**
+     * Limits the result to rows within the specified range, inclusive.
+     *
+     * @param from  The starting index from which to limit the result, inclusive.
+     * @param to  The last index to which to limit the result, inclusive.
+     * @param foreignTable  The foreign table to use (for foreign columns).
+     */
+    range(from, to, { foreignTable } = {}) {
+        const keyOffset = typeof foreignTable === 'undefined' ? 'offset' : `${foreignTable}.offset`;
+        const keyLimit = typeof foreignTable === 'undefined' ? 'limit' : `${foreignTable}.limit`;
+        this.url.searchParams.set(keyOffset, `${from}`);
+        // Range is inclusive, so add 1
+        this.url.searchParams.set(keyLimit, `${to - from + 1}`);
+        return this;
+    }
+    /**
+     * Sets the AbortSignal for the fetch request.
+     */
+    abortSignal(signal) {
+        this.signal = signal;
+        return this;
+    }
+    /**
+     * Retrieves only one row from the result. Result must be one row (e.g. using
+     * `limit`), otherwise this will result in an error.
+     */
+    single() {
+        this.headers['Accept'] = 'application/vnd.pgrst.object+json';
+        return this;
+    }
+    /**
+     * Retrieves at most one row from the result. Result must be at most one row
+     * (e.g. using `eq` on a UNIQUE column), otherwise this will result in an
+     * error.
+     */
+    maybeSingle() {
+        this.headers['Accept'] = 'application/vnd.pgrst.object+json';
+        this.allowEmpty = true;
+        return this;
+    }
+    /**
+     * Set the response type to CSV.
+     */
+    csv() {
+        this.headers['Accept'] = 'text/csv';
+        return this;
+    }
+}
+//# sourceMappingURL=PostgrestTransformBuilder.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/constants.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/constants.js ***!
+  \**************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "DEFAULT_HEADERS": () => (/* binding */ DEFAULT_HEADERS)
+/* harmony export */ });
+/* harmony import */ var _version__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./version */ "./node_modules/@supabase/postgrest-js/dist/module/lib/version.js");
+
+const DEFAULT_HEADERS = { 'X-Client-Info': `postgrest-js/${_version__WEBPACK_IMPORTED_MODULE_0__.version}` };
+//# sourceMappingURL=constants.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/types.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/types.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "PostgrestBuilder": () => (/* binding */ PostgrestBuilder)
+/* harmony export */ });
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+class PostgrestBuilder {
+    constructor(builder) {
+        Object.assign(this, builder);
+        let _fetch;
+        if (builder.fetch) {
+            _fetch = builder.fetch;
+        }
+        else if (typeof fetch === 'undefined') {
+            _fetch = (...args) => __awaiter(this, void 0, void 0, function* () { return yield (yield __webpack_require__.e(/*! import() */ "vendors-node_modules_cross-fetch_dist_browser-ponyfill_js").then(__webpack_require__.t.bind(__webpack_require__, /*! cross-fetch */ "./node_modules/cross-fetch/dist/browser-ponyfill.js", 23))).fetch(...args); });
+        }
+        else {
+            _fetch = fetch;
+        }
+        this.fetch = (...args) => _fetch(...args);
+        this.shouldThrowOnError = builder.shouldThrowOnError || false;
+        this.allowEmpty = builder.allowEmpty || false;
+    }
+    /**
+     * If there's an error with the query, throwOnError will reject the promise by
+     * throwing the error instead of returning it as part of a successful response.
+     *
+     * {@link https://github.com/supabase/supabase-js/issues/92}
+     */
+    throwOnError(throwOnError) {
+        if (throwOnError === null || throwOnError === undefined) {
+            throwOnError = true;
+        }
+        this.shouldThrowOnError = throwOnError;
+        return this;
+    }
+    then(onfulfilled, onrejected) {
+        // https://postgrest.org/en/stable/api.html#switching-schemas
+        if (typeof this.schema === 'undefined') {
+            // skip
+        }
+        else if (['GET', 'HEAD'].includes(this.method)) {
+            this.headers['Accept-Profile'] = this.schema;
+        }
+        else {
+            this.headers['Content-Profile'] = this.schema;
+        }
+        if (this.method !== 'GET' && this.method !== 'HEAD') {
+            this.headers['Content-Type'] = 'application/json';
+        }
+        let res = this.fetch(this.url.toString(), {
+            method: this.method,
+            headers: this.headers,
+            body: JSON.stringify(this.body),
+            signal: this.signal,
+        }).then((res) => __awaiter(this, void 0, void 0, function* () {
+            var _a, _b, _c, _d;
+            let error = null;
+            let data = null;
+            let count = null;
+            let status = res.status;
+            let statusText = res.statusText;
+            if (res.ok) {
+                const isReturnMinimal = (_a = this.headers['Prefer']) === null || _a === void 0 ? void 0 : _a.split(',').includes('return=minimal');
+                if (this.method !== 'HEAD' && !isReturnMinimal) {
+                    const text = yield res.text();
+                    if (!text) {
+                        // discard `text`
+                    }
+                    else if (this.headers['Accept'] === 'text/csv') {
+                        data = text;
+                    }
+                    else {
+                        data = JSON.parse(text);
+                    }
+                }
+                const countHeader = (_b = this.headers['Prefer']) === null || _b === void 0 ? void 0 : _b.match(/count=(exact|planned|estimated)/);
+                const contentRange = (_c = res.headers.get('content-range')) === null || _c === void 0 ? void 0 : _c.split('/');
+                if (countHeader && contentRange && contentRange.length > 1) {
+                    count = parseInt(contentRange[1]);
+                }
+            }
+            else {
+                const body = yield res.text();
+                try {
+                    error = JSON.parse(body);
+                }
+                catch (_e) {
+                    error = {
+                        message: body,
+                    };
+                }
+                if (error && this.allowEmpty && ((_d = error === null || error === void 0 ? void 0 : error.details) === null || _d === void 0 ? void 0 : _d.includes('Results contain 0 rows'))) {
+                    error = null;
+                    status = 200;
+                    statusText = 'OK';
+                }
+                if (error && this.shouldThrowOnError) {
+                    throw error;
+                }
+            }
+            const postgrestResponse = {
+                error,
+                data,
+                count,
+                status,
+                statusText,
+                body: data,
+            };
+            return postgrestResponse;
+        }));
+        if (!this.shouldThrowOnError) {
+            res = res.catch((fetchError) => ({
+                error: {
+                    message: `FetchError: ${fetchError.message}`,
+                    details: '',
+                    hint: '',
+                    code: fetchError.code || '',
+                },
+                data: null,
+                body: null,
+                count: null,
+                status: 400,
+                statusText: 'Bad Request',
+            }));
+        }
+        return res.then(onfulfilled, onrejected);
+    }
+}
+//# sourceMappingURL=types.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/postgrest-js/dist/module/lib/version.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/@supabase/postgrest-js/dist/module/lib/version.js ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "version": () => (/* binding */ version)
+/* harmony export */ });
+// generated by genversion
+const version = '0.37.4';
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js ***!
+  \**************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ RealtimeClient)
+/* harmony export */ });
+/* harmony import */ var websocket__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! websocket */ "./node_modules/websocket/lib/browser.js");
+/* harmony import */ var websocket__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(websocket__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/realtime-js/dist/module/lib/constants.js");
+/* harmony import */ var _lib_timer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/timer */ "./node_modules/@supabase/realtime-js/dist/module/lib/timer.js");
+/* harmony import */ var _lib_serializer__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./lib/serializer */ "./node_modules/@supabase/realtime-js/dist/module/lib/serializer.js");
+/* harmony import */ var _RealtimeSubscription__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./RealtimeSubscription */ "./node_modules/@supabase/realtime-js/dist/module/RealtimeSubscription.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+
+
+
+const noop = () => { };
+class RealtimeClient {
+    /**
+     * Initializes the Socket.
+     *
+     * @param endPoint The string WebSocket endpoint, ie, "ws://example.com/socket", "wss://example.com", "/socket" (inherited host & protocol)
+     * @param options.transport The Websocket Transport, for example WebSocket.
+     * @param options.timeout The default timeout in milliseconds to trigger push timeouts.
+     * @param options.params The optional params to pass when connecting.
+     * @param options.headers The optional headers to pass when connecting.
+     * @param options.heartbeatIntervalMs The millisec interval to send a heartbeat message.
+     * @param options.logger The optional function for specialized logging, ie: logger: (kind, msg, data) => { console.log(`${kind}: ${msg}`, data) }
+     * @param options.encode The function to encode outgoing messages. Defaults to JSON: (payload, callback) => callback(JSON.stringify(payload))
+     * @param options.decode The function to decode incoming messages. Defaults to Serializer's decode.
+     * @param options.longpollerTimeout The maximum timeout of a long poll AJAX request. Defaults to 20s (double the server long poll timer).
+     * @param options.reconnectAfterMs he optional function that returns the millsec reconnect interval. Defaults to stepped backoff off.
+     */
+    constructor(endPoint, options) {
+        this.accessToken = null;
+        this.channels = [];
+        this.endPoint = '';
+        this.headers = _lib_constants__WEBPACK_IMPORTED_MODULE_1__.DEFAULT_HEADERS;
+        this.params = {};
+        this.timeout = _lib_constants__WEBPACK_IMPORTED_MODULE_1__.DEFAULT_TIMEOUT;
+        this.transport = websocket__WEBPACK_IMPORTED_MODULE_0__.w3cwebsocket;
+        this.heartbeatIntervalMs = 30000;
+        this.longpollerTimeout = 20000;
+        this.heartbeatTimer = undefined;
+        this.pendingHeartbeatRef = null;
+        this.ref = 0;
+        this.logger = noop;
+        this.conn = null;
+        this.sendBuffer = [];
+        this.serializer = new _lib_serializer__WEBPACK_IMPORTED_MODULE_3__["default"]();
+        this.stateChangeCallbacks = {
+            open: [],
+            close: [],
+            error: [],
+            message: [],
+        };
+        this.endPoint = `${endPoint}/${_lib_constants__WEBPACK_IMPORTED_MODULE_1__.TRANSPORTS.websocket}`;
+        if (options === null || options === void 0 ? void 0 : options.params)
+            this.params = options.params;
+        if (options === null || options === void 0 ? void 0 : options.headers)
+            this.headers = Object.assign(Object.assign({}, this.headers), options.headers);
+        if (options === null || options === void 0 ? void 0 : options.timeout)
+            this.timeout = options.timeout;
+        if (options === null || options === void 0 ? void 0 : options.logger)
+            this.logger = options.logger;
+        if (options === null || options === void 0 ? void 0 : options.transport)
+            this.transport = options.transport;
+        if (options === null || options === void 0 ? void 0 : options.heartbeatIntervalMs)
+            this.heartbeatIntervalMs = options.heartbeatIntervalMs;
+        if (options === null || options === void 0 ? void 0 : options.longpollerTimeout)
+            this.longpollerTimeout = options.longpollerTimeout;
+        this.reconnectAfterMs = (options === null || options === void 0 ? void 0 : options.reconnectAfterMs) ? options.reconnectAfterMs
+            : (tries) => {
+                return [1000, 2000, 5000, 10000][tries - 1] || 10000;
+            };
+        this.encode = (options === null || options === void 0 ? void 0 : options.encode) ? options.encode
+            : (payload, callback) => {
+                return callback(JSON.stringify(payload));
+            };
+        this.decode = (options === null || options === void 0 ? void 0 : options.decode) ? options.decode
+            : this.serializer.decode.bind(this.serializer);
+        this.reconnectTimer = new _lib_timer__WEBPACK_IMPORTED_MODULE_2__["default"](() => __awaiter(this, void 0, void 0, function* () {
+            yield this.disconnect();
+            this.connect();
+        }), this.reconnectAfterMs);
+    }
+    /**
+     * Connects the socket, unless already connected.
+     */
+    connect() {
+        if (this.conn) {
+            return;
+        }
+        this.conn = new this.transport(this.endPointURL(), [], null, this.headers);
+        if (this.conn) {
+            // this.conn.timeout = this.longpollerTimeout // TYPE ERROR
+            this.conn.binaryType = 'arraybuffer';
+            this.conn.onopen = () => this._onConnOpen();
+            this.conn.onerror = (error) => this._onConnError(error);
+            this.conn.onmessage = (event) => this.onConnMessage(event);
+            this.conn.onclose = (event) => this._onConnClose(event);
+        }
+    }
+    /**
+     * Disconnects the socket.
+     *
+     * @param code A numeric status code to send on disconnect.
+     * @param reason A custom reason for the disconnect.
+     */
+    disconnect(code, reason) {
+        return new Promise((resolve, _reject) => {
+            try {
+                if (this.conn) {
+                    this.conn.onclose = function () { }; // noop
+                    if (code) {
+                        this.conn.close(code, reason || '');
+                    }
+                    else {
+                        this.conn.close();
+                    }
+                    this.conn = null;
+                    // remove open handles
+                    this.heartbeatTimer && clearInterval(this.heartbeatTimer);
+                    this.reconnectTimer.reset();
+                }
+                resolve({ error: null, data: true });
+            }
+            catch (error) {
+                resolve({ error: error, data: false });
+            }
+        });
+    }
+    /**
+     * Logs the message.
+     *
+     * For customized logging, `this.logger` can be overriden.
+     */
+    log(kind, msg, data) {
+        this.logger(kind, msg, data);
+    }
+    /**
+     * Registers a callback for connection state change event.
+     *
+     * @param callback A function to be called when the event occurs.
+     *
+     * @example
+     *    socket.onOpen(() => console.log("Socket opened."))
+     */
+    onOpen(callback) {
+        this.stateChangeCallbacks.open.push(callback);
+    }
+    /**
+     * Registers a callback for connection state change events.
+     *
+     * @param callback A function to be called when the event occurs.
+     *
+     * @example
+     *    socket.onOpen(() => console.log("Socket closed."))
+     */
+    onClose(callback) {
+        this.stateChangeCallbacks.close.push(callback);
+    }
+    /**
+     * Registers a callback for connection state change events.
+     *
+     * @param callback A function to be called when the event occurs.
+     *
+     * @example
+     *    socket.onOpen((error) => console.log("An error occurred"))
+     */
+    onError(callback) {
+        this.stateChangeCallbacks.error.push(callback);
+    }
+    /**
+     * Calls a function any time a message is received.
+     *
+     * @param callback A function to be called when the event occurs.
+     *
+     * @example
+     *    socket.onMessage((message) => console.log(message))
+     */
+    onMessage(callback) {
+        this.stateChangeCallbacks.message.push(callback);
+    }
+    /**
+     * Returns the current state of the socket.
+     */
+    connectionState() {
+        switch (this.conn && this.conn.readyState) {
+            case _lib_constants__WEBPACK_IMPORTED_MODULE_1__.SOCKET_STATES.connecting:
+                return _lib_constants__WEBPACK_IMPORTED_MODULE_1__.CONNECTION_STATE.Connecting;
+            case _lib_constants__WEBPACK_IMPORTED_MODULE_1__.SOCKET_STATES.open:
+                return _lib_constants__WEBPACK_IMPORTED_MODULE_1__.CONNECTION_STATE.Open;
+            case _lib_constants__WEBPACK_IMPORTED_MODULE_1__.SOCKET_STATES.closing:
+                return _lib_constants__WEBPACK_IMPORTED_MODULE_1__.CONNECTION_STATE.Closing;
+            default:
+                return _lib_constants__WEBPACK_IMPORTED_MODULE_1__.CONNECTION_STATE.Closed;
+        }
+    }
+    /**
+     * Retuns `true` is the connection is open.
+     */
+    isConnected() {
+        return this.connectionState() === _lib_constants__WEBPACK_IMPORTED_MODULE_1__.CONNECTION_STATE.Open;
+    }
+    /**
+     * Removes a subscription from the socket.
+     *
+     * @param channel An open subscription.
+     */
+    remove(channel) {
+        this.channels = this.channels.filter((c) => c.joinRef() !== channel.joinRef());
+    }
+    channel(topic, chanParams = {}) {
+        const chan = new _RealtimeSubscription__WEBPACK_IMPORTED_MODULE_4__["default"](topic, chanParams, this);
+        this.channels.push(chan);
+        return chan;
+    }
+    /**
+     * Push out a message if the socket is connected.
+     *
+     * If the socket is not connected, the message gets enqueued within a local buffer, and sent out when a connection is next established.
+     */
+    push(data) {
+        const { topic, event, payload, ref } = data;
+        let callback = () => {
+            this.encode(data, (result) => {
+                var _a;
+                (_a = this.conn) === null || _a === void 0 ? void 0 : _a.send(result);
+            });
+        };
+        this.log('push', `${topic} ${event} (${ref})`, payload);
+        if (this.isConnected()) {
+            callback();
+        }
+        else {
+            this.sendBuffer.push(callback);
+        }
+    }
+    onConnMessage(rawMessage) {
+        this.decode(rawMessage.data, (msg) => {
+            let { topic, event, payload, ref } = msg;
+            if ((ref && ref === this.pendingHeartbeatRef) ||
+                event === (payload === null || payload === void 0 ? void 0 : payload.type)) {
+                this.pendingHeartbeatRef = null;
+            }
+            this.log('receive', `${payload.status || ''} ${topic} ${event} ${(ref && '(' + ref + ')') || ''}`, payload);
+            this.channels
+                .filter((channel) => channel.isMember(topic))
+                .forEach((channel) => channel.trigger(event, payload, ref));
+            this.stateChangeCallbacks.message.forEach((callback) => callback(msg));
+        });
+    }
+    /**
+     * Returns the URL of the websocket.
+     */
+    endPointURL() {
+        return this._appendParams(this.endPoint, Object.assign({}, this.params, { vsn: _lib_constants__WEBPACK_IMPORTED_MODULE_1__.VSN }));
+    }
+    /**
+     * Return the next message ref, accounting for overflows
+     */
+    makeRef() {
+        let newRef = this.ref + 1;
+        if (newRef === this.ref) {
+            this.ref = 0;
+        }
+        else {
+            this.ref = newRef;
+        }
+        return this.ref.toString();
+    }
+    /**
+     * Sets the JWT access token used for channel subscription authorization and Realtime RLS.
+     *
+     * @param token A JWT string.
+     */
+    setAuth(token) {
+        this.accessToken = token;
+        this.channels.forEach((channel) => {
+            token && channel.updateJoinPayload({ user_token: token });
+            if (channel.joinedOnce && channel.isJoined()) {
+                channel.push(_lib_constants__WEBPACK_IMPORTED_MODULE_1__.CHANNEL_EVENTS.access_token, { access_token: token });
+            }
+        });
+    }
+    /**
+     * Unsubscribe from channels with the specified topic.
+     */
+    leaveOpenTopic(topic) {
+        let dupChannel = this.channels.find((c) => c.topic === topic && (c.isJoined() || c.isJoining()));
+        if (dupChannel) {
+            this.log('transport', `leaving duplicate topic "${topic}"`);
+            dupChannel.unsubscribe();
+        }
+    }
+    _onConnOpen() {
+        this.log('transport', `connected to ${this.endPointURL()}`);
+        this._flushSendBuffer();
+        this.reconnectTimer.reset();
+        this.heartbeatTimer && clearInterval(this.heartbeatTimer);
+        this.heartbeatTimer = setInterval(() => this._sendHeartbeat(), this.heartbeatIntervalMs);
+        this.stateChangeCallbacks.open.forEach((callback) => callback());
+    }
+    _onConnClose(event) {
+        this.log('transport', 'close', event);
+        this._triggerChanError();
+        this.heartbeatTimer && clearInterval(this.heartbeatTimer);
+        this.reconnectTimer.scheduleTimeout();
+        this.stateChangeCallbacks.close.forEach((callback) => callback(event));
+    }
+    _onConnError(error) {
+        this.log('transport', error.message);
+        this._triggerChanError();
+        this.stateChangeCallbacks.error.forEach((callback) => callback(error));
+    }
+    _triggerChanError() {
+        this.channels.forEach((channel) => channel.trigger(_lib_constants__WEBPACK_IMPORTED_MODULE_1__.CHANNEL_EVENTS.error));
+    }
+    _appendParams(url, params) {
+        if (Object.keys(params).length === 0) {
+            return url;
+        }
+        const prefix = url.match(/\?/) ? '&' : '?';
+        const query = new URLSearchParams(params);
+        return `${url}${prefix}${query}`;
+    }
+    _flushSendBuffer() {
+        if (this.isConnected() && this.sendBuffer.length > 0) {
+            this.sendBuffer.forEach((callback) => callback());
+            this.sendBuffer = [];
+        }
+    }
+    _sendHeartbeat() {
+        var _a;
+        if (!this.isConnected()) {
+            return;
+        }
+        if (this.pendingHeartbeatRef) {
+            this.pendingHeartbeatRef = null;
+            this.log('transport', 'heartbeat timeout. Attempting to re-establish connection');
+            (_a = this.conn) === null || _a === void 0 ? void 0 : _a.close(_lib_constants__WEBPACK_IMPORTED_MODULE_1__.WS_CLOSE_NORMAL, 'hearbeat timeout');
+            return;
+        }
+        this.pendingHeartbeatRef = this.makeRef();
+        this.push({
+            topic: 'phoenix',
+            event: 'heartbeat',
+            payload: {},
+            ref: this.pendingHeartbeatRef,
+        });
+        this.setAuth(this.accessToken);
+    }
+}
+//# sourceMappingURL=RealtimeClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/RealtimeSubscription.js":
+/*!********************************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/RealtimeSubscription.js ***!
+  \********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ RealtimeSubscription)
+/* harmony export */ });
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/realtime-js/dist/module/lib/constants.js");
+/* harmony import */ var _lib_push__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib/push */ "./node_modules/@supabase/realtime-js/dist/module/lib/push.js");
+/* harmony import */ var _lib_timer__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/timer */ "./node_modules/@supabase/realtime-js/dist/module/lib/timer.js");
+
+
+
+class RealtimeSubscription {
+    constructor(topic, params = {}, socket) {
+        this.topic = topic;
+        this.params = params;
+        this.socket = socket;
+        this.bindings = [];
+        this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.closed;
+        this.joinedOnce = false;
+        this.pushBuffer = [];
+        this.timeout = this.socket.timeout;
+        this.joinPush = new _lib_push__WEBPACK_IMPORTED_MODULE_1__["default"](this, _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.join, this.params, this.timeout);
+        this.rejoinTimer = new _lib_timer__WEBPACK_IMPORTED_MODULE_2__["default"](() => this.rejoinUntilConnected(), this.socket.reconnectAfterMs);
+        this.joinPush.receive('ok', () => {
+            this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.joined;
+            this.rejoinTimer.reset();
+            this.pushBuffer.forEach((pushEvent) => pushEvent.send());
+            this.pushBuffer = [];
+        });
+        this.onClose(() => {
+            this.rejoinTimer.reset();
+            this.socket.log('channel', `close ${this.topic} ${this.joinRef()}`);
+            this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.closed;
+            this.socket.remove(this);
+        });
+        this.onError((reason) => {
+            if (this.isLeaving() || this.isClosed()) {
+                return;
+            }
+            this.socket.log('channel', `error ${this.topic}`, reason);
+            this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.errored;
+            this.rejoinTimer.scheduleTimeout();
+        });
+        this.joinPush.receive('timeout', () => {
+            if (!this.isJoining()) {
+                return;
+            }
+            this.socket.log('channel', `timeout ${this.topic}`, this.joinPush.timeout);
+            this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.errored;
+            this.rejoinTimer.scheduleTimeout();
+        });
+        this.on(_lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.reply, (payload, ref) => {
+            this.trigger(this.replyEventName(ref), payload);
+        });
+    }
+    rejoinUntilConnected() {
+        this.rejoinTimer.scheduleTimeout();
+        if (this.socket.isConnected()) {
+            this.rejoin();
+        }
+    }
+    subscribe(timeout = this.timeout) {
+        if (this.joinedOnce) {
+            throw `tried to subscribe multiple times. 'subscribe' can only be called a single time per channel instance`;
+        }
+        else {
+            this.joinedOnce = true;
+            this.rejoin(timeout);
+            return this.joinPush;
+        }
+    }
+    onClose(callback) {
+        this.on(_lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.close, callback);
+    }
+    onError(callback) {
+        this.on(_lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.error, (reason) => callback(reason));
+    }
+    on(event, callback) {
+        this.bindings.push({ event, callback });
+    }
+    off(event) {
+        this.bindings = this.bindings.filter((bind) => bind.event !== event);
+    }
+    canPush() {
+        return this.socket.isConnected() && this.isJoined();
+    }
+    push(event, payload, timeout = this.timeout) {
+        if (!this.joinedOnce) {
+            throw `tried to push '${event}' to '${this.topic}' before joining. Use channel.subscribe() before pushing events`;
+        }
+        let pushEvent = new _lib_push__WEBPACK_IMPORTED_MODULE_1__["default"](this, event, payload, timeout);
+        if (this.canPush()) {
+            pushEvent.send();
+        }
+        else {
+            pushEvent.startTimeout();
+            this.pushBuffer.push(pushEvent);
+        }
+        return pushEvent;
+    }
+    updateJoinPayload(payload) {
+        this.joinPush.updatePayload(payload);
+    }
+    /**
+     * Leaves the channel
+     *
+     * Unsubscribes from server events, and instructs channel to terminate on server.
+     * Triggers onClose() hooks.
+     *
+     * To receive leave acknowledgements, use the a `receive` hook to bind to the server ack, ie:
+     * channel.unsubscribe().receive("ok", () => alert("left!") )
+     */
+    unsubscribe(timeout = this.timeout) {
+        this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.leaving;
+        let onClose = () => {
+            this.socket.log('channel', `leave ${this.topic}`);
+            this.trigger(_lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.close, 'leave', this.joinRef());
+        };
+        // Destroy joinPush to avoid connection timeouts during unscription phase
+        this.joinPush.destroy();
+        let leavePush = new _lib_push__WEBPACK_IMPORTED_MODULE_1__["default"](this, _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS.leave, {}, timeout);
+        leavePush.receive('ok', () => onClose()).receive('timeout', () => onClose());
+        leavePush.send();
+        if (!this.canPush()) {
+            leavePush.trigger('ok', {});
+        }
+        return leavePush;
+    }
+    /**
+     * Overridable message hook
+     *
+     * Receives all events for specialized message handling before dispatching to the channel callbacks.
+     * Must return the payload, modified or unmodified.
+     */
+    onMessage(event, payload, ref) {
+        return payload;
+    }
+    isMember(topic) {
+        return this.topic === topic;
+    }
+    joinRef() {
+        return this.joinPush.ref;
+    }
+    rejoin(timeout = this.timeout) {
+        if (this.isLeaving()) {
+            return;
+        }
+        this.socket.leaveOpenTopic(this.topic);
+        this.state = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.joining;
+        this.joinPush.resend(timeout);
+    }
+    trigger(event, payload, ref) {
+        let { close, error, leave, join } = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_EVENTS;
+        let events = [close, error, leave, join];
+        if (ref && events.indexOf(event) >= 0 && ref !== this.joinRef()) {
+            return;
+        }
+        let handledPayload = this.onMessage(event, payload, ref);
+        if (payload && !handledPayload) {
+            throw 'channel onMessage callbacks must return the payload, modified or unmodified';
+        }
+        this.bindings
+            .filter((bind) => {
+            // Bind all events if the user specifies a wildcard.
+            if (bind.event === '*') {
+                return event === (payload === null || payload === void 0 ? void 0 : payload.type);
+            }
+            else {
+                return bind.event === event;
+            }
+        })
+            .map((bind) => bind.callback(handledPayload, ref));
+    }
+    replyEventName(ref) {
+        return `chan_reply_${ref}`;
+    }
+    isClosed() {
+        return this.state === _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.closed;
+    }
+    isErrored() {
+        return this.state === _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.errored;
+    }
+    isJoined() {
+        return this.state === _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.joined;
+    }
+    isJoining() {
+        return this.state === _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.joining;
+    }
+    isLeaving() {
+        return this.state === _lib_constants__WEBPACK_IMPORTED_MODULE_0__.CHANNEL_STATES.leaving;
+    }
+}
+//# sourceMappingURL=RealtimeSubscription.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/index.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/index.js ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "RealtimeClient": () => (/* reexport safe */ _RealtimeClient__WEBPACK_IMPORTED_MODULE_1__["default"]),
+/* harmony export */   "RealtimeSubscription": () => (/* reexport safe */ _RealtimeSubscription__WEBPACK_IMPORTED_MODULE_2__["default"]),
+/* harmony export */   "Transformers": () => (/* reexport module object */ _lib_transformers__WEBPACK_IMPORTED_MODULE_0__)
+/* harmony export */ });
+/* harmony import */ var _lib_transformers__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lib/transformers */ "./node_modules/@supabase/realtime-js/dist/module/lib/transformers.js");
+/* harmony import */ var _RealtimeClient__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./RealtimeClient */ "./node_modules/@supabase/realtime-js/dist/module/RealtimeClient.js");
+/* harmony import */ var _RealtimeSubscription__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./RealtimeSubscription */ "./node_modules/@supabase/realtime-js/dist/module/RealtimeSubscription.js");
+
+
+
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/constants.js":
+/*!*************************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/constants.js ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "CHANNEL_EVENTS": () => (/* binding */ CHANNEL_EVENTS),
+/* harmony export */   "CHANNEL_STATES": () => (/* binding */ CHANNEL_STATES),
+/* harmony export */   "CONNECTION_STATE": () => (/* binding */ CONNECTION_STATE),
+/* harmony export */   "DEFAULT_HEADERS": () => (/* binding */ DEFAULT_HEADERS),
+/* harmony export */   "DEFAULT_TIMEOUT": () => (/* binding */ DEFAULT_TIMEOUT),
+/* harmony export */   "SOCKET_STATES": () => (/* binding */ SOCKET_STATES),
+/* harmony export */   "TRANSPORTS": () => (/* binding */ TRANSPORTS),
+/* harmony export */   "VSN": () => (/* binding */ VSN),
+/* harmony export */   "WS_CLOSE_NORMAL": () => (/* binding */ WS_CLOSE_NORMAL)
+/* harmony export */ });
+/* harmony import */ var _version__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./version */ "./node_modules/@supabase/realtime-js/dist/module/lib/version.js");
+
+const DEFAULT_HEADERS = { 'X-Client-Info': `realtime-js/${_version__WEBPACK_IMPORTED_MODULE_0__.version}` };
+const VSN = '1.0.0';
+const DEFAULT_TIMEOUT = 10000;
+const WS_CLOSE_NORMAL = 1000;
+var SOCKET_STATES;
+(function (SOCKET_STATES) {
+    SOCKET_STATES[SOCKET_STATES["connecting"] = 0] = "connecting";
+    SOCKET_STATES[SOCKET_STATES["open"] = 1] = "open";
+    SOCKET_STATES[SOCKET_STATES["closing"] = 2] = "closing";
+    SOCKET_STATES[SOCKET_STATES["closed"] = 3] = "closed";
+})(SOCKET_STATES || (SOCKET_STATES = {}));
+var CHANNEL_STATES;
+(function (CHANNEL_STATES) {
+    CHANNEL_STATES["closed"] = "closed";
+    CHANNEL_STATES["errored"] = "errored";
+    CHANNEL_STATES["joined"] = "joined";
+    CHANNEL_STATES["joining"] = "joining";
+    CHANNEL_STATES["leaving"] = "leaving";
+})(CHANNEL_STATES || (CHANNEL_STATES = {}));
+var CHANNEL_EVENTS;
+(function (CHANNEL_EVENTS) {
+    CHANNEL_EVENTS["close"] = "phx_close";
+    CHANNEL_EVENTS["error"] = "phx_error";
+    CHANNEL_EVENTS["join"] = "phx_join";
+    CHANNEL_EVENTS["reply"] = "phx_reply";
+    CHANNEL_EVENTS["leave"] = "phx_leave";
+    CHANNEL_EVENTS["access_token"] = "access_token";
+})(CHANNEL_EVENTS || (CHANNEL_EVENTS = {}));
+var TRANSPORTS;
+(function (TRANSPORTS) {
+    TRANSPORTS["websocket"] = "websocket";
+})(TRANSPORTS || (TRANSPORTS = {}));
+var CONNECTION_STATE;
+(function (CONNECTION_STATE) {
+    CONNECTION_STATE["Connecting"] = "connecting";
+    CONNECTION_STATE["Open"] = "open";
+    CONNECTION_STATE["Closing"] = "closing";
+    CONNECTION_STATE["Closed"] = "closed";
+})(CONNECTION_STATE || (CONNECTION_STATE = {}));
+//# sourceMappingURL=constants.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/push.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/push.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Push)
+/* harmony export */ });
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../lib/constants */ "./node_modules/@supabase/realtime-js/dist/module/lib/constants.js");
+
+class Push {
+    /**
+     * Initializes the Push
+     *
+     * @param channel The Channel
+     * @param event The event, for example `"phx_join"`
+     * @param payload The payload, for example `{user_id: 123}`
+     * @param timeout The push timeout in milliseconds
+     */
+    constructor(channel, event, payload = {}, timeout = _lib_constants__WEBPACK_IMPORTED_MODULE_0__.DEFAULT_TIMEOUT) {
+        this.channel = channel;
+        this.event = event;
+        this.payload = payload;
+        this.timeout = timeout;
+        this.sent = false;
+        this.timeoutTimer = undefined;
+        this.ref = '';
+        this.receivedResp = null;
+        this.recHooks = [];
+        this.refEvent = null;
+    }
+    resend(timeout) {
+        this.timeout = timeout;
+        this._cancelRefEvent();
+        this.ref = '';
+        this.refEvent = null;
+        this.receivedResp = null;
+        this.sent = false;
+        this.send();
+    }
+    send() {
+        if (this._hasReceived('timeout')) {
+            return;
+        }
+        this.startTimeout();
+        this.sent = true;
+        this.channel.socket.push({
+            topic: this.channel.topic,
+            event: this.event,
+            payload: this.payload,
+            ref: this.ref,
+        });
+    }
+    updatePayload(payload) {
+        this.payload = Object.assign(Object.assign({}, this.payload), payload);
+    }
+    receive(status, callback) {
+        var _a;
+        if (this._hasReceived(status)) {
+            callback((_a = this.receivedResp) === null || _a === void 0 ? void 0 : _a.response);
+        }
+        this.recHooks.push({ status, callback });
+        return this;
+    }
+    startTimeout() {
+        if (this.timeoutTimer) {
+            return;
+        }
+        this.ref = this.channel.socket.makeRef();
+        this.refEvent = this.channel.replyEventName(this.ref);
+        const callback = (payload) => {
+            this._cancelRefEvent();
+            this._cancelTimeout();
+            this.receivedResp = payload;
+            this._matchReceive(payload);
+        };
+        this.channel.on(this.refEvent, callback);
+        this.timeoutTimer = setTimeout(() => {
+            this.trigger('timeout', {});
+        }, this.timeout);
+    }
+    trigger(status, response) {
+        if (this.refEvent)
+            this.channel.trigger(this.refEvent, { status, response });
+    }
+    destroy() {
+        this._cancelRefEvent();
+        this._cancelTimeout();
+    }
+    _cancelRefEvent() {
+        if (!this.refEvent) {
+            return;
+        }
+        this.channel.off(this.refEvent);
+    }
+    _cancelTimeout() {
+        clearTimeout(this.timeoutTimer);
+        this.timeoutTimer = undefined;
+    }
+    _matchReceive({ status, response, }) {
+        this.recHooks
+            .filter((h) => h.status === status)
+            .forEach((h) => h.callback(response));
+    }
+    _hasReceived(status) {
+        return this.receivedResp && this.receivedResp.status === status;
+    }
+}
+//# sourceMappingURL=push.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/serializer.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/serializer.js ***!
+  \**************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Serializer)
+/* harmony export */ });
+// This file draws heavily from https://github.com/phoenixframework/phoenix/commit/cf098e9cf7a44ee6479d31d911a97d3c7430c6fe
+// License: https://github.com/phoenixframework/phoenix/blob/master/LICENSE.md
+class Serializer {
+    constructor() {
+        this.HEADER_LENGTH = 1;
+    }
+    decode(rawPayload, callback) {
+        if (rawPayload.constructor === ArrayBuffer) {
+            return callback(this._binaryDecode(rawPayload));
+        }
+        if (typeof rawPayload === 'string') {
+            return callback(JSON.parse(rawPayload));
+        }
+        return callback({});
+    }
+    _binaryDecode(buffer) {
+        const view = new DataView(buffer);
+        const decoder = new TextDecoder();
+        return this._decodeBroadcast(buffer, view, decoder);
+    }
+    _decodeBroadcast(buffer, view, decoder) {
+        const topicSize = view.getUint8(1);
+        const eventSize = view.getUint8(2);
+        let offset = this.HEADER_LENGTH + 2;
+        const topic = decoder.decode(buffer.slice(offset, offset + topicSize));
+        offset = offset + topicSize;
+        const event = decoder.decode(buffer.slice(offset, offset + eventSize));
+        offset = offset + eventSize;
+        const data = JSON.parse(decoder.decode(buffer.slice(offset, buffer.byteLength)));
+        return { ref: null, topic: topic, event: event, payload: data };
+    }
+}
+//# sourceMappingURL=serializer.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/timer.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/timer.js ***!
+  \*********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ Timer)
+/* harmony export */ });
+/**
+ * Creates a timer that accepts a `timerCalc` function to perform calculated timeout retries, such as exponential backoff.
+ *
+ * @example
+ *    let reconnectTimer = new Timer(() => this.connect(), function(tries){
+ *      return [1000, 5000, 10000][tries - 1] || 10000
+ *    })
+ *    reconnectTimer.scheduleTimeout() // fires after 1000
+ *    reconnectTimer.scheduleTimeout() // fires after 5000
+ *    reconnectTimer.reset()
+ *    reconnectTimer.scheduleTimeout() // fires after 1000
+ */
+class Timer {
+    constructor(callback, timerCalc) {
+        this.callback = callback;
+        this.timerCalc = timerCalc;
+        this.timer = undefined;
+        this.tries = 0;
+        this.callback = callback;
+        this.timerCalc = timerCalc;
+    }
+    reset() {
+        this.tries = 0;
+        clearTimeout(this.timer);
+    }
+    // Cancels any previous scheduleTimeout and schedules callback
+    scheduleTimeout() {
+        clearTimeout(this.timer);
+        this.timer = setTimeout(() => {
+            this.tries = this.tries + 1;
+            this.callback();
+        }, this.timerCalc(this.tries + 1));
+    }
+}
+//# sourceMappingURL=timer.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/transformers.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/transformers.js ***!
+  \****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "PostgresTypes": () => (/* binding */ PostgresTypes),
+/* harmony export */   "convertCell": () => (/* binding */ convertCell),
+/* harmony export */   "convertChangeData": () => (/* binding */ convertChangeData),
+/* harmony export */   "convertColumn": () => (/* binding */ convertColumn),
+/* harmony export */   "toArray": () => (/* binding */ toArray),
+/* harmony export */   "toBoolean": () => (/* binding */ toBoolean),
+/* harmony export */   "toJson": () => (/* binding */ toJson),
+/* harmony export */   "toNumber": () => (/* binding */ toNumber),
+/* harmony export */   "toTimestampString": () => (/* binding */ toTimestampString)
+/* harmony export */ });
+/**
+ * Helpers to convert the change Payload into native JS types.
+ */
+// Adapted from epgsql (src/epgsql_binary.erl), this module licensed under
+// 3-clause BSD found here: https://raw.githubusercontent.com/epgsql/epgsql/devel/LICENSE
+var PostgresTypes;
+(function (PostgresTypes) {
+    PostgresTypes["abstime"] = "abstime";
+    PostgresTypes["bool"] = "bool";
+    PostgresTypes["date"] = "date";
+    PostgresTypes["daterange"] = "daterange";
+    PostgresTypes["float4"] = "float4";
+    PostgresTypes["float8"] = "float8";
+    PostgresTypes["int2"] = "int2";
+    PostgresTypes["int4"] = "int4";
+    PostgresTypes["int4range"] = "int4range";
+    PostgresTypes["int8"] = "int8";
+    PostgresTypes["int8range"] = "int8range";
+    PostgresTypes["json"] = "json";
+    PostgresTypes["jsonb"] = "jsonb";
+    PostgresTypes["money"] = "money";
+    PostgresTypes["numeric"] = "numeric";
+    PostgresTypes["oid"] = "oid";
+    PostgresTypes["reltime"] = "reltime";
+    PostgresTypes["text"] = "text";
+    PostgresTypes["time"] = "time";
+    PostgresTypes["timestamp"] = "timestamp";
+    PostgresTypes["timestamptz"] = "timestamptz";
+    PostgresTypes["timetz"] = "timetz";
+    PostgresTypes["tsrange"] = "tsrange";
+    PostgresTypes["tstzrange"] = "tstzrange";
+})(PostgresTypes || (PostgresTypes = {}));
+/**
+ * Takes an array of columns and an object of string values then converts each string value
+ * to its mapped type.
+ *
+ * @param {{name: String, type: String}[]} columns
+ * @param {Object} record
+ * @param {Object} options The map of various options that can be applied to the mapper
+ * @param {Array} options.skipTypes The array of types that should not be converted
+ *
+ * @example convertChangeData([{name: 'first_name', type: 'text'}, {name: 'age', type: 'int4'}], {first_name: 'Paul', age:'33'}, {})
+ * //=>{ first_name: 'Paul', age: 33 }
+ */
+const convertChangeData = (columns, record, options = {}) => {
+    var _a;
+    const skipTypes = (_a = options.skipTypes) !== null && _a !== void 0 ? _a : [];
+    return Object.keys(record).reduce((acc, rec_key) => {
+        acc[rec_key] = convertColumn(rec_key, columns, record, skipTypes);
+        return acc;
+    }, {});
+};
+/**
+ * Converts the value of an individual column.
+ *
+ * @param {String} columnName The column that you want to convert
+ * @param {{name: String, type: String}[]} columns All of the columns
+ * @param {Object} record The map of string values
+ * @param {Array} skipTypes An array of types that should not be converted
+ * @return {object} Useless information
+ *
+ * @example convertColumn('age', [{name: 'first_name', type: 'text'}, {name: 'age', type: 'int4'}], {first_name: 'Paul', age: '33'}, [])
+ * //=> 33
+ * @example convertColumn('age', [{name: 'first_name', type: 'text'}, {name: 'age', type: 'int4'}], {first_name: 'Paul', age: '33'}, ['int4'])
+ * //=> "33"
+ */
+const convertColumn = (columnName, columns, record, skipTypes) => {
+    const column = columns.find((x) => x.name === columnName);
+    const colType = column === null || column === void 0 ? void 0 : column.type;
+    const value = record[columnName];
+    if (colType && !skipTypes.includes(colType)) {
+        return convertCell(colType, value);
+    }
+    return noop(value);
+};
+/**
+ * If the value of the cell is `null`, returns null.
+ * Otherwise converts the string value to the correct type.
+ * @param {String} type A postgres column type
+ * @param {String} stringValue The cell value
+ *
+ * @example convertCell('bool', 't')
+ * //=> true
+ * @example convertCell('int8', '10')
+ * //=> 10
+ * @example convertCell('_int4', '{1,2,3,4}')
+ * //=> [1,2,3,4]
+ */
+const convertCell = (type, value) => {
+    // if data type is an array
+    if (type.charAt(0) === '_') {
+        const dataType = type.slice(1, type.length);
+        return toArray(value, dataType);
+    }
+    // If not null, convert to correct type.
+    switch (type) {
+        case PostgresTypes.bool:
+            return toBoolean(value);
+        case PostgresTypes.float4:
+        case PostgresTypes.float8:
+        case PostgresTypes.int2:
+        case PostgresTypes.int4:
+        case PostgresTypes.int8:
+        case PostgresTypes.numeric:
+        case PostgresTypes.oid:
+            return toNumber(value);
+        case PostgresTypes.json:
+        case PostgresTypes.jsonb:
+            return toJson(value);
+        case PostgresTypes.timestamp:
+            return toTimestampString(value); // Format to be consistent with PostgREST
+        case PostgresTypes.abstime: // To allow users to cast it based on Timezone
+        case PostgresTypes.date: // To allow users to cast it based on Timezone
+        case PostgresTypes.daterange:
+        case PostgresTypes.int4range:
+        case PostgresTypes.int8range:
+        case PostgresTypes.money:
+        case PostgresTypes.reltime: // To allow users to cast it based on Timezone
+        case PostgresTypes.text:
+        case PostgresTypes.time: // To allow users to cast it based on Timezone
+        case PostgresTypes.timestamptz: // To allow users to cast it based on Timezone
+        case PostgresTypes.timetz: // To allow users to cast it based on Timezone
+        case PostgresTypes.tsrange:
+        case PostgresTypes.tstzrange:
+            return noop(value);
+        default:
+            // Return the value for remaining types
+            return noop(value);
+    }
+};
+const noop = (value) => {
+    return value;
+};
+const toBoolean = (value) => {
+    switch (value) {
+        case 't':
+            return true;
+        case 'f':
+            return false;
+        default:
+            return value;
+    }
+};
+const toNumber = (value) => {
+    if (typeof value === 'string') {
+        const parsedValue = parseFloat(value);
+        if (!Number.isNaN(parsedValue)) {
+            return parsedValue;
+        }
+    }
+    return value;
+};
+const toJson = (value) => {
+    if (typeof value === 'string') {
+        try {
+            return JSON.parse(value);
+        }
+        catch (error) {
+            console.log(`JSON parse error: ${error}`);
+            return value;
+        }
+    }
+    return value;
+};
+/**
+ * Converts a Postgres Array into a native JS array
+ *
+ * @example toArray('{}', 'int4')
+ * //=> []
+ * @example toArray('{"[2021-01-01,2021-12-31)","(2021-01-01,2021-12-32]"}', 'daterange')
+ * //=> ['[2021-01-01,2021-12-31)', '(2021-01-01,2021-12-32]']
+ * @example toArray([1,2,3,4], 'int4')
+ * //=> [1,2,3,4]
+ */
+const toArray = (value, type) => {
+    if (typeof value !== 'string') {
+        return value;
+    }
+    const lastIdx = value.length - 1;
+    const closeBrace = value[lastIdx];
+    const openBrace = value[0];
+    // Confirm value is a Postgres array by checking curly brackets
+    if (openBrace === '{' && closeBrace === '}') {
+        let arr;
+        const valTrim = value.slice(1, lastIdx);
+        // TODO: find a better solution to separate Postgres array data
+        try {
+            arr = JSON.parse('[' + valTrim + ']');
+        }
+        catch (_) {
+            // WARNING: splitting on comma does not cover all edge cases
+            arr = valTrim ? valTrim.split(',') : [];
+        }
+        return arr.map((val) => convertCell(type, val));
+    }
+    return value;
+};
+/**
+ * Fixes timestamp to be ISO-8601. Swaps the space between the date and time for a 'T'
+ * See https://github.com/supabase/supabase/issues/18
+ *
+ * @example toTimestampString('2019-09-10 00:00:00')
+ * //=> '2019-09-10T00:00:00'
+ */
+const toTimestampString = (value) => {
+    if (typeof value === 'string') {
+        return value.replace(' ', 'T');
+    }
+    return value;
+};
+//# sourceMappingURL=transformers.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/realtime-js/dist/module/lib/version.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@supabase/realtime-js/dist/module/lib/version.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "version": () => (/* binding */ version)
+/* harmony export */ });
+const version = '1.7.4';
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/StorageClient.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/StorageClient.js ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "StorageClient": () => (/* binding */ StorageClient)
+/* harmony export */ });
+/* harmony import */ var _lib__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./lib */ "./node_modules/@supabase/storage-js/dist/module/lib/StorageBucketApi.js");
+/* harmony import */ var _lib__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./lib */ "./node_modules/@supabase/storage-js/dist/module/lib/StorageFileApi.js");
+
+class StorageClient extends _lib__WEBPACK_IMPORTED_MODULE_0__.StorageBucketApi {
+    constructor(url, headers = {}, fetch) {
+        super(url, headers, fetch);
+    }
+    /**
+     * Perform file operation in a bucket.
+     *
+     * @param id The bucket id to operate on.
+     */
+    from(id) {
+        return new _lib__WEBPACK_IMPORTED_MODULE_1__.StorageFileApi(this.url, this.headers, id, this.fetch);
+    }
+}
+//# sourceMappingURL=StorageClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/StorageBucketApi.js":
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/StorageBucketApi.js ***!
+  \*******************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "StorageBucketApi": () => (/* binding */ StorageBucketApi)
+/* harmony export */ });
+/* harmony import */ var _constants__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./constants */ "./node_modules/@supabase/storage-js/dist/module/lib/constants.js");
+/* harmony import */ var _fetch__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./fetch */ "./node_modules/@supabase/storage-js/dist/module/lib/fetch.js");
+/* harmony import */ var _helpers__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./helpers */ "./node_modules/@supabase/storage-js/dist/module/lib/helpers.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+
+class StorageBucketApi {
+    constructor(url, headers = {}, fetch) {
+        this.url = url;
+        this.headers = Object.assign(Object.assign({}, _constants__WEBPACK_IMPORTED_MODULE_0__.DEFAULT_HEADERS), headers);
+        this.fetch = (0,_helpers__WEBPACK_IMPORTED_MODULE_1__.resolveFetch)(fetch);
+    }
+    /**
+     * Retrieves the details of all Storage buckets within an existing project.
+     */
+    listBuckets() {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.get)(this.fetch, `${this.url}/bucket`, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Retrieves the details of an existing Storage bucket.
+     *
+     * @param id The unique identifier of the bucket you would like to retrieve.
+     */
+    getBucket(id) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.get)(this.fetch, `${this.url}/bucket/${id}`, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Creates a new Storage bucket
+     *
+     * @param id A unique identifier for the bucket you are creating.
+     * @returns newly created bucket id
+     */
+    createBucket(id, options = { public: false }) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.post)(this.fetch, `${this.url}/bucket`, { id, name: id, public: options.public }, { headers: this.headers });
+                return { data: data.name, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Updates a new Storage bucket
+     *
+     * @param id A unique identifier for the bucket you are updating.
+     */
+    updateBucket(id, options) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.put)(this.fetch, `${this.url}/bucket/${id}`, { id, name: id, public: options.public }, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Removes all objects inside a single bucket.
+     *
+     * @param id The unique identifier of the bucket you would like to empty.
+     */
+    emptyBucket(id) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.post)(this.fetch, `${this.url}/bucket/${id}/empty`, {}, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Deletes an existing bucket. A bucket can't be deleted with existing objects inside it.
+     * You must first `empty()` the bucket.
+     *
+     * @param id The unique identifier of the bucket you would like to delete.
+     */
+    deleteBucket(id) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_2__.remove)(this.fetch, `${this.url}/bucket/${id}`, {}, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+}
+//# sourceMappingURL=StorageBucketApi.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/StorageFileApi.js":
+/*!*****************************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/StorageFileApi.js ***!
+  \*****************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "StorageFileApi": () => (/* binding */ StorageFileApi)
+/* harmony export */ });
+/* harmony import */ var _fetch__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./fetch */ "./node_modules/@supabase/storage-js/dist/module/lib/fetch.js");
+/* harmony import */ var _helpers__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./helpers */ "./node_modules/@supabase/storage-js/dist/module/lib/helpers.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+const DEFAULT_SEARCH_OPTIONS = {
+    limit: 100,
+    offset: 0,
+    sortBy: {
+        column: 'name',
+        order: 'asc',
+    },
+};
+const DEFAULT_FILE_OPTIONS = {
+    cacheControl: '3600',
+    contentType: 'text/plain;charset=UTF-8',
+    upsert: false,
+};
+class StorageFileApi {
+    constructor(url, headers = {}, bucketId, fetch) {
+        this.url = url;
+        this.headers = headers;
+        this.bucketId = bucketId;
+        this.fetch = (0,_helpers__WEBPACK_IMPORTED_MODULE_0__.resolveFetch)(fetch);
+    }
+    /**
+     * Uploads a file to an existing bucket or replaces an existing file at the specified path with a new one.
+     *
+     * @param method HTTP method.
+     * @param path The relative file path. Should be of the format `folder/subfolder/filename.png`. The bucket must already exist before attempting to upload.
+     * @param fileBody The body of the file to be stored in the bucket.
+     * @param fileOptions HTTP headers.
+     * `cacheControl`: string, the `Cache-Control: max-age=<seconds>` seconds value.
+     * `contentType`: string, the `Content-Type` header value. Should be specified if using a `fileBody` that is neither `Blob` nor `File` nor `FormData`, otherwise will default to `text/plain;charset=UTF-8`.
+     * `upsert`: boolean, whether to perform an upsert.
+     */
+    uploadOrUpdate(method, path, fileBody, fileOptions) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                let body;
+                const options = Object.assign(Object.assign({}, DEFAULT_FILE_OPTIONS), fileOptions);
+                const headers = Object.assign(Object.assign({}, this.headers), (method === 'POST' && { 'x-upsert': String(options.upsert) }));
+                if (typeof Blob !== 'undefined' && fileBody instanceof Blob) {
+                    body = new FormData();
+                    body.append('cacheControl', options.cacheControl);
+                    body.append('', fileBody);
+                }
+                else if (typeof FormData !== 'undefined' && fileBody instanceof FormData) {
+                    body = fileBody;
+                    body.append('cacheControl', options.cacheControl);
+                }
+                else {
+                    body = fileBody;
+                    headers['cache-control'] = `max-age=${options.cacheControl}`;
+                    headers['content-type'] = options.contentType;
+                }
+                const cleanPath = this._removeEmptyFolders(path);
+                const _path = this._getFinalPath(cleanPath);
+                const res = yield this.fetch(`${this.url}/object/${_path}`, {
+                    method,
+                    body: body,
+                    headers,
+                });
+                if (res.ok) {
+                    // const data = await res.json()
+                    // temporary fix till backend is updated to the latest storage-api version
+                    return { data: { Key: _path }, error: null };
+                }
+                else {
+                    const error = yield res.json();
+                    return { data: null, error };
+                }
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Uploads a file to an existing bucket.
+     *
+     * @param path The relative file path. Should be of the format `folder/subfolder/filename.png`. The bucket must already exist before attempting to upload.
+     * @param fileBody The body of the file to be stored in the bucket.
+     * @param fileOptions HTTP headers.
+     * `cacheControl`: string, the `Cache-Control: max-age=<seconds>` seconds value.
+     * `contentType`: string, the `Content-Type` header value. Should be specified if using a `fileBody` that is neither `Blob` nor `File` nor `FormData`, otherwise will default to `text/plain;charset=UTF-8`.
+     * `upsert`: boolean, whether to perform an upsert.
+     */
+    upload(path, fileBody, fileOptions) {
+        return __awaiter(this, void 0, void 0, function* () {
+            return this.uploadOrUpdate('POST', path, fileBody, fileOptions);
+        });
+    }
+    /**
+     * Replaces an existing file at the specified path with a new one.
+     *
+     * @param path The relative file path. Should be of the format `folder/subfolder/filename.png`. The bucket must already exist before attempting to upload.
+     * @param fileBody The body of the file to be stored in the bucket.
+     * @param fileOptions HTTP headers.
+     * `cacheControl`: string, the `Cache-Control: max-age=<seconds>` seconds value.
+     * `contentType`: string, the `Content-Type` header value. Should be specified if using a `fileBody` that is neither `Blob` nor `File` nor `FormData`, otherwise will default to `text/plain;charset=UTF-8`.
+     * `upsert`: boolean, whether to perform an upsert.
+     */
+    update(path, fileBody, fileOptions) {
+        return __awaiter(this, void 0, void 0, function* () {
+            return this.uploadOrUpdate('PUT', path, fileBody, fileOptions);
+        });
+    }
+    /**
+     * Moves an existing file.
+     *
+     * @param fromPath The original file path, including the current file name. For example `folder/image.png`.
+     * @param toPath The new file path, including the new file name. For example `folder/image-new.png`.
+     */
+    move(fromPath, toPath) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.post)(this.fetch, `${this.url}/object/move`, { bucketId: this.bucketId, sourceKey: fromPath, destinationKey: toPath }, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Copies an existing file.
+     *
+     * @param fromPath The original file path, including the current file name. For example `folder/image.png`.
+     * @param toPath The new file path, including the new file name. For example `folder/image-copy.png`.
+     */
+    copy(fromPath, toPath) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.post)(this.fetch, `${this.url}/object/copy`, { bucketId: this.bucketId, sourceKey: fromPath, destinationKey: toPath }, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Create signed URL to download file without requiring permissions. This URL can be valid for a set number of seconds.
+     *
+     * @param path The file path to be downloaded, including the current file name. For example `folder/image.png`.
+     * @param expiresIn The number of seconds until the signed URL expires. For example, `60` for a URL which is valid for one minute.
+     */
+    createSignedUrl(path, expiresIn) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const _path = this._getFinalPath(path);
+                let data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.post)(this.fetch, `${this.url}/object/sign/${_path}`, { expiresIn }, { headers: this.headers });
+                const signedURL = `${this.url}${data.signedURL}`;
+                data = { signedURL };
+                return { data, error: null, signedURL };
+            }
+            catch (error) {
+                return { data: null, error, signedURL: null };
+            }
+        });
+    }
+    /**
+     * Create signed URLs to download files without requiring permissions. These URLs can be valid for a set number of seconds.
+     *
+     * @param paths The file paths to be downloaded, including the current file names. For example `['folder/image.png', 'folder2/image2.png']`.
+     * @param expiresIn The number of seconds until the signed URLs expire. For example, `60` for URLs which are valid for one minute.
+     */
+    createSignedUrls(paths, expiresIn) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.post)(this.fetch, `${this.url}/object/sign/${this.bucketId}`, { expiresIn, paths }, { headers: this.headers });
+                return {
+                    data: data.map((datum) => (Object.assign(Object.assign({}, datum), { signedURL: datum.signedURL ? `${this.url}${datum.signedURL}` : null }))),
+                    error: null,
+                };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Downloads a file.
+     *
+     * @param path The file path to be downloaded, including the path and file name. For example `folder/image.png`.
+     */
+    download(path) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const _path = this._getFinalPath(path);
+                const res = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.get)(this.fetch, `${this.url}/object/${_path}`, {
+                    headers: this.headers,
+                    noResolveJson: true,
+                });
+                const data = yield res.blob();
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Retrieve URLs for assets in public buckets
+     *
+     * @param path The file path to be downloaded, including the path and file name. For example `folder/image.png`.
+     */
+    getPublicUrl(path) {
+        try {
+            const _path = this._getFinalPath(path);
+            const publicURL = `${this.url}/object/public/${_path}`;
+            const data = { publicURL };
+            return { data, error: null, publicURL };
+        }
+        catch (error) {
+            return { data: null, error, publicURL: null };
+        }
+    }
+    /**
+     * Deletes files within the same bucket
+     *
+     * @param paths An array of files to be deleted, including the path and file name. For example [`folder/image.png`].
+     */
+    remove(paths) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.remove)(this.fetch, `${this.url}/object/${this.bucketId}`, { prefixes: paths }, { headers: this.headers });
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    /**
+     * Get file metadata
+     * @param id the file id to retrieve metadata
+     */
+    // async getMetadata(id: string): Promise<{ data: Metadata | null; error: Error | null }> {
+    //   try {
+    //     const data = await get(`${this.url}/metadata/${id}`, { headers: this.headers })
+    //     return { data, error: null }
+    //   } catch (error) {
+    //     return { data: null, error }
+    //   }
+    // }
+    /**
+     * Update file metadata
+     * @param id the file id to update metadata
+     * @param meta the new file metadata
+     */
+    // async updateMetadata(
+    //   id: string,
+    //   meta: Metadata
+    // ): Promise<{ data: Metadata | null; error: Error | null }> {
+    //   try {
+    //     const data = await post(`${this.url}/metadata/${id}`, { ...meta }, { headers: this.headers })
+    //     return { data, error: null }
+    //   } catch (error) {
+    //     return { data: null, error }
+    //   }
+    // }
+    /**
+     * Lists all the files within a bucket.
+     * @param path The folder path.
+     * @param options Search options, including `limit`, `offset`, `sortBy`, and `search`.
+     * @param parameters Fetch parameters, currently only supports `signal`, which is an AbortController's signal
+     */
+    list(path, options, parameters) {
+        return __awaiter(this, void 0, void 0, function* () {
+            try {
+                const body = Object.assign(Object.assign(Object.assign({}, DEFAULT_SEARCH_OPTIONS), options), { prefix: path || '' });
+                const data = yield (0,_fetch__WEBPACK_IMPORTED_MODULE_1__.post)(this.fetch, `${this.url}/object/list/${this.bucketId}`, body, { headers: this.headers }, parameters);
+                return { data, error: null };
+            }
+            catch (error) {
+                return { data: null, error };
+            }
+        });
+    }
+    _getFinalPath(path) {
+        return `${this.bucketId}/${path}`;
+    }
+    _removeEmptyFolders(path) {
+        return path.replace(/^\/|\/$/g, '').replace(/\/+/g, '/');
+    }
+}
+//# sourceMappingURL=StorageFileApi.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/constants.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/constants.js ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "DEFAULT_HEADERS": () => (/* binding */ DEFAULT_HEADERS)
+/* harmony export */ });
+/* harmony import */ var _version__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./version */ "./node_modules/@supabase/storage-js/dist/module/lib/version.js");
+
+const DEFAULT_HEADERS = { 'X-Client-Info': `storage-js/${_version__WEBPACK_IMPORTED_MODULE_0__.version}` };
+//# sourceMappingURL=constants.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/fetch.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/fetch.js ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "get": () => (/* binding */ get),
+/* harmony export */   "post": () => (/* binding */ post),
+/* harmony export */   "put": () => (/* binding */ put),
+/* harmony export */   "remove": () => (/* binding */ remove)
+/* harmony export */ });
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+const _getErrorMessage = (err) => err.msg || err.message || err.error_description || err.error || JSON.stringify(err);
+const handleError = (error, reject) => {
+    if (typeof error.json !== 'function') {
+        return reject(error);
+    }
+    error.json().then((err) => {
+        return reject({
+            message: _getErrorMessage(err),
+            status: (error === null || error === void 0 ? void 0 : error.status) || 500,
+        });
+    });
+};
+const _getRequestParams = (method, options, parameters, body) => {
+    const params = { method, headers: (options === null || options === void 0 ? void 0 : options.headers) || {} };
+    if (method === 'GET') {
+        return params;
+    }
+    params.headers = Object.assign({ 'Content-Type': 'application/json' }, options === null || options === void 0 ? void 0 : options.headers);
+    params.body = JSON.stringify(body);
+    return Object.assign(Object.assign({}, params), parameters);
+};
+function _handleRequest(fetcher, method, url, options, parameters, body) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return new Promise((resolve, reject) => {
+            fetcher(url, _getRequestParams(method, options, parameters, body))
+                .then((result) => {
+                if (!result.ok)
+                    throw result;
+                if (options === null || options === void 0 ? void 0 : options.noResolveJson)
+                    return resolve(result);
+                return result.json();
+            })
+                .then((data) => resolve(data))
+                .catch((error) => handleError(error, reject));
+        });
+    });
+}
+function get(fetcher, url, options, parameters) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'GET', url, options, parameters);
+    });
+}
+function post(fetcher, url, body, options, parameters) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'POST', url, options, parameters, body);
+    });
+}
+function put(fetcher, url, body, options, parameters) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'PUT', url, options, parameters, body);
+    });
+}
+function remove(fetcher, url, body, options, parameters) {
+    return __awaiter(this, void 0, void 0, function* () {
+        return _handleRequest(fetcher, 'DELETE', url, options, parameters, body);
+    });
+}
+//# sourceMappingURL=fetch.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/helpers.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/helpers.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "resolveFetch": () => (/* binding */ resolveFetch)
+/* harmony export */ });
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+const resolveFetch = (customFetch) => {
+    let _fetch;
+    if (customFetch) {
+        _fetch = customFetch;
+    }
+    else if (typeof fetch === 'undefined') {
+        _fetch = (...args) => __awaiter(void 0, void 0, void 0, function* () { return yield (yield __webpack_require__.e(/*! import() */ "vendors-node_modules_cross-fetch_dist_browser-ponyfill_js").then(__webpack_require__.t.bind(__webpack_require__, /*! cross-fetch */ "./node_modules/cross-fetch/dist/browser-ponyfill.js", 23))).fetch(...args); });
+    }
+    else {
+        _fetch = fetch;
+    }
+    return (...args) => _fetch(...args);
+};
+//# sourceMappingURL=helpers.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/storage-js/dist/module/lib/version.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/@supabase/storage-js/dist/module/lib/version.js ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "version": () => (/* binding */ version)
+/* harmony export */ });
+// generated by genversion
+const version = '1.7.3';
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js ***!
+  \**************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* binding */ SupabaseClient)
+/* harmony export */ });
+/* harmony import */ var _lib_constants__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./lib/constants */ "./node_modules/@supabase/supabase-js/dist/module/lib/constants.js");
+/* harmony import */ var _lib_helpers__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./lib/helpers */ "./node_modules/@supabase/supabase-js/dist/module/lib/helpers.js");
+/* harmony import */ var _lib_SupabaseAuthClient__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./lib/SupabaseAuthClient */ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseAuthClient.js");
+/* harmony import */ var _lib_SupabaseQueryBuilder__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./lib/SupabaseQueryBuilder */ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseQueryBuilder.js");
+/* harmony import */ var _supabase_storage_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @supabase/storage-js */ "./node_modules/@supabase/storage-js/dist/module/StorageClient.js");
+/* harmony import */ var _supabase_functions_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @supabase/functions-js */ "./node_modules/@supabase/functions-js/dist/module/index.js");
+/* harmony import */ var _supabase_postgrest_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @supabase/postgrest-js */ "./node_modules/@supabase/postgrest-js/dist/module/index.js");
+/* harmony import */ var _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @supabase/realtime-js */ "./node_modules/@supabase/realtime-js/dist/module/index.js");
+var __awaiter = (undefined && undefined.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+
+
+
+
+
+
+
+
+const DEFAULT_OPTIONS = {
+    schema: 'public',
+    autoRefreshToken: true,
+    persistSession: true,
+    detectSessionInUrl: true,
+    multiTab: true,
+    headers: _lib_constants__WEBPACK_IMPORTED_MODULE_2__.DEFAULT_HEADERS,
+};
+/**
+ * Supabase Client.
+ *
+ * An isomorphic Javascript client for interacting with Postgres.
+ */
+class SupabaseClient {
+    /**
+     * Create a new client for use in the browser.
+     * @param supabaseUrl The unique Supabase URL which is supplied when you create a new project in your project dashboard.
+     * @param supabaseKey The unique Supabase Key which is supplied when you create a new project in your project dashboard.
+     * @param options.schema You can switch in between schemas. The schema needs to be on the list of exposed schemas inside Supabase.
+     * @param options.autoRefreshToken Set to "true" if you want to automatically refresh the token before expiring.
+     * @param options.persistSession Set to "true" if you want to automatically save the user session into local storage.
+     * @param options.detectSessionInUrl Set to "true" if you want to automatically detects OAuth grants in the URL and signs in the user.
+     * @param options.headers Any additional headers to send with each network request.
+     * @param options.realtime Options passed along to realtime-js constructor.
+     * @param options.multiTab Set to "false" if you want to disable multi-tab/window events.
+     * @param options.fetch A custom fetch implementation.
+     */
+    constructor(supabaseUrl, supabaseKey, options) {
+        this.supabaseUrl = supabaseUrl;
+        this.supabaseKey = supabaseKey;
+        if (!supabaseUrl)
+            throw new Error('supabaseUrl is required.');
+        if (!supabaseKey)
+            throw new Error('supabaseKey is required.');
+        const _supabaseUrl = (0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.stripTrailingSlash)(supabaseUrl);
+        const settings = Object.assign(Object.assign({}, DEFAULT_OPTIONS), options);
+        this.restUrl = `${_supabaseUrl}/rest/v1`;
+        this.realtimeUrl = `${_supabaseUrl}/realtime/v1`.replace('http', 'ws');
+        this.authUrl = `${_supabaseUrl}/auth/v1`;
+        this.storageUrl = `${_supabaseUrl}/storage/v1`;
+        const isPlatform = _supabaseUrl.match(/(supabase\.co)|(supabase\.in)/);
+        if (isPlatform) {
+            const urlParts = _supabaseUrl.split('.');
+            this.functionsUrl = `${urlParts[0]}.functions.${urlParts[1]}.${urlParts[2]}`;
+        }
+        else {
+            this.functionsUrl = `${_supabaseUrl}/functions/v1`;
+        }
+        this.schema = settings.schema;
+        this.multiTab = settings.multiTab;
+        this.fetch = settings.fetch;
+        this.headers = Object.assign(Object.assign({}, _lib_constants__WEBPACK_IMPORTED_MODULE_2__.DEFAULT_HEADERS), options === null || options === void 0 ? void 0 : options.headers);
+        this.shouldThrowOnError = settings.shouldThrowOnError || false;
+        this.auth = this._initSupabaseAuthClient(settings);
+        this.realtime = this._initRealtimeClient(Object.assign({ headers: this.headers }, settings.realtime));
+        this._listenForAuthEvents();
+        this._listenForMultiTabEvents();
+        // In the future we might allow the user to pass in a logger to receive these events.
+        // this.realtime.onOpen(() => console.log('OPEN'))
+        // this.realtime.onClose(() => console.log('CLOSED'))
+        // this.realtime.onError((e: Error) => console.log('Socket error', e))
+    }
+    /**
+     * Supabase Functions allows you to deploy and invoke edge functions.
+     */
+    get functions() {
+        return new _supabase_functions_js__WEBPACK_IMPORTED_MODULE_4__.FunctionsClient(this.functionsUrl, {
+            headers: this._getAuthHeaders(),
+            customFetch: this.fetch,
+        });
+    }
+    /**
+     * Supabase Storage allows you to manage user-generated content, such as photos or videos.
+     */
+    get storage() {
+        return new _supabase_storage_js__WEBPACK_IMPORTED_MODULE_5__.StorageClient(this.storageUrl, this._getAuthHeaders(), this.fetch);
+    }
+    /**
+     * Perform a table operation.
+     *
+     * @param table The table name to operate on.
+     */
+    from(table) {
+        const url = `${this.restUrl}/${table}`;
+        return new _lib_SupabaseQueryBuilder__WEBPACK_IMPORTED_MODULE_6__.SupabaseQueryBuilder(url, {
+            headers: this._getAuthHeaders(),
+            schema: this.schema,
+            realtime: this.realtime,
+            table,
+            fetch: this.fetch,
+            shouldThrowOnError: this.shouldThrowOnError,
+        });
+    }
+    /**
+     * Perform a function call.
+     *
+     * @param fn  The function name to call.
+     * @param params  The parameters to pass to the function call.
+     * @param head   When set to true, no data will be returned.
+     * @param count  Count algorithm to use to count rows in a table.
+     *
+     */
+    rpc(fn, params, { head = false, count = null, } = {}) {
+        const rest = this._initPostgRESTClient();
+        return rest.rpc(fn, params, { head, count });
+    }
+    /**
+     * Closes and removes all subscriptions and returns a list of removed
+     * subscriptions and their errors.
+     */
+    removeAllSubscriptions() {
+        return __awaiter(this, void 0, void 0, function* () {
+            const allSubs = this.getSubscriptions().slice();
+            const allSubPromises = allSubs.map((sub) => this.removeSubscription(sub));
+            const allRemovedSubs = yield Promise.all(allSubPromises);
+            return allRemovedSubs.map(({ error }, i) => {
+                return {
+                    data: { subscription: allSubs[i] },
+                    error,
+                };
+            });
+        });
+    }
+    /**
+     * Closes and removes a subscription and returns the number of open subscriptions.
+     *
+     * @param subscription The subscription you want to close and remove.
+     */
+    removeSubscription(subscription) {
+        return __awaiter(this, void 0, void 0, function* () {
+            const { error } = yield this._closeSubscription(subscription);
+            const allSubs = this.getSubscriptions();
+            const openSubCount = allSubs.filter((chan) => chan.isJoined()).length;
+            if (allSubs.length === 0)
+                yield this.realtime.disconnect();
+            return { data: { openSubscriptions: openSubCount }, error };
+        });
+    }
+    _closeSubscription(subscription) {
+        return __awaiter(this, void 0, void 0, function* () {
+            let error = null;
+            if (!subscription.isClosed()) {
+                const { error: unsubError } = yield this._unsubscribeSubscription(subscription);
+                error = unsubError;
+            }
+            this.realtime.remove(subscription);
+            return { error };
+        });
+    }
+    _unsubscribeSubscription(subscription) {
+        return new Promise((resolve) => {
+            subscription
+                .unsubscribe()
+                .receive('ok', () => resolve({ error: null }))
+                .receive('error', (error) => resolve({ error }))
+                .receive('timeout', () => resolve({ error: new Error('timed out') }));
+        });
+    }
+    /**
+     * Returns an array of all your subscriptions.
+     */
+    getSubscriptions() {
+        return this.realtime.channels;
+    }
+    _initSupabaseAuthClient({ autoRefreshToken, persistSession, detectSessionInUrl, localStorage, headers, fetch, cookieOptions, multiTab, }) {
+        const authHeaders = {
+            Authorization: `Bearer ${this.supabaseKey}`,
+            apikey: `${this.supabaseKey}`,
+        };
+        return new _lib_SupabaseAuthClient__WEBPACK_IMPORTED_MODULE_7__.SupabaseAuthClient({
+            url: this.authUrl,
+            headers: Object.assign(Object.assign({}, headers), authHeaders),
+            autoRefreshToken,
+            persistSession,
+            detectSessionInUrl,
+            localStorage,
+            fetch,
+            cookieOptions,
+            multiTab,
+        });
+    }
+    _initRealtimeClient(options) {
+        return new _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__.RealtimeClient(this.realtimeUrl, Object.assign(Object.assign({}, options), { params: Object.assign(Object.assign({}, options === null || options === void 0 ? void 0 : options.params), { apikey: this.supabaseKey }) }));
+    }
+    _initPostgRESTClient() {
+        return new _supabase_postgrest_js__WEBPACK_IMPORTED_MODULE_0__.PostgrestClient(this.restUrl, {
+            headers: this._getAuthHeaders(),
+            schema: this.schema,
+            fetch: this.fetch,
+            throwOnError: this.shouldThrowOnError,
+        });
+    }
+    _getAuthHeaders() {
+        var _a, _b;
+        const headers = Object.assign({}, this.headers);
+        const authBearer = (_b = (_a = this.auth.session()) === null || _a === void 0 ? void 0 : _a.access_token) !== null && _b !== void 0 ? _b : this.supabaseKey;
+        headers['apikey'] = this.supabaseKey;
+        headers['Authorization'] = headers['Authorization'] || `Bearer ${authBearer}`;
+        return headers;
+    }
+    _listenForMultiTabEvents() {
+        if (!this.multiTab || !(0,_lib_helpers__WEBPACK_IMPORTED_MODULE_3__.isBrowser)() || !(window === null || window === void 0 ? void 0 : window.addEventListener)) {
+            return null;
+        }
+        try {
+            return window === null || window === void 0 ? void 0 : window.addEventListener('storage', (e) => {
+                var _a, _b, _c;
+                if (e.key === _lib_constants__WEBPACK_IMPORTED_MODULE_2__.STORAGE_KEY) {
+                    const newSession = JSON.parse(String(e.newValue));
+                    const accessToken = (_b = (_a = newSession === null || newSession === void 0 ? void 0 : newSession.currentSession) === null || _a === void 0 ? void 0 : _a.access_token) !== null && _b !== void 0 ? _b : undefined;
+                    const previousAccessToken = (_c = this.auth.session()) === null || _c === void 0 ? void 0 : _c.access_token;
+                    if (!accessToken) {
+                        this._handleTokenChanged('SIGNED_OUT', accessToken, 'STORAGE');
+                    }
+                    else if (!previousAccessToken && accessToken) {
+                        this._handleTokenChanged('SIGNED_IN', accessToken, 'STORAGE');
+                    }
+                    else if (previousAccessToken !== accessToken) {
+                        this._handleTokenChanged('TOKEN_REFRESHED', accessToken, 'STORAGE');
+                    }
+                }
+            });
+        }
+        catch (error) {
+            console.error('_listenForMultiTabEvents', error);
+            return null;
+        }
+    }
+    _listenForAuthEvents() {
+        let { data } = this.auth.onAuthStateChange((event, session) => {
+            this._handleTokenChanged(event, session === null || session === void 0 ? void 0 : session.access_token, 'CLIENT');
+        });
+        return data;
+    }
+    _handleTokenChanged(event, token, source) {
+        if ((event === 'TOKEN_REFRESHED' || event === 'SIGNED_IN') &&
+            this.changedAccessToken !== token) {
+            // Token has changed
+            this.realtime.setAuth(token);
+            // Ideally we should call this.auth.recoverSession() - need to make public
+            // to trigger a "SIGNED_IN" event on this client.
+            if (source == 'STORAGE')
+                this.auth.setAuth(token);
+            this.changedAccessToken = token;
+        }
+        else if (event === 'SIGNED_OUT' || event === 'USER_DELETED') {
+            // Token is removed
+            this.realtime.setAuth(this.supabaseKey);
+            if (source == 'STORAGE')
+                this.auth.signOut();
+        }
+    }
+}
+//# sourceMappingURL=SupabaseClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/index.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/index.js ***!
+  \*****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "GoTrueApi": () => (/* reexport safe */ _supabase_gotrue_js__WEBPACK_IMPORTED_MODULE_0__.GoTrueApi),
+/* harmony export */   "GoTrueClient": () => (/* reexport safe */ _supabase_gotrue_js__WEBPACK_IMPORTED_MODULE_0__.GoTrueClient),
+/* harmony export */   "RealtimeClient": () => (/* reexport safe */ _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__.RealtimeClient),
+/* harmony export */   "RealtimeSubscription": () => (/* reexport safe */ _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__.RealtimeSubscription),
+/* harmony export */   "SupabaseClient": () => (/* reexport safe */ _SupabaseClient__WEBPACK_IMPORTED_MODULE_2__["default"]),
+/* harmony export */   "Transformers": () => (/* reexport safe */ _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__.Transformers),
+/* harmony export */   "createClient": () => (/* binding */ createClient)
+/* harmony export */ });
+/* harmony import */ var _SupabaseClient__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./SupabaseClient */ "./node_modules/@supabase/supabase-js/dist/module/SupabaseClient.js");
+/* harmony import */ var _supabase_gotrue_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @supabase/gotrue-js */ "./node_modules/@supabase/gotrue-js/dist/module/index.js");
+/* harmony import */ var _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @supabase/realtime-js */ "./node_modules/@supabase/realtime-js/dist/module/index.js");
+
+
+
+/**
+ * Creates a new Supabase Client.
+ */
+const createClient = (supabaseUrl, supabaseKey, options) => {
+    return new _SupabaseClient__WEBPACK_IMPORTED_MODULE_2__["default"](supabaseUrl, supabaseKey, options);
+};
+
+//# sourceMappingURL=index.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseAuthClient.js":
+/*!**********************************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseAuthClient.js ***!
+  \**********************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "SupabaseAuthClient": () => (/* binding */ SupabaseAuthClient)
+/* harmony export */ });
+/* harmony import */ var _supabase_gotrue_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @supabase/gotrue-js */ "./node_modules/@supabase/gotrue-js/dist/module/index.js");
+
+class SupabaseAuthClient extends _supabase_gotrue_js__WEBPACK_IMPORTED_MODULE_0__.GoTrueClient {
+    constructor(options) {
+        super(options);
+    }
+}
+//# sourceMappingURL=SupabaseAuthClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseQueryBuilder.js":
+/*!************************************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseQueryBuilder.js ***!
+  \************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "SupabaseQueryBuilder": () => (/* binding */ SupabaseQueryBuilder)
+/* harmony export */ });
+/* harmony import */ var _supabase_postgrest_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @supabase/postgrest-js */ "./node_modules/@supabase/postgrest-js/dist/module/index.js");
+/* harmony import */ var _SupabaseRealtimeClient__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SupabaseRealtimeClient */ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseRealtimeClient.js");
+
+
+class SupabaseQueryBuilder extends _supabase_postgrest_js__WEBPACK_IMPORTED_MODULE_0__.PostgrestQueryBuilder {
+    constructor(url, { headers = {}, schema, realtime, table, fetch, shouldThrowOnError, }) {
+        super(url, { headers, schema, fetch, shouldThrowOnError });
+        this._subscription = null;
+        this._realtime = realtime;
+        this._headers = headers;
+        this._schema = schema;
+        this._table = table;
+    }
+    /**
+     * Subscribe to realtime changes in your database.
+     * @param event The database event which you would like to receive updates for, or you can use the special wildcard `*` to listen to all changes.
+     * @param callback A callback that will handle the payload that is sent whenever your database changes.
+     */
+    on(event, callback) {
+        if (!this._realtime.isConnected()) {
+            this._realtime.connect();
+        }
+        if (!this._subscription) {
+            this._subscription = new _SupabaseRealtimeClient__WEBPACK_IMPORTED_MODULE_1__.SupabaseRealtimeClient(this._realtime, this._headers, this._schema, this._table);
+        }
+        return this._subscription.on(event, callback);
+    }
+}
+//# sourceMappingURL=SupabaseQueryBuilder.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseRealtimeClient.js":
+/*!**************************************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/SupabaseRealtimeClient.js ***!
+  \**************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "SupabaseRealtimeClient": () => (/* binding */ SupabaseRealtimeClient)
+/* harmony export */ });
+/* harmony import */ var _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @supabase/realtime-js */ "./node_modules/@supabase/realtime-js/dist/module/index.js");
+
+class SupabaseRealtimeClient {
+    constructor(socket, headers, schema, tableName) {
+        const chanParams = {};
+        const topic = tableName === '*' ? `realtime:${schema}` : `realtime:${schema}:${tableName}`;
+        const userToken = headers['Authorization'].split(' ')[1];
+        if (userToken) {
+            chanParams['user_token'] = userToken;
+        }
+        this.subscription = socket.channel(topic, chanParams);
+    }
+    getPayloadRecords(payload) {
+        const records = {
+            new: {},
+            old: {},
+        };
+        if (payload.type === 'INSERT' || payload.type === 'UPDATE') {
+            records.new = _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_0__.Transformers.convertChangeData(payload.columns, payload.record);
+        }
+        if (payload.type === 'UPDATE' || payload.type === 'DELETE') {
+            records.old = _supabase_realtime_js__WEBPACK_IMPORTED_MODULE_0__.Transformers.convertChangeData(payload.columns, payload.old_record);
+        }
+        return records;
+    }
+    /**
+     * The event you want to listen to.
+     *
+     * @param event The event
+     * @param callback A callback function that is called whenever the event occurs.
+     */
+    on(event, callback) {
+        this.subscription.on(event, (payload) => {
+            let enrichedPayload = {
+                schema: payload.schema,
+                table: payload.table,
+                commit_timestamp: payload.commit_timestamp,
+                eventType: payload.type,
+                new: {},
+                old: {},
+                errors: payload.errors,
+            };
+            enrichedPayload = Object.assign(Object.assign({}, enrichedPayload), this.getPayloadRecords(payload));
+            callback(enrichedPayload);
+        });
+        return this;
+    }
+    /**
+     * Enables the subscription.
+     */
+    subscribe(callback = () => { }) {
+        this.subscription.onError((e) => callback('SUBSCRIPTION_ERROR', e));
+        this.subscription.onClose(() => callback('CLOSED'));
+        this.subscription
+            .subscribe()
+            .receive('ok', () => callback('SUBSCRIBED'))
+            .receive('error', (e) => callback('SUBSCRIPTION_ERROR', e))
+            .receive('timeout', () => callback('RETRYING_AFTER_TIMEOUT'));
+        return this.subscription;
+    }
+}
+//# sourceMappingURL=SupabaseRealtimeClient.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/constants.js":
+/*!*************************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/constants.js ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "DEFAULT_HEADERS": () => (/* binding */ DEFAULT_HEADERS),
+/* harmony export */   "STORAGE_KEY": () => (/* binding */ STORAGE_KEY)
+/* harmony export */ });
+/* harmony import */ var _version__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./version */ "./node_modules/@supabase/supabase-js/dist/module/lib/version.js");
+// constants.ts
+
+const DEFAULT_HEADERS = { 'X-Client-Info': `supabase-js/${_version__WEBPACK_IMPORTED_MODULE_0__.version}` };
+const STORAGE_KEY = 'supabase.auth.token';
+//# sourceMappingURL=constants.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/helpers.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/helpers.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "isBrowser": () => (/* binding */ isBrowser),
+/* harmony export */   "stripTrailingSlash": () => (/* binding */ stripTrailingSlash),
+/* harmony export */   "uuid": () => (/* binding */ uuid)
+/* harmony export */ });
+// helpers.ts
+function uuid() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+        var r = (Math.random() * 16) | 0, v = c == 'x' ? r : (r & 0x3) | 0x8;
+        return v.toString(16);
+    });
+}
+function stripTrailingSlash(url) {
+    return url.replace(/\/$/, '');
+}
+const isBrowser = () => typeof window !== 'undefined';
+//# sourceMappingURL=helpers.js.map
+
+/***/ }),
+
+/***/ "./node_modules/@supabase/supabase-js/dist/module/lib/version.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@supabase/supabase-js/dist/module/lib/version.js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "version": () => (/* binding */ version)
+/* harmony export */ });
+const version = '1.35.6';
+//# sourceMappingURL=version.js.map
+
+/***/ }),
+
+/***/ "./node_modules/cross-fetch/dist/browser-ponyfill.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/cross-fetch/dist/browser-ponyfill.js ***!
+  \***********************************************************/
+/***/ (function(module, exports) {
+
+var global = typeof self !== 'undefined' ? self : this;
+var __self__ = (function () {
+function F() {
+this.fetch = false;
+this.DOMException = global.DOMException
+}
+F.prototype = global;
+return new F();
+})();
+(function(self) {
+
+var irrelevant = (function (exports) {
+
+  var support = {
+    searchParams: 'URLSearchParams' in self,
+    iterable: 'Symbol' in self && 'iterator' in Symbol,
+    blob:
+      'FileReader' in self &&
+      'Blob' in self &&
+      (function() {
+        try {
+          new Blob();
+          return true
+        } catch (e) {
+          return false
+        }
+      })(),
+    formData: 'FormData' in self,
+    arrayBuffer: 'ArrayBuffer' in self
+  };
+
+  function isDataView(obj) {
+    return obj && DataView.prototype.isPrototypeOf(obj)
+  }
+
+  if (support.arrayBuffer) {
+    var viewClasses = [
+      '[object Int8Array]',
+      '[object Uint8Array]',
+      '[object Uint8ClampedArray]',
+      '[object Int16Array]',
+      '[object Uint16Array]',
+      '[object Int32Array]',
+      '[object Uint32Array]',
+      '[object Float32Array]',
+      '[object Float64Array]'
+    ];
+
+    var isArrayBufferView =
+      ArrayBuffer.isView ||
+      function(obj) {
+        return obj && viewClasses.indexOf(Object.prototype.toString.call(obj)) > -1
+      };
+  }
+
+  function normalizeName(name) {
+    if (typeof name !== 'string') {
+      name = String(name);
+    }
+    if (/[^a-z0-9\-#$%&'*+.^_`|~]/i.test(name)) {
+      throw new TypeError('Invalid character in header field name')
+    }
+    return name.toLowerCase()
+  }
+
+  function normalizeValue(value) {
+    if (typeof value !== 'string') {
+      value = String(value);
+    }
+    return value
+  }
+
+  // Build a destructive iterator for the value list
+  function iteratorFor(items) {
+    var iterator = {
+      next: function() {
+        var value = items.shift();
+        return {done: value === undefined, value: value}
+      }
+    };
+
+    if (support.iterable) {
+      iterator[Symbol.iterator] = function() {
+        return iterator
+      };
+    }
+
+    return iterator
+  }
+
+  function Headers(headers) {
+    this.map = {};
+
+    if (headers instanceof Headers) {
+      headers.forEach(function(value, name) {
+        this.append(name, value);
+      }, this);
+    } else if (Array.isArray(headers)) {
+      headers.forEach(function(header) {
+        this.append(header[0], header[1]);
+      }, this);
+    } else if (headers) {
+      Object.getOwnPropertyNames(headers).forEach(function(name) {
+        this.append(name, headers[name]);
+      }, this);
+    }
+  }
+
+  Headers.prototype.append = function(name, value) {
+    name = normalizeName(name);
+    value = normalizeValue(value);
+    var oldValue = this.map[name];
+    this.map[name] = oldValue ? oldValue + ', ' + value : value;
+  };
+
+  Headers.prototype['delete'] = function(name) {
+    delete this.map[normalizeName(name)];
+  };
+
+  Headers.prototype.get = function(name) {
+    name = normalizeName(name);
+    return this.has(name) ? this.map[name] : null
+  };
+
+  Headers.prototype.has = function(name) {
+    return this.map.hasOwnProperty(normalizeName(name))
+  };
+
+  Headers.prototype.set = function(name, value) {
+    this.map[normalizeName(name)] = normalizeValue(value);
+  };
+
+  Headers.prototype.forEach = function(callback, thisArg) {
+    for (var name in this.map) {
+      if (this.map.hasOwnProperty(name)) {
+        callback.call(thisArg, this.map[name], name, this);
+      }
+    }
+  };
+
+  Headers.prototype.keys = function() {
+    var items = [];
+    this.forEach(function(value, name) {
+      items.push(name);
+    });
+    return iteratorFor(items)
+  };
+
+  Headers.prototype.values = function() {
+    var items = [];
+    this.forEach(function(value) {
+      items.push(value);
+    });
+    return iteratorFor(items)
+  };
+
+  Headers.prototype.entries = function() {
+    var items = [];
+    this.forEach(function(value, name) {
+      items.push([name, value]);
+    });
+    return iteratorFor(items)
+  };
+
+  if (support.iterable) {
+    Headers.prototype[Symbol.iterator] = Headers.prototype.entries;
+  }
+
+  function consumed(body) {
+    if (body.bodyUsed) {
+      return Promise.reject(new TypeError('Already read'))
+    }
+    body.bodyUsed = true;
+  }
+
+  function fileReaderReady(reader) {
+    return new Promise(function(resolve, reject) {
+      reader.onload = function() {
+        resolve(reader.result);
+      };
+      reader.onerror = function() {
+        reject(reader.error);
+      };
+    })
+  }
+
+  function readBlobAsArrayBuffer(blob) {
+    var reader = new FileReader();
+    var promise = fileReaderReady(reader);
+    reader.readAsArrayBuffer(blob);
+    return promise
+  }
+
+  function readBlobAsText(blob) {
+    var reader = new FileReader();
+    var promise = fileReaderReady(reader);
+    reader.readAsText(blob);
+    return promise
+  }
+
+  function readArrayBufferAsText(buf) {
+    var view = new Uint8Array(buf);
+    var chars = new Array(view.length);
+
+    for (var i = 0; i < view.length; i++) {
+      chars[i] = String.fromCharCode(view[i]);
+    }
+    return chars.join('')
+  }
+
+  function bufferClone(buf) {
+    if (buf.slice) {
+      return buf.slice(0)
+    } else {
+      var view = new Uint8Array(buf.byteLength);
+      view.set(new Uint8Array(buf));
+      return view.buffer
+    }
+  }
+
+  function Body() {
+    this.bodyUsed = false;
+
+    this._initBody = function(body) {
+      this._bodyInit = body;
+      if (!body) {
+        this._bodyText = '';
+      } else if (typeof body === 'string') {
+        this._bodyText = body;
+      } else if (support.blob && Blob.prototype.isPrototypeOf(body)) {
+        this._bodyBlob = body;
+      } else if (support.formData && FormData.prototype.isPrototypeOf(body)) {
+        this._bodyFormData = body;
+      } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
+        this._bodyText = body.toString();
+      } else if (support.arrayBuffer && support.blob && isDataView(body)) {
+        this._bodyArrayBuffer = bufferClone(body.buffer);
+        // IE 10-11 can't handle a DataView body.
+        this._bodyInit = new Blob([this._bodyArrayBuffer]);
+      } else if (support.arrayBuffer && (ArrayBuffer.prototype.isPrototypeOf(body) || isArrayBufferView(body))) {
+        this._bodyArrayBuffer = bufferClone(body);
+      } else {
+        this._bodyText = body = Object.prototype.toString.call(body);
+      }
+
+      if (!this.headers.get('content-type')) {
+        if (typeof body === 'string') {
+          this.headers.set('content-type', 'text/plain;charset=UTF-8');
+        } else if (this._bodyBlob && this._bodyBlob.type) {
+          this.headers.set('content-type', this._bodyBlob.type);
+        } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
+          this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=UTF-8');
+        }
+      }
+    };
+
+    if (support.blob) {
+      this.blob = function() {
+        var rejected = consumed(this);
+        if (rejected) {
+          return rejected
+        }
+
+        if (this._bodyBlob) {
+          return Promise.resolve(this._bodyBlob)
+        } else if (this._bodyArrayBuffer) {
+          return Promise.resolve(new Blob([this._bodyArrayBuffer]))
+        } else if (this._bodyFormData) {
+          throw new Error('could not read FormData body as blob')
+        } else {
+          return Promise.resolve(new Blob([this._bodyText]))
+        }
+      };
+
+      this.arrayBuffer = function() {
+        if (this._bodyArrayBuffer) {
+          return consumed(this) || Promise.resolve(this._bodyArrayBuffer)
+        } else {
+          return this.blob().then(readBlobAsArrayBuffer)
+        }
+      };
+    }
+
+    this.text = function() {
+      var rejected = consumed(this);
+      if (rejected) {
+        return rejected
+      }
+
+      if (this._bodyBlob) {
+        return readBlobAsText(this._bodyBlob)
+      } else if (this._bodyArrayBuffer) {
+        return Promise.resolve(readArrayBufferAsText(this._bodyArrayBuffer))
+      } else if (this._bodyFormData) {
+        throw new Error('could not read FormData body as text')
+      } else {
+        return Promise.resolve(this._bodyText)
+      }
+    };
+
+    if (support.formData) {
+      this.formData = function() {
+        return this.text().then(decode)
+      };
+    }
+
+    this.json = function() {
+      return this.text().then(JSON.parse)
+    };
+
+    return this
+  }
+
+  // HTTP methods whose capitalization should be normalized
+  var methods = ['DELETE', 'GET', 'HEAD', 'OPTIONS', 'POST', 'PUT'];
+
+  function normalizeMethod(method) {
+    var upcased = method.toUpperCase();
+    return methods.indexOf(upcased) > -1 ? upcased : method
+  }
+
+  function Request(input, options) {
+    options = options || {};
+    var body = options.body;
+
+    if (input instanceof Request) {
+      if (input.bodyUsed) {
+        throw new TypeError('Already read')
+      }
+      this.url = input.url;
+      this.credentials = input.credentials;
+      if (!options.headers) {
+        this.headers = new Headers(input.headers);
+      }
+      this.method = input.method;
+      this.mode = input.mode;
+      this.signal = input.signal;
+      if (!body && input._bodyInit != null) {
+        body = input._bodyInit;
+        input.bodyUsed = true;
+      }
+    } else {
+      this.url = String(input);
+    }
+
+    this.credentials = options.credentials || this.credentials || 'same-origin';
+    if (options.headers || !this.headers) {
+      this.headers = new Headers(options.headers);
+    }
+    this.method = normalizeMethod(options.method || this.method || 'GET');
+    this.mode = options.mode || this.mode || null;
+    this.signal = options.signal || this.signal;
+    this.referrer = null;
+
+    if ((this.method === 'GET' || this.method === 'HEAD') && body) {
+      throw new TypeError('Body not allowed for GET or HEAD requests')
+    }
+    this._initBody(body);
+  }
+
+  Request.prototype.clone = function() {
+    return new Request(this, {body: this._bodyInit})
+  };
+
+  function decode(body) {
+    var form = new FormData();
+    body
+      .trim()
+      .split('&')
+      .forEach(function(bytes) {
+        if (bytes) {
+          var split = bytes.split('=');
+          var name = split.shift().replace(/\+/g, ' ');
+          var value = split.join('=').replace(/\+/g, ' ');
+          form.append(decodeURIComponent(name), decodeURIComponent(value));
+        }
+      });
+    return form
+  }
+
+  function parseHeaders(rawHeaders) {
+    var headers = new Headers();
+    // Replace instances of \r\n and \n followed by at least one space or horizontal tab with a space
+    // https://tools.ietf.org/html/rfc7230#section-3.2
+    var preProcessedHeaders = rawHeaders.replace(/\r?\n[\t ]+/g, ' ');
+    preProcessedHeaders.split(/\r?\n/).forEach(function(line) {
+      var parts = line.split(':');
+      var key = parts.shift().trim();
+      if (key) {
+        var value = parts.join(':').trim();
+        headers.append(key, value);
+      }
+    });
+    return headers
+  }
+
+  Body.call(Request.prototype);
+
+  function Response(bodyInit, options) {
+    if (!options) {
+      options = {};
+    }
+
+    this.type = 'default';
+    this.status = options.status === undefined ? 200 : options.status;
+    this.ok = this.status >= 200 && this.status < 300;
+    this.statusText = 'statusText' in options ? options.statusText : 'OK';
+    this.headers = new Headers(options.headers);
+    this.url = options.url || '';
+    this._initBody(bodyInit);
+  }
+
+  Body.call(Response.prototype);
+
+  Response.prototype.clone = function() {
+    return new Response(this._bodyInit, {
+      status: this.status,
+      statusText: this.statusText,
+      headers: new Headers(this.headers),
+      url: this.url
+    })
+  };
+
+  Response.error = function() {
+    var response = new Response(null, {status: 0, statusText: ''});
+    response.type = 'error';
+    return response
+  };
+
+  var redirectStatuses = [301, 302, 303, 307, 308];
+
+  Response.redirect = function(url, status) {
+    if (redirectStatuses.indexOf(status) === -1) {
+      throw new RangeError('Invalid status code')
+    }
+
+    return new Response(null, {status: status, headers: {location: url}})
+  };
+
+  exports.DOMException = self.DOMException;
+  try {
+    new exports.DOMException();
+  } catch (err) {
+    exports.DOMException = function(message, name) {
+      this.message = message;
+      this.name = name;
+      var error = Error(message);
+      this.stack = error.stack;
+    };
+    exports.DOMException.prototype = Object.create(Error.prototype);
+    exports.DOMException.prototype.constructor = exports.DOMException;
+  }
+
+  function fetch(input, init) {
+    return new Promise(function(resolve, reject) {
+      var request = new Request(input, init);
+
+      if (request.signal && request.signal.aborted) {
+        return reject(new exports.DOMException('Aborted', 'AbortError'))
+      }
+
+      var xhr = new XMLHttpRequest();
+
+      function abortXhr() {
+        xhr.abort();
+      }
+
+      xhr.onload = function() {
+        var options = {
+          status: xhr.status,
+          statusText: xhr.statusText,
+          headers: parseHeaders(xhr.getAllResponseHeaders() || '')
+        };
+        options.url = 'responseURL' in xhr ? xhr.responseURL : options.headers.get('X-Request-URL');
+        var body = 'response' in xhr ? xhr.response : xhr.responseText;
+        resolve(new Response(body, options));
+      };
+
+      xhr.onerror = function() {
+        reject(new TypeError('Network request failed'));
+      };
+
+      xhr.ontimeout = function() {
+        reject(new TypeError('Network request failed'));
+      };
+
+      xhr.onabort = function() {
+        reject(new exports.DOMException('Aborted', 'AbortError'));
+      };
+
+      xhr.open(request.method, request.url, true);
+
+      if (request.credentials === 'include') {
+        xhr.withCredentials = true;
+      } else if (request.credentials === 'omit') {
+        xhr.withCredentials = false;
+      }
+
+      if ('responseType' in xhr && support.blob) {
+        xhr.responseType = 'blob';
+      }
+
+      request.headers.forEach(function(value, name) {
+        xhr.setRequestHeader(name, value);
+      });
+
+      if (request.signal) {
+        request.signal.addEventListener('abort', abortXhr);
+
+        xhr.onreadystatechange = function() {
+          // DONE (success or failure)
+          if (xhr.readyState === 4) {
+            request.signal.removeEventListener('abort', abortXhr);
+          }
+        };
+      }
+
+      xhr.send(typeof request._bodyInit === 'undefined' ? null : request._bodyInit);
+    })
+  }
+
+  fetch.polyfill = true;
+
+  if (!self.fetch) {
+    self.fetch = fetch;
+    self.Headers = Headers;
+    self.Request = Request;
+    self.Response = Response;
+  }
+
+  exports.Headers = Headers;
+  exports.Request = Request;
+  exports.Response = Response;
+  exports.fetch = fetch;
+
+  Object.defineProperty(exports, '__esModule', { value: true });
+
+  return exports;
+
+})({});
+})(__self__);
+__self__.fetch.ponyfill = true;
+// Remove "polyfill" property added by whatwg-fetch
+delete __self__.fetch.polyfill;
+// Choose between native implementation (global) or custom implementation (__self__)
+// var ctx = global.fetch ? global : __self__;
+var ctx = __self__; // this line disable service worker support temporarily
+exports = ctx.fetch // To enable: import fetch from 'cross-fetch'
+exports["default"] = ctx.fetch // For TypeScript consumers without esModuleInterop.
+exports.fetch = ctx.fetch // To enable: import {fetch} from 'cross-fetch'
+exports.Headers = ctx.Headers
+exports.Request = ctx.Request
+exports.Response = ctx.Response
+module.exports = exports
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/styles.css":
+/*!********************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/styles.css ***!
+  \********************************************************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/sourceMaps.js */ "./node_modules/css-loader/dist/runtime/sourceMaps.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ "./node_modules/css-loader/dist/runtime/getUrl.js");
+/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);
+// Imports
+
+
+
+var ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 20 20%27%3e%3cpath stroke=%27%236b7280%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%271.5%27 d=%27M6 8l4 4 4-4%27/%3e%3c/svg%3e */ "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 20 20%27%3e%3cpath stroke=%27%236b7280%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%271.5%27 d=%27M6 8l4 4 4-4%27/%3e%3c/svg%3e"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e */ "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle cx=%278%27 cy=%278%27 r=%273%27/%3e%3c/svg%3e */ "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle cx=%278%27 cy=%278%27 r=%273%27/%3e%3c/svg%3e"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 16 16%27%3e%3cpath stroke=%27white%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27M4 8h8%27/%3e%3c/svg%3e */ "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 16 16%27%3e%3cpath stroke=%27white%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27M4 8h8%27/%3e%3c/svg%3e"), __webpack_require__.b);
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);
+var ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);
+var ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);
+var ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "/*\n! tailwindcss v3.1.8 | MIT License | https://tailwindcss.com\n*/\n\n/*\n1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)\n2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)\n*/\n\n*,\n::before,\n::after {\n  box-sizing: border-box;\n  /* 1 */\n  border-width: 0;\n  /* 2 */\n  border-style: solid;\n  /* 2 */\n  border-color: #e5e7eb;\n  /* 2 */\n}\n\n::before,\n::after {\n  --tw-content: '';\n}\n\n/*\n1. Use a consistent sensible line-height in all browsers.\n2. Prevent adjustments of font size after orientation changes in iOS.\n3. Use a more readable tab size.\n4. Use the user's configured `sans` font-family by default.\n*/\n\nhtml {\n  line-height: 1.5;\n  /* 1 */\n  -webkit-text-size-adjust: 100%;\n  /* 2 */\n  -moz-tab-size: 4;\n  /* 3 */\n  -o-tab-size: 4;\n     tab-size: 4;\n  /* 3 */\n  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  /* 4 */\n}\n\n/*\n1. Remove the margin in all browsers.\n2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.\n*/\n\nbody {\n  margin: 0;\n  /* 1 */\n  line-height: inherit;\n  /* 2 */\n}\n\n/*\n1. Add the correct height in Firefox.\n2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)\n3. Ensure horizontal rules are visible by default.\n*/\n\nhr {\n  height: 0;\n  /* 1 */\n  color: inherit;\n  /* 2 */\n  border-top-width: 1px;\n  /* 3 */\n}\n\n/*\nAdd the correct text decoration in Chrome, Edge, and Safari.\n*/\n\nabbr:where([title]) {\n  -webkit-text-decoration: underline dotted;\n          text-decoration: underline;\n          -webkit-text-decoration: underline dotted currentColor;\n                  text-decoration: underline dotted currentColor;\n}\n\n/*\nRemove the default font size and weight for headings.\n*/\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: inherit;\n  font-weight: inherit;\n}\n\n/*\nReset links to optimize for opt-in styling instead of opt-out.\n*/\n\na {\n  color: inherit;\n  text-decoration: inherit;\n}\n\n/*\nAdd the correct font weight in Edge and Safari.\n*/\n\nb,\nstrong {\n  font-weight: bolder;\n}\n\n/*\n1. Use the user's configured `mono` font family by default.\n2. Correct the odd `em` font sizing in all browsers.\n*/\n\ncode,\nkbd,\nsamp,\npre {\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  /* 1 */\n  font-size: 1em;\n  /* 2 */\n}\n\n/*\nAdd the correct font size in all browsers.\n*/\n\nsmall {\n  font-size: 80%;\n}\n\n/*\nPrevent `sub` and `sup` elements from affecting the line height in all browsers.\n*/\n\nsub,\nsup {\n  font-size: 75%;\n  line-height: 0;\n  position: relative;\n  vertical-align: baseline;\n}\n\nsub {\n  bottom: -0.25em;\n}\n\nsup {\n  top: -0.5em;\n}\n\n/*\n1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)\n2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)\n3. Remove gaps between table borders by default.\n*/\n\ntable {\n  text-indent: 0;\n  /* 1 */\n  border-color: inherit;\n  /* 2 */\n  border-collapse: collapse;\n  /* 3 */\n}\n\n/*\n1. Change the font styles in all browsers.\n2. Remove the margin in Firefox and Safari.\n3. Remove default padding in all browsers.\n*/\n\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n  font-family: inherit;\n  /* 1 */\n  font-size: 100%;\n  /* 1 */\n  font-weight: inherit;\n  /* 1 */\n  line-height: inherit;\n  /* 1 */\n  color: inherit;\n  /* 1 */\n  margin: 0;\n  /* 2 */\n  padding: 0;\n  /* 3 */\n}\n\n/*\nRemove the inheritance of text transform in Edge and Firefox.\n*/\n\nbutton,\nselect {\n  text-transform: none;\n}\n\n/*\n1. Correct the inability to style clickable types in iOS and Safari.\n2. Remove default button styles.\n*/\n\nbutton,\n[type='button'],\n[type='reset'],\n[type='submit'] {\n  -webkit-appearance: button;\n  /* 1 */\n  background-color: transparent;\n  /* 2 */\n  background-image: none;\n  /* 2 */\n}\n\n/*\nUse the modern Firefox focus style for all focusable elements.\n*/\n\n:-moz-focusring {\n  outline: auto;\n}\n\n/*\nRemove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)\n*/\n\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n\n/*\nAdd the correct vertical alignment in Chrome and Firefox.\n*/\n\nprogress {\n  vertical-align: baseline;\n}\n\n/*\nCorrect the cursor style of increment and decrement buttons in Safari.\n*/\n\n::-webkit-inner-spin-button,\n::-webkit-outer-spin-button {\n  height: auto;\n}\n\n/*\n1. Correct the odd appearance in Chrome and Safari.\n2. Correct the outline style in Safari.\n*/\n\n[type='search'] {\n  -webkit-appearance: textfield;\n  /* 1 */\n  outline-offset: -2px;\n  /* 2 */\n}\n\n/*\nRemove the inner padding in Chrome and Safari on macOS.\n*/\n\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n\n/*\n1. Correct the inability to style clickable types in iOS and Safari.\n2. Change font properties to `inherit` in Safari.\n*/\n\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  /* 1 */\n  font: inherit;\n  /* 2 */\n}\n\n/*\nAdd the correct display in Chrome and Safari.\n*/\n\nsummary {\n  display: list-item;\n}\n\n/*\nRemoves the default spacing and border for appropriate elements.\n*/\n\nblockquote,\ndl,\ndd,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhr,\nfigure,\np,\npre {\n  margin: 0;\n}\n\nfieldset {\n  margin: 0;\n  padding: 0;\n}\n\nlegend {\n  padding: 0;\n}\n\nol,\nul,\nmenu {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n/*\nPrevent resizing textareas horizontally by default.\n*/\n\ntextarea {\n  resize: vertical;\n}\n\n/*\n1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)\n2. Set the default placeholder color to the user's configured gray 400 color.\n*/\n\ninput::-moz-placeholder, textarea::-moz-placeholder {\n  opacity: 1;\n  /* 1 */\n  color: #9ca3af;\n  /* 2 */\n}\n\ninput::placeholder,\ntextarea::placeholder {\n  opacity: 1;\n  /* 1 */\n  color: #9ca3af;\n  /* 2 */\n}\n\n/*\nSet the default cursor for buttons.\n*/\n\nbutton,\n[role=\"button\"] {\n  cursor: pointer;\n}\n\n/*\nMake sure disabled buttons don't get the pointer cursor.\n*/\n\n:disabled {\n  cursor: default;\n}\n\n/*\n1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)\n2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)\n   This can trigger a poorly considered lint error in some tools but is included by design.\n*/\n\nimg,\nsvg,\nvideo,\ncanvas,\naudio,\niframe,\nembed,\nobject {\n  display: block;\n  /* 1 */\n  vertical-align: middle;\n  /* 2 */\n}\n\n/*\nConstrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)\n*/\n\nimg,\nvideo {\n  max-width: 100%;\n  height: auto;\n}\n\n[type='text'],[type='email'],[type='url'],[type='password'],[type='number'],[type='date'],[type='datetime-local'],[type='month'],[type='search'],[type='tel'],[type='time'],[type='week'],[multiple],textarea,select {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  border-radius: 0px;\n  padding-top: 0.5rem;\n  padding-right: 0.75rem;\n  padding-bottom: 0.5rem;\n  padding-left: 0.75rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n\n[type='text']:focus, [type='email']:focus, [type='url']:focus, [type='password']:focus, [type='number']:focus, [type='date']:focus, [type='datetime-local']:focus, [type='month']:focus, [type='search']:focus, [type='tel']:focus, [type='time']:focus, [type='week']:focus, [multiple]:focus, textarea:focus, select:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  border-color: #2563eb;\n}\n\ninput::-moz-placeholder, textarea::-moz-placeholder {\n  color: #6b7280;\n  opacity: 1;\n}\n\ninput::placeholder,textarea::placeholder {\n  color: #6b7280;\n  opacity: 1;\n}\n\n::-webkit-datetime-edit-fields-wrapper {\n  padding: 0;\n}\n\n::-webkit-date-and-time-value {\n  min-height: 1.5em;\n}\n\n::-webkit-datetime-edit,::-webkit-datetime-edit-year-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute-field,::-webkit-datetime-edit-second-field,::-webkit-datetime-edit-millisecond-field,::-webkit-datetime-edit-meridiem-field {\n  padding-top: 0;\n  padding-bottom: 0;\n}\n\nselect {\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n  background-position: right 0.5rem center;\n  background-repeat: no-repeat;\n  background-size: 1.5em 1.5em;\n  padding-right: 2.5rem;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n}\n\n[multiple] {\n  background-image: none;\n  background-image: initial;\n  background-position: 0 0;\n  background-position: initial;\n  background-repeat: repeat;\n  background-repeat: initial;\n  background-size: auto auto;\n  background-size: initial;\n  padding-right: 0.75rem;\n  -webkit-print-color-adjust: unset;\n     color-adjust: initial;\n          print-color-adjust: inherit;\n}\n\n[type='checkbox'],[type='radio'] {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  padding: 0;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n  display: inline-block;\n  vertical-align: middle;\n  background-origin: border-box;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n          user-select: none;\n  flex-shrink: 0;\n  height: 1rem;\n  width: 1rem;\n  color: #2563eb;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n\n[type='checkbox'] {\n  border-radius: 0px;\n}\n\n[type='radio'] {\n  border-radius: 100%;\n}\n\n[type='checkbox']:focus,[type='radio']:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 2px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n}\n\n[type='checkbox']:checked,[type='radio']:checked {\n  border-color: transparent;\n  background-color: currentColor;\n  background-size: 100% 100%;\n  background-position: center;\n  background-repeat: no-repeat;\n}\n\n[type='checkbox']:checked {\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_1___ + ");\n}\n\n[type='radio']:checked {\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_2___ + ");\n}\n\n[type='checkbox']:checked:hover,[type='checkbox']:checked:focus,[type='radio']:checked:hover,[type='radio']:checked:focus {\n  border-color: transparent;\n  background-color: currentColor;\n}\n\n[type='checkbox']:indeterminate {\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_3___ + ");\n  border-color: transparent;\n  background-color: currentColor;\n  background-size: 100% 100%;\n  background-position: center;\n  background-repeat: no-repeat;\n}\n\n[type='checkbox']:indeterminate:hover,[type='checkbox']:indeterminate:focus {\n  border-color: transparent;\n  background-color: currentColor;\n}\n\n[type='file'] {\n  background: transparent none repeat 0 0 / auto auto padding-box border-box scroll;\n  background: initial;\n  border-color: inherit;\n  border-width: 0;\n  border-radius: 0;\n  padding: 0;\n  font-size: inherit;\n  line-height: inherit;\n}\n\n[type='file']:focus {\n  outline: 1px solid ButtonText;\n  outline: 1px auto -webkit-focus-ring-color;\n}\n\n*, ::before, ::after {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow-colored: 0 0 rgba(0,0,0,0);\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n::-webkit-backdrop {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow-colored: 0 0 rgba(0,0,0,0);\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n::backdrop {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow-colored: 0 0 rgba(0,0,0,0);\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n.sr-only {\n  position: absolute;\n  width: 1px;\n  height: 1px;\n  padding: 0;\n  margin: -1px;\n  overflow: hidden;\n  clip: rect(0, 0, 0, 0);\n  white-space: nowrap;\n  border-width: 0;\n}\n\n.col-span-6 {\n  grid-column: span 6 / span 6;\n}\n\n.m-2 {\n  margin: 0.5rem;\n}\n\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n\n.my-auto {\n  margin-top: auto;\n  margin-bottom: auto;\n}\n\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n\n.my-3 {\n  margin-top: 0.75rem;\n  margin-bottom: 0.75rem;\n}\n\n.mt-auto {\n  margin-top: auto;\n}\n\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n\n.mr-auto {\n  margin-right: auto;\n}\n\n.ml-2 {\n  margin-left: 0.5rem;\n}\n\n.mr-2 {\n  margin-right: 0.5rem;\n}\n\n.ml-4 {\n  margin-left: 1rem;\n}\n\n.mr-4 {\n  margin-right: 1rem;\n}\n\n.mb-0 {\n  margin-bottom: 0px;\n}\n\n.mt-2 {\n  margin-top: 0.5rem;\n}\n\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n\n.mt-1 {\n  margin-top: 0.25rem;\n}\n\n.mb-1 {\n  margin-bottom: 0.25rem;\n}\n\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n\n.mb-4 {\n  margin-bottom: 1rem;\n}\n\n.ml-auto {\n  margin-left: auto;\n}\n\n.mt-\\[6px\\] {\n  margin-top: 6px;\n}\n\n.mt-\\[5px\\] {\n  margin-top: 5px;\n}\n\n.mb-3 {\n  margin-bottom: 0.75rem;\n}\n\n.mt-3 {\n  margin-top: 0.75rem;\n}\n\n.mt-5 {\n  margin-top: 1.25rem;\n}\n\n.block {\n  display: block;\n}\n\n.flex {\n  display: flex;\n}\n\n.inline-flex {\n  display: inline-flex;\n}\n\n.grid {\n  display: grid;\n}\n\n.hidden {\n  display: none;\n}\n\n.h-screen {\n  height: 100vh;\n}\n\n.h-20 {\n  height: 5rem;\n}\n\n.w-auto {\n  width: auto;\n}\n\n.w-screen {\n  width: 100vw;\n}\n\n.w-full {\n  width: 100%;\n}\n\n.w-16 {\n  width: 4rem;\n}\n\n.w-20 {\n  width: 5rem;\n}\n\n.max-w-sm {\n  max-width: 24rem;\n}\n\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n\n.flex-row {\n  flex-direction: row;\n}\n\n.flex-col {\n  flex-direction: column;\n}\n\n.content-center {\n  align-content: center;\n}\n\n.items-center {\n  align-items: center;\n}\n\n.justify-center {\n  justify-content: center;\n}\n\n.space-y-0 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0px * var(--tw-space-y-reverse));\n}\n\n.overflow-hidden {\n  overflow: hidden;\n}\n\n.overflow-x-auto {\n  overflow-x: auto;\n}\n\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n\n.rounded-none {\n  border-radius: 0px;\n}\n\n.rounded-b-md {\n  border-bottom-right-radius: 0.375rem;\n  border-bottom-left-radius: 0.375rem;\n}\n\n.border {\n  border-width: 1px;\n}\n\n.border-b {\n  border-bottom-width: 1px;\n}\n\n.border-neutral-100 {\n  --tw-border-opacity: 1;\n  border-color: rgba(245, 245, 245, var(--tw-border-opacity));\n}\n\n.border-transparent {\n  border-color: transparent;\n}\n\n.border-neutral-200 {\n  --tw-border-opacity: 1;\n  border-color: rgba(229, 229, 229, var(--tw-border-opacity));\n}\n\n.border-white {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n}\n\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n}\n\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));\n}\n\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(37, 99, 235, var(--tw-bg-opacity));\n}\n\n.bg-neutral-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(245, 245, 245, var(--tw-bg-opacity));\n}\n\n.bg-gradient-to-br {\n  background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));\n}\n\n.from-pink-500 {\n  --tw-gradient-from: #ec4899;\n  --tw-gradient-to: rgba(236, 72, 153, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-violet-500 {\n  --tw-gradient-from: #8b5cf6;\n  --tw-gradient-to: rgba(139, 92, 246, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-neutral-600 {\n  --tw-gradient-from: #525252;\n  --tw-gradient-to: rgba(82, 82, 82, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-green-500 {\n  --tw-gradient-from: #22c55e;\n  --tw-gradient-to: rgba(34, 197, 94, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-blue-500 {\n  --tw-gradient-from: #3b82f6;\n  --tw-gradient-to: rgba(59, 130, 246, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-red-500 {\n  --tw-gradient-from: #ef4444;\n  --tw-gradient-to: rgba(239, 68, 68, 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.to-pink-300 {\n  --tw-gradient-to: #f9a8d4;\n}\n\n.to-violet-300 {\n  --tw-gradient-to: #c4b5fd;\n}\n\n.to-neutral-400 {\n  --tw-gradient-to: #a3a3a3;\n}\n\n.to-green-300 {\n  --tw-gradient-to: #86efac;\n}\n\n.to-blue-300 {\n  --tw-gradient-to: #93c5fd;\n}\n\n.to-red-300 {\n  --tw-gradient-to: #fca5a5;\n}\n\n.p-2 {\n  padding: 0.5rem;\n}\n\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.py-\\[6px\\] {\n  padding-top: 6px;\n  padding-bottom: 6px;\n}\n\n.px-0 {\n  padding-left: 0px;\n  padding-right: 0px;\n}\n\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n\n.py-5 {\n  padding-top: 1.25rem;\n  padding-bottom: 1.25rem;\n}\n\n.py-20 {\n  padding-top: 5rem;\n  padding-bottom: 5rem;\n}\n\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n\n.py-\\[8px\\] {\n  padding-top: 8px;\n  padding-bottom: 8px;\n}\n\n.px-8 {\n  padding-left: 2rem;\n  padding-right: 2rem;\n}\n\n.py-\\[2px\\] {\n  padding-top: 2px;\n  padding-bottom: 2px;\n}\n\n.px-5 {\n  padding-left: 1.25rem;\n  padding-right: 1.25rem;\n}\n\n.pr-3 {\n  padding-right: 0.75rem;\n}\n\n.pr-4 {\n  padding-right: 1rem;\n}\n\n.text-right {\n  text-align: right;\n}\n\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n\n.font-medium {\n  font-weight: 500;\n}\n\n.font-semibold {\n  font-weight: 600;\n}\n\n.font-bold {\n  font-weight: 700;\n}\n\n.leading-6 {\n  line-height: 1.5rem;\n}\n\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgba(59, 130, 246, var(--tw-text-opacity));\n}\n\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n}\n\n.text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 245, 245, var(--tw-text-opacity));\n}\n\n.text-green-400 {\n  --tw-text-opacity: 1;\n  color: rgba(74, 222, 128, var(--tw-text-opacity));\n}\n\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-text-opacity));\n}\n\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 rgba(0,0,0,0)), var(--tw-ring-shadow, 0 0 rgba(0,0,0,0)), var(--tw-shadow);\n}\n\n.shadow-sm {\n  --tw-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);\n  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 rgba(0,0,0,0)), var(--tw-ring-shadow, 0 0 rgba(0,0,0,0)), var(--tw-shadow);\n}\n\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0), 0 0 rgba(0,0,0,0), var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 rgba(0,0,0,0)), var(--tw-ring-shadow, 0 0 rgba(0,0,0,0)), var(--tw-shadow);\n}\n\n.outline-none {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\n.font-jost {\n  font-family: \"Jost\";\n}\n\n.font-inter {\n  font-family: \"Inter\";\n}\n\n.code {\n  font-family: \"Source Code Pro\", monospace;\n  display: block;\n  background-color: white;\n  color: #000000;\n  padding: 1em;\n  word-wrap: break-word;\n  white-space: pre-wrap;\n}\n\n.sidenav {\n  height: 100%;\n  /* 100% Full-height */\n  width: 0;\n  /* 0 width - change this with JavaScript */\n  position: fixed;\n  /* Stay in place */\n  z-index: 1;\n  /* Stay on top */\n  top: 0;\n  /* Stay at the top */\n  left: 0;\n  overflow-x: hidden;\n  /* Disable horizontal scroll */\n  padding-top: 60px;\n  /* Place content 60px from the top */\n  transition: 0.5s;\n  /* 0.5 second transition effect to slide in the sidenav */\n}\n\n/* The navigation menu links */\n\n.sidenav a {\n  display: block;\n}\n\nselect {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  border-radius: 0px;\n  padding-top: 0.5rem;\n  padding-right: 0.75rem;\n  padding-bottom: 0.5rem;\n  padding-left: 0.75rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n\n select:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  border-color: #2563eb;\n}\n\nselect {\n  background-image: url(" + ___CSS_LOADER_URL_REPLACEMENT_0___ + ");\n  background-position: right 0.5rem center;\n  background-size: 1.5em 1.5em;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n  margin: 0px;\n  margin-top: 0.5rem;\n  display: block;\n  width: 100%;\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  border-radius: 0.25rem;\n  border-width: 1px;\n  border-style: solid;\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n  background-clip: padding-box;\n  background-repeat: no-repeat;\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  font-weight: 400;\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n  transition-property: color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;\n  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;\n  transition-duration: 150ms;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n}\n\nselect:focus {\n  --tw-border-opacity: 1;\n  border-color: rgba(37, 99, 235, var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\ntable {\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n  width: 66.666667%;\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgba(229, 229, 229, var(--tw-border-opacity));\n  font-family: \"Inter\";\n}\n\nth {\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n  padding: 0.75rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  text-align: left;\n  font-weight: 600;\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n\ntd {\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgba(229, 229, 229, var(--tw-border-opacity));\n  padding: 0.75rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n/* Position and style the close button (top right corner) */\n\n.sidenav .closebtn {\n  position: absolute;\n  top: 0;\n  right: 25px;\n  font-size: 28px;\n  margin-left: 50px;\n}\n\n@media screen and (max-height: 450px) {\n  .sidenav {\n    padding-top: 15px;\n  }\n\n  .sidenav a {\n    font-size: 18px;\n  }\n}\n\n.file\\:mr-4::-webkit-file-upload-button {\n  margin-right: 1rem;\n}\n\n.file\\:mr-4::file-selector-button {\n  margin-right: 1rem;\n}\n\n.file\\:rounded-full::-webkit-file-upload-button {\n  border-radius: 9999px;\n}\n\n.file\\:rounded-full::file-selector-button {\n  border-radius: 9999px;\n}\n\n.file\\:border-0::-webkit-file-upload-button {\n  border-width: 0px;\n}\n\n.file\\:border-0::file-selector-button {\n  border-width: 0px;\n}\n\n.file\\:bg-blue-50::-webkit-file-upload-button {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 246, 255, var(--tw-bg-opacity));\n}\n\n.file\\:bg-blue-50::file-selector-button {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 246, 255, var(--tw-bg-opacity));\n}\n\n.file\\:py-2::-webkit-file-upload-button {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.file\\:py-2::file-selector-button {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.file\\:px-4::-webkit-file-upload-button {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.file\\:px-4::file-selector-button {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.file\\:text-sm::-webkit-file-upload-button {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.file\\:text-sm::file-selector-button {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.file\\:font-semibold::-webkit-file-upload-button {\n  font-weight: 600;\n}\n\n.file\\:font-semibold::file-selector-button {\n  font-weight: 600;\n}\n\n.file\\:text-blue-700::-webkit-file-upload-button {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n\n.file\\:text-blue-700::file-selector-button {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n\n.hover\\:bg-blue-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(29, 78, 216, var(--tw-bg-opacity));\n}\n\n.hover\\:bg-blue-400:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(96, 165, 250, var(--tw-bg-opacity));\n}\n\n.hover\\:file\\:bg-blue-100::-webkit-file-upload-button:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n\n.hover\\:file\\:bg-blue-100::file-selector-button:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n\n.focus\\:border-blue-500:focus {\n  --tw-border-opacity: 1;\n  border-color: rgba(59, 130, 246, var(--tw-border-opacity));\n}\n\n.focus\\:border-indigo-500:focus {\n  --tw-border-opacity: 1;\n  border-color: rgba(99, 102, 241, var(--tw-border-opacity));\n}\n\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\n.focus\\:ring-2:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n\n.focus\\:ring-indigo-500:focus {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(99, 102, 241, var(--tw-ring-opacity));\n}\n\n.focus\\:ring-blue-500:focus {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(59, 130, 246, var(--tw-ring-opacity));\n}\n\n.focus\\:ring-offset-2:focus {\n  --tw-ring-offset-width: 2px;\n}\n\n@media (min-width: 640px) {\n  .sm\\:col-span-3 {\n    grid-column: span 3 / span 3;\n  }\n\n  .sm\\:p-6 {\n    padding: 1.5rem;\n  }\n\n  .sm\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n\n  .sm\\:px-6 {\n    padding-left: 1.5rem;\n    padding-right: 1.5rem;\n  }\n\n  .sm\\:py-0 {\n    padding-top: 0px;\n    padding-bottom: 0px;\n  }\n\n  .sm\\:pr-4 {\n    padding-right: 1rem;\n  }\n\n  .sm\\:pt-2 {\n    padding-top: 0.5rem;\n  }\n\n  .sm\\:text-sm {\n    font-size: 0.875rem;\n    line-height: 1.25rem;\n  }\n\n  .sm\\:font-semibold {\n    font-weight: 600;\n  }\n}\n\n@media (min-width: 768px) {\n  .md\\:mr-0 {\n    margin-right: 0px;\n  }\n\n  .md\\:mb-2 {\n    margin-bottom: 0.5rem;\n  }\n\n  .md\\:ml-0 {\n    margin-left: 0px;\n  }\n\n  .md\\:inline-flex {\n    display: inline-flex;\n  }\n\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n\n  .md\\:flex-col {\n    flex-direction: column;\n  }\n\n  .md\\:items-center {\n    align-items: center;\n  }\n\n  .md\\:space-y-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(1rem * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n  }\n\n  .md\\:py-\\[6px\\] {\n    padding-top: 6px;\n    padding-bottom: 6px;\n  }\n\n  .md\\:py-8 {\n    padding-top: 2rem;\n    padding-bottom: 2rem;\n  }\n\n  .md\\:text-left {\n    text-align: left;\n  }\n\n  .md\\:text-lg {\n    font-size: 1.125rem;\n    line-height: 1.75rem;\n  }\n\n  .md\\:text-5xl {\n    font-size: 3rem;\n    line-height: 1;\n  }\n}\n\n@media (min-width: 1024px) {\n  .lg\\:mx-auto {\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .lg\\:my-auto {\n    margin-top: auto;\n    margin-bottom: auto;\n  }\n\n  .lg\\:my-5 {\n    margin-top: 1.25rem;\n    margin-bottom: 1.25rem;\n  }\n\n  .lg\\:mb-0 {\n    margin-bottom: 0px;\n  }\n\n  .lg\\:mt-2 {\n    margin-top: 0.5rem;\n  }\n\n  .lg\\:mb-5 {\n    margin-bottom: 1.25rem;\n  }\n\n  .lg\\:mb-2 {\n    margin-bottom: 0.5rem;\n  }\n\n  .lg\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n\n  .lg\\:rounded-t-md {\n    border-top-left-radius: 0.375rem;\n    border-top-right-radius: 0.375rem;\n  }\n\n  .lg\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n\n  .lg\\:py-20 {\n    padding-top: 5rem;\n    padding-bottom: 5rem;\n  }\n\n  .lg\\:px-6 {\n    padding-left: 1.5rem;\n    padding-right: 1.5rem;\n  }\n\n  .lg\\:px-0 {\n    padding-left: 0px;\n    padding-right: 0px;\n  }\n\n  .lg\\:text-lg {\n    font-size: 1.125rem;\n    line-height: 1.75rem;\n  }\n}\n", "",{"version":3,"sources":["webpack://./src/styles.css"],"names":[],"mappings":"AAAA;;CAEC;;AAED;;;CAGC;;AAED;;;EAGE,sBAAsB;EACtB,MAAM;EACN,eAAe;EACf,MAAM;EACN,mBAAmB;EACnB,MAAM;EACN,qBAAqB;EACrB,MAAM;AACR;;AAEA;;EAEE,gBAAgB;AAClB;;AAEA;;;;;CAKC;;AAED;EACE,gBAAgB;EAChB,MAAM;EACN,8BAA8B;EAC9B,MAAM;EACN,gBAAgB;EAChB,MAAM;EACN,cAAc;KACX,WAAW;EACd,MAAM;EACN,wRAA4N;EAC5N,MAAM;AACR;;AAEA;;;CAGC;;AAED;EACE,SAAS;EACT,MAAM;EACN,oBAAoB;EACpB,MAAM;AACR;;AAEA;;;;CAIC;;AAED;EACE,SAAS;EACT,MAAM;EACN,cAAc;EACd,MAAM;EACN,qBAAqB;EACrB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,yCAAyC;UACjC,0BAAiC;UAAjC,sDAAiC;kBAAjC,8CAAiC;AAC3C;;AAEA;;CAEC;;AAED;;;;;;EAME,kBAAkB;EAClB,oBAAoB;AACtB;;AAEA;;CAEC;;AAED;EACE,cAAc;EACd,wBAAwB;AAC1B;;AAEA;;CAEC;;AAED;;EAEE,mBAAmB;AACrB;;AAEA;;;CAGC;;AAED;;;;EAIE,+GAA+G;EAC/G,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,cAAc;AAChB;;AAEA;;CAEC;;AAED;;EAEE,cAAc;EACd,cAAc;EACd,kBAAkB;EAClB,wBAAwB;AAC1B;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,WAAW;AACb;;AAEA;;;;CAIC;;AAED;EACE,cAAc;EACd,MAAM;EACN,qBAAqB;EACrB,MAAM;EACN,yBAAyB;EACzB,MAAM;AACR;;AAEA;;;;CAIC;;AAED;;;;;EAKE,oBAAoB;EACpB,MAAM;EACN,eAAe;EACf,MAAM;EACN,oBAAoB;EACpB,MAAM;EACN,oBAAoB;EACpB,MAAM;EACN,cAAc;EACd,MAAM;EACN,SAAS;EACT,MAAM;EACN,UAAU;EACV,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,oBAAoB;AACtB;;AAEA;;;CAGC;;AAED;;;;EAIE,0BAA0B;EAC1B,MAAM;EACN,6BAA6B;EAC7B,MAAM;EACN,sBAAsB;EACtB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,aAAa;AACf;;AAEA;;CAEC;;AAED;EACE,gBAAgB;AAClB;;AAEA;;CAEC;;AAED;EACE,wBAAwB;AAC1B;;AAEA;;CAEC;;AAED;;EAEE,YAAY;AACd;;AAEA;;;CAGC;;AAED;EACE,6BAA6B;EAC7B,MAAM;EACN,oBAAoB;EACpB,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,wBAAwB;AAC1B;;AAEA;;;CAGC;;AAED;EACE,0BAA0B;EAC1B,MAAM;EACN,aAAa;EACb,MAAM;AACR;;AAEA;;CAEC;;AAED;EACE,kBAAkB;AACpB;;AAEA;;CAEC;;AAED;;;;;;;;;;;;;EAaE,SAAS;AACX;;AAEA;EACE,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,UAAU;AACZ;;AAEA;;;EAGE,gBAAgB;EAChB,SAAS;EACT,UAAU;AACZ;;AAEA;;CAEC;;AAED;EACE,gBAAgB;AAClB;;AAEA;;;CAGC;;AAED;EACE,UAAU;EACV,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;EAEE,UAAU;EACV,MAAM;EACN,cAAc;EACd,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,eAAe;AACjB;;AAEA;;CAEC;;AAED;EACE,eAAe;AACjB;;AAEA;;;;CAIC;;AAED;;;;;;;;EAQE,cAAc;EACd,MAAM;EACN,sBAAsB;EACtB,MAAM;AACR;;AAEA;;CAEC;;AAED;;EAEE,eAAe;EACf,YAAY;AACd;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,kBAAkB;EAClB,mBAAmB;EACnB,sBAAsB;EACtB,sBAAsB;EACtB,qBAAqB;EACrB,eAAe;EACf,mBAAmB;EACnB,8BAAsB;AACxB;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;EACjF,qBAAqB;AACvB;;AAEA;EACE,cAAc;EACd,UAAU;AACZ;;AAEA;EACE,cAAc;EACd,UAAU;AACZ;;AAEA;EACE,UAAU;AACZ;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,cAAc;EACd,iBAAiB;AACnB;;AAEA;EACE,yDAAmP;EACnP,wCAAwC;EACxC,4BAA4B;EAC5B,4BAA4B;EAC5B,qBAAqB;EACrB,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;AACnC;;AAEA;EACE,sBAAyB;EAAzB,yBAAyB;EACzB,wBAA4B;EAA5B,4BAA4B;EAC5B,yBAAwB;EAAxB,0BAAwB;EACxB,0BAAwB;EAAxB,wBAAwB;EACxB,sBAAsB;EACtB,iCAAiC;KAC9B,qBAAmB;UACd,2BAAyB;AACnC;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,UAAU;EACV,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;EACjC,qBAAqB;EACrB,sBAAsB;EACtB,6BAA6B;EAC7B,yBAAyB;KACtB,sBAAsB;UACjB,iBAAiB;EACzB,cAAc;EACd,YAAY;EACZ,WAAW;EACX,cAAc;EACd,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,8BAAsB;AACxB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;AACnF;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;EAC9B,0BAA0B;EAC1B,2BAA2B;EAC3B,4BAA4B;AAC9B;;AAEA;EACE,yDAAsQ;AACxQ;;AAEA;EACE,yDAAoK;AACtK;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;AAChC;;AAEA;EACE,yDAAuO;EACvO,yBAAyB;EACzB,8BAA8B;EAC9B,0BAA0B;EAC1B,2BAA2B;EAC3B,4BAA4B;AAC9B;;AAEA;EACE,yBAAyB;EACzB,8BAA8B;AAChC;;AAEA;EACE,iFAAiB;EAAjB,mBAAiB;EACjB,qBAAqB;EACrB,eAAe;EACf,gBAAgB;EAChB,UAAU;EACV,kBAAgB;EAChB,oBAAoB;AACtB;;AAEA;EACE,6BAA6B;EAC7B,0CAA0C;AAC5C;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,wBAAwB;EACxB,wBAAwB;EACxB,mBAAmB;EACnB,mBAAmB;EACnB,cAAc;EACd,cAAc;EACd,cAAc;EACd,eAAe;EACf,eAAe;EACf,aAAa;EACb,aAAa;EACb,kBAAkB;EAClB,sCAAsC;EACtC,eAAe;EACf,oBAAoB;EACpB,sBAAsB;EACtB,uBAAuB;EACvB,wBAAwB;EACxB,kBAAkB;EAClB,2BAA2B;EAC3B,4BAA4B;EAC5B,wCAAsC;EACtC,0CAAkC;EAClC,mCAA2B;EAC3B,8BAAsB;EACtB,sCAA8B;EAC9B,YAAY;EACZ,kBAAkB;EAClB,gBAAgB;EAChB,iBAAiB;EACjB,kBAAkB;EAClB,cAAc;EACd,gBAAgB;EAChB,aAAa;EACb,mBAAmB;EACnB,qBAAqB;EACrB,2BAA2B;EAC3B,yBAAyB;EACzB,0BAA0B;EAC1B,2BAA2B;EAC3B,uBAAuB;EACvB,wBAAwB;EACxB,yBAAyB;EACzB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,UAAU;EACV,WAAW;EACX,UAAU;EACV,YAAY;EACZ,gBAAgB;EAChB,sBAAsB;EACtB,mBAAmB;EACnB,eAAe;AACjB;;AAEA;EACE,4BAA4B;AAC9B;;AAEA;EACE,cAAc;AAChB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,cAAc;AAChB;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,aAAa;AACf;;AAEA;EACE,YAAY;AACd;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,YAAY;AACd;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,WAAW;AACb;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gDAAgD;AAClD;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,uBAAuB;AACzB;;AAEA;EACE,uBAAuB;EACvB,uDAA2D;EAA3D,2DAA2D;EAC3D,oDAAoD;AACtD;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,oCAAoC;EACpC,mCAAmC;AACrC;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,wBAAwB;AAC1B;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,0DAAwD;AAC1D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,yDAAuD;AACzD;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,4EAA4E;AAC9E;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,qCAAmC;EACnC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,sCAAoC;EACpC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,uCAAqC;EACrC,mEAAmE;AACrE;;AAEA;EACE,2BAA2B;EAC3B,sCAAoC;EACpC,mEAAmE;AACrE;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,yBAAyB;AAC3B;;AAEA;EACE,eAAe;AACjB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;AACpB;;AAEA;EACE,oBAAoB;EACpB,qBAAqB;AACvB;;AAEA;EACE,iBAAiB;EACjB,oBAAoB;AACtB;;AAEA;EACE,oBAAoB;EACpB,uBAAuB;AACzB;;AAEA;EACE,iBAAiB;EACjB,oBAAoB;AACtB;;AAEA;EACE,qBAAqB;EACrB,sBAAsB;AACxB;;AAEA;EACE,oBAAoB;EACpB,uBAAuB;AACzB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,gBAAgB;EAChB,mBAAmB;AACrB;;AAEA;EACE,qBAAqB;EACrB,sBAAsB;AACxB;;AAEA;EACE,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,iBAAiB;EACjB,iBAAiB;AACnB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,oBAAoB;EACpB,iDAA+C;AACjD;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,oBAAoB;EACpB,iDAA+C;AACjD;;AAEA;EACE,oBAAoB;EACpB,+CAA6C;AAC/C;;AAEA;EACE,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,mFAA+E;EAC/E,mGAAmG;EACnG,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,4CAA0C;EAC1C,uDAAuD;EACvD,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,8EAA0E;EAC1E,8FAA8F;EAC9F,kEAAuG;EAAvG,kEAAuG;EAAvG,uHAAuG;AACzG;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;AACrB;;AAEA;EACE,oBAAoB;AACtB;;AAEA;EACE,yCAAyC;EACzC,cAAc;EACd,uBAAuB;EACvB,cAAc;EACd,YAAY;EACZ,qBAAqB;EACrB,qBAAqB;AACvB;;AAEA;EACE,YAAY;EACZ,qBAAqB;EACrB,QAAQ;EACR,0CAA0C;EAC1C,eAAe;EACf,kBAAkB;EAClB,UAAU;EACV,gBAAgB;EAChB,MAAM;EACN,oBAAoB;EACpB,OAAO;EACP,kBAAkB;EAClB,8BAA8B;EAC9B,iBAAiB;EACjB,oCAAoC;EACpC,gBAAgB;EAChB,yDAAyD;AAC3D;;AAEA,8BAA8B;;AAE9B;EACE,cAAc;AAChB;;AAEA;EACE,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,qBAAqB;EACrB,iBAAiB;EACjB,kBAAkB;EAClB,mBAAmB;EACnB,sBAAsB;EACtB,sBAAsB;EACtB,qBAAqB;EACrB,eAAe;EACf,mBAAmB;EACnB,8BAAsB;AACxB;;CAEC;EACC,8BAA8B;EAC9B,mBAAmB;EACnB,4CAA4C;EAC5C,2BAA2B;EAC3B,4BAA4B;EAC5B,wBAAwB;EACxB,2GAA2G;EAC3G,yGAAyG;EACzG,iFAAiF;EACjF,qBAAqB;AACvB;;AAEA;EACE,yDAAmP;EACnP,wCAAwC;EACxC,4BAA4B;EAC5B,iCAAiC;KAC9B,mBAAmB;UACd,yBAAyB;EACjC,WAAW;EACX,kBAAkB;EAClB,cAAc;EACd,WAAW;EACX,wBAAwB;KACrB,qBAAqB;UAChB,gBAAgB;EACxB,sBAAsB;EACtB,iBAAiB;EACjB,mBAAmB;EACnB,sBAAsB;EACtB,2DAAyD;EACzD,kBAAkB;EAClB,2DAAyD;EACzD,4BAA4B;EAC5B,4BAA4B;EAC5B,qBAAqB;EACrB,sBAAsB;EACtB,qBAAqB;EACrB,wBAAwB;EACxB,eAAe;EACf,mBAAmB;EACnB,gBAAgB;EAChB,oBAAoB;EACpB,+CAA6C;EAC7C,wKAAwK;EACxK,wJAAwJ;EACxJ,gNAAgN;EAChN,0BAA0B;EAC1B,wDAAwD;AAC1D;;AAEA;EACE,sBAAsB;EACtB,yDAAuD;EACvD,kBAAkB;EAClB,2DAAyD;EACzD,oBAAoB;EACpB,+CAA6C;EAC7C,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA;EACE,iBAAiB;EACjB,kBAAkB;EAClB,kBAAkB;EAClB,qBAAqB;EACrB,iBAAiB;EACjB,iBAAiB;EACjB,sBAAsB;EACtB,2DAAyD;EACzD,oBAAoB;AACtB;;AAEA;EACE,iBAAiB;EACjB,sBAAsB;EACtB,2DAAyD;EACzD,kBAAkB;EAClB,0DAAwD;EACxD,gBAAgB;EAChB,mBAAmB;EACnB,sBAAsB;EACtB,gBAAgB;EAChB,gBAAgB;EAChB,oBAAoB;EACpB,kDAAgD;AAClD;;AAEA;EACE,iBAAiB;EACjB,sBAAsB;EACtB,2DAAyD;EACzD,gBAAgB;EAChB,mBAAmB;EACnB,sBAAsB;EACtB,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA,2DAA2D;;AAE3D;EACE,kBAAkB;EAClB,MAAM;EACN,WAAW;EACX,eAAe;EACf,iBAAiB;AACnB;;AAEA;EACE;IACE,iBAAiB;EACnB;;EAEA;IACE,eAAe;EACjB;AACF;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,kBAAkB;AACpB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,qBAAqB;AACvB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,iBAAiB;AACnB;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,mBAAmB;EACnB,sBAAsB;AACxB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,kBAAkB;EAClB,mBAAmB;AACrB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,mBAAmB;EACnB,oBAAoB;AACtB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,gBAAgB;AAClB;;AAEA;EACE,oBAAoB;EACpB,gDAA8C;AAChD;;AAEA;EACE,oBAAoB;EACpB,gDAA8C;AAChD;;AAEA;EACE,kBAAkB;EAClB,yDAAuD;AACzD;;AAEA;EACE,kBAAkB;EAClB,0DAAwD;AAC1D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,kBAAkB;EAClB,2DAAyD;AAC3D;;AAEA;EACE,sBAAsB;EACtB,0DAAwD;AAC1D;;AAEA;EACE,sBAAsB;EACtB,0DAAwD;AAC1D;;AAEA;EACE,8BAA8B;EAC9B,mBAAmB;AACrB;;AAEA;EACE,2GAA2G;EAC3G,yGAAyG;EACzG,kFAA4F;EAA5F,kFAA4F;EAA5F,oGAA4F;AAC9F;;AAEA;EACE,oBAAoB;EACpB,2DAAyD;AAC3D;;AAEA;EACE,oBAAoB;EACpB,2DAAyD;AAC3D;;AAEA;EACE,2BAA2B;AAC7B;;AAEA;EACE;IACE,4BAA4B;EAC9B;;EAEA;IACE,eAAe;EACjB;;EAEA;IACE,kBAAkB;IAClB,mBAAmB;EACrB;;EAEA;IACE,oBAAoB;IACpB,qBAAqB;EACvB;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;;EAEA;IACE,gBAAgB;EAClB;AACF;;AAEA;EACE;IACE,iBAAiB;EACnB;;EAEA;IACE,qBAAqB;EACvB;;EAEA;IACE,gBAAgB;EAClB;;EAEA;IACE,oBAAoB;EACtB;;EAEA;IACE,gDAAgD;EAClD;;EAEA;IACE,sBAAsB;EACxB;;EAEA;IACE,mBAAmB;EACrB;;EAEA;IACE,uBAAuB;IACvB,wDAA4D;IAA5D,4DAA4D;IAC5D,qDAAqD;EACvD;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,iBAAiB;IACjB,oBAAoB;EACtB;;EAEA;IACE,gBAAgB;EAClB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;;EAEA;IACE,eAAe;IACf,cAAc;EAChB;AACF;;AAEA;EACE;IACE,iBAAiB;IACjB,kBAAkB;EACpB;;EAEA;IACE,gBAAgB;IAChB,mBAAmB;EACrB;;EAEA;IACE,mBAAmB;IACnB,sBAAsB;EACxB;;EAEA;IACE,kBAAkB;EACpB;;EAEA;IACE,kBAAkB;EACpB;;EAEA;IACE,sBAAsB;EACxB;;EAEA;IACE,qBAAqB;EACvB;;EAEA;IACE,iBAAiB;EACnB;;EAEA;IACE,UAAU;EACZ;;EAEA;IACE,gCAAgC;IAChC,iCAAiC;EACnC;;EAEA;IACE,oBAAoB;IACpB,uBAAuB;EACzB;;EAEA;IACE,iBAAiB;IACjB,oBAAoB;EACtB;;EAEA;IACE,oBAAoB;IACpB,qBAAqB;EACvB;;EAEA;IACE,iBAAiB;IACjB,kBAAkB;EACpB;;EAEA;IACE,mBAAmB;IACnB,oBAAoB;EACtB;AACF","sourcesContent":["/*\n! tailwindcss v3.1.8 | MIT License | https://tailwindcss.com\n*/\n\n/*\n1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)\n2. Allow adding a border to an element by just adding a border-width. (https://github.com/tailwindcss/tailwindcss/pull/116)\n*/\n\n*,\n::before,\n::after {\n  box-sizing: border-box;\n  /* 1 */\n  border-width: 0;\n  /* 2 */\n  border-style: solid;\n  /* 2 */\n  border-color: #e5e7eb;\n  /* 2 */\n}\n\n::before,\n::after {\n  --tw-content: '';\n}\n\n/*\n1. Use a consistent sensible line-height in all browsers.\n2. Prevent adjustments of font size after orientation changes in iOS.\n3. Use a more readable tab size.\n4. Use the user's configured `sans` font-family by default.\n*/\n\nhtml {\n  line-height: 1.5;\n  /* 1 */\n  -webkit-text-size-adjust: 100%;\n  /* 2 */\n  -moz-tab-size: 4;\n  /* 3 */\n  -o-tab-size: 4;\n     tab-size: 4;\n  /* 3 */\n  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  /* 4 */\n}\n\n/*\n1. Remove the margin in all browsers.\n2. Inherit line-height from `html` so users can set them as a class directly on the `html` element.\n*/\n\nbody {\n  margin: 0;\n  /* 1 */\n  line-height: inherit;\n  /* 2 */\n}\n\n/*\n1. Add the correct height in Firefox.\n2. Correct the inheritance of border color in Firefox. (https://bugzilla.mozilla.org/show_bug.cgi?id=190655)\n3. Ensure horizontal rules are visible by default.\n*/\n\nhr {\n  height: 0;\n  /* 1 */\n  color: inherit;\n  /* 2 */\n  border-top-width: 1px;\n  /* 3 */\n}\n\n/*\nAdd the correct text decoration in Chrome, Edge, and Safari.\n*/\n\nabbr:where([title]) {\n  -webkit-text-decoration: underline dotted;\n          text-decoration: underline dotted;\n}\n\n/*\nRemove the default font size and weight for headings.\n*/\n\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: inherit;\n  font-weight: inherit;\n}\n\n/*\nReset links to optimize for opt-in styling instead of opt-out.\n*/\n\na {\n  color: inherit;\n  text-decoration: inherit;\n}\n\n/*\nAdd the correct font weight in Edge and Safari.\n*/\n\nb,\nstrong {\n  font-weight: bolder;\n}\n\n/*\n1. Use the user's configured `mono` font family by default.\n2. Correct the odd `em` font sizing in all browsers.\n*/\n\ncode,\nkbd,\nsamp,\npre {\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n  /* 1 */\n  font-size: 1em;\n  /* 2 */\n}\n\n/*\nAdd the correct font size in all browsers.\n*/\n\nsmall {\n  font-size: 80%;\n}\n\n/*\nPrevent `sub` and `sup` elements from affecting the line height in all browsers.\n*/\n\nsub,\nsup {\n  font-size: 75%;\n  line-height: 0;\n  position: relative;\n  vertical-align: baseline;\n}\n\nsub {\n  bottom: -0.25em;\n}\n\nsup {\n  top: -0.5em;\n}\n\n/*\n1. Remove text indentation from table contents in Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=999088, https://bugs.webkit.org/show_bug.cgi?id=201297)\n2. Correct table border color inheritance in all Chrome and Safari. (https://bugs.chromium.org/p/chromium/issues/detail?id=935729, https://bugs.webkit.org/show_bug.cgi?id=195016)\n3. Remove gaps between table borders by default.\n*/\n\ntable {\n  text-indent: 0;\n  /* 1 */\n  border-color: inherit;\n  /* 2 */\n  border-collapse: collapse;\n  /* 3 */\n}\n\n/*\n1. Change the font styles in all browsers.\n2. Remove the margin in Firefox and Safari.\n3. Remove default padding in all browsers.\n*/\n\nbutton,\ninput,\noptgroup,\nselect,\ntextarea {\n  font-family: inherit;\n  /* 1 */\n  font-size: 100%;\n  /* 1 */\n  font-weight: inherit;\n  /* 1 */\n  line-height: inherit;\n  /* 1 */\n  color: inherit;\n  /* 1 */\n  margin: 0;\n  /* 2 */\n  padding: 0;\n  /* 3 */\n}\n\n/*\nRemove the inheritance of text transform in Edge and Firefox.\n*/\n\nbutton,\nselect {\n  text-transform: none;\n}\n\n/*\n1. Correct the inability to style clickable types in iOS and Safari.\n2. Remove default button styles.\n*/\n\nbutton,\n[type='button'],\n[type='reset'],\n[type='submit'] {\n  -webkit-appearance: button;\n  /* 1 */\n  background-color: transparent;\n  /* 2 */\n  background-image: none;\n  /* 2 */\n}\n\n/*\nUse the modern Firefox focus style for all focusable elements.\n*/\n\n:-moz-focusring {\n  outline: auto;\n}\n\n/*\nRemove the additional `:invalid` styles in Firefox. (https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d494c9be1/layout/style/res/forms.css#L728-L737)\n*/\n\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n\n/*\nAdd the correct vertical alignment in Chrome and Firefox.\n*/\n\nprogress {\n  vertical-align: baseline;\n}\n\n/*\nCorrect the cursor style of increment and decrement buttons in Safari.\n*/\n\n::-webkit-inner-spin-button,\n::-webkit-outer-spin-button {\n  height: auto;\n}\n\n/*\n1. Correct the odd appearance in Chrome and Safari.\n2. Correct the outline style in Safari.\n*/\n\n[type='search'] {\n  -webkit-appearance: textfield;\n  /* 1 */\n  outline-offset: -2px;\n  /* 2 */\n}\n\n/*\nRemove the inner padding in Chrome and Safari on macOS.\n*/\n\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n\n/*\n1. Correct the inability to style clickable types in iOS and Safari.\n2. Change font properties to `inherit` in Safari.\n*/\n\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  /* 1 */\n  font: inherit;\n  /* 2 */\n}\n\n/*\nAdd the correct display in Chrome and Safari.\n*/\n\nsummary {\n  display: list-item;\n}\n\n/*\nRemoves the default spacing and border for appropriate elements.\n*/\n\nblockquote,\ndl,\ndd,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\nhr,\nfigure,\np,\npre {\n  margin: 0;\n}\n\nfieldset {\n  margin: 0;\n  padding: 0;\n}\n\nlegend {\n  padding: 0;\n}\n\nol,\nul,\nmenu {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n\n/*\nPrevent resizing textareas horizontally by default.\n*/\n\ntextarea {\n  resize: vertical;\n}\n\n/*\n1. Reset the default placeholder opacity in Firefox. (https://github.com/tailwindlabs/tailwindcss/issues/3300)\n2. Set the default placeholder color to the user's configured gray 400 color.\n*/\n\ninput::-moz-placeholder, textarea::-moz-placeholder {\n  opacity: 1;\n  /* 1 */\n  color: #9ca3af;\n  /* 2 */\n}\n\ninput::placeholder,\ntextarea::placeholder {\n  opacity: 1;\n  /* 1 */\n  color: #9ca3af;\n  /* 2 */\n}\n\n/*\nSet the default cursor for buttons.\n*/\n\nbutton,\n[role=\"button\"] {\n  cursor: pointer;\n}\n\n/*\nMake sure disabled buttons don't get the pointer cursor.\n*/\n\n:disabled {\n  cursor: default;\n}\n\n/*\n1. Make replaced elements `display: block` by default. (https://github.com/mozdevs/cssremedy/issues/14)\n2. Add `vertical-align: middle` to align replaced elements more sensibly by default. (https://github.com/jensimmons/cssremedy/issues/14#issuecomment-634934210)\n   This can trigger a poorly considered lint error in some tools but is included by design.\n*/\n\nimg,\nsvg,\nvideo,\ncanvas,\naudio,\niframe,\nembed,\nobject {\n  display: block;\n  /* 1 */\n  vertical-align: middle;\n  /* 2 */\n}\n\n/*\nConstrain images and videos to the parent width and preserve their intrinsic aspect ratio. (https://github.com/mozdevs/cssremedy/issues/14)\n*/\n\nimg,\nvideo {\n  max-width: 100%;\n  height: auto;\n}\n\n[type='text'],[type='email'],[type='url'],[type='password'],[type='number'],[type='date'],[type='datetime-local'],[type='month'],[type='search'],[type='tel'],[type='time'],[type='week'],[multiple],textarea,select {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  border-radius: 0px;\n  padding-top: 0.5rem;\n  padding-right: 0.75rem;\n  padding-bottom: 0.5rem;\n  padding-left: 0.75rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  --tw-shadow: 0 0 #0000;\n}\n\n[type='text']:focus, [type='email']:focus, [type='url']:focus, [type='password']:focus, [type='number']:focus, [type='date']:focus, [type='datetime-local']:focus, [type='month']:focus, [type='search']:focus, [type='tel']:focus, [type='time']:focus, [type='week']:focus, [multiple]:focus, textarea:focus, select:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  border-color: #2563eb;\n}\n\ninput::-moz-placeholder, textarea::-moz-placeholder {\n  color: #6b7280;\n  opacity: 1;\n}\n\ninput::placeholder,textarea::placeholder {\n  color: #6b7280;\n  opacity: 1;\n}\n\n::-webkit-datetime-edit-fields-wrapper {\n  padding: 0;\n}\n\n::-webkit-date-and-time-value {\n  min-height: 1.5em;\n}\n\n::-webkit-datetime-edit,::-webkit-datetime-edit-year-field,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute-field,::-webkit-datetime-edit-second-field,::-webkit-datetime-edit-millisecond-field,::-webkit-datetime-edit-meridiem-field {\n  padding-top: 0;\n  padding-bottom: 0;\n}\n\nselect {\n  background-image: url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e\");\n  background-position: right 0.5rem center;\n  background-repeat: no-repeat;\n  background-size: 1.5em 1.5em;\n  padding-right: 2.5rem;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n}\n\n[multiple] {\n  background-image: initial;\n  background-position: initial;\n  background-repeat: unset;\n  background-size: initial;\n  padding-right: 0.75rem;\n  -webkit-print-color-adjust: unset;\n     color-adjust: unset;\n          print-color-adjust: unset;\n}\n\n[type='checkbox'],[type='radio'] {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  padding: 0;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n  display: inline-block;\n  vertical-align: middle;\n  background-origin: border-box;\n  -webkit-user-select: none;\n     -moz-user-select: none;\n          user-select: none;\n  flex-shrink: 0;\n  height: 1rem;\n  width: 1rem;\n  color: #2563eb;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  --tw-shadow: 0 0 #0000;\n}\n\n[type='checkbox'] {\n  border-radius: 0px;\n}\n\n[type='radio'] {\n  border-radius: 100%;\n}\n\n[type='checkbox']:focus,[type='radio']:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 2px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n}\n\n[type='checkbox']:checked,[type='radio']:checked {\n  border-color: transparent;\n  background-color: currentColor;\n  background-size: 100% 100%;\n  background-position: center;\n  background-repeat: no-repeat;\n}\n\n[type='checkbox']:checked {\n  background-image: url(\"data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z'/%3e%3c/svg%3e\");\n}\n\n[type='radio']:checked {\n  background-image: url(\"data:image/svg+xml,%3csvg viewBox='0 0 16 16' fill='white' xmlns='http://www.w3.org/2000/svg'%3e%3ccircle cx='8' cy='8' r='3'/%3e%3c/svg%3e\");\n}\n\n[type='checkbox']:checked:hover,[type='checkbox']:checked:focus,[type='radio']:checked:hover,[type='radio']:checked:focus {\n  border-color: transparent;\n  background-color: currentColor;\n}\n\n[type='checkbox']:indeterminate {\n  background-image: url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 16 16'%3e%3cpath stroke='white' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M4 8h8'/%3e%3c/svg%3e\");\n  border-color: transparent;\n  background-color: currentColor;\n  background-size: 100% 100%;\n  background-position: center;\n  background-repeat: no-repeat;\n}\n\n[type='checkbox']:indeterminate:hover,[type='checkbox']:indeterminate:focus {\n  border-color: transparent;\n  background-color: currentColor;\n}\n\n[type='file'] {\n  background: unset;\n  border-color: inherit;\n  border-width: 0;\n  border-radius: 0;\n  padding: 0;\n  font-size: unset;\n  line-height: inherit;\n}\n\n[type='file']:focus {\n  outline: 1px solid ButtonText;\n  outline: 1px auto -webkit-focus-ring-color;\n}\n\n*, ::before, ::after {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgb(59 130 246 / 0.5);\n  --tw-ring-offset-shadow: 0 0 #0000;\n  --tw-ring-shadow: 0 0 #0000;\n  --tw-shadow: 0 0 #0000;\n  --tw-shadow-colored: 0 0 #0000;\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n::-webkit-backdrop {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgb(59 130 246 / 0.5);\n  --tw-ring-offset-shadow: 0 0 #0000;\n  --tw-ring-shadow: 0 0 #0000;\n  --tw-shadow: 0 0 #0000;\n  --tw-shadow-colored: 0 0 #0000;\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n::backdrop {\n  --tw-border-spacing-x: 0;\n  --tw-border-spacing-y: 0;\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-rotate: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-pan-x:  ;\n  --tw-pan-y:  ;\n  --tw-pinch-zoom:  ;\n  --tw-scroll-snap-strictness: proximity;\n  --tw-ordinal:  ;\n  --tw-slashed-zero:  ;\n  --tw-numeric-figure:  ;\n  --tw-numeric-spacing:  ;\n  --tw-numeric-fraction:  ;\n  --tw-ring-inset:  ;\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgb(59 130 246 / 0.5);\n  --tw-ring-offset-shadow: 0 0 #0000;\n  --tw-ring-shadow: 0 0 #0000;\n  --tw-shadow: 0 0 #0000;\n  --tw-shadow-colored: 0 0 #0000;\n  --tw-blur:  ;\n  --tw-brightness:  ;\n  --tw-contrast:  ;\n  --tw-grayscale:  ;\n  --tw-hue-rotate:  ;\n  --tw-invert:  ;\n  --tw-saturate:  ;\n  --tw-sepia:  ;\n  --tw-drop-shadow:  ;\n  --tw-backdrop-blur:  ;\n  --tw-backdrop-brightness:  ;\n  --tw-backdrop-contrast:  ;\n  --tw-backdrop-grayscale:  ;\n  --tw-backdrop-hue-rotate:  ;\n  --tw-backdrop-invert:  ;\n  --tw-backdrop-opacity:  ;\n  --tw-backdrop-saturate:  ;\n  --tw-backdrop-sepia:  ;\n}\n\n.sr-only {\n  position: absolute;\n  width: 1px;\n  height: 1px;\n  padding: 0;\n  margin: -1px;\n  overflow: hidden;\n  clip: rect(0, 0, 0, 0);\n  white-space: nowrap;\n  border-width: 0;\n}\n\n.col-span-6 {\n  grid-column: span 6 / span 6;\n}\n\n.m-2 {\n  margin: 0.5rem;\n}\n\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n\n.my-auto {\n  margin-top: auto;\n  margin-bottom: auto;\n}\n\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n\n.my-3 {\n  margin-top: 0.75rem;\n  margin-bottom: 0.75rem;\n}\n\n.mt-auto {\n  margin-top: auto;\n}\n\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n\n.mr-auto {\n  margin-right: auto;\n}\n\n.ml-2 {\n  margin-left: 0.5rem;\n}\n\n.mr-2 {\n  margin-right: 0.5rem;\n}\n\n.ml-4 {\n  margin-left: 1rem;\n}\n\n.mr-4 {\n  margin-right: 1rem;\n}\n\n.mb-0 {\n  margin-bottom: 0px;\n}\n\n.mt-2 {\n  margin-top: 0.5rem;\n}\n\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n\n.mt-1 {\n  margin-top: 0.25rem;\n}\n\n.mb-1 {\n  margin-bottom: 0.25rem;\n}\n\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n\n.mb-4 {\n  margin-bottom: 1rem;\n}\n\n.ml-auto {\n  margin-left: auto;\n}\n\n.mt-\\[6px\\] {\n  margin-top: 6px;\n}\n\n.mt-\\[5px\\] {\n  margin-top: 5px;\n}\n\n.mb-3 {\n  margin-bottom: 0.75rem;\n}\n\n.mt-3 {\n  margin-top: 0.75rem;\n}\n\n.mt-5 {\n  margin-top: 1.25rem;\n}\n\n.block {\n  display: block;\n}\n\n.flex {\n  display: flex;\n}\n\n.inline-flex {\n  display: inline-flex;\n}\n\n.grid {\n  display: grid;\n}\n\n.hidden {\n  display: none;\n}\n\n.h-screen {\n  height: 100vh;\n}\n\n.h-20 {\n  height: 5rem;\n}\n\n.w-auto {\n  width: auto;\n}\n\n.w-screen {\n  width: 100vw;\n}\n\n.w-full {\n  width: 100%;\n}\n\n.w-16 {\n  width: 4rem;\n}\n\n.w-20 {\n  width: 5rem;\n}\n\n.max-w-sm {\n  max-width: 24rem;\n}\n\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n\n.flex-row {\n  flex-direction: row;\n}\n\n.flex-col {\n  flex-direction: column;\n}\n\n.content-center {\n  align-content: center;\n}\n\n.items-center {\n  align-items: center;\n}\n\n.justify-center {\n  justify-content: center;\n}\n\n.space-y-0 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0px * var(--tw-space-y-reverse));\n}\n\n.overflow-hidden {\n  overflow: hidden;\n}\n\n.overflow-x-auto {\n  overflow-x: auto;\n}\n\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n\n.rounded-none {\n  border-radius: 0px;\n}\n\n.rounded-b-md {\n  border-bottom-right-radius: 0.375rem;\n  border-bottom-left-radius: 0.375rem;\n}\n\n.border {\n  border-width: 1px;\n}\n\n.border-b {\n  border-bottom-width: 1px;\n}\n\n.border-neutral-100 {\n  --tw-border-opacity: 1;\n  border-color: rgb(245 245 245 / var(--tw-border-opacity));\n}\n\n.border-transparent {\n  border-color: transparent;\n}\n\n.border-neutral-200 {\n  --tw-border-opacity: 1;\n  border-color: rgb(229 229 229 / var(--tw-border-opacity));\n}\n\n.border-white {\n  --tw-border-opacity: 1;\n  border-color: rgb(255 255 255 / var(--tw-border-opacity));\n}\n\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgb(209 213 219 / var(--tw-border-opacity));\n}\n\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgb(255 255 255 / var(--tw-bg-opacity));\n}\n\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgb(59 130 246 / var(--tw-bg-opacity));\n}\n\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgb(249 250 251 / var(--tw-bg-opacity));\n}\n\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgb(37 99 235 / var(--tw-bg-opacity));\n}\n\n.bg-neutral-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgb(245 245 245 / var(--tw-bg-opacity));\n}\n\n.bg-gradient-to-br {\n  background-image: linear-gradient(to bottom right, var(--tw-gradient-stops));\n}\n\n.from-pink-500 {\n  --tw-gradient-from: #ec4899;\n  --tw-gradient-to: rgb(236 72 153 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-violet-500 {\n  --tw-gradient-from: #8b5cf6;\n  --tw-gradient-to: rgb(139 92 246 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-neutral-600 {\n  --tw-gradient-from: #525252;\n  --tw-gradient-to: rgb(82 82 82 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-green-500 {\n  --tw-gradient-from: #22c55e;\n  --tw-gradient-to: rgb(34 197 94 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-blue-500 {\n  --tw-gradient-from: #3b82f6;\n  --tw-gradient-to: rgb(59 130 246 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.from-red-500 {\n  --tw-gradient-from: #ef4444;\n  --tw-gradient-to: rgb(239 68 68 / 0);\n  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);\n}\n\n.to-pink-300 {\n  --tw-gradient-to: #f9a8d4;\n}\n\n.to-violet-300 {\n  --tw-gradient-to: #c4b5fd;\n}\n\n.to-neutral-400 {\n  --tw-gradient-to: #a3a3a3;\n}\n\n.to-green-300 {\n  --tw-gradient-to: #86efac;\n}\n\n.to-blue-300 {\n  --tw-gradient-to: #93c5fd;\n}\n\n.to-red-300 {\n  --tw-gradient-to: #fca5a5;\n}\n\n.p-2 {\n  padding: 0.5rem;\n}\n\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.py-\\[6px\\] {\n  padding-top: 6px;\n  padding-bottom: 6px;\n}\n\n.px-0 {\n  padding-left: 0px;\n  padding-right: 0px;\n}\n\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n\n.py-5 {\n  padding-top: 1.25rem;\n  padding-bottom: 1.25rem;\n}\n\n.py-20 {\n  padding-top: 5rem;\n  padding-bottom: 5rem;\n}\n\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n\n.py-\\[8px\\] {\n  padding-top: 8px;\n  padding-bottom: 8px;\n}\n\n.px-8 {\n  padding-left: 2rem;\n  padding-right: 2rem;\n}\n\n.py-\\[2px\\] {\n  padding-top: 2px;\n  padding-bottom: 2px;\n}\n\n.px-5 {\n  padding-left: 1.25rem;\n  padding-right: 1.25rem;\n}\n\n.pr-3 {\n  padding-right: 0.75rem;\n}\n\n.pr-4 {\n  padding-right: 1rem;\n}\n\n.text-right {\n  text-align: right;\n}\n\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n\n.font-medium {\n  font-weight: 500;\n}\n\n.font-semibold {\n  font-weight: 600;\n}\n\n.font-bold {\n  font-weight: 700;\n}\n\n.leading-6 {\n  line-height: 1.5rem;\n}\n\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgb(82 82 82 / var(--tw-text-opacity));\n}\n\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgb(255 255 255 / var(--tw-text-opacity));\n}\n\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgb(59 130 246 / var(--tw-text-opacity));\n}\n\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgb(17 24 39 / var(--tw-text-opacity));\n}\n\n.text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgb(245 245 245 / var(--tw-text-opacity));\n}\n\n.text-green-400 {\n  --tw-text-opacity: 1;\n  color: rgb(74 222 128 / var(--tw-text-opacity));\n}\n\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgb(55 65 81 / var(--tw-text-opacity));\n}\n\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgb(107 114 128 / var(--tw-text-opacity));\n}\n\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);\n}\n\n.shadow-sm {\n  --tw-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);\n  --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);\n}\n\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);\n}\n\n.outline-none {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\n.font-jost {\n  font-family: \"Jost\";\n}\n\n.font-inter {\n  font-family: \"Inter\";\n}\n\n.code {\n  font-family: \"Source Code Pro\", monospace;\n  display: block;\n  background-color: white;\n  color: #000000;\n  padding: 1em;\n  word-wrap: break-word;\n  white-space: pre-wrap;\n}\n\n.sidenav {\n  height: 100%;\n  /* 100% Full-height */\n  width: 0;\n  /* 0 width - change this with JavaScript */\n  position: fixed;\n  /* Stay in place */\n  z-index: 1;\n  /* Stay on top */\n  top: 0;\n  /* Stay at the top */\n  left: 0;\n  overflow-x: hidden;\n  /* Disable horizontal scroll */\n  padding-top: 60px;\n  /* Place content 60px from the top */\n  transition: 0.5s;\n  /* 0.5 second transition effect to slide in the sidenav */\n}\n\n/* The navigation menu links */\n\n.sidenav a {\n  display: block;\n}\n\nselect {\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  background-color: #fff;\n  border-color: #6b7280;\n  border-width: 1px;\n  border-radius: 0px;\n  padding-top: 0.5rem;\n  padding-right: 0.75rem;\n  padding-bottom: 0.5rem;\n  padding-left: 0.75rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  --tw-shadow: 0 0 #0000;\n}\n\n select:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: #2563eb;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);\n  border-color: #2563eb;\n}\n\nselect {\n  background-image: url(\"data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e\");\n  background-position: right 0.5rem center;\n  background-size: 1.5em 1.5em;\n  -webkit-print-color-adjust: exact;\n     color-adjust: exact;\n          print-color-adjust: exact;\n  margin: 0px;\n  margin-top: 0.5rem;\n  display: block;\n  width: 100%;\n  -webkit-appearance: none;\n     -moz-appearance: none;\n          appearance: none;\n  border-radius: 0.25rem;\n  border-width: 1px;\n  border-style: solid;\n  --tw-border-opacity: 1;\n  border-color: rgb(209 213 219 / var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgb(255 255 255 / var(--tw-bg-opacity));\n  background-clip: padding-box;\n  background-repeat: no-repeat;\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  font-weight: 400;\n  --tw-text-opacity: 1;\n  color: rgb(55 65 81 / var(--tw-text-opacity));\n  transition-property: color, background-color, border-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-text-decoration-color, -webkit-backdrop-filter;\n  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-text-decoration-color, -webkit-backdrop-filter;\n  transition-duration: 150ms;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n}\n\nselect:focus {\n  --tw-border-opacity: 1;\n  border-color: rgb(37 99 235 / var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgb(255 255 255 / var(--tw-bg-opacity));\n  --tw-text-opacity: 1;\n  color: rgb(55 65 81 / var(--tw-text-opacity));\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\ntable {\n  margin-left: auto;\n  margin-right: auto;\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n  width: 66.666667%;\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgb(229 229 229 / var(--tw-border-opacity));\n  font-family: \"Inter\";\n}\n\nth {\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgb(255 255 255 / var(--tw-border-opacity));\n  --tw-bg-opacity: 1;\n  background-color: rgb(59 130 246 / var(--tw-bg-opacity));\n  padding: 0.75rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  text-align: left;\n  font-weight: 600;\n  --tw-text-opacity: 1;\n  color: rgb(255 255 255 / var(--tw-text-opacity));\n}\n\ntd {\n  border-width: 1px;\n  --tw-border-opacity: 1;\n  border-color: rgb(229 229 229 / var(--tw-border-opacity));\n  padding: 0.75rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n/* Position and style the close button (top right corner) */\n\n.sidenav .closebtn {\n  position: absolute;\n  top: 0;\n  right: 25px;\n  font-size: 28px;\n  margin-left: 50px;\n}\n\n@media screen and (max-height: 450px) {\n  .sidenav {\n    padding-top: 15px;\n  }\n\n  .sidenav a {\n    font-size: 18px;\n  }\n}\n\n.file\\:mr-4::-webkit-file-upload-button {\n  margin-right: 1rem;\n}\n\n.file\\:mr-4::file-selector-button {\n  margin-right: 1rem;\n}\n\n.file\\:rounded-full::-webkit-file-upload-button {\n  border-radius: 9999px;\n}\n\n.file\\:rounded-full::file-selector-button {\n  border-radius: 9999px;\n}\n\n.file\\:border-0::-webkit-file-upload-button {\n  border-width: 0px;\n}\n\n.file\\:border-0::file-selector-button {\n  border-width: 0px;\n}\n\n.file\\:bg-blue-50::-webkit-file-upload-button {\n  --tw-bg-opacity: 1;\n  background-color: rgb(239 246 255 / var(--tw-bg-opacity));\n}\n\n.file\\:bg-blue-50::file-selector-button {\n  --tw-bg-opacity: 1;\n  background-color: rgb(239 246 255 / var(--tw-bg-opacity));\n}\n\n.file\\:py-2::-webkit-file-upload-button {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.file\\:py-2::file-selector-button {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n\n.file\\:px-4::-webkit-file-upload-button {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.file\\:px-4::file-selector-button {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n.file\\:text-sm::-webkit-file-upload-button {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.file\\:text-sm::file-selector-button {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n\n.file\\:font-semibold::-webkit-file-upload-button {\n  font-weight: 600;\n}\n\n.file\\:font-semibold::file-selector-button {\n  font-weight: 600;\n}\n\n.file\\:text-blue-700::-webkit-file-upload-button {\n  --tw-text-opacity: 1;\n  color: rgb(29 78 216 / var(--tw-text-opacity));\n}\n\n.file\\:text-blue-700::file-selector-button {\n  --tw-text-opacity: 1;\n  color: rgb(29 78 216 / var(--tw-text-opacity));\n}\n\n.hover\\:bg-blue-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgb(29 78 216 / var(--tw-bg-opacity));\n}\n\n.hover\\:bg-blue-400:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgb(96 165 250 / var(--tw-bg-opacity));\n}\n\n.hover\\:file\\:bg-blue-100::-webkit-file-upload-button:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgb(219 234 254 / var(--tw-bg-opacity));\n}\n\n.hover\\:file\\:bg-blue-100::file-selector-button:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgb(219 234 254 / var(--tw-bg-opacity));\n}\n\n.focus\\:border-blue-500:focus {\n  --tw-border-opacity: 1;\n  border-color: rgb(59 130 246 / var(--tw-border-opacity));\n}\n\n.focus\\:border-indigo-500:focus {\n  --tw-border-opacity: 1;\n  border-color: rgb(99 102 241 / var(--tw-border-opacity));\n}\n\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n\n.focus\\:ring-2:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);\n}\n\n.focus\\:ring-indigo-500:focus {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgb(99 102 241 / var(--tw-ring-opacity));\n}\n\n.focus\\:ring-blue-500:focus {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgb(59 130 246 / var(--tw-ring-opacity));\n}\n\n.focus\\:ring-offset-2:focus {\n  --tw-ring-offset-width: 2px;\n}\n\n@media (min-width: 640px) {\n  .sm\\:col-span-3 {\n    grid-column: span 3 / span 3;\n  }\n\n  .sm\\:p-6 {\n    padding: 1.5rem;\n  }\n\n  .sm\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n\n  .sm\\:px-6 {\n    padding-left: 1.5rem;\n    padding-right: 1.5rem;\n  }\n\n  .sm\\:py-0 {\n    padding-top: 0px;\n    padding-bottom: 0px;\n  }\n\n  .sm\\:pr-4 {\n    padding-right: 1rem;\n  }\n\n  .sm\\:pt-2 {\n    padding-top: 0.5rem;\n  }\n\n  .sm\\:text-sm {\n    font-size: 0.875rem;\n    line-height: 1.25rem;\n  }\n\n  .sm\\:font-semibold {\n    font-weight: 600;\n  }\n}\n\n@media (min-width: 768px) {\n  .md\\:mr-0 {\n    margin-right: 0px;\n  }\n\n  .md\\:mb-2 {\n    margin-bottom: 0.5rem;\n  }\n\n  .md\\:ml-0 {\n    margin-left: 0px;\n  }\n\n  .md\\:inline-flex {\n    display: inline-flex;\n  }\n\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n\n  .md\\:flex-col {\n    flex-direction: column;\n  }\n\n  .md\\:items-center {\n    align-items: center;\n  }\n\n  .md\\:space-y-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n  }\n\n  .md\\:py-\\[6px\\] {\n    padding-top: 6px;\n    padding-bottom: 6px;\n  }\n\n  .md\\:py-8 {\n    padding-top: 2rem;\n    padding-bottom: 2rem;\n  }\n\n  .md\\:text-left {\n    text-align: left;\n  }\n\n  .md\\:text-lg {\n    font-size: 1.125rem;\n    line-height: 1.75rem;\n  }\n\n  .md\\:text-5xl {\n    font-size: 3rem;\n    line-height: 1;\n  }\n}\n\n@media (min-width: 1024px) {\n  .lg\\:mx-auto {\n    margin-left: auto;\n    margin-right: auto;\n  }\n\n  .lg\\:my-auto {\n    margin-top: auto;\n    margin-bottom: auto;\n  }\n\n  .lg\\:my-5 {\n    margin-top: 1.25rem;\n    margin-bottom: 1.25rem;\n  }\n\n  .lg\\:mb-0 {\n    margin-bottom: 0px;\n  }\n\n  .lg\\:mt-2 {\n    margin-top: 0.5rem;\n  }\n\n  .lg\\:mb-5 {\n    margin-bottom: 1.25rem;\n  }\n\n  .lg\\:mb-2 {\n    margin-bottom: 0.5rem;\n  }\n\n  .lg\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n\n  .lg\\:rounded-t-md {\n    border-top-left-radius: 0.375rem;\n    border-top-right-radius: 0.375rem;\n  }\n\n  .lg\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n\n  .lg\\:py-20 {\n    padding-top: 5rem;\n    padding-bottom: 5rem;\n  }\n\n  .lg\\:px-6 {\n    padding-left: 1.5rem;\n    padding-right: 1.5rem;\n  }\n\n  .lg\\:px-0 {\n    padding-left: 0px;\n    padding-right: 0px;\n  }\n\n  .lg\\:text-lg {\n    font-size: 1.125rem;\n    line-height: 1.75rem;\n  }\n}\n"],"sourceRoot":""}]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/api.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+/*
+  MIT License http://www.opensource.org/licenses/mit-license.php
+  Author Tobias Koppers @sokra
+*/
+module.exports = function (cssWithMappingToString) {
+  var list = []; // return the list of modules as css string
+
+  list.toString = function toString() {
+    return this.map(function (item) {
+      var content = "";
+      var needLayer = typeof item[5] !== "undefined";
+
+      if (item[4]) {
+        content += "@supports (".concat(item[4], ") {");
+      }
+
+      if (item[2]) {
+        content += "@media ".concat(item[2], " {");
+      }
+
+      if (needLayer) {
+        content += "@layer".concat(item[5].length > 0 ? " ".concat(item[5]) : "", " {");
+      }
+
+      content += cssWithMappingToString(item);
+
+      if (needLayer) {
+        content += "}";
+      }
+
+      if (item[2]) {
+        content += "}";
+      }
+
+      if (item[4]) {
+        content += "}";
+      }
+
+      return content;
+    }).join("");
+  }; // import a list of modules into the list
+
+
+  list.i = function i(modules, media, dedupe, supports, layer) {
+    if (typeof modules === "string") {
+      modules = [[null, modules, undefined]];
+    }
+
+    var alreadyImportedModules = {};
+
+    if (dedupe) {
+      for (var k = 0; k < this.length; k++) {
+        var id = this[k][0];
+
+        if (id != null) {
+          alreadyImportedModules[id] = true;
+        }
+      }
+    }
+
+    for (var _k = 0; _k < modules.length; _k++) {
+      var item = [].concat(modules[_k]);
+
+      if (dedupe && alreadyImportedModules[item[0]]) {
+        continue;
+      }
+
+      if (typeof layer !== "undefined") {
+        if (typeof item[5] === "undefined") {
+          item[5] = layer;
+        } else {
+          item[1] = "@layer".concat(item[5].length > 0 ? " ".concat(item[5]) : "", " {").concat(item[1], "}");
+          item[5] = layer;
+        }
+      }
+
+      if (media) {
+        if (!item[2]) {
+          item[2] = media;
+        } else {
+          item[1] = "@media ".concat(item[2], " {").concat(item[1], "}");
+          item[2] = media;
+        }
+      }
+
+      if (supports) {
+        if (!item[4]) {
+          item[4] = "".concat(supports);
+        } else {
+          item[1] = "@supports (".concat(item[4], ") {").concat(item[1], "}");
+          item[4] = supports;
+        }
+      }
+
+      list.push(item);
+    }
+  };
+
+  return list;
+};
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/getUrl.js":
+/*!********************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
+  \********************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+module.exports = function (url, options) {
+  if (!options) {
+    options = {};
+  }
+
+  if (!url) {
+    return url;
+  }
+
+  url = String(url.__esModule ? url.default : url); // If url is already wrapped in quotes, remove them
+
+  if (/^['"].*['"]$/.test(url)) {
+    url = url.slice(1, -1);
+  }
+
+  if (options.hash) {
+    url += options.hash;
+  } // Should url be wrapped?
+  // See https://drafts.csswg.org/css-values-3/#urls
+
+
+  if (/["'() \t\n]|(%20)/.test(url) || options.needQuotes) {
+    return "\"".concat(url.replace(/"/g, '\\"').replace(/\n/g, "\\n"), "\"");
+  }
+
+  return url;
+};
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/dist/runtime/sourceMaps.js":
+/*!************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/sourceMaps.js ***!
+  \************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+module.exports = function (item) {
+  var content = item[1];
+  var cssMapping = item[3];
+
+  if (!cssMapping) {
+    return content;
+  }
+
+  if (typeof btoa === "function") {
+    var base64 = btoa(unescape(encodeURIComponent(JSON.stringify(cssMapping))));
+    var data = "sourceMappingURL=data:application/json;charset=utf-8;base64,".concat(base64);
+    var sourceMapping = "/*# ".concat(data, " */");
+    var sourceURLs = cssMapping.sources.map(function (source) {
+      return "/*# sourceURL=".concat(cssMapping.sourceRoot || "").concat(source, " */");
+    });
+    return [content].concat(sourceURLs).concat([sourceMapping]).join("\n");
+  }
+
+  return [content].join("\n");
+};
+
+/***/ }),
+
+/***/ "./node_modules/es5-ext/global.js":
+/*!****************************************!*\
+  !*** ./node_modules/es5-ext/global.js ***!
+  \****************************************/
+/***/ ((module) => {
+
+var naiveFallback = function () {
+	if (typeof self === "object" && self) return self;
+	if (typeof window === "object" && window) return window;
+	throw new Error("Unable to resolve global `this`");
+};
+
+module.exports = (function () {
+	if (this) return this;
+
+	// Unexpected strict mode (may happen if e.g. bundled into ESM module)
+
+	// Fallback to standard globalThis if available
+	if (typeof globalThis === "object" && globalThis) return globalThis;
+
+	// Thanks @mathiasbynens -> https://mathiasbynens.be/notes/globalthis
+	// In all ES5+ engines global object inherits from Object.prototype
+	// (if you approached one that doesn't please report)
+	try {
+		Object.defineProperty(Object.prototype, "__global__", {
+			get: function () { return this; },
+			configurable: true
+		});
+	} catch (error) {
+		// Unfortunate case of updates to Object.prototype being restricted
+		// via preventExtensions, seal or freeze
+		return naiveFallback();
+	}
+	try {
+		// Safari case (window.__global__ works, but __global__ does not)
+		if (!__global__) return naiveFallback();
+		return __global__;
+	} finally {
+		delete Object.prototype.__global__;
+	}
+})();
+
+
+/***/ }),
+
+/***/ "./node_modules/isomorphic-form-data/lib/browser.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/isomorphic-form-data/lib/browser.js ***!
+  \**********************************************************/
+/***/ ((module) => {
+
+module.exports = window.FormData
+
+
+/***/ }),
+
+/***/ "./node_modules/js-alert/lib/event-source.js":
+/*!***************************************************!*\
+  !*** ./node_modules/js-alert/lib/event-source.js ***!
+  \***************************************************/
+/***/ ((module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+	value: true
+}));
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+//
+// EventSource class - This class provides simple event functionality for classes, with Promise support.
+//
+//	Usage for once-off event listeners:
+//
+//		myObj.when("closed").then(function(data) {
+//			alert("Closed! " + data);
+//		});
+//
+//
+//	Usage for permanent event listeners:
+//
+//		myObj.on("closed", function(data) {
+//			alert("Closed! " + data);
+//		});
+//
+//
+//	Usage when triggering an event from a subclass:
+//
+//		this.emit("closed", "customData");
+//
+
+var EventSource = function () {
+	function EventSource() {
+		_classCallCheck(this, EventSource);
+	}
+
+	_createClass(EventSource, [{
+		key: "when",
+
+
+		/** Adds an event listener. If callback is null, a Promise will be returned. Note that if using the Promise
+   *  it will only be triggered on the first event emitted. */
+		value: function when(eventName) {
+			var _this = this;
+
+			var callback = arguments.length <= 1 || arguments[1] === undefined ? null : arguments[1];
+
+
+			// Make sure event listener object exists
+			this._eventListeners = this._eventListeners || {};
+
+			// Make sure event listener array exists
+			this._eventListeners[eventName] = this._eventListeners[eventName] || [];
+
+			// Check if using promise form
+			if (callback) {
+
+				// Just add the callback
+				this._eventListeners[eventName].push(callback);
+			} else {
+
+				// Return the promise
+				return new Promise(function (onSuccess, onFail) {
+
+					// Promise callbacks can only be used once
+					onSuccess._removeAfterCall = true;
+
+					// Add success handler to event listener array
+					_this._eventListeners[eventName].push(onSuccess);
+				});
+			}
+		}
+
+		/** Synonyms */
+
+	}, {
+		key: "on",
+		value: function on() {
+			return this.when.apply(this, arguments);
+		}
+	}, {
+		key: "addEventListener",
+		value: function addEventListener() {
+			return this.when.apply(this, arguments);
+		}
+
+		/** Triggers an event. Each argument after the first one will be passed to event listeners */
+
+	}, {
+		key: "emit",
+		value: function emit(eventName) {
+
+			// Get list of callbacks
+			var callbacks = this._eventListeners && this._eventListeners[eventName] || [];
+
+			// Call events
+
+			for (var _len = arguments.length, args = Array(_len > 1 ? _len - 1 : 0), _key = 1; _key < _len; _key++) {
+				args[_key - 1] = arguments[_key];
+			}
+
+			var _iteratorNormalCompletion = true;
+			var _didIteratorError = false;
+			var _iteratorError = undefined;
+
+			try {
+				for (var _iterator = callbacks[Symbol.iterator](), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+					var callback = _step.value;
+
+
+					// Call it
+					callback.apply(this, args);
+				}
+
+				// Remove callbacks that can only be called once
+			} catch (err) {
+				_didIteratorError = true;
+				_iteratorError = err;
+			} finally {
+				try {
+					if (!_iteratorNormalCompletion && _iterator.return) {
+						_iterator.return();
+					}
+				} finally {
+					if (_didIteratorError) {
+						throw _iteratorError;
+					}
+				}
+			}
+
+			for (var i = 0; i < callbacks.length; i++) {
+				if (callbacks[i]._removeAfterCall) callbacks.splice(i--, 1);
+			}
+		}
+
+		/** Synonyms */
+
+	}, {
+		key: "trigger",
+		value: function trigger() {
+			return this.emit.apply(this, arguments);
+		}
+	}, {
+		key: "triggerEvent",
+		value: function triggerEvent() {
+			return this.emit.apply(this, arguments);
+		}
+	}]);
+
+	return EventSource;
+}();
+
+// Apply as a mixin to a class or object
+
+
+exports["default"] = EventSource;
+EventSource.mixin = function (otherClass) {
+
+	for (var prop in EventSource.prototype) {
+		if (EventSource.prototype.hasOwnProperty(prop)) otherClass[prop] = EventSource.prototype[prop];
+	}
+};
+module.exports = exports["default"];
+
+/***/ }),
+
+/***/ "./node_modules/js-alert/lib/icons.js":
+/*!********************************************!*\
+  !*** ./node_modules/js-alert/lib/icons.js ***!
+  \********************************************/
+/***/ ((module, exports) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+	value: true
+}));
+//
+// Theme icons
+
+exports["default"] = {
+
+	Information: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjgwcHgiIGhlaWdodD0iODBweCIgdmlld0JveD0iMCAwIDgwIDgwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPkluZm9ybWF0aW9uIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iSW5mb3JtYXRpb24tSWNvbiIgZmlsbD0iIzAwODVGRiI+CiAgICAgICAgICAgIDxnIGlkPSI3MjQtaW5mb0AyeCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNi4wMDAwMDAsIDYuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9Il94MzdfMjQtaW5mb194NDBfMngucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTMzLjczNDA3MTQsMjUuNzA3NjQyOSBDMzQuNzE4ODU3MSwyNS43MDc2NDI5IDM1LjU3MTI4NTcsMjUuMzQzMzU3MSAzNi4yOTAxNDI5LDI0LjYxNzIxNDMgQzM3LjAwOSwyMy44OTEwNzE0IDM3LjM3MDg1NzEsMjMuMDA5NSAzNy4zNzA4NTcxLDIxLjk3NjE0MjkgQzM3LjM3MDg1NzEsMjAuOTQyNzg1NyAzNy4wMTM4NTcxLDIwLjA2IDM2LjI5OTg1NzEsMTkuMzI1MzU3MSBDMzUuNTg1ODU3MSwxOC41OTA3MTQzIDM0LjczMSwxOC4yMjUyMTQzIDMzLjczNDA3MTQsMTguMjI1MjE0MyBDMzIuNzM3MTQyOSwxOC4yMjUyMTQzIDMxLjg3ODY0MjksMTguNTkxOTI4NiAzMS4xNTg1NzE0LDE5LjMyNTM1NzEgQzMwLjQzODUsMjAuMDU4Nzg1NyAzMC4wNzkwNzE0LDIwLjk0Mjc4NTcgMzAuMDc5MDcxNCwyMS45NzYxNDI5IEMzMC4wNzkwNzE0LDIzLjAwOTUgMzAuNDM4NSwyMy44ODk4NTcxIDMxLjE1ODU3MTQsMjQuNjE3MjE0MyBDMzEuODc4NjQyOSwyNS4zNDQ1NzE0IDMyLjczNzE0MjksMjUuNzA3NjQyOSAzMy43MzQwNzE0LDI1LjcwNzY0MjkgTDMzLjczNDA3MTQsMjUuNzA3NjQyOSBaIE0zNCwwIEMxNS4yMjIyODU3LDAgMCwxNS4yMjIyODU3IDAsMzQgQzAsNTIuNzc3NzE0MyAxNS4yMjIyODU3LDY4IDM0LDY4IEM1Mi43Nzc3MTQzLDY4IDY4LDUyLjc3NzcxNDMgNjgsMzQgQzY4LDE1LjIyMjI4NTcgNTIuNzc3NzE0MywwIDM0LDAgTDM0LDAgWiBNMzQsNjUuNTcxNDI4NiBDMTYuNTY0MDcxNCw2NS41NzE0Mjg2IDIuNDI4NTcxNDMsNTEuNDM1OTI4NiAyLjQyODU3MTQzLDM0IEMyLjQyODU3MTQzLDE2LjU2NDA3MTQgMTYuNTY0MDcxNCwyLjQyODU3MTQzIDM0LDIuNDI4NTcxNDMgQzUxLjQzNTkyODYsMi40Mjg1NzE0MyA2NS41NzE0Mjg2LDE2LjU2NDA3MTQgNjUuNTcxNDI4NiwzNCBDNjUuNTcxNDI4Niw1MS40MzU5Mjg2IDUxLjQzNTkyODYsNjUuNTcxNDI4NiAzNCw2NS41NzE0Mjg2IEwzNCw2NS41NzE0Mjg2IFogTTM4LjMzMDE0MjksNDcuNzY3NTcxNCBDMzcuOTg2NSw0Ny42MDM2NDI5IDM3LjcyMDU3MTQsNDcuMzU1OTI4NiAzNy41MzcyMTQzLDQ3LjAyMzIxNDMgQzM3LjM1MjY0MjksNDYuNjkxNzE0MyAzNy4yNTkxNDI5LDQ2LjI4NzM1NzEgMzcuMjU5MTQyOSw0NS44MTAxNDI5IEwzNy4yNTkxNDI5LDI5LjYyMjUgTDM2Ljk4MjI4NTcsMjkuMzE2NSBMMjcuOTM3MDcxNCwyOS44NDcxNDI5IEwyNy45MzcwNzE0LDMxLjMzNTg1NzEgQzI4LjMwNjIxNDMsMzEuMzc1OTI4NiAyOC43MTU0Mjg2LDMxLjQ3MTg1NzEgMjkuMTY0NzE0MywzMS42MjEyMTQzIEMyOS42MTQsMzEuNzcwNTcxNCAyOS45NDkxNDI5LDMxLjkyNzIxNDMgMzAuMTcwMTQyOSwzMi4wODk5Mjg2IEMzMC40NjUyMTQzLDMyLjMwODUgMzAuNzExNzE0MywzMi41OTYyODU3IDMwLjkwODQyODYsMzIuOTU2OTI4NiBDMzEuMTA1MTQyOSwzMy4zMTc1NzE0IDMxLjIwMzUsMzMuNzM1Mjg1NyAzMS4yMDM1LDM0LjIxMDA3MTQgTDMxLjIwMzUsNDYuMDc2MDcxNCBDMzEuMjAzNSw0Ni41Nzg3ODU3IDMxLjEyNDU3MTQsNDYuOTgzMTQyOSAzMC45NjQyODU3LDQ3LjI4OTE0MjkgQzMwLjgwNCw0Ny41OTUxNDI5IDMwLjUyNzE0MjksNDcuODI5NSAzMC4xMzI1LDQ3Ljk5MjIxNDMgQzI5LjkxMDI4NTcsNDguMDg4MTQyOSAyOS42NDY3ODU3LDQ4LjE1NjE0MjkgMjkuMzM5NTcxNCw0OC4xOTYyMTQzIEMyOS4wMzExNDI5LDQ4LjIzNjI4NTcgMjguNzE3ODU3MSw0OC4yNzE1IDI4LjM5ODUsNDguMjk4MjE0MyBMMjguMzk4NSw0OS43ODU3MTQzIEw0MC4wNjUzNTcxLDQ5Ljc4NTcxNDMgTDQwLjA2NTM1NzEsNDguMjk3IEMzOS43NDQ3ODU3LDQ4LjI1NjkyODYgMzkuNDM2MzU3MSw0OC4xODg5Mjg2IDM5LjE0MTI4NTcsNDguMDkzIEMzOC44NDc0Mjg2LDQ3Ljk5ODI4NTcgMzguNTc3ODU3MSw0Ny44ODkgMzguMzMwMTQyOSw0Ny43Njc1NzE0IEwzOC4zMzAxNDI5LDQ3Ljc2NzU3MTQgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+
+	Question: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlF1ZXN0aW9uIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iUXVlc3Rpb24tSWNvbiIgZmlsbD0iIzQxNzUwNSI+CiAgICAgICAgICAgIDxnIGlkPSI3MzktcXVlc3Rpb25AMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAxLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzM5LXF1ZXN0aW9uX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjIuNDQxMDM1NywxMS4zNDYzOTI5IEMyMi4wMzM4OTI5LDEwLjk2OTEwNzEgMjEuNTU0ODIxNCwxMC42ODAwMzU3IDIxLjAwNTE3ODYsMTAuNDc5MTc4NiBDMjAuNDU0ODU3MSwxMC4yNzc2NDI5IDE5Ljg2MzE0MjksMTAuMTc3ODkyOSAxOS4yMzA3MTQzLDEwLjE3Nzg5MjkgQzE3LjkwNDEwNzEsMTAuMTc3ODkyOSAxNi43OTE5Mjg2LDEwLjU3NTUzNTcgMTUuODk1NTM1NywxMS4zNzE1IEMxNC45OTg0NjQzLDEyLjE2Njc4NTcgMTQuNDUxNTM1NywxMy4yNjMzNTcxIDE0LjI1NjEwNzEsMTQuNjYxODkyOSBMMTYuNTYxODkyOSwxNC45MDI3ODU3IEMxNi42NTI4MjE0LDE0LjA5ODY3ODYgMTYuOTI2OTY0MywxMy40NDc5Mjg2IDE3LjM4NzcxNDMsMTIuOTQ5ODU3MSBDMTcuODQ3MTA3MSwxMi40NTI0NjQzIDE4LjQ0Njk2NDMsMTIuMjAyNzUgMTkuMTg0NTcxNCwxMi4yMDI3NSBDMTkuNTE2MzkyOSwxMi4yMDI3NSAxOS44MjkyMTQzLDEyLjI2NzIxNDMgMjAuMTIzMDM1NywxMi4zOTQ3ODU3IEMyMC40MTc1MzU3LDEyLjUyMzcxNDMgMjAuNjY5OTY0MywxMi43MDAxNDI5IDIwLjg4MSwxMi45MjU0Mjg2IEMyMS4wOTIwMzU3LDEzLjE1MDAzNTcgMjEuMjYxNjc4NiwxMy40MTk0Mjg2IDIxLjM4OTI1LDEzLjczMjI1IEMyMS41MTY4MjE0LDE0LjA0NTA3MTQgMjEuNTgxMjg1NywxNC4zODc3NSAyMS41ODEyODU3LDE0Ljc1NzU3MTQgQzIxLjU4MTI4NTcsMTUuMTI3MzkyOSAyMS41MTY4MjE0LDE1LjQ2MDU3MTQgMjEuMzg5MjUsMTUuNzU3Nzg1NyBDMjEuMjYxNjc4NiwxNi4wNTUgMjEuMDk4ODIxNCwxNi4zMzY2MDcxIDIwLjkwMzM5MjksMTYuNjAxMjUgQzIwLjcwNzI4NTcsMTYuODY2NTcxNCAyMC40ODg3ODU3LDE3LjEyNDQyODYgMjAuMjQ3MjE0MywxNy4zNzI3ODU3IEMyMC4wMDYzMjE0LDE3LjYyMTgyMTQgMTkuNzY0NzUsMTcuODY3NDY0MyAxOS41MjM4NTcxLDE4LjEwODM1NzEgQzE5LjIyMjU3MTQsMTguNDEzNzE0MyAxOC45NzAxNDI5LDE4LjY3NDk2NDMgMTguNzY2NTcxNCwxOC44OTE0Mjg2IEMxOC41NjMsMTkuMTA3ODkyOSAxOC40MDA4MjE0LDE5LjMzMzE3ODYgMTguMjgwMDM1NywxOS41NjY2MDcxIEMxOC4xNTkyNSwxOS43OTkzNTcxIDE4LjA2OSwyMC4wNjA2MDcxIDE4LjAwOTI4NTcsMjAuMzQ5Njc4NiBDMTcuOTQ4ODkyOSwyMC42Mzg3NSAxNy45MTkwMzU3LDIxLjAwMDQyODYgMTcuOTE5MDM1NywyMS40MzQ3MTQzIEwxNy45MTkwMzU3LDIyLjkwNTE3ODYgTDIwLjA4OTEwNzEsMjIuOTA1MTc4NiBMMjAuMDg5MTA3MSwyMS44NDQ1NzE0IEMyMC4wODkxMDcxLDIxLjUwNzMyMTQgMjAuMTA0MDM1NywyMS4yMjYzOTI5IDIwLjEzNDU3MTQsMjEuMDAxMTA3MSBDMjAuMTY0NDI4NiwyMC43NzY1IDIwLjIyMDc1LDIwLjU3MTU3MTQgMjAuMzAzNTM1NywyMC4zODYzMjE0IEMyMC4zODYzMjE0LDIwLjIwMjQyODYgMjAuNDk5NjQyOSwyMC4wMjUzMjE0IDIwLjY0MjgyMTQsMTkuODU2MzU3MSBDMjAuNzg2LDE5LjY4NzM5MjkgMjAuOTc4MDM1NywxOS40ODI0NjQzIDIxLjIxOTYwNzEsMTkuMjQxNTcxNCBMMjEuNDQ2MjUsMTkuMDI1MTA3MSBMMjIuODAyNzE0MywxNy41MzA4OTI5IEMyMy4xMDQsMTcuMTI5MTc4NiAyMy4zMzc0Mjg2LDE2LjY5ODk2NDMgMjMuNTAzNjc4NiwxNi4yNDE2MDcxIEMyMy42NjkyNSwxNS43ODM1NzE0IDIzLjc1MjAzNTcsMTUuMjQ4ODU3MSAyMy43NTIwMzU3LDE0LjYzODgyMTQgQzIzLjc1MjAzNTcsMTMuOTMxMDcxNCAyMy42MzUzMjE0LDEzLjMgMjMuNDAxMjE0MywxMi43NDYyODU3IEMyMy4xNjg0NjQzLDEyLjE4OTg1NzEgMjIuODQ4MTc4NiwxMS43MjM2Nzg2IDIyLjQ0MTAzNTcsMTEuMzQ2MzkyOSBMMjIuNDQxMDM1NywxMS4zNDYzOTI5IFogTTE4Ljk4MTY3ODYsMjQuNjQwMjg1NyBDMTguNTc0NTM1NywyNC42NDAyODU3IDE4LjIyNDM5MjksMjQuNzk2MzU3MSAxNy45MzA1NzE0LDI1LjEwOTg1NzEgQzE3LjYzNjA3MTQsMjUuNDIzMzU3MSAxNy40ODk1LDI1Ljc5NzI1IDE3LjQ4OTUsMjYuMjMwODU3MSBDMTcuNDg5NSwyNi42NjQ0NjQzIDE3LjYzNjc1LDI3LjAzNzY3ODYgMTcuOTMwNTcxNCwyNy4zNTExNzg2IEMxOC4yMjQzOTI5LDI3LjY2NDY3ODYgMTguNTc0NTM1NywyNy44MjE0Mjg2IDE4Ljk4MTY3ODYsMjcuODIxNDI4NiBDMTkuMzg4ODIxNCwyNy44MjE0Mjg2IDE5LjczODk2NDMsMjcuNjY0Njc4NiAyMC4wMzM0NjQzLDI3LjM1MTE3ODYgQzIwLjMyNzI4NTcsMjcuMDM3Njc4NiAyMC40NzM4NTcxLDI2LjY2NDQ2NDMgMjAuNDczODU3MSwyNi4yMzA4NTcxIEMyMC40NzM4NTcxLDI1Ljc5NzI1IDIwLjMyNjYwNzEsMjUuNDIzMzU3MSAyMC4wMzM0NjQzLDI1LjEwOTg1NzEgQzE5LjczODk2NDMsMjQuNzk3MDM1NyAxOS4zODgxNDI5LDI0LjY0MDI4NTcgMTguOTgxNjc4NiwyNC42NDAyODU3IEwxOC45ODE2Nzg2LDI0LjY0MDI4NTcgWiBNMTksMCBDOC41MDY1NzE0MywwIDAsOC41MDY1NzE0MyAwLDE5IEMwLDI5LjQ5MzQyODYgOC41MDY1NzE0MywzOCAxOSwzOCBDMjkuNDkzNDI4NiwzOCAzOCwyOS40OTM0Mjg2IDM4LDE5IEMzOCw4LjUwNjU3MTQzIDI5LjQ5MzQyODYsMCAxOSwwIEwxOSwwIFogTTE5LDM2LjY0Mjg1NzEgQzkuMjU2MzkyODYsMzYuNjQyODU3MSAxLjM1NzE0Mjg2LDI4Ljc0MzYwNzEgMS4zNTcxNDI4NiwxOSBDMS4zNTcxNDI4Niw5LjI1NjM5Mjg2IDkuMjU2MzkyODYsMS4zNTcxNDI4NiAxOSwxLjM1NzE0Mjg2IEMyOC43NDM2MDcxLDEuMzU3MTQyODYgMzYuNjQyODU3MSw5LjI1NjM5Mjg2IDM2LjY0Mjg1NzEsMTkgQzM2LjY0Mjg1NzEsMjguNzQzNjA3MSAyOC43NDM2MDcxLDM2LjY0Mjg1NzEgMTksMzYuNjQyODU3MSBMMTksMzYuNjQyODU3MSBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+
+	Success: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlN1Y2Nlc3MgSWNvbjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJTdWNjZXNzLUljb24iIGZpbGw9IiMwMDgzMDgiPgogICAgICAgICAgICA8ZyBpZD0iODg4LWNoZWNrbWFya0AyeCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMS4wMDAwMDAsIDEuMDAwMDAwKSI+CiAgICAgICAgICAgICAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgICAgICAgICAgICAgICAgPGcgaWQ9Il94MzhfODgtY2hlY2ttYXJrX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMjcuODIxNDI4NiwxMi44OTI4NTcxIEMyNy42MzQxNDI5LDEyLjg5Mjg1NzEgMjcuNDY0NSwxMi45Njg4NTcxIDI3LjM0MTY3ODYsMTMuMDkyMzU3MSBMMTYuOTY0Mjg1NywyMy40NjkwNzE0IEwxMC42NTgzMjE0LDE3LjE2MzEwNzEgQzEwLjUzNTUsMTcuMDQwMjg1NyAxMC4zNjU4NTcxLDE2Ljk2NDI4NTcgMTAuMTc4NTcxNCwxNi45NjQyODU3IEM5LjgwNCwxNi45NjQyODU3IDkuNSwxNy4yNjgyODU3IDkuNSwxNy42NDI4NTcxIEM5LjUsMTcuODMwMTQyOSA5LjU3NiwxNy45OTk3ODU3IDkuNjk4ODIxNDMsMTguMTIyNjA3MSBMMTYuNDg0NTM1NywyNC45MDgzMjE0IEMxNi42MDczNTcxLDI1LjAzMTgyMTQgMTYuNzc3LDI1LjEwNzE0MjkgMTYuOTY0Mjg1NywyNS4xMDcxNDI5IEMxNy4xNTE1NzE0LDI1LjEwNzE0MjkgMTcuMzIxMjE0MywyNS4wMzE4MjE0IDE3LjQ0NDAzNTcsMjQuOTA4MzIxNCBMMjguMzAxMTc4NiwxNC4wNTE4NTcxIEMyOC40MjQsMTMuOTI4MzU3MSAyOC41LDEzLjc1ODcxNDMgMjguNSwxMy41NzE0Mjg2IEMyOC41LDEzLjE5NjE3ODYgMjguMTk2Njc4NiwxMi44OTI4NTcxIDI3LjgyMTQyODYsMTIuODkyODU3MSBMMjcuODIxNDI4NiwxMi44OTI4NTcxIFogTTIxLjcxNDI4NTcsMCBMMTYuMjg1NzE0MywwIEM0LjA3MTQyODU3LDAgMCw0LjA3MTQyODU3IDAsMTYuMjg1NzE0MyBMMCwyMS43MTQyODU3IEMwLDMzLjkyODU3MTQgNC4wNzE0Mjg1NywzOCAxNi4yODU3MTQzLDM4IEwyMS43MTQyODU3LDM4IEMzMy45Mjg1NzE0LDM4IDM4LDMzLjkyODU3MTQgMzgsMjEuNzE0Mjg1NyBMMzgsMTYuMjg1NzE0MyBDMzgsNC4wNzE0Mjg1NyAzMy45Mjg1NzE0LDAgMjEuNzE0Mjg1NywwIEwyMS43MTQyODU3LDAgWiBNMzYuNjQyODU3MSwyMS41MjA4OTI5IEMzNi42NDI4NTcxLDMyLjg2MjUzNTcgMzIuODYyNTM1NywzNi42NDI4NTcxIDIxLjUyMDg5MjksMzYuNjQyODU3MSBMMTYuNDc5Nzg1NywzNi42NDI4NTcxIEM1LjEzNzQ2NDI5LDM2LjY0Mjg1NzEgMS4zNTcxNDI4NiwzMi44NjI1MzU3IDEuMzU3MTQyODYsMjEuNTIwODkyOSBMMS4zNTcxNDI4NiwxNi40Nzk3ODU3IEMxLjM1NzE0Mjg2LDUuMTM3NDY0MjkgNS4xMzc0NjQyOSwxLjM1NzE0Mjg2IDE2LjQ3OTc4NTcsMS4zNTcxNDI4NiBMMjEuNTIwODkyOSwxLjM1NzE0Mjg2IEMzMi44NjI1MzU3LDEuMzU3MTQyODYgMzYuNjQyODU3MSw1LjEzNzQ2NDI5IDM2LjY0Mjg1NzEsMTYuNDc5Nzg1NyBMMzYuNjQyODU3MSwyMS41MjA4OTI5IEwzNi42NDI4NTcxLDIxLjUyMDg5MjkgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+
+	Warning: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPldhcm5pbmcgSWNvbjwvdGl0bGU+CiAgICA8ZGVzYz5DcmVhdGVkIHdpdGggU2tldGNoLjwvZGVzYz4KICAgIDxkZWZzPjwvZGVmcz4KICAgIDxnIGlkPSJQYWdlLTEiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSIxIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxnIGlkPSJXYXJuaW5nLUljb24iIGZpbGw9IiNGRjlEMDAiPgogICAgICAgICAgICA8ZyBpZD0iNzkxLXdhcm5pbmdAMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEuMDAwMDAwLCAyLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzkxLXdhcm5pbmdfeDQwXzJ4LnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0zNy44MjM1NzE0LDMzLjI3MTAzNTcgTDM3LjgzMzA3MTQsMzMuMjY1NjA3MSBMMjAuMTY5MTc4NiwwLjY1MjEwNzE0MyBMMjAuMTU3NjQyOSwwLjY1ODg5Mjg1NyBDMTkuOTIwMTQyOSwwLjI2NiAxOS40OTMzMjE0LDAgMTksMCBDMTguNTA3MzU3MSwwIDE4LjA3OTg1NzEsMC4yNjYgMTcuODQxNjc4NiwwLjY1ODg5Mjg1NyBMMTcuODMwMTQyOSwwLjY1MjEwNzE0MyBMMC4xNjY5Mjg1NzEsMzMuMjY1NjA3MSBMMC4xNzcxMDcxNDMsMzMuMjcxMDM1NyBDMC4wNjc4NTcxNDI5LDMzLjQ2NzE0MjkgMCwzMy42ODgzNTcxIDAsMzMuOTI4NTcxNCBDMCwzNC42Nzc3MTQzIDAuNjA4LDM1LjI4NTcxNDMgMS4zNTcxNDI4NiwzNS4yODU3MTQzIEwzNi42NDI4NTcxLDM1LjI4NTcxNDMgQzM3LjM5MiwzNS4yODU3MTQzIDM4LDM0LjY3NzcxNDMgMzgsMzMuOTI4NTcxNCBDMzgsMzMuNjg4MzU3MSAzNy45MzIxNDI5LDMzLjQ2NzE0MjkgMzcuODIzNTcxNCwzMy4yNzEwMzU3IEwzNy44MjM1NzE0LDMzLjI3MTAzNTcgWiBNMzUuMjg1NzE0MywzMy45Mjg1NzE0IEwzNC42MDcxNDI5LDMzLjkyODU3MTQgTDMuMzkyODU3MTQsMzMuOTI4NTcxNCBMMi43MTQyODU3MSwzMy45Mjg1NzE0IEwxLjM1NzE0Mjg2LDMzLjkyODU3MTQgTDE5LDEuMzQyODkyODYgTDM2LjY0Mjg1NzEsMzMuOTI4NTcxNCBMMzUuMjg1NzE0MywzMy45Mjg1NzE0IEwzNS4yODU3MTQzLDMzLjkyODU3MTQgWiBNMTYuMjg1NzE0MywxMy41NzE0Mjg2IEwxNy42NDI4NTcxLDIzLjA3MTQyODYgQzE3LjY0Mjg1NzEsMjMuODIwNTcxNCAxOC4yNTA4NTcxLDI0LjQyODU3MTQgMTksMjQuNDI4NTcxNCBDMTkuNzQ5MTQyOSwyNC40Mjg1NzE0IDIwLjM1NzE0MjksMjMuODIwNTcxNCAyMC4zNTcxNDI5LDIzLjA3MTQyODYgTDIxLjcxNDI4NTcsMTMuNTcxNDI4NiBDMjEuNzE0Mjg1NywxMi44MjIyODU3IDIxLjEwNjI4NTcsMTIuMjE0Mjg1NyAyMC4zNTcxNDI5LDEyLjIxNDI4NTcgTDE3LjY0Mjg1NzEsMTIuMjE0Mjg1NyBDMTYuODkzNzE0MywxMi4yMTQyODU3IDE2LjI4NTcxNDMsMTIuODIyMjg1NyAxNi4yODU3MTQzLDEzLjU3MTQyODYgTDE2LjI4NTcxNDMsMTMuNTcxNDI4NiBaIE0xOSwyMy4wNzE0Mjg2IEwxNy42NDI4NTcxLDEzLjU3MTQyODYgTDIwLjM1NzE0MjksMTMuNTcxNDI4NiBMMTksMjMuMDcxNDI4NiBMMTksMjMuMDcxNDI4NiBaIE0xOSwyNS43ODU3MTQzIEMxNy41MDEwMzU3LDI1Ljc4NTcxNDMgMTYuMjg1NzE0MywyNy4wMDEwMzU3IDE2LjI4NTcxNDMsMjguNSBDMTYuMjg1NzE0MywyOS45OTg5NjQzIDE3LjUwMTAzNTcsMzEuMjE0Mjg1NyAxOSwzMS4yMTQyODU3IEMyMC40OTg5NjQzLDMxLjIxNDI4NTcgMjEuNzE0Mjg1NywyOS45OTg5NjQzIDIxLjcxNDI4NTcsMjguNSBDMjEuNzE0Mjg1NywyNy4wMDEwMzU3IDIwLjQ5ODk2NDMsMjUuNzg1NzE0MyAxOSwyNS43ODU3MTQzIEwxOSwyNS43ODU3MTQzIFogTTE5LDI5Ljg1NzE0MjkgQzE4LjI1MDg1NzEsMjkuODU3MTQyOSAxNy42NDI4NTcxLDI5LjI0OTE0MjkgMTcuNjQyODU3MSwyOC41IEMxNy42NDI4NTcxLDI3Ljc1MDg1NzEgMTguMjUwODU3MSwyNy4xNDI4NTcxIDE5LDI3LjE0Mjg1NzEgQzE5Ljc0OTE0MjksMjcuMTQyODU3MSAyMC4zNTcxNDI5LDI3Ljc1MDg1NzEgMjAuMzU3MTQyOSwyOC41IEMyMC4zNTcxNDI5LDI5LjI0OTE0MjkgMTkuNzQ5MTQyOSwyOS44NTcxNDI5IDE5LDI5Ljg1NzE0MjkgTDE5LDI5Ljg1NzE0MjkgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=",
+
+	Failed: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPkZhaWxlZCBJY29uPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGRlZnM+PC9kZWZzPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IkZhaWxlZC1JY29uIiBmaWxsPSIjQzAwMDAwIj4KICAgICAgICAgICAgPGcgaWQ9Ijc5MS13YXJuaW5nLXNlbGVjdGVkQDJ4IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxLjAwMDAwMCwgMi4wMDAwMDApIj4KICAgICAgICAgICAgICAgIDxnIGlkPSJMYXllcl8xIj4KICAgICAgICAgICAgICAgICAgICA8ZyBpZD0iX3gzN185MS13YXJuaW5nLXNlbGVjdGVkX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMzcuODIzNTcxNCwzMy4yNzEwMzU3IEwzNy44MzMwNzE0LDMzLjI2NTYwNzEgTDIwLjE2OTE3ODYsMC42NTIxMDcxNDMgTDIwLjE1NzY0MjksMC42NTg4OTI4NTcgQzE5LjkyMDE0MjksMC4yNjYgMTkuNDkzMzIxNCwwIDE5LDAgQzE4LjUwNzM1NzEsMCAxOC4wNzk4NTcxLDAuMjY2IDE3Ljg0MTY3ODYsMC42NTg4OTI4NTcgTDE3LjgzMDE0MjksMC42NTIxMDcxNDMgTDAuMTY2OTI4NTcxLDMzLjI2NTYwNzEgTDAuMTc3MTA3MTQzLDMzLjI3MTAzNTcgQzAuMDY3ODU3MTQyOSwzMy40NjcxNDI5IDAsMzMuNjg4MzU3MSAwLDMzLjkyODU3MTQgQzAsMzQuNjc3NzE0MyAwLjYwOCwzNS4yODU3MTQzIDEuMzU3MTQyODYsMzUuMjg1NzE0MyBMMzYuNjQyODU3MSwzNS4yODU3MTQzIEMzNy4zOTIsMzUuMjg1NzE0MyAzOCwzNC42Nzc3MTQzIDM4LDMzLjkyODU3MTQgQzM4LDMzLjY4ODM1NzEgMzcuOTMyMTQyOSwzMy40NjcxNDI5IDM3LjgyMzU3MTQsMzMuMjcxMDM1NyBMMzcuODIzNTcxNCwzMy4yNzEwMzU3IFogTTE5LDMxLjIxNDI4NTcgQzE3LjUwMTAzNTcsMzEuMjE0Mjg1NyAxNi4yODU3MTQzLDI5Ljk5ODk2NDMgMTYuMjg1NzE0MywyOC41IEMxNi4yODU3MTQzLDI3LjAwMTAzNTcgMTcuNTAxMDM1NywyNS43ODU3MTQzIDE5LDI1Ljc4NTcxNDMgQzIwLjQ5ODk2NDMsMjUuNzg1NzE0MyAyMS43MTQyODU3LDI3LjAwMTAzNTcgMjEuNzE0Mjg1NywyOC41IEMyMS43MTQyODU3LDI5Ljk5ODk2NDMgMjAuNDk4OTY0MywzMS4yMTQyODU3IDE5LDMxLjIxNDI4NTcgTDE5LDMxLjIxNDI4NTcgWiBNMjAuMzU3MTQyOSwyMy4wNzE0Mjg2IEMyMC4zNTcxNDI5LDIzLjgyMDU3MTQgMTkuNzQ5MTQyOSwyNC40Mjg1NzE0IDE5LDI0LjQyODU3MTQgQzE4LjI1MDg1NzEsMjQuNDI4NTcxNCAxNy42NDI4NTcxLDIzLjgyMDU3MTQgMTcuNjQyODU3MSwyMy4wNzE0Mjg2IEwxNi4yODU3MTQzLDEzLjU3MTQyODYgQzE2LjI4NTcxNDMsMTIuODIyMjg1NyAxNi44OTM3MTQzLDEyLjIxNDI4NTcgMTcuNjQyODU3MSwxMi4yMTQyODU3IEwyMC4zNTcxNDI5LDEyLjIxNDI4NTcgQzIxLjEwNjI4NTcsMTIuMjE0Mjg1NyAyMS43MTQyODU3LDEyLjgyMjI4NTcgMjEuNzE0Mjg1NywxMy41NzE0Mjg2IEwyMC4zNTcxNDI5LDIzLjA3MTQyODYgTDIwLjM1NzE0MjksMjMuMDcxNDI4NiBaIiBpZD0iU2hhcGUiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgIDwvZz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==",
+
+	Deleted: "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cjxzdmcgd2lkdGg9IjQwcHgiIGhlaWdodD0iNDBweCIgdmlld0JveD0iMCAwIDQwIDQwIiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgogICAgPCEtLSBHZW5lcmF0b3I6IFNrZXRjaCAzLjguMyAoMjk4MDIpIC0gaHR0cDovL3d3dy5ib2hlbWlhbmNvZGluZy5jb20vc2tldGNoIC0tPgogICAgPHRpdGxlPlRyYXNoIEljb248L3RpdGxlPgogICAgPGRlc2M+Q3JlYXRlZCB3aXRoIFNrZXRjaC48L2Rlc2M+CiAgICA8ZGVmcz48L2RlZnM+CiAgICA8ZyBpZD0iUGFnZS0xIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iVHJhc2gtSWNvbiIgZmlsbD0iIzAwMDAwMCI+CiAgICAgICAgICAgIDxnIGlkPSI3MTEtdHJhc2hAMngiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDYuMDAwMDAwLCAxLjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPGcgaWQ9IkxheWVyXzEiPgogICAgICAgICAgICAgICAgICAgIDxnIGlkPSJfeDM3XzExLXRyYXNoX3g0MF8yeC5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOC4xMTAyODU3MSw4LjE0MzUzNTcxIEM3LjczNjM5Mjg2LDguMTY1MjUgNy40NTA3MTQyOSw4LjQ4NzU3MTQzIDcuNDcyNDI4NTcsOC44NjIxNDI4NiBMOC44MjI3ODU3MSwzMy4yOTEzOTI5IEM4Ljg0NDUsMzMuNjY2NjQyOSA5LjE2NTQ2NDI5LDMzLjk1MjMyMTQgOS41NDAwMzU3MSwzMy45Mjk5Mjg2IEM5LjkxNDYwNzE0LDMzLjkwNzUzNTcgMTAuMTk5NjA3MSwzMy41ODY1NzE0IDEwLjE3Nzg5MjksMzMuMjExMzIxNCBMOC44Mjc1MzU3MSw4Ljc4MjA3MTQzIEM4LjgwNTE0Mjg2LDguNDA4MTc4NTcgOC40ODQxNzg1Nyw4LjEyMTgyMTQzIDguMTEwMjg1NzEsOC4xNDM1MzU3MSBMOC4xMTAyODU3MSw4LjE0MzUzNTcxIFogTTE0LjI1LDguMTQyODU3MTQgQzEzLjg3NTQyODYsOC4xNDI4NTcxNCAxMy41NzE0Mjg2LDguNDQ2ODU3MTQgMTMuNTcxNDI4Niw4LjgyMTQyODU3IEwxMy41NzE0Mjg2LDMzLjI1IEMxMy41NzE0Mjg2LDMzLjYyNTI1IDEzLjg3NTQyODYsMzMuOTI4NTcxNCAxNC4yNSwzMy45Mjg1NzE0IEMxNC42MjUyNSwzMy45Mjg1NzE0IDE0LjkyODU3MTQsMzMuNjI1MjUgMTQuOTI4NTcxNCwzMy4yNSBMMTQuOTI4NTcxNCw4LjgyMTQyODU3IEMxNC45Mjg1NzE0LDguNDQ2ODU3MTQgMTQuNjI1MjUsOC4xNDI4NTcxNCAxNC4yNSw4LjE0Mjg1NzE0IEwxNC4yNSw4LjE0Mjg1NzE0IFogTTI3LjgyMTQyODYsNC4wNzE0Mjg1NyBMMjAuMzU3MTQyOSw0LjA3MTQyODU3IEwyMC4zNTcxNDI5LDIuNzE0Mjg1NzEgQzIwLjM1NzE0MjksMS4yMTUzMjE0MyAxOS4xNDE4MjE0LDAgMTcuNjQyODU3MSwwIEwxMC44NTcxNDI5LDAgQzkuMzU4MTc4NTcsMCA4LjE0Mjg1NzE0LDEuMjE1MzIxNDMgOC4xNDI4NTcxNCwyLjcxNDI4NTcxIEw4LjE0Mjg1NzE0LDQuMDcxNDI4NTcgTDAuNjc4NTcxNDI5LDQuMDcxNDI4NTcgQzAuMzA0LDQuMDcxNDI4NTcgMCw0LjM3NTQyODU3IDAsNC43NSBDMCw1LjEyNTI1IDAuMzA0LDUuNDI4NTcxNDMgMC42Nzg1NzE0MjksNS40Mjg1NzE0MyBMMS4zNTcxNDI4Niw1LjQyODU3MTQzIEw0LjA3MTQyODU3LDM1LjI4NTcxNDMgQzQuMDcxNDI4NTcsMzYuNzg0Njc4NiA1LjI4Njc1LDM4IDYuNzg1NzE0MjksMzggTDIxLjcxNDI4NTcsMzggQzIzLjIxMzI1LDM4IDI0LjQyODU3MTQsMzYuNzg0Njc4NiAyNC40Mjg1NzE0LDM1LjI4NTcxNDMgTDI3LjE0Mjg1NzEsNS40Mjg1NzE0MyBMMjcuODIxNDI4Niw1LjQyODU3MTQzIEMyOC4xOTY2Nzg2LDUuNDI4NTcxNDMgMjguNSw1LjEyNTI1IDI4LjUsNC43NSBDMjguNSw0LjM3NTQyODU3IDI4LjE5NjY3ODYsNC4wNzE0Mjg1NyAyNy44MjE0Mjg2LDQuMDcxNDI4NTcgTDI3LjgyMTQyODYsNC4wNzE0Mjg1NyBaIE05LjUsMi43MTQyODU3MSBDOS41LDEuOTY1MTQyODYgMTAuMTA4LDEuMzU3MTQyODYgMTAuODU3MTQyOSwxLjM1NzE0Mjg2IEwxNy42NDI4NTcxLDEuMzU3MTQyODYgQzE4LjM5MiwxLjM1NzE0Mjg2IDE5LDEuOTY1MTQyODYgMTksMi43MTQyODU3MSBMMTksNC4wNzE0Mjg1NyBMOS41LDQuMDcxNDI4NTcgTDkuNSwyLjcxNDI4NTcxIEw5LjUsMi43MTQyODU3MSBaIE0yMy4wNzE0Mjg2LDM1LjI4NTcxNDMgQzIzLjA3MTQyODYsMzYuMDM0ODU3MSAyMi40NjM0Mjg2LDM2LjY0Mjg1NzEgMjEuNzE0Mjg1NywzNi42NDI4NTcxIEw2Ljc4NTcxNDI5LDM2LjY0Mjg1NzEgQzYuMDM2NTcxNDMsMzYuNjQyODU3MSA1LjQyODU3MTQzLDM2LjAzNDg1NzEgNS40Mjg1NzE0MywzNS4yODU3MTQzIEwyLjcxNDI4NTcxLDUuNDI4NTcxNDMgTDguMTQyODU3MTQsNS40Mjg1NzE0MyBMOS41LDUuNDI4NTcxNDMgTDE5LDUuNDI4NTcxNDMgTDIwLjM1NzE0MjksNS40Mjg1NzE0MyBMMjUuNzg1NzE0Myw1LjQyODU3MTQzIEwyMy4wNzE0Mjg2LDM1LjI4NTcxNDMgTDIzLjA3MTQyODYsMzUuMjg1NzE0MyBaIE0xOS42NzI0NjQzLDguODI0MTQyODYgTDE4LjMyMjc4NTcsMzMuMjEyNjc4NiBDMTguMzAxMDcxNCwzMy41ODcyNSAxOC41ODYwNzE0LDMzLjkwNzUzNTcgMTguOTU5OTY0MywzMy45Mjk5Mjg2IEMxOS4zMzM4NTcxLDMzLjk1MjMyMTQgMTkuNjU0ODIxNCwzMy42NjU5NjQzIDE5LjY3NzIxNDMsMzMuMjkyNzUgTDIxLjAyNzU3MTQsOC45MDM1MzU3MSBDMjEuMDQ5Mjg1Nyw4LjUyOTY0Mjg2IDIwLjc2MzYwNzEsOC4yMDg2Nzg1NyAyMC4zOTAzOTI5LDguMTg2Mjg1NzEgQzIwLjAxNTgyMTQsOC4xNjM4OTI4NiAxOS42OTQ4NTcxLDguNDQ5NTcxNDMgMTkuNjcyNDY0Myw4LjgyNDE0Mjg2IEwxOS42NzI0NjQzLDguODI0MTQyODYgWiIgaWQ9IlNoYXBlIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICAgICAgPC9nPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4="
+
+};
+module.exports = exports["default"];
+
+/***/ }),
+
+/***/ "./node_modules/js-alert/lib/index.js":
+/*!********************************************!*\
+  !*** ./node_modules/js-alert/lib/index.js ***!
+  \********************************************/
+/***/ ((module, exports, __webpack_require__) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+	value: true
+}));
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _queue = __webpack_require__(/*! ./queue.js */ "./node_modules/js-alert/lib/queue.js");
+
+var _queue2 = _interopRequireDefault(_queue);
+
+var _eventSource = __webpack_require__(/*! ./event-source.js */ "./node_modules/js-alert/lib/event-source.js");
+
+var _eventSource2 = _interopRequireDefault(_eventSource);
+
+var _icons = __webpack_require__(/*! ./icons.js */ "./node_modules/js-alert/lib/icons.js");
+
+var _icons2 = _interopRequireDefault(_icons);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; } //
+// Main class for the JSAlert package
+
+var JSAlert = function (_EventSource) {
+	_inherits(JSAlert, _EventSource);
+
+	_createClass(JSAlert, null, [{
+		key: 'alert',
+
+
+		/** @static Creates and shows a new alert with the specified text */
+		value: function alert(text, title, icon) {
+			var closeText = arguments.length <= 3 || arguments[3] === undefined ? "Close" : arguments[3];
+
+
+			// Check if not in a browser
+			if (typeof window === "undefined") return Promise.resolve(console.log("Alert: " + text));
+
+			// Create alert
+			var alert = new JSAlert(text, title);
+			alert.addButton(closeText, null);
+
+			// Set icon
+			if (icon !== false) alert.setIcon(icon || JSAlert.Icons.Information);
+
+			// Show it
+			return alert.show();
+		}
+
+		/** @static Creates and shows a new confirm alert with the specified text */
+
+	}, {
+		key: 'confirm',
+		value: function confirm(text, title, icon) {
+			var acceptText = arguments.length <= 3 || arguments[3] === undefined ? "OK" : arguments[3];
+			var rejectText = arguments.length <= 4 || arguments[4] === undefined ? "Cancel" : arguments[4];
+
+
+			// Check if not in a browser
+			if (typeof window === "undefined") return Promise.resolve(console.log("Alert: " + text));
+
+			// Create alert
+			var alert = new JSAlert(text, title);
+			alert.addButton(acceptText, true);
+			alert.addButton(rejectText, false);
+
+			// Set icon
+			if (icon !== false) alert.setIcon(icon || JSAlert.Icons.Question);
+
+			// Show it
+			return alert.show();
+		}
+
+		/** @static Creates and shows a new prompt, an alert with a single text field. */
+
+	}, {
+		key: 'prompt',
+		value: function prompt(text, defaultText, placeholderText, title, icon) {
+			var acceptText = arguments.length <= 5 || arguments[5] === undefined ? "OK" : arguments[5];
+			var rejectText = arguments.length <= 6 || arguments[6] === undefined ? "Cancel" : arguments[6];
+
+
+			// Check if not in a browser
+			if (typeof window === "undefined") return Promise.resolve(console.log("Alert: " + text));
+
+			// Create alert
+			var alert = new JSAlert(text, title);
+			alert.addButton(acceptText, true, "default");
+			alert.addButton(rejectText, false, "cancel");
+
+			// Set icon
+			if (icon !== false) alert.setIcon(icon || JSAlert.Icons.Question);
+
+			// Add text field
+			alert.addTextField(defaultText, null, placeholderText);
+
+			// Show it
+			return alert.show().then(function (result) {
+
+				// Check if cancelled
+				if (alert.cancelled) return null;else return alert.getTextFieldValue(0);
+			});
+		}
+
+		/** @static Creates and shows a loader, which is just an alert with no buttons. */
+
+	}, {
+		key: 'loader',
+		value: function loader(text, cancelable) {
+
+			// Check if not in a browser
+			if (typeof window === "undefined") return Promise.resolve(console.log("Loading: " + text));
+
+			// Create alert
+			var alert = new JSAlert(text);
+			alert.cancelable = cancelable;
+
+			// Show it
+			return alert.show();
+		}
+
+		/** Constructor */
+
+	}]);
+
+	function JSAlert() {
+		var text = arguments.length <= 0 || arguments[0] === undefined ? "" : arguments[0];
+		var title = arguments.length <= 1 || arguments[1] === undefined ? "" : arguments[1];
+
+		_classCallCheck(this, JSAlert);
+
+		// Setup vars
+
+		var _this = _possibleConstructorReturn(this, Object.getPrototypeOf(JSAlert).call(this));
+
+		_this.elems = {};
+		_this.title = title;
+		_this.text = text;
+		_this.buttons = [];
+		_this.textFields = [];
+		_this.result = false;
+		_this.iconURL = null;
+		_this.cancelable = true;
+		_this.cancelled = false;
+		_this.dismissed = false;
+
+		return _this;
+	}
+
+	/** Sets an icon for the alert. `icon` is either a URL or one of `JSAlert.Icons`. */
+
+
+	_createClass(JSAlert, [{
+		key: 'setIcon',
+		value: function setIcon(icon) {
+			this.iconURL = icon;
+		}
+
+		/** Adds a button. Returns a Promise that is called if the button is clicked. */
+
+	}, {
+		key: 'addButton',
+		value: function addButton(text, value, type) {
+			var _this2 = this;
+
+			// Return promise
+			return new Promise(function (onSuccess, onFail) {
+
+				// Add button
+				_this2.buttons.push({
+					text: text,
+					value: typeof value == "undefined" ? text : value,
+					type: type || (_this2.buttons.length == 0 ? "default" : "normal"),
+					callback: onSuccess
+				});
+			});
+		}
+
+		/** Adds a text field. Returns a Promise that will be called when the dialog is dismissed, but not cancelled. */
+
+	}, {
+		key: 'addTextField',
+		value: function addTextField(value, type, placeholderText) {
+
+			// Add text field
+			this.textFields.push({
+				value: value || "",
+				type: type || "text",
+				placeholder: placeholderText || ""
+			});
+		}
+
+		/** Gets a text field's value */
+
+	}, {
+		key: 'getTextFieldValue',
+		value: function getTextFieldValue(index) {
+
+			// Get text field info
+			var info = this.textFields[index];
+
+			// Return the value
+			return info.elem ? info.elem.value : info.value;
+		}
+
+		/** Shows the alert. */
+
+	}, {
+		key: 'show',
+		value: function show() {
+			var _this3 = this;
+
+			// Add to the queue
+			JSAlert.popupQueue.add(this).then(function () {
+
+				// Show us
+				_this3._show();
+
+				// Notify that we have been shown
+				_this3.emit("opened");
+			});
+
+			// Return the alert
+			return this;
+		}
+
+		/** A then function, to allow chaining with Promises */
+
+	}, {
+		key: 'then',
+		value: function then(func) {
+			return this.when("closed").then(func);
+		}
+
+		/** Dismisses the alert. */
+
+	}, {
+		key: 'dismiss',
+		value: function dismiss(result) {
+
+			// Do nothing if dismissed already
+			if (this.dismissed) return;
+			this.dismissed = true;
+
+			// Remove us from the queue
+			JSAlert.popupQueue.remove(this);
+
+			// Store result
+			this.result = result;
+			if (typeof result == "undefined") this.cancelled = true;
+
+			// Remove elements
+			this.removeElements();
+
+			// Remove global keyboard listener
+			window.removeEventListener("keydown", this);
+
+			// Trigger cancel-specific event
+			if (this.cancelled) this.emit("cancelled", this.result);else this.emit("complete", this.result);
+
+			// Trigger closed event
+			this.emit("closed", this.result);
+			return this;
+		}
+
+		/** Dismisses the alert some time in the future */
+
+	}, {
+		key: 'dismissIn',
+		value: function dismissIn(time) {
+
+			setTimeout(this.dismiss.bind(this), time);
+			return this;
+		}
+
+		/** @private Called to actually show the alert. */
+
+	}, {
+		key: '_show',
+		value: function _show() {
+
+			// Create elements
+			this.createBackground();
+			this.createPopup();
+
+			// Add global keyboard listener
+			window.addEventListener("keydown", this);
+		}
+
+		/** @private Called to create the overlay element. Theme subclasses can override this. */
+
+	}, {
+		key: 'createBackground',
+		value: function createBackground() {
+			var _this4 = this;
+
+			// Create element
+			this.elems.background = document.createElement("div");
+			this.elems.background.style.cssText = "position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 10000; background-color: rgba(0, 0, 0, 0.1); opacity: 0; transition: opacity 0.15s; ";
+
+			// Add to document
+			document.body.appendChild(this.elems.background);
+
+			// Do animation
+			setTimeout(function () {
+				_this4.elems.background.offsetWidth;
+				_this4.elems.background.style.opacity = 1;
+			}, 0);
+		}
+
+		/** @private Called to create the popup element. Theme subclasses can override this. */
+
+	}, {
+		key: 'createPopup',
+		value: function createPopup() {
+			var _this5 = this;
+
+			// Create container element
+			this.elems.container = document.createElement("div");
+			this.elems.container.focusable = true;
+			this.elems.container.style.cssText = "position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 10001; display: flex; justify-content: center; align-items: center; opacity: 0; transform: translateY(-40px); transition: opacity 0.15s, transform 0.15s; ";
+			document.body.appendChild(this.elems.container);
+
+			// Do animation
+			setTimeout(function () {
+				_this5.elems.container.offsetWidth;
+				_this5.elems.container.style.opacity = 1;
+				_this5.elems.container.style.transform = "translateY(0px)";
+			}, 0);
+
+			// Add dismiss handler
+			this.addTouchHandler(this.elems.container, function () {
+
+				// Check if cancelable
+				if (!_this5.cancelable) return;
+
+				// Dismiss
+				_this5.cancelled = true;
+				_this5.dismiss();
+			});
+
+			// Create window
+			this.elems.window = document.createElement("div");
+			this.elems.window.style.cssText = "position: relative; background-color: rgba(255, 255, 255, 0.95); box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25); border-radius: 5px; padding: 10px; min-width: 50px; min-height: 10px; max-width: 50%; max-height: 90%; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); ";
+			this.elems.container.appendChild(this.elems.window);
+
+			// Create icon if there is one
+			if (this.iconURL) {
+
+				this.elems.icon = document.createElement("img");
+				this.elems.icon.style.cssText = "display: block; margin: auto; max-height: 40px; text-align: center; font-family: Helvetica, Arial; font-size: 17px; font-weight: bold; color: #000; cursor: default; padding: 10px 0px; ";
+				this.elems.icon.src = this.iconURL;
+				this.elems.window.appendChild(this.elems.icon);
+			}
+
+			// Create title if there is one
+			if (this.title) {
+
+				this.elems.title = document.createElement("div");
+				this.elems.title.style.cssText = "display: block; text-align: center; font-family: Helvetica, Arial; font-size: 17px; font-weight: bold; color: #000; cursor: default; padding: 2px 20px; ";
+				this.elems.title.innerHTML = this.title;
+				this.elems.window.appendChild(this.elems.title);
+			}
+
+			// Create text if there is one
+			if (this.text) {
+
+				this.elems.text = document.createElement("div");
+				this.elems.text.style.cssText = "display: block; text-align: center; font-family: Helvetica, Arial; font-size: 15px; font-weight: normal; color: #000; cursor: default; padding: 2px 20px; ";
+				this.elems.text.innerHTML = this.text;
+				this.elems.window.appendChild(this.elems.text);
+			}
+
+			// Create text fields if there are any
+			if (this.textFields.length > 0) {
+
+				this.elems.textFields = document.createElement("div");
+				this.elems.textFields.style.cssText = "display: block; ";
+				this.elems.window.appendChild(this.elems.textFields);
+
+				// Add each button
+				this.textFields.forEach(function (b, idx) {
+
+					b.elem = document.createElement("input");
+					b.elem.style.cssText = "display: block; width: 90%; min-width: 250px; padding: 5px 0px; margin: 10px auto; background-color: #FFF; border: 1px solid #EEE; border-radius: 5px; text-align: center; font-family: Helvetica, Arial; font-size: 15px; color: #222; ";
+					b.elem.value = b.value;
+					b.elem.placeholder = b.placeholder;
+					b.elem.type = b.type;
+					_this5.elems.textFields.appendChild(b.elem);
+
+					// Add keyboard listener
+					b.elem.addEventListener("keypress", function (e) {
+
+						// Ignore if not enter
+						if (e.keyCode != 13) return;
+
+						// Check if this is the last input field
+						if (idx + 1 >= _this5.textFields.length) {
+
+							// Done
+							_this5.dismiss("enter-pressed");
+						} else {
+
+							// Just select the next field
+							_this5.textFields[idx + 1].elem.focus();
+						}
+					});
+				});
+
+				// Focus on first field
+				this.textFields[0].elem.focus();
+			}
+
+			// Create buttons if there are any
+			if (this.buttons.length > 0) {
+
+				this.elems.buttons = document.createElement("div");
+				this.elems.buttons.style.cssText = "display: block; display: flex; justify-content: space-around; align-items: center; text-align: right; border-top: 1px solid #EEE; margin-top: 10px; ";
+				this.elems.window.appendChild(this.elems.buttons);
+
+				// Add each button
+				this.buttons.forEach(function (b) {
+
+					var btn = document.createElement("div");
+					btn.style.cssText = "display: inline-block; font-family: Helvetica, Arial; font-size: 15px; font-weight: 200; color: #08F; padding: 10px 20px; padding-bottom: 0px; cursor: pointer; ";
+					btn.innerText = b.text;
+					_this5.elems.buttons.appendChild(btn);
+
+					// Add button handler
+					_this5.addTouchHandler(btn, function () {
+						b.callback && b.callback(b.value);
+						if (b.type == "cancel") _this5.cancelled = true;
+						_this5.dismiss(b.value);
+					});
+				});
+			}
+		}
+
+		/** @private Called to remove all elements from the screen */
+
+	}, {
+		key: 'removeElements',
+		value: function removeElements() {
+			var _this6 = this;
+
+			// Don't do anything if not loaded
+			if (!this.elems || !this.elems.container) return;
+
+			// Animate background away
+			this.elems.background.style.opacity = 0;
+			this.elems.container.style.opacity = 0;
+			this.elems.container.style.transform = "translateY(40px)";
+
+			// Remove elements after animation
+			setTimeout(function () {
+				_this6.removeElement(_this6.elems.background);
+				_this6.removeElement(_this6.elems.container);
+			}, 250);
+		}
+
+		/** @private Helper function to remove an element */
+
+	}, {
+		key: 'removeElement',
+		value: function removeElement(elem) {
+			elem && elem.parentNode && elem.parentNode.removeChild(elem);
+		}
+
+		/** @private Helper function to add a click or touch event handler that doesn't bubble */
+
+	}, {
+		key: 'addTouchHandler',
+		value: function addTouchHandler(elem, callback) {
+
+			// Create handler
+			var handler = function handler(e) {
+
+				// Stop default browser action, unless this is an input field
+				if (e.target.nodeName.toLowerCase() != "input") e.preventDefault();
+
+				// Check if our element was pressed, not a child element
+				if (e.target != elem) return;
+
+				// Trigger callback
+				callback();
+			};
+
+			// Add listeners
+			this.elems.container.addEventListener("mousedown", handler, true);
+			this.elems.container.addEventListener("touchstart", handler, true);
+		}
+
+		/** @private Called by the browser when a keyboard event is fired on the whole window */
+
+	}, {
+		key: 'handleEvent',
+		value: function handleEvent(e) {
+
+			// Check if enter was pressed
+			if (e.keyCode == 13) {
+
+				// Find the first default button and use that value instead
+				for (var i = 0; i < this.buttons.length; i++) {
+					if (this.buttons[i].type == "default") {
+
+						// Use this button's value
+						this.dismiss(this.buttons[i].value);
+						e.preventDefault();
+
+						// Trigger the button's callback
+						this.buttons[i].callback && this.buttons[i].callback(this.result);
+						return;
+					}
+				}
+
+				// No default button found, cancel
+				this.cancelled = true;
+				this.dismiss();
+				return;
+			}
+
+			// Check if escape was pressed
+			if (e.keyCode == 27) {
+
+				// Check if cancelable
+				if (!this.cancelable) return;
+
+				// Find the first default button and use that value instead
+				this.cancelled = true;
+				this.result = null;
+				for (var i = 0; i < this.buttons.length; i++) {
+					if (this.buttons[i].type == "cancel") {
+
+						// Use this button's value
+						this.dismiss(this.buttons[i].value);
+						e.preventDefault();
+
+						// Trigger the button's callback
+						this.buttons[i].callback && this.buttons[i].callback(this.result);
+						return;
+					}
+				}
+
+				// No cancel button found, just cancel
+				this.cancelled = true;
+				this.dismiss();
+				return;
+			}
+		}
+	}]);
+
+	return JSAlert;
+}(_eventSource2.default);
+
+// Include theme's icons
+
+
+exports["default"] = JSAlert;
+
+JSAlert.Icons = _icons2.default;
+
+// The default popup queue
+JSAlert.popupQueue = new _queue2.default();
+
+// In case anyone wants to use the classes of this project on their own...
+JSAlert.Queue = _queue2.default;
+JSAlert.EventSource = _eventSource2.default;
+module.exports = exports['default'];
+
+/***/ }),
+
+/***/ "./node_modules/js-alert/lib/queue.js":
+/*!********************************************!*\
+  !*** ./node_modules/js-alert/lib/queue.js ***!
+  \********************************************/
+/***/ ((module, exports, __webpack_require__) => {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", ({
+	value: true
+}));
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _eventSource = __webpack_require__(/*! ./event-source.js */ "./node_modules/js-alert/lib/event-source.js");
+
+var _eventSource2 = _interopRequireDefault(_eventSource);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; } //
+// Queue class - A queue contains a list of items. Only one item can be active
+// at a time, and when one is removed the next one is activated
+//
+// To use this class, first add() your item. A promise will be returned that gets resolved
+// when your item is ready to be activated. Once your item is finished doing what it needs
+// to do, remove() it. This will trigger the next item's promise.
+//
+//	Example:
+//
+//		var queue = new Queue();
+//		
+//		var msgbox = new Popup();
+//		queue.add(msgbox).then(() => {
+//			msgbox.show();
+//			msgbox.when('closed').then(() => queue.remove(msgbox));
+//		}
+//		
+//		var msgbox2 = new Popup();
+//		queue.add(msgbox2).then(() => {
+//			msgbox2.show();
+//			msgbox2.when('closed').then(() => queue.remove(msgbox2));
+//		}
+//	
+//
+//	In the above example, only one message box would be visible at a time.
+//
+
+var Queue = function (_EventSource) {
+	_inherits(Queue, _EventSource);
+
+	function Queue() {
+		_classCallCheck(this, Queue);
+
+		// Setup vars
+
+		var _this = _possibleConstructorReturn(this, Object.getPrototypeOf(Queue).call(this));
+
+		_this.items = [];
+		_this.current = null;
+
+		return _this;
+	}
+
+	/** Adds a queue item, and returns a Promise. */
+
+
+	_createClass(Queue, [{
+		key: "add",
+		value: function add(item) {
+			var _this2 = this;
+
+			// Return a promise
+			return new Promise(function (onSuccess, onFail) {
+
+				// Store item and handler at the end of the queue. When this item is ready to be activated, the handler will be called to resolve the promise.
+				_this2.items.push({
+					item: item,
+					activateHandler: onSuccess
+				});
+
+				// Emit event
+				_this2.emit("added", item);
+
+				// Check if we can activate this one now
+				setTimeout(_this2.checkActivated.bind(_this2), 1);
+			});
+		}
+
+		/** @private Checks if there a new item to be activated */
+
+	}, {
+		key: "checkActivated",
+		value: function checkActivated() {
+
+			// Check if there's already an activated item
+			if (this.current) return;
+
+			// Check if we have any items
+			if (this.items.length == 0) {
+
+				// No more items
+				this.emit("empty");
+				return;
+			}
+
+			// We can activate the next item now
+			this.current = this.items[0];
+
+			// Create promise resolve response. DO NOT directly pass a thenable, it won't work!
+			var resp = {
+				item: this.current.item
+			};
+
+			// Resolve promise
+			this.current.activateHandler && this.current.activateHandler(resp);
+
+			// Trigger event
+			this.emit("activated", resp);
+		}
+
+		/** Removes a queued item. If the item is the currently activated one, the next item in the queue will be activated. */
+
+	}, {
+		key: "remove",
+		value: function remove(item) {
+
+			// Remove item from queue
+			for (var i = 0; i < this.items.length; i++) {
+				if (this.items[i].item == item) this.items.splice(i--, 1);
+			} // Emit event
+			this.emit("removed", item);
+
+			// Check if this was the current item
+			if (this.current && this.current.item == item) this.current = null;
+
+			// Possibly activate the next item
+			setTimeout(this.checkActivated.bind(this), 1);
+		}
+	}]);
+
+	return Queue;
+}(_eventSource2.default);
+
+exports["default"] = Queue;
+module.exports = exports["default"];
+
+/***/ }),
+
+/***/ "./node_modules/js-loading-overlay/dist/js-loading-overlay.min.js":
+/*!************************************************************************!*\
+  !*** ./node_modules/js-loading-overlay/dist/js-loading-overlay.min.js ***!
+  \************************************************************************/
+/***/ (() => {
+
+!function(e){var t={};function n(o){if(t[o])return t[o].exports;var i=t[o]={i:o,l:!1,exports:{}};return e[o].call(i.exports,i,i.exports,n),i.l=!0,i.exports}n.m=e,n.c=t,n.d=function(e,t,o){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:o})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var o=Object.create(null);if(n.r(o),Object.defineProperty(o,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var i in e)n.d(o,i,function(t){return e[t]}.bind(null,i));return o},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="",n(n.s=0)}([function(e,t,n){e.exports=n(1)},function(e,t){function n(e,t){for(var n=0;n<t.length;n++){var o=t[n];o.enumerable=o.enumerable||!1,o.configurable=!0,"value"in o&&(o.writable=!0),Object.defineProperty(e,o.key,o)}}var o=function(){function e(){!function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}(this,e),this.options={overlayBackgroundColor:"#666666",overlayOpacity:.6,spinnerIcon:"ball-circus",spinnerColor:"#000",spinnerSize:"3x",overlayIDName:"overlay",spinnerIDName:"spinner",offsetY:0,offsetX:0,lockScroll:!1,containerID:null,spinnerZIndex:99999,overlayZIndex:99998},this.stylesheetBaseURL="https://cdn.jsdelivr.net/npm/load-awesome@1.1.0/css/",this.spinner=null,this.spinnerStylesheetURL=null,this.numberOfEmptyDivForSpinner={"ball-8bits":16,"ball-atom":4,"ball-beat":3,"ball-circus":5,"ball-climbing-dot":1,"ball-clip-rotate":1,"ball-clip-rotate-multiple":2,"ball-clip-rotate-pulse":2,"ball-elastic-dots":5,"ball-fall":3,"ball-fussion":4,"ball-grid-beat":9,"ball-grid-pulse":9,"ball-newton-cradle":4,"ball-pulse":3,"ball-pulse-rise":5,"ball-pulse-sync":3,"ball-rotate":1,"ball-running-dots":5,"ball-scale":1,"ball-scale-multiple":3,"ball-scale-pulse":2,"ball-scale-ripple":1,"ball-scale-ripple-multiple":3,"ball-spin":8,"ball-spin-clockwise":8,"ball-spin-clockwise-fade":8,"ball-spin-clockwise-fade-rotating":8,"ball-spin-fade":8,"ball-spin-fade-rotating":8,"ball-spin-rotate":2,"ball-square-clockwise-spin":8,"ball-square-spin":8,"ball-triangle-path":3,"ball-zig-zag":2,"ball-zig-zag-deflect":2,cog:1,"cube-transition":2,fire:3,"line-scale":5,"line-scale-party":5,"line-scale-pulse-out":5,"line-scale-pulse-out-rapid":5,"line-spin-clockwise-fade":8,"line-spin-clockwise-fade-rotating":8,"line-spin-fade":8,"line-spin-fade-rotating":8,pacman:6,"square-jelly-box":2,"square-loader":1,"square-spin":1,timer:1,"triangle-skew-spin":1}}var t,o,i;return t=e,(o=[{key:"show",value:function(e){this.setOptions(e),this.addSpinnerStylesheet(),this.generateSpinnerElement(),this.options.lockScroll&&(document.body.style.overflow="hidden",document.documentElement.style.overflow="hidden"),this.generateAndAddOverlayElement()}},{key:"hide",value:function(){this.options.lockScroll&&(document.body.style.overflow="",document.documentElement.style.overflow="");var e=document.getElementById("loading-overlay-stylesheet");e&&(e.disabled=!0,e.parentNode.removeChild(e),document.getElementById(this.options.overlayIDName).remove(),document.getElementById(this.options.spinnerIDName).remove())}},{key:"setOptions",value:function(e){if(void 0!==e)for(var t in e)this.options[t]=e[t]}},{key:"generateAndAddOverlayElement",value:function(){var e="50%";0!==this.options.offsetX&&(e="calc(50% + "+this.options.offsetX+")");var t="50%";if(0!==this.options.offsetY&&(t="calc(50% + "+this.options.offsetY+")"),this.options.containerID&&document.body.contains(document.getElementById(this.options.containerID))){var n='<div id="'.concat(this.options.overlayIDName,'" style="display: block !important; position: absolute; top: 0; left: 0; overflow: auto; opacity: ').concat(this.options.overlayOpacity,"; background: ").concat(this.options.overlayBackgroundColor,'; z-index: 50; width: 100%; height: 100%;"></div><div id="').concat(this.options.spinnerIDName,'" style="display: block !important; position: absolute; top: ').concat(t,"; left: ").concat(e,'; -webkit-transform: translate(-50%); -ms-transform: translate(-50%); transform: translate(-50%); z-index: 9999;">').concat(this.spinner,"</div>"),o=document.getElementById(this.options.containerID);return o.style.position="relative",void o.insertAdjacentHTML("beforeend",n)}var i='<div id="'.concat(this.options.overlayIDName,'" style="display: block !important; position: fixed; top: 0; left: 0; overflow: auto; opacity: ').concat(this.options.overlayOpacity,"; background: ").concat(this.options.overlayBackgroundColor,"; z-index: ").concat(this.options.overlayZIndex,'; width: 100%; height: 100%;"></div><div id="').concat(this.options.spinnerIDName,'" style="display: block !important; position: fixed; top: ').concat(t,"; left: ").concat(e,"; -webkit-transform: translate(-50%); -ms-transform: translate(-50%); transform: translate(-50%); z-index: ").concat(this.options.spinnerZIndex,';">').concat(this.spinner,"</div>");document.body.insertAdjacentHTML("beforeend",i)}},{key:"generateSpinnerElement",value:function(){var e=this,t=Object.keys(this.numberOfEmptyDivForSpinner).find((function(t){return t===e.options.spinnerIcon})),n=this.generateEmptyDivElement(this.numberOfEmptyDivForSpinner[t]);this.spinner='<div style="color: '.concat(this.options.spinnerColor,'" class="la-').concat(this.options.spinnerIcon," la-").concat(this.options.spinnerSize,'">').concat(n,"</div>")}},{key:"addSpinnerStylesheet",value:function(){this.setSpinnerStylesheetURL();var e=document.createElement("link");e.setAttribute("id","loading-overlay-stylesheet"),e.setAttribute("rel","stylesheet"),e.setAttribute("type","text/css"),e.setAttribute("href",this.spinnerStylesheetURL),document.getElementsByTagName("head")[0].appendChild(e)}},{key:"setSpinnerStylesheetURL",value:function(){this.spinnerStylesheetURL=this.stylesheetBaseURL+this.options.spinnerIcon+".min.css"}},{key:"generateEmptyDivElement",value:function(e){for(var t="",n=1;n<=e;n++)t+="<div></div>";return t}}])&&n(t.prototype,o),i&&n(t,i),e}();window.JsLoadingOverlay=new o,e.exports=JsLoadingOverlay}]);
+//# sourceMappingURL=js-loading-overlay.min.js.map
+
+/***/ }),
+
+/***/ "./src/styles.css":
+/*!************************!*\
+  !*** ./src/styles.css ***!
+  \************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/styleDomAPI.js */ "./node_modules/style-loader/dist/runtime/styleDomAPI.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/insertBySelector.js */ "./node_modules/style-loader/dist/runtime/insertBySelector.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2__);
+/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js */ "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/insertStyleElement.js */ "./node_modules/style-loader/dist/runtime/insertStyleElement.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4__);
+/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! !../node_modules/style-loader/dist/runtime/styleTagTransform.js */ "./node_modules/style-loader/dist/runtime/styleTagTransform.js");
+/* harmony import */ var _node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _node_modules_css_loader_dist_cjs_js_node_modules_postcss_loader_dist_cjs_js_styles_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! !!../node_modules/css-loader/dist/cjs.js!../node_modules/postcss-loader/dist/cjs.js!./styles.css */ "./node_modules/css-loader/dist/cjs.js!./node_modules/postcss-loader/dist/cjs.js!./src/styles.css");
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var options = {};
+
+options.styleTagTransform = (_node_modules_style_loader_dist_runtime_styleTagTransform_js__WEBPACK_IMPORTED_MODULE_5___default());
+options.setAttributes = (_node_modules_style_loader_dist_runtime_setAttributesWithoutAttributes_js__WEBPACK_IMPORTED_MODULE_3___default());
+
+      options.insert = _node_modules_style_loader_dist_runtime_insertBySelector_js__WEBPACK_IMPORTED_MODULE_2___default().bind(null, "head");
+    
+options.domAPI = (_node_modules_style_loader_dist_runtime_styleDomAPI_js__WEBPACK_IMPORTED_MODULE_1___default());
+options.insertStyleElement = (_node_modules_style_loader_dist_runtime_insertStyleElement_js__WEBPACK_IMPORTED_MODULE_4___default());
+
+var update = _node_modules_style_loader_dist_runtime_injectStylesIntoStyleTag_js__WEBPACK_IMPORTED_MODULE_0___default()(_node_modules_css_loader_dist_cjs_js_node_modules_postcss_loader_dist_cjs_js_styles_css__WEBPACK_IMPORTED_MODULE_6__["default"], options);
+
+
+
+
+       /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (_node_modules_css_loader_dist_cjs_js_node_modules_postcss_loader_dist_cjs_js_styles_css__WEBPACK_IMPORTED_MODULE_6__["default"] && _node_modules_css_loader_dist_cjs_js_node_modules_postcss_loader_dist_cjs_js_styles_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals ? _node_modules_css_loader_dist_cjs_js_node_modules_postcss_loader_dist_cjs_js_styles_css__WEBPACK_IMPORTED_MODULE_6__["default"].locals : undefined);
+
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+var stylesInDOM = [];
+
+function getIndexByIdentifier(identifier) {
+  var result = -1;
+
+  for (var i = 0; i < stylesInDOM.length; i++) {
+    if (stylesInDOM[i].identifier === identifier) {
+      result = i;
+      break;
+    }
+  }
+
+  return result;
+}
+
+function modulesToDom(list, options) {
+  var idCountMap = {};
+  var identifiers = [];
+
+  for (var i = 0; i < list.length; i++) {
+    var item = list[i];
+    var id = options.base ? item[0] + options.base : item[0];
+    var count = idCountMap[id] || 0;
+    var identifier = "".concat(id, " ").concat(count);
+    idCountMap[id] = count + 1;
+    var indexByIdentifier = getIndexByIdentifier(identifier);
+    var obj = {
+      css: item[1],
+      media: item[2],
+      sourceMap: item[3],
+      supports: item[4],
+      layer: item[5]
+    };
+
+    if (indexByIdentifier !== -1) {
+      stylesInDOM[indexByIdentifier].references++;
+      stylesInDOM[indexByIdentifier].updater(obj);
+    } else {
+      var updater = addElementStyle(obj, options);
+      options.byIndex = i;
+      stylesInDOM.splice(i, 0, {
+        identifier: identifier,
+        updater: updater,
+        references: 1
+      });
+    }
+
+    identifiers.push(identifier);
+  }
+
+  return identifiers;
+}
+
+function addElementStyle(obj, options) {
+  var api = options.domAPI(options);
+  api.update(obj);
+
+  var updater = function updater(newObj) {
+    if (newObj) {
+      if (newObj.css === obj.css && newObj.media === obj.media && newObj.sourceMap === obj.sourceMap && newObj.supports === obj.supports && newObj.layer === obj.layer) {
+        return;
+      }
+
+      api.update(obj = newObj);
+    } else {
+      api.remove();
+    }
+  };
+
+  return updater;
+}
+
+module.exports = function (list, options) {
+  options = options || {};
+  list = list || [];
+  var lastIdentifiers = modulesToDom(list, options);
+  return function update(newList) {
+    newList = newList || [];
+
+    for (var i = 0; i < lastIdentifiers.length; i++) {
+      var identifier = lastIdentifiers[i];
+      var index = getIndexByIdentifier(identifier);
+      stylesInDOM[index].references--;
+    }
+
+    var newLastIdentifiers = modulesToDom(newList, options);
+
+    for (var _i = 0; _i < lastIdentifiers.length; _i++) {
+      var _identifier = lastIdentifiers[_i];
+
+      var _index = getIndexByIdentifier(_identifier);
+
+      if (stylesInDOM[_index].references === 0) {
+        stylesInDOM[_index].updater();
+
+        stylesInDOM.splice(_index, 1);
+      }
+    }
+
+    lastIdentifiers = newLastIdentifiers;
+  };
+};
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/insertBySelector.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertBySelector.js ***!
+  \********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+var memo = {};
+/* istanbul ignore next  */
+
+function getTarget(target) {
+  if (typeof memo[target] === "undefined") {
+    var styleTarget = document.querySelector(target); // Special case to return head of iframe instead of iframe itself
+
+    if (window.HTMLIFrameElement && styleTarget instanceof window.HTMLIFrameElement) {
+      try {
+        // This will throw an exception if access to iframe is blocked
+        // due to cross-origin restrictions
+        styleTarget = styleTarget.contentDocument.head;
+      } catch (e) {
+        // istanbul ignore next
+        styleTarget = null;
+      }
+    }
+
+    memo[target] = styleTarget;
+  }
+
+  return memo[target];
+}
+/* istanbul ignore next  */
+
+
+function insertBySelector(insert, style) {
+  var target = getTarget(insert);
+
+  if (!target) {
+    throw new Error("Couldn't find a style target. This probably means that the value for the 'insert' parameter is invalid.");
+  }
+
+  target.appendChild(style);
+}
+
+module.exports = insertBySelector;
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/insertStyleElement.js":
+/*!**********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/insertStyleElement.js ***!
+  \**********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+/* istanbul ignore next  */
+function insertStyleElement(options) {
+  var element = document.createElement("style");
+  options.setAttributes(element, options.attributes);
+  options.insert(element, options.options);
+  return element;
+}
+
+module.exports = insertStyleElement;
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js":
+/*!**********************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js ***!
+  \**********************************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+"use strict";
+
+
+/* istanbul ignore next  */
+function setAttributesWithoutAttributes(styleElement) {
+  var nonce =  true ? __webpack_require__.nc : 0;
+
+  if (nonce) {
+    styleElement.setAttribute("nonce", nonce);
+  }
+}
+
+module.exports = setAttributesWithoutAttributes;
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/styleDomAPI.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleDomAPI.js ***!
+  \***************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+/* istanbul ignore next  */
+function apply(styleElement, options, obj) {
+  var css = "";
+
+  if (obj.supports) {
+    css += "@supports (".concat(obj.supports, ") {");
+  }
+
+  if (obj.media) {
+    css += "@media ".concat(obj.media, " {");
+  }
+
+  var needLayer = typeof obj.layer !== "undefined";
+
+  if (needLayer) {
+    css += "@layer".concat(obj.layer.length > 0 ? " ".concat(obj.layer) : "", " {");
+  }
+
+  css += obj.css;
+
+  if (needLayer) {
+    css += "}";
+  }
+
+  if (obj.media) {
+    css += "}";
+  }
+
+  if (obj.supports) {
+    css += "}";
+  }
+
+  var sourceMap = obj.sourceMap;
+
+  if (sourceMap && typeof btoa !== "undefined") {
+    css += "\n/*# sourceMappingURL=data:application/json;base64,".concat(btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap)))), " */");
+  } // For old IE
+
+  /* istanbul ignore if  */
+
+
+  options.styleTagTransform(css, styleElement, options.options);
+}
+
+function removeStyleElement(styleElement) {
+  // istanbul ignore if
+  if (styleElement.parentNode === null) {
+    return false;
+  }
+
+  styleElement.parentNode.removeChild(styleElement);
+}
+/* istanbul ignore next  */
+
+
+function domAPI(options) {
+  var styleElement = options.insertStyleElement(options);
+  return {
+    update: function update(obj) {
+      apply(styleElement, options, obj);
+    },
+    remove: function remove() {
+      removeStyleElement(styleElement);
+    }
+  };
+}
+
+module.exports = domAPI;
+
+/***/ }),
+
+/***/ "./node_modules/style-loader/dist/runtime/styleTagTransform.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/styleTagTransform.js ***!
+  \*********************************************************************/
+/***/ ((module) => {
+
+"use strict";
+
+
+/* istanbul ignore next  */
+function styleTagTransform(css, styleElement) {
+  if (styleElement.styleSheet) {
+    styleElement.styleSheet.cssText = css;
+  } else {
+    while (styleElement.firstChild) {
+      styleElement.removeChild(styleElement.firstChild);
+    }
+
+    styleElement.appendChild(document.createTextNode(css));
+  }
+}
+
+module.exports = styleTagTransform;
+
+/***/ }),
+
+/***/ "./node_modules/websocket/lib/browser.js":
+/*!***********************************************!*\
+  !*** ./node_modules/websocket/lib/browser.js ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+var _globalThis;
+if (typeof globalThis === 'object') {
+	_globalThis = globalThis;
+} else {
+	try {
+		_globalThis = __webpack_require__(/*! es5-ext/global */ "./node_modules/es5-ext/global.js");
+	} catch (error) {
+	} finally {
+		if (!_globalThis && typeof window !== 'undefined') { _globalThis = window; }
+		if (!_globalThis) { throw new Error('Could not determine global this'); }
+	}
+}
+
+var NativeWebSocket = _globalThis.WebSocket || _globalThis.MozWebSocket;
+var websocket_version = __webpack_require__(/*! ./version */ "./node_modules/websocket/lib/version.js");
+
+
+/**
+ * Expose a W3C WebSocket class with just one or two arguments.
+ */
+function W3CWebSocket(uri, protocols) {
+	var native_instance;
+
+	if (protocols) {
+		native_instance = new NativeWebSocket(uri, protocols);
+	}
+	else {
+		native_instance = new NativeWebSocket(uri);
+	}
+
+	/**
+	 * 'native_instance' is an instance of nativeWebSocket (the browser's WebSocket
+	 * class). Since it is an Object it will be returned as it is when creating an
+	 * instance of W3CWebSocket via 'new W3CWebSocket()'.
+	 *
+	 * ECMAScript 5: http://bclary.com/2004/11/07/#a-13.2.2
+	 */
+	return native_instance;
+}
+if (NativeWebSocket) {
+	['CONNECTING', 'OPEN', 'CLOSING', 'CLOSED'].forEach(function(prop) {
+		Object.defineProperty(W3CWebSocket, prop, {
+			get: function() { return NativeWebSocket[prop]; }
+		});
+	});
+}
+
+/**
+ * Module exports.
+ */
+module.exports = {
+    'w3cwebsocket' : NativeWebSocket ? W3CWebSocket : null,
+    'version'      : websocket_version
+};
+
+
+/***/ }),
+
+/***/ "./node_modules/websocket/lib/version.js":
+/*!***********************************************!*\
+  !*** ./node_modules/websocket/lib/version.js ***!
+  \***********************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__(/*! ../package.json */ "./node_modules/websocket/package.json").version;
+
+
+/***/ }),
+
+/***/ "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle cx=%278%27 cy=%278%27 r=%273%27/%3e%3c/svg%3e":
+/*!***************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle cx=%278%27 cy=%278%27 r=%273%27/%3e%3c/svg%3e ***!
+  \***************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3ccircle cx=%278%27 cy=%278%27 r=%273%27/%3e%3c/svg%3e";
+
+/***/ }),
+
+/***/ "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e":
+/*!*********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = "data:image/svg+xml,%3csvg viewBox=%270 0 16 16%27 fill=%27white%27 xmlns=%27http://www.w3.org/2000/svg%27%3e%3cpath d=%27M12.207 4.793a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0l-2-2a1 1 0 011.414-1.414L6.5 9.086l4.293-4.293a1 1 0 011.414 0z%27/%3e%3c/svg%3e";
+
+/***/ }),
+
+/***/ "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 16 16%27%3e%3cpath stroke=%27white%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27M4 8h8%27/%3e%3c/svg%3e":
+/*!******************************************************************************************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 16 16%27%3e%3cpath stroke=%27white%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27M4 8h8%27/%3e%3c/svg%3e ***!
+  \******************************************************************************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 16 16%27%3e%3cpath stroke=%27white%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27M4 8h8%27/%3e%3c/svg%3e";
+
+/***/ }),
+
+/***/ "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 20 20%27%3e%3cpath stroke=%27%236b7280%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%271.5%27 d=%27M6 8l4 4 4-4%27/%3e%3c/svg%3e":
+/*!******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 20 20%27%3e%3cpath stroke=%27%236b7280%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%271.5%27 d=%27M6 8l4 4 4-4%27/%3e%3c/svg%3e ***!
+  \******************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 fill=%27none%27 viewBox=%270 0 20 20%27%3e%3cpath stroke=%27%236b7280%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%271.5%27 d=%27M6 8l4 4 4-4%27/%3e%3c/svg%3e";
+
+/***/ }),
+
+/***/ "./node_modules/appwrite/dist/esm/sdk.js":
+/*!***********************************************!*\
+  !*** ./node_modules/appwrite/dist/esm/sdk.js ***!
+  \***********************************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "Account": () => (/* binding */ Account),
+/* harmony export */   "AppwriteException": () => (/* binding */ AppwriteException),
+/* harmony export */   "Avatars": () => (/* binding */ Avatars),
+/* harmony export */   "Client": () => (/* binding */ Client),
+/* harmony export */   "Databases": () => (/* binding */ Databases),
+/* harmony export */   "Functions": () => (/* binding */ Functions),
+/* harmony export */   "Locale": () => (/* binding */ Locale),
+/* harmony export */   "Query": () => (/* binding */ Query),
+/* harmony export */   "Storage": () => (/* binding */ Storage),
+/* harmony export */   "Teams": () => (/* binding */ Teams)
+/* harmony export */ });
+/* harmony import */ var isomorphic_form_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! isomorphic-form-data */ "./node_modules/isomorphic-form-data/lib/browser.js");
+/* harmony import */ var cross_fetch__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! cross-fetch */ "./node_modules/cross-fetch/dist/browser-ponyfill.js");
+
+
+
+/******************************************************************************
+Copyright (c) Microsoft Corporation.
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+PERFORMANCE OF THIS SOFTWARE.
+***************************************************************************** */
+
+function __awaiter(thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+}
+
+class Service {
+    constructor(client) {
+        this.client = client;
+    }
+    static flatten(data, prefix = '') {
+        let output = {};
+        for (const key in data) {
+            let value = data[key];
+            let finalKey = prefix ? `${prefix}[${key}]` : key;
+            if (Array.isArray(value)) {
+                output = Object.assign(output, this.flatten(value, finalKey));
+            }
+            else {
+                output[finalKey] = value;
+            }
+        }
+        return output;
+    }
+}
+Service.CHUNK_SIZE = 5 * 1024 * 1024; // 5MB
+
+class Query {
+}
+Query.equal = (attribute, value) => Query.addQuery(attribute, 'equal', value);
+Query.notEqual = (attribute, value) => Query.addQuery(attribute, 'notEqual', value);
+Query.lesser = (attribute, value) => Query.addQuery(attribute, 'lesser', value);
+Query.lesserEqual = (attribute, value) => Query.addQuery(attribute, 'lesserEqual', value);
+Query.greater = (attribute, value) => Query.addQuery(attribute, 'greater', value);
+Query.greaterEqual = (attribute, value) => Query.addQuery(attribute, 'greaterEqual', value);
+Query.search = (attribute, value) => Query.addQuery(attribute, 'search', value);
+Query.addQuery = (attribute, oper, value) => value instanceof Array
+    ? `${attribute}.${oper}(${value
+        .map((v) => Query.parseValues(v))
+        .join(',')})`
+    : `${attribute}.${oper}(${Query.parseValues(value)})`;
+Query.parseValues = (value) => typeof value === 'string' || value instanceof String
+    ? `"${value}"`
+    : `${value}`;
+
+class AppwriteException extends Error {
+    constructor(message, code = 0, type = '', response = '') {
+        super(message);
+        this.name = 'AppwriteException';
+        this.message = message;
+        this.code = code;
+        this.type = type;
+        this.response = response;
+    }
+}
+class Client {
+    constructor() {
+        this.config = {
+            endpoint: 'https://HOSTNAME/v1',
+            endpointRealtime: '',
+            project: '',
+            jwt: '',
+            locale: '',
+        };
+        this.headers = {
+            'x-sdk-version': 'appwrite:web:9.0.1',
+            'X-Appwrite-Response-Format': '0.15.0',
+        };
+        this.realtime = {
+            socket: undefined,
+            timeout: undefined,
+            url: '',
+            channels: new Set(),
+            subscriptions: new Map(),
+            subscriptionsCounter: 0,
+            reconnect: true,
+            reconnectAttempts: 0,
+            lastMessage: undefined,
+            connect: () => {
+                clearTimeout(this.realtime.timeout);
+                this.realtime.timeout = window === null || window === void 0 ? void 0 : window.setTimeout(() => {
+                    this.realtime.createSocket();
+                }, 50);
+            },
+            getTimeout: () => {
+                switch (true) {
+                    case this.realtime.reconnectAttempts < 5:
+                        return 1000;
+                    case this.realtime.reconnectAttempts < 15:
+                        return 5000;
+                    case this.realtime.reconnectAttempts < 100:
+                        return 10000;
+                    default:
+                        return 60000;
+                }
+            },
+            createSocket: () => {
+                var _a, _b;
+                if (this.realtime.channels.size < 1)
+                    return;
+                const channels = new URLSearchParams();
+                channels.set('project', this.config.project);
+                this.realtime.channels.forEach(channel => {
+                    channels.append('channels[]', channel);
+                });
+                const url = this.config.endpointRealtime + '/realtime?' + channels.toString();
+                if (url !== this.realtime.url || // Check if URL is present
+                    !this.realtime.socket || // Check if WebSocket has not been created
+                    ((_a = this.realtime.socket) === null || _a === void 0 ? void 0 : _a.readyState) > WebSocket.OPEN // Check if WebSocket is CLOSING (3) or CLOSED (4)
+                ) {
+                    if (this.realtime.socket &&
+                        ((_b = this.realtime.socket) === null || _b === void 0 ? void 0 : _b.readyState) < WebSocket.CLOSING // Close WebSocket if it is CONNECTING (0) or OPEN (1)
+                    ) {
+                        this.realtime.reconnect = false;
+                        this.realtime.socket.close();
+                    }
+                    this.realtime.url = url;
+                    this.realtime.socket = new WebSocket(url);
+                    this.realtime.socket.addEventListener('message', this.realtime.onMessage);
+                    this.realtime.socket.addEventListener('open', _event => {
+                        this.realtime.reconnectAttempts = 0;
+                    });
+                    this.realtime.socket.addEventListener('close', event => {
+                        var _a, _b, _c;
+                        if (!this.realtime.reconnect ||
+                            (((_b = (_a = this.realtime) === null || _a === void 0 ? void 0 : _a.lastMessage) === null || _b === void 0 ? void 0 : _b.type) === 'error' && // Check if last message was of type error
+                                ((_c = this.realtime) === null || _c === void 0 ? void 0 : _c.lastMessage.data).code === 1008 // Check for policy violation 1008
+                            )) {
+                            this.realtime.reconnect = true;
+                            return;
+                        }
+                        const timeout = this.realtime.getTimeout();
+                        console.error(`Realtime got disconnected. Reconnect will be attempted in ${timeout / 1000} seconds.`, event.reason);
+                        setTimeout(() => {
+                            this.realtime.reconnectAttempts++;
+                            this.realtime.createSocket();
+                        }, timeout);
+                    });
+                }
+            },
+            onMessage: (event) => {
+                var _a, _b;
+                try {
+                    const message = JSON.parse(event.data);
+                    this.realtime.lastMessage = message;
+                    switch (message.type) {
+                        case 'connected':
+                            const cookie = JSON.parse((_a = window.localStorage.getItem('cookieFallback')) !== null && _a !== void 0 ? _a : '{}');
+                            const session = cookie === null || cookie === void 0 ? void 0 : cookie[`a_session_${this.config.project}`];
+                            const messageData = message.data;
+                            if (session && !messageData.user) {
+                                (_b = this.realtime.socket) === null || _b === void 0 ? void 0 : _b.send(JSON.stringify({
+                                    type: 'authentication',
+                                    data: {
+                                        session
+                                    }
+                                }));
+                            }
+                            break;
+                        case 'event':
+                            let data = message.data;
+                            if (data === null || data === void 0 ? void 0 : data.channels) {
+                                const isSubscribed = data.channels.some(channel => this.realtime.channels.has(channel));
+                                if (!isSubscribed)
+                                    return;
+                                this.realtime.subscriptions.forEach(subscription => {
+                                    if (data.channels.some(channel => subscription.channels.includes(channel))) {
+                                        setTimeout(() => subscription.callback(data));
+                                    }
+                                });
+                            }
+                            break;
+                        case 'error':
+                            throw message.data;
+                        default:
+                            break;
+                    }
+                }
+                catch (e) {
+                    console.error(e);
+                }
+            },
+            cleanUp: channels => {
+                this.realtime.channels.forEach(channel => {
+                    if (channels.includes(channel)) {
+                        let found = Array.from(this.realtime.subscriptions).some(([_key, subscription]) => {
+                            return subscription.channels.includes(channel);
+                        });
+                        if (!found) {
+                            this.realtime.channels.delete(channel);
+                        }
+                    }
+                });
+            }
+        };
+    }
+    /**
+     * Set Endpoint
+     *
+     * Your project endpoint
+     *
+     * @param {string} endpoint
+     *
+     * @returns {this}
+     */
+    setEndpoint(endpoint) {
+        this.config.endpoint = endpoint;
+        this.config.endpointRealtime = this.config.endpointRealtime || this.config.endpoint.replace('https://', 'wss://').replace('http://', 'ws://');
+        return this;
+    }
+    /**
+     * Set Realtime Endpoint
+     *
+     * @param {string} endpointRealtime
+     *
+     * @returns {this}
+     */
+    setEndpointRealtime(endpointRealtime) {
+        this.config.endpointRealtime = endpointRealtime;
+        return this;
+    }
+    /**
+     * Set Project
+     *
+     * Your project ID
+     *
+     * @param value string
+     *
+     * @return {this}
+     */
+    setProject(value) {
+        this.headers['X-Appwrite-Project'] = value;
+        this.config.project = value;
+        return this;
+    }
+    /**
+     * Set JWT
+     *
+     * Your secret JSON Web Token
+     *
+     * @param value string
+     *
+     * @return {this}
+     */
+    setJWT(value) {
+        this.headers['X-Appwrite-JWT'] = value;
+        this.config.jwt = value;
+        return this;
+    }
+    /**
+     * Set Locale
+     *
+     * @param value string
+     *
+     * @return {this}
+     */
+    setLocale(value) {
+        this.headers['X-Appwrite-Locale'] = value;
+        this.config.locale = value;
+        return this;
+    }
+    /**
+     * Subscribes to Appwrite events and passes you the payload in realtime.
+     *
+     * @param {string|string[]} channels
+     * Channel to subscribe - pass a single channel as a string or multiple with an array of strings.
+     *
+     * Possible channels are:
+     * - account
+     * - collections
+     * - collections.[ID]
+     * - collections.[ID].documents
+     * - documents
+     * - documents.[ID]
+     * - files
+     * - files.[ID]
+     * - executions
+     * - executions.[ID]
+     * - functions.[ID]
+     * - teams
+     * - teams.[ID]
+     * - memberships
+     * - memberships.[ID]
+     * @param {(payload: RealtimeMessage) => void} callback Is called on every realtime update.
+     * @returns {() => void} Unsubscribes from events.
+     */
+    subscribe(channels, callback) {
+        let channelArray = typeof channels === 'string' ? [channels] : channels;
+        channelArray.forEach(channel => this.realtime.channels.add(channel));
+        const counter = this.realtime.subscriptionsCounter++;
+        this.realtime.subscriptions.set(counter, {
+            channels: channelArray,
+            callback
+        });
+        this.realtime.connect();
+        return () => {
+            this.realtime.subscriptions.delete(counter);
+            this.realtime.cleanUp(channelArray);
+            this.realtime.connect();
+        };
+    }
+    call(method, url, headers = {}, params = {}) {
+        var _a, _b;
+        return __awaiter(this, void 0, void 0, function* () {
+            method = method.toUpperCase();
+            headers = Object.assign({}, this.headers, headers);
+            let options = {
+                method,
+                headers,
+                credentials: 'include'
+            };
+            if (typeof window !== 'undefined' && window.localStorage) {
+                headers['X-Fallback-Cookies'] = (_a = window.localStorage.getItem('cookieFallback')) !== null && _a !== void 0 ? _a : '';
+            }
+            if (method === 'GET') {
+                for (const [key, value] of Object.entries(Service.flatten(params))) {
+                    url.searchParams.append(key, value);
+                }
+            }
+            else {
+                switch (headers['content-type']) {
+                    case 'application/json':
+                        options.body = JSON.stringify(params);
+                        break;
+                    case 'multipart/form-data':
+                        let formData = new FormData();
+                        for (const key in params) {
+                            if (Array.isArray(params[key])) {
+                                params[key].forEach((value) => {
+                                    formData.append(key + '[]', value);
+                                });
+                            }
+                            else {
+                                formData.append(key, params[key]);
+                            }
+                        }
+                        options.body = formData;
+                        delete headers['content-type'];
+                        break;
+                }
+            }
+            try {
+                let data = null;
+                const response = yield (0,cross_fetch__WEBPACK_IMPORTED_MODULE_1__.fetch)(url.toString(), options);
+                if ((_b = response.headers.get('content-type')) === null || _b === void 0 ? void 0 : _b.includes('application/json')) {
+                    data = yield response.json();
+                }
+                else {
+                    data = {
+                        message: yield response.text()
+                    };
+                }
+                if (400 <= response.status) {
+                    throw new AppwriteException(data === null || data === void 0 ? void 0 : data.message, response.status, data === null || data === void 0 ? void 0 : data.type, data);
+                }
+                const cookieFallback = response.headers.get('X-Fallback-Cookies');
+                if (typeof window !== 'undefined' && window.localStorage && cookieFallback) {
+                    window.console.warn('Appwrite is using localStorage for session management. Increase your security by adding a custom domain as your API endpoint.');
+                    window.localStorage.setItem('cookieFallback', cookieFallback);
+                }
+                return data;
+            }
+            catch (e) {
+                if (e instanceof AppwriteException) {
+                    throw e;
+                }
+                throw new AppwriteException(e.message);
+            }
+        });
+    }
+}
+
+class Account extends Service {
+    /**
+     * Get Account
+     *
+     * Get currently logged in user data as JSON object.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    get() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Account
+     *
+     * Use this endpoint to allow a new user to register a new account in your
+     * project. After the user registration completes successfully, you can use
+     * the [/account/verfication](/docs/client/account#accountCreateVerification)
+     * route to start verifying the user email address. To allow the new user to
+     * login to their new account, you need to create a new [account
+     * session](/docs/client/account#accountCreateSession).
+     *
+     * @param {string} userId
+     * @param {string} email
+     * @param {string} password
+     * @param {string} name
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    create(userId, email, password, name) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            let path = '/account';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            if (typeof name !== 'undefined') {
+                payload['name'] = name;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Email
+     *
+     * Update currently logged in user account email address. After changing user
+     * address, the user confirmation status will get reset. A new confirmation
+     * email is not sent automatically however you can use the send confirmation
+     * email endpoint again to send the confirmation email. For security measures,
+     * user password is required to complete this request.
+     * This endpoint can also be used to convert an anonymous account to a normal
+     * one, by passing an email address and a new password.
+     *
+     *
+     * @param {string} email
+     * @param {string} password
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateEmail(email, password) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            let path = '/account/email';
+            let payload = {};
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Account JWT
+     *
+     * Use this endpoint to create a JSON Web Token. You can use the resulting JWT
+     * to authenticate on behalf of the current user when working with the
+     * Appwrite server-side API and SDKs. The JWT secret is valid for 15 minutes
+     * from its creation and will be invalid if the user will logout in that time
+     * frame.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createJWT() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/jwt';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Account Logs
+     *
+     * Get currently logged in user list of latest security activity logs. Each
+     * log returns user IP address, location and date and time of log.
+     *
+     * @param {number} limit
+     * @param {number} offset
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getLogs(limit, offset) {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/logs';
+            let payload = {};
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Name
+     *
+     * Update currently logged in user account name.
+     *
+     * @param {string} name
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateName(name) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof name === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "name"');
+            }
+            let path = '/account/name';
+            let payload = {};
+            if (typeof name !== 'undefined') {
+                payload['name'] = name;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Password
+     *
+     * Update currently logged in user password. For validation, user is required
+     * to pass in the new password, and the old password. For users created with
+     * OAuth, Team Invites and Magic URL, oldPassword is optional.
+     *
+     * @param {string} password
+     * @param {string} oldPassword
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updatePassword(password, oldPassword) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            let path = '/account/password';
+            let payload = {};
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            if (typeof oldPassword !== 'undefined') {
+                payload['oldPassword'] = oldPassword;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Phone
+     *
+     * Update the currently logged in user's phone number. After updating the
+     * phone number, the phone verification status will be reset. A confirmation
+     * SMS is not sent automatically, however you can use the [POST
+     * /account/verification/phone](/docs/client/account#accountCreatePhoneVerification)
+     * endpoint to send a confirmation SMS.
+     *
+     * @param {string} number
+     * @param {string} password
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updatePhone(number, password) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof number === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "number"');
+            }
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            let path = '/account/phone';
+            let payload = {};
+            if (typeof number !== 'undefined') {
+                payload['number'] = number;
+            }
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Account Preferences
+     *
+     * Get currently logged in user preferences as a key-value object.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getPrefs() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/prefs';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Preferences
+     *
+     * Update currently logged in user account preferences. The object you pass is
+     * stored as is, and replaces any previous value. The maximum allowed prefs
+     * size is 64kB and throws error if exceeded.
+     *
+     * @param {Partial<Preferences>} prefs
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updatePrefs(prefs) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof prefs === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "prefs"');
+            }
+            let path = '/account/prefs';
+            let payload = {};
+            if (typeof prefs !== 'undefined') {
+                payload['prefs'] = prefs;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Password Recovery
+     *
+     * Sends the user an email with a temporary secret key for password reset.
+     * When the user clicks the confirmation link he is redirected back to your
+     * app password reset URL with the secret key and email address values
+     * attached to the URL query string. Use the query string params to submit a
+     * request to the [PUT
+     * /account/recovery](/docs/client/account#accountUpdateRecovery) endpoint to
+     * complete the process. The verification link sent to the user's email
+     * address is valid for 1 hour.
+     *
+     * @param {string} email
+     * @param {string} url
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createRecovery(email, url) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            if (typeof url === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "url"');
+            }
+            let path = '/account/recovery';
+            let payload = {};
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof url !== 'undefined') {
+                payload['url'] = url;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Password Recovery (confirmation)
+     *
+     * Use this endpoint to complete the user account password reset. Both the
+     * **userId** and **secret** arguments will be passed as query parameters to
+     * the redirect URL you have provided when sending your request to the [POST
+     * /account/recovery](/docs/client/account#accountCreateRecovery) endpoint.
+     *
+     * Please note that in order to avoid a [Redirect
+     * Attack](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md)
+     * the only valid redirect URLs are the ones from domains you have set when
+     * adding your platforms in the console interface.
+     *
+     * @param {string} userId
+     * @param {string} secret
+     * @param {string} password
+     * @param {string} passwordAgain
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateRecovery(userId, secret, password, passwordAgain) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            if (typeof passwordAgain === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "passwordAgain"');
+            }
+            let path = '/account/recovery';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            if (typeof passwordAgain !== 'undefined') {
+                payload['passwordAgain'] = passwordAgain;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Account Sessions
+     *
+     * Get currently logged in user list of active sessions across different
+     * devices.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getSessions() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/sessions';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete All Account Sessions
+     *
+     * Delete all sessions from the user account and remove any sessions cookies
+     * from the end client.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    deleteSessions() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/sessions';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Anonymous Session
+     *
+     * Use this endpoint to allow a new user to register an anonymous account in
+     * your project. This route will also create a new session for the user. To
+     * allow the new user to convert an anonymous account to a normal account, you
+     * need to update its [email and
+     * password](/docs/client/account#accountUpdateEmail) or create an [OAuth2
+     * session](/docs/client/account#accountCreateOAuth2Session).
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createAnonymousSession() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/sessions/anonymous';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Account Session with Email
+     *
+     * Allow the user to login into their account by providing a valid email and
+     * password combination. This route will create a new session for the user.
+     *
+     * @param {string} email
+     * @param {string} password
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createEmailSession(email, password) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            if (typeof password === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "password"');
+            }
+            let path = '/account/sessions/email';
+            let payload = {};
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof password !== 'undefined') {
+                payload['password'] = password;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Magic URL session
+     *
+     * Sends the user an email with a secret key for creating a session. When the
+     * user clicks the link in the email, the user is redirected back to the URL
+     * you provided with the secret key and userId values attached to the URL
+     * query string. Use the query string parameters to submit a request to the
+     * [PUT
+     * /account/sessions/magic-url](/docs/client/account#accountUpdateMagicURLSession)
+     * endpoint to complete the login process. The link sent to the user's email
+     * address is valid for 1 hour. If you are on a mobile device you can leave
+     * the URL parameter empty, so that the login completion will be handled by
+     * your Appwrite instance by default.
+     *
+     * @param {string} userId
+     * @param {string} email
+     * @param {string} url
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createMagicURLSession(userId, email, url) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            let path = '/account/sessions/magic-url';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof url !== 'undefined') {
+                payload['url'] = url;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Magic URL session (confirmation)
+     *
+     * Use this endpoint to complete creating the session with the Magic URL. Both
+     * the **userId** and **secret** arguments will be passed as query parameters
+     * to the redirect URL you have provided when sending your request to the
+     * [POST
+     * /account/sessions/magic-url](/docs/client/account#accountCreateMagicURLSession)
+     * endpoint.
+     *
+     * Please note that in order to avoid a [Redirect
+     * Attack](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md)
+     * the only valid redirect URLs are the ones from domains you have set when
+     * adding your platforms in the console interface.
+     *
+     * @param {string} userId
+     * @param {string} secret
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateMagicURLSession(userId, secret) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            let path = '/account/sessions/magic-url';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Account Session with OAuth2
+     *
+     * Allow the user to login to their account using the OAuth2 provider of their
+     * choice. Each OAuth2 provider should be enabled from the Appwrite console
+     * first. Use the success and failure arguments to provide a redirect URL's
+     * back to your app when login is completed.
+     *
+     * If there is already an active session, the new session will be attached to
+     * the logged-in account. If there are no active sessions, the server will
+     * attempt to look for a user with the same email address as the email
+     * received from the OAuth2 provider and attach the new session to the
+     * existing user. If no matching user is found - the server will create a new
+     * user..
+     *
+     *
+     * @param {string} provider
+     * @param {string} success
+     * @param {string} failure
+     * @param {string[]} scopes
+     * @throws {AppwriteException}
+     * @returns {void|string}
+     */
+    createOAuth2Session(provider, success, failure, scopes) {
+        if (typeof provider === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "provider"');
+        }
+        let path = '/account/sessions/oauth2/{provider}'.replace('{provider}', provider);
+        let payload = {};
+        if (typeof success !== 'undefined') {
+            payload['success'] = success;
+        }
+        if (typeof failure !== 'undefined') {
+            payload['failure'] = failure;
+        }
+        if (typeof scopes !== 'undefined') {
+            payload['scopes'] = scopes;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        if (typeof window !== 'undefined' && (window === null || window === void 0 ? void 0 : window.location)) {
+            window.location.href = uri.toString();
+        }
+        else {
+            return uri;
+        }
+    }
+    /**
+     * Create Phone session
+     *
+     * Sends the user an SMS with a secret key for creating a session. Use the
+     * returned user ID and secret and submit a request to the [PUT
+     * /account/sessions/phone](/docs/client/account#accountUpdatePhoneSession)
+     * endpoint to complete the login process. The secret sent to the user's phone
+     * is valid for 15 minutes.
+     *
+     * @param {string} userId
+     * @param {string} number
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createPhoneSession(userId, number) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof number === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "number"');
+            }
+            let path = '/account/sessions/phone';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof number !== 'undefined') {
+                payload['number'] = number;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Phone session (confirmation)
+     *
+     * Use this endpoint to complete creating a session with SMS. Use the
+     * **userId** from the
+     * [createPhoneSession](/docs/client/account#accountCreatePhoneSession)
+     * endpoint and the **secret** received via SMS to successfully update and
+     * confirm the phone session.
+     *
+     * @param {string} userId
+     * @param {string} secret
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updatePhoneSession(userId, secret) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            let path = '/account/sessions/phone';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Session By ID
+     *
+     * Use this endpoint to get a logged in user's session using a Session ID.
+     * Inputting 'current' will return the current session being used.
+     *
+     * @param {string} sessionId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getSession(sessionId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof sessionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "sessionId"');
+            }
+            let path = '/account/sessions/{sessionId}'.replace('{sessionId}', sessionId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Session (Refresh Tokens)
+     *
+     * Access tokens have limited lifespan and expire to mitigate security risks.
+     * If session was created using an OAuth provider, this route can be used to
+     * "refresh" the access token.
+     *
+     * @param {string} sessionId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateSession(sessionId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof sessionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "sessionId"');
+            }
+            let path = '/account/sessions/{sessionId}'.replace('{sessionId}', sessionId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete Account Session
+     *
+     * Use this endpoint to log out the currently logged in user from all their
+     * account sessions across all of their different devices. When using the
+     * Session ID argument, only the unique session ID provided is deleted.
+     *
+     *
+     * @param {string} sessionId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    deleteSession(sessionId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof sessionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "sessionId"');
+            }
+            let path = '/account/sessions/{sessionId}'.replace('{sessionId}', sessionId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Account Status
+     *
+     * Block the currently logged in user account. Behind the scene, the user
+     * record is not deleted but permanently blocked from any access. To
+     * completely delete a user, use the Users API instead.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateStatus() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/status';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Email Verification
+     *
+     * Use this endpoint to send a verification message to your user email address
+     * to confirm they are the valid owners of that address. Both the **userId**
+     * and **secret** arguments will be passed as query parameters to the URL you
+     * have provided to be attached to the verification email. The provided URL
+     * should redirect the user back to your app and allow you to complete the
+     * verification process by verifying both the **userId** and **secret**
+     * parameters. Learn more about how to [complete the verification
+     * process](/docs/client/account#accountUpdateEmailVerification). The
+     * verification link sent to the user's email address is valid for 7 days.
+     *
+     * Please note that in order to avoid a [Redirect
+     * Attack](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md),
+     * the only valid redirect URLs are the ones from domains you have set when
+     * adding your platforms in the console interface.
+     *
+     *
+     * @param {string} url
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createVerification(url) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof url === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "url"');
+            }
+            let path = '/account/verification';
+            let payload = {};
+            if (typeof url !== 'undefined') {
+                payload['url'] = url;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Email Verification (confirmation)
+     *
+     * Use this endpoint to complete the user email verification process. Use both
+     * the **userId** and **secret** parameters that were attached to your app URL
+     * to verify the user email ownership. If confirmed this route will return a
+     * 200 status code.
+     *
+     * @param {string} userId
+     * @param {string} secret
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateVerification(userId, secret) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            let path = '/account/verification';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Phone Verification
+     *
+     * Use this endpoint to send a verification SMS to the currently logged in
+     * user. This endpoint is meant for use after updating a user's phone number
+     * using the [accountUpdatePhone](/docs/client/account#accountUpdatePhone)
+     * endpoint. Learn more about how to [complete the verification
+     * process](/docs/client/account#accountUpdatePhoneVerification). The
+     * verification code sent to the user's phone number is valid for 15 minutes.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createPhoneVerification() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/account/verification/phone';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Phone Verification (confirmation)
+     *
+     * Use this endpoint to complete the user phone verification process. Use the
+     * **userId** and **secret** that were sent to your user's phone number to
+     * verify the user email ownership. If confirmed this route will return a 200
+     * status code.
+     *
+     * @param {string} userId
+     * @param {string} secret
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updatePhoneVerification(userId, secret) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            let path = '/account/verification/phone';
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+}
+
+class Avatars extends Service {
+    /**
+     * Get Browser Icon
+     *
+     * You can use this endpoint to show different browser icons to your users.
+     * The code argument receives the browser code as it appears in your user [GET
+     * /account/sessions](/docs/client/account#accountGetSessions) endpoint. Use
+     * width, height and quality arguments to change the output settings.
+     *
+     * When one dimension is specified and the other is 0, the image is scaled
+     * with preserved aspect ratio. If both dimensions are 0, the API provides an
+     * image at source quality. If dimensions are not specified, the default size
+     * of image returned is 100x100px.
+     *
+     * @param {string} code
+     * @param {number} width
+     * @param {number} height
+     * @param {number} quality
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getBrowser(code, width, height, quality) {
+        if (typeof code === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "code"');
+        }
+        let path = '/avatars/browsers/{code}'.replace('{code}', code);
+        let payload = {};
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        if (typeof quality !== 'undefined') {
+            payload['quality'] = quality;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get Credit Card Icon
+     *
+     * The credit card endpoint will return you the icon of the credit card
+     * provider you need. Use width, height and quality arguments to change the
+     * output settings.
+     *
+     * When one dimension is specified and the other is 0, the image is scaled
+     * with preserved aspect ratio. If both dimensions are 0, the API provides an
+     * image at source quality. If dimensions are not specified, the default size
+     * of image returned is 100x100px.
+     *
+     *
+     * @param {string} code
+     * @param {number} width
+     * @param {number} height
+     * @param {number} quality
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getCreditCard(code, width, height, quality) {
+        if (typeof code === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "code"');
+        }
+        let path = '/avatars/credit-cards/{code}'.replace('{code}', code);
+        let payload = {};
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        if (typeof quality !== 'undefined') {
+            payload['quality'] = quality;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get Favicon
+     *
+     * Use this endpoint to fetch the favorite icon (AKA favicon) of any remote
+     * website URL.
+     *
+     *
+     * @param {string} url
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getFavicon(url) {
+        if (typeof url === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "url"');
+        }
+        let path = '/avatars/favicon';
+        let payload = {};
+        if (typeof url !== 'undefined') {
+            payload['url'] = url;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get Country Flag
+     *
+     * You can use this endpoint to show different country flags icons to your
+     * users. The code argument receives the 2 letter country code. Use width,
+     * height and quality arguments to change the output settings.
+     *
+     * When one dimension is specified and the other is 0, the image is scaled
+     * with preserved aspect ratio. If both dimensions are 0, the API provides an
+     * image at source quality. If dimensions are not specified, the default size
+     * of image returned is 100x100px.
+     *
+     *
+     * @param {string} code
+     * @param {number} width
+     * @param {number} height
+     * @param {number} quality
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getFlag(code, width, height, quality) {
+        if (typeof code === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "code"');
+        }
+        let path = '/avatars/flags/{code}'.replace('{code}', code);
+        let payload = {};
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        if (typeof quality !== 'undefined') {
+            payload['quality'] = quality;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get Image from URL
+     *
+     * Use this endpoint to fetch a remote image URL and crop it to any image size
+     * you want. This endpoint is very useful if you need to crop and display
+     * remote images in your app or in case you want to make sure a 3rd party
+     * image is properly served using a TLS protocol.
+     *
+     * When one dimension is specified and the other is 0, the image is scaled
+     * with preserved aspect ratio. If both dimensions are 0, the API provides an
+     * image at source quality. If dimensions are not specified, the default size
+     * of image returned is 400x400px.
+     *
+     *
+     * @param {string} url
+     * @param {number} width
+     * @param {number} height
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getImage(url, width, height) {
+        if (typeof url === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "url"');
+        }
+        let path = '/avatars/image';
+        let payload = {};
+        if (typeof url !== 'undefined') {
+            payload['url'] = url;
+        }
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get User Initials
+     *
+     * Use this endpoint to show your user initials avatar icon on your website or
+     * app. By default, this route will try to print your logged-in user name or
+     * email initials. You can also overwrite the user name if you pass the 'name'
+     * parameter. If no name is given and no user is logged, an empty avatar will
+     * be returned.
+     *
+     * You can use the color and background params to change the avatar colors. By
+     * default, a random theme will be selected. The random theme will persist for
+     * the user's initials when reloading the same theme will always return for
+     * the same initials.
+     *
+     * When one dimension is specified and the other is 0, the image is scaled
+     * with preserved aspect ratio. If both dimensions are 0, the API provides an
+     * image at source quality. If dimensions are not specified, the default size
+     * of image returned is 100x100px.
+     *
+     *
+     * @param {string} name
+     * @param {number} width
+     * @param {number} height
+     * @param {string} color
+     * @param {string} background
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getInitials(name, width, height, color, background) {
+        let path = '/avatars/initials';
+        let payload = {};
+        if (typeof name !== 'undefined') {
+            payload['name'] = name;
+        }
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        if (typeof color !== 'undefined') {
+            payload['color'] = color;
+        }
+        if (typeof background !== 'undefined') {
+            payload['background'] = background;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get QR Code
+     *
+     * Converts a given plain text to a QR code image. You can use the query
+     * parameters to change the size and style of the resulting image.
+     *
+     *
+     * @param {string} text
+     * @param {number} size
+     * @param {number} margin
+     * @param {boolean} download
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getQR(text, size, margin, download) {
+        if (typeof text === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "text"');
+        }
+        let path = '/avatars/qr';
+        let payload = {};
+        if (typeof text !== 'undefined') {
+            payload['text'] = text;
+        }
+        if (typeof size !== 'undefined') {
+            payload['size'] = size;
+        }
+        if (typeof margin !== 'undefined') {
+            payload['margin'] = margin;
+        }
+        if (typeof download !== 'undefined') {
+            payload['download'] = download;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+}
+
+class Databases extends Service {
+    constructor(client, databaseId) {
+        super(client);
+        this.databaseId = databaseId;
+    }
+    setDatabaseId(databaseId) {
+        this.databaseId = databaseId;
+    }
+    getDatabaseId() {
+        return this.databaseId;
+    }
+    /**
+     * List Documents
+     *
+     *
+     * @param {string} collectionId
+     * @param {string[]} queries
+     * @param {number} limit
+     * @param {number} offset
+     * @param {string} cursor
+     * @param {string} cursorDirection
+     * @param {string[]} orderAttributes
+     * @param {string[]} orderTypes
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    listDocuments(collectionId, queries, limit, offset, cursor, cursorDirection, orderAttributes, orderTypes) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof collectionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "collectionId"');
+            }
+            let path = '/databases/{databaseId}/collections/{collectionId}/documents'.replace('{databaseId}', this.databaseId).replace('{collectionId}', collectionId);
+            let payload = {};
+            if (typeof queries !== 'undefined') {
+                payload['queries'] = queries;
+            }
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            if (typeof cursor !== 'undefined') {
+                payload['cursor'] = cursor;
+            }
+            if (typeof cursorDirection !== 'undefined') {
+                payload['cursorDirection'] = cursorDirection;
+            }
+            if (typeof orderAttributes !== 'undefined') {
+                payload['orderAttributes'] = orderAttributes;
+            }
+            if (typeof orderTypes !== 'undefined') {
+                payload['orderTypes'] = orderTypes;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Document
+     *
+     *
+     * @param {string} collectionId
+     * @param {string} documentId
+     * @param {Omit<Document, keyof Models.Document>} data
+     * @param {string[]} read
+     * @param {string[]} write
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createDocument(collectionId, documentId, data, read, write) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof collectionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "collectionId"');
+            }
+            if (typeof documentId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "documentId"');
+            }
+            if (typeof data === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "data"');
+            }
+            let path = '/databases/{databaseId}/collections/{collectionId}/documents'.replace('{databaseId}', this.databaseId).replace('{collectionId}', collectionId);
+            let payload = {};
+            if (typeof documentId !== 'undefined') {
+                payload['documentId'] = documentId;
+            }
+            if (typeof data !== 'undefined') {
+                payload['data'] = data;
+            }
+            if (typeof read !== 'undefined') {
+                payload['read'] = read;
+            }
+            if (typeof write !== 'undefined') {
+                payload['write'] = write;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Document
+     *
+     *
+     * @param {string} collectionId
+     * @param {string} documentId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getDocument(collectionId, documentId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof collectionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "collectionId"');
+            }
+            if (typeof documentId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "documentId"');
+            }
+            let path = '/databases/{databaseId}/collections/{collectionId}/documents/{documentId}'.replace('{databaseId}', this.databaseId).replace('{collectionId}', collectionId).replace('{documentId}', documentId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Document
+     *
+     *
+     * @param {string} collectionId
+     * @param {string} documentId
+     * @param {Partial<Omit<Document, keyof Models.Document>>} data
+     * @param {string[]} read
+     * @param {string[]} write
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateDocument(collectionId, documentId, data, read, write) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof collectionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "collectionId"');
+            }
+            if (typeof documentId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "documentId"');
+            }
+            let path = '/databases/{databaseId}/collections/{collectionId}/documents/{documentId}'.replace('{databaseId}', this.databaseId).replace('{collectionId}', collectionId).replace('{documentId}', documentId);
+            let payload = {};
+            if (typeof data !== 'undefined') {
+                payload['data'] = data;
+            }
+            if (typeof read !== 'undefined') {
+                payload['read'] = read;
+            }
+            if (typeof write !== 'undefined') {
+                payload['write'] = write;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete Document
+     *
+     *
+     * @param {string} collectionId
+     * @param {string} documentId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    deleteDocument(collectionId, documentId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof collectionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "collectionId"');
+            }
+            if (typeof documentId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "documentId"');
+            }
+            let path = '/databases/{databaseId}/collections/{collectionId}/documents/{documentId}'.replace('{databaseId}', this.databaseId).replace('{collectionId}', collectionId).replace('{documentId}', documentId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+}
+
+class Functions extends Service {
+    /**
+     * Retry Build
+     *
+     *
+     * @param {string} functionId
+     * @param {string} deploymentId
+     * @param {string} buildId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    retryBuild(functionId, deploymentId, buildId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof functionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "functionId"');
+            }
+            if (typeof deploymentId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "deploymentId"');
+            }
+            if (typeof buildId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "buildId"');
+            }
+            let path = '/functions/{functionId}/deployments/{deploymentId}/builds/{buildId}'.replace('{functionId}', functionId).replace('{deploymentId}', deploymentId).replace('{buildId}', buildId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Executions
+     *
+     * Get a list of all the current user function execution logs. You can use the
+     * query params to filter your results. On admin mode, this endpoint will
+     * return a list of all of the project's executions. [Learn more about
+     * different API modes](/docs/admin).
+     *
+     * @param {string} functionId
+     * @param {number} limit
+     * @param {number} offset
+     * @param {string} search
+     * @param {string} cursor
+     * @param {string} cursorDirection
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    listExecutions(functionId, limit, offset, search, cursor, cursorDirection) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof functionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "functionId"');
+            }
+            let path = '/functions/{functionId}/executions'.replace('{functionId}', functionId);
+            let payload = {};
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            if (typeof search !== 'undefined') {
+                payload['search'] = search;
+            }
+            if (typeof cursor !== 'undefined') {
+                payload['cursor'] = cursor;
+            }
+            if (typeof cursorDirection !== 'undefined') {
+                payload['cursorDirection'] = cursorDirection;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Execution
+     *
+     * Trigger a function execution. The returned object will return you the
+     * current execution status. You can ping the `Get Execution` endpoint to get
+     * updates on the current execution status. Once this endpoint is called, your
+     * function execution process will start asynchronously.
+     *
+     * @param {string} functionId
+     * @param {string} data
+     * @param {boolean} async
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createExecution(functionId, data, async) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof functionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "functionId"');
+            }
+            let path = '/functions/{functionId}/executions'.replace('{functionId}', functionId);
+            let payload = {};
+            if (typeof data !== 'undefined') {
+                payload['data'] = data;
+            }
+            if (typeof async !== 'undefined') {
+                payload['async'] = async;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Execution
+     *
+     * Get a function execution log by its unique ID.
+     *
+     * @param {string} functionId
+     * @param {string} executionId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getExecution(functionId, executionId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof functionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "functionId"');
+            }
+            if (typeof executionId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "executionId"');
+            }
+            let path = '/functions/{functionId}/executions/{executionId}'.replace('{functionId}', functionId).replace('{executionId}', executionId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+}
+
+class Locale extends Service {
+    /**
+     * Get User Locale
+     *
+     * Get the current user location based on IP. Returns an object with user
+     * country code, country name, continent name, continent code, ip address and
+     * suggested currency. You can use the locale header to get the data in a
+     * supported language.
+     *
+     * ([IP Geolocation by DB-IP](https://db-ip.com))
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    get() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Continents
+     *
+     * List of all continents. You can use the locale header to get the data in a
+     * supported language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getContinents() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/continents';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Countries
+     *
+     * List of all countries. You can use the locale header to get the data in a
+     * supported language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getCountries() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/countries';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List EU Countries
+     *
+     * List of all countries that are currently members of the EU. You can use the
+     * locale header to get the data in a supported language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getCountriesEU() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/countries/eu';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Countries Phone Codes
+     *
+     * List of all countries phone codes. You can use the locale header to get the
+     * data in a supported language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getCountriesPhones() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/countries/phones';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Currencies
+     *
+     * List of all currencies, including currency symbol, name, plural, and
+     * decimal digits for all major and minor currencies. You can use the locale
+     * header to get the data in a supported language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getCurrencies() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/currencies';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * List Languages
+     *
+     * List of all languages classified by ISO 639-1 including 2-letter code, name
+     * in English, and name in the respective language.
+     *
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getLanguages() {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/locale/languages';
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+}
+
+class Storage extends Service {
+    /**
+     * List Files
+     *
+     * Get a list of all the user files. You can use the query params to filter
+     * your results. On admin mode, this endpoint will return a list of all of the
+     * project's files. [Learn more about different API modes](/docs/admin).
+     *
+     * @param {string} bucketId
+     * @param {string} search
+     * @param {number} limit
+     * @param {number} offset
+     * @param {string} cursor
+     * @param {string} cursorDirection
+     * @param {string} orderType
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    listFiles(bucketId, search, limit, offset, cursor, cursorDirection, orderType) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof bucketId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "bucketId"');
+            }
+            let path = '/storage/buckets/{bucketId}/files'.replace('{bucketId}', bucketId);
+            let payload = {};
+            if (typeof search !== 'undefined') {
+                payload['search'] = search;
+            }
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            if (typeof cursor !== 'undefined') {
+                payload['cursor'] = cursor;
+            }
+            if (typeof cursorDirection !== 'undefined') {
+                payload['cursorDirection'] = cursorDirection;
+            }
+            if (typeof orderType !== 'undefined') {
+                payload['orderType'] = orderType;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create File
+     *
+     * Create a new file. Before using this route, you should create a new bucket
+     * resource using either a [server
+     * integration](/docs/server/database#storageCreateBucket) API or directly
+     * from your Appwrite console.
+     *
+     * Larger files should be uploaded using multiple requests with the
+     * [content-range](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Range)
+     * header to send a partial request with a maximum supported chunk of `5MB`.
+     * The `content-range` header values should always be in bytes.
+     *
+     * When the first request is sent, the server will return the **File** object,
+     * and the subsequent part request must include the file's **id** in
+     * `x-appwrite-id` header to allow the server to know that the partial upload
+     * is for the existing file and not for a new one.
+     *
+     * If you're creating a new file using one of the Appwrite SDKs, all the
+     * chunking logic will be managed by the SDK internally.
+     *
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @param {File} file
+     * @param {string[]} read
+     * @param {string[]} write
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createFile(bucketId, fileId, file, read, write, onProgress = (progress) => { }) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof bucketId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "bucketId"');
+            }
+            if (typeof fileId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "fileId"');
+            }
+            if (typeof file === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "file"');
+            }
+            let path = '/storage/buckets/{bucketId}/files'.replace('{bucketId}', bucketId);
+            let payload = {};
+            if (typeof fileId !== 'undefined') {
+                payload['fileId'] = fileId;
+            }
+            if (typeof file !== 'undefined') {
+                payload['file'] = file;
+            }
+            if (typeof read !== 'undefined') {
+                payload['read'] = read;
+            }
+            if (typeof write !== 'undefined') {
+                payload['write'] = write;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            if (!(file instanceof File)) {
+                throw new AppwriteException('Parameter "file" has to be a File.');
+            }
+            const size = file.size;
+            if (size <= Service.CHUNK_SIZE) {
+                return yield this.client.call('post', uri, {
+                    'content-type': 'multipart/form-data',
+                }, payload);
+            }
+            let id = undefined;
+            let response = undefined;
+            const headers = {
+                'content-type': 'multipart/form-data',
+            };
+            let counter = 0;
+            const totalCounters = Math.ceil(size / Service.CHUNK_SIZE);
+            if (fileId != 'unique()') {
+                try {
+                    response = yield this.client.call('GET', new URL(this.client.config.endpoint + path + '/' + fileId), headers);
+                    counter = response.chunksUploaded;
+                }
+                catch (e) {
+                }
+            }
+            for (counter; counter < totalCounters; counter++) {
+                const start = (counter * Service.CHUNK_SIZE);
+                const end = Math.min((((counter * Service.CHUNK_SIZE) + Service.CHUNK_SIZE) - 1), size);
+                headers['content-range'] = 'bytes ' + start + '-' + end + '/' + size;
+                if (id) {
+                    headers['x-appwrite-id'] = id;
+                }
+                const stream = file.slice(start, end + 1);
+                payload['file'] = new File([stream], file.name);
+                response = yield this.client.call('post', uri, headers, payload);
+                if (!id) {
+                    id = response['$id'];
+                }
+                if (onProgress) {
+                    onProgress({
+                        $id: response.$id,
+                        progress: Math.min((counter + 1) * Service.CHUNK_SIZE - 1, size) / size * 100,
+                        sizeUploaded: end,
+                        chunksTotal: response.chunksTotal,
+                        chunksUploaded: response.chunksUploaded
+                    });
+                }
+            }
+            return response;
+        });
+    }
+    /**
+     * Get File
+     *
+     * Get a file by its unique ID. This endpoint response returns a JSON object
+     * with the file metadata.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getFile(bucketId, fileId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof bucketId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "bucketId"');
+            }
+            if (typeof fileId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "fileId"');
+            }
+            let path = '/storage/buckets/{bucketId}/files/{fileId}'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update File
+     *
+     * Update a file by its unique ID. Only users with write permissions have
+     * access to update this resource.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @param {string[]} read
+     * @param {string[]} write
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateFile(bucketId, fileId, read, write) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof bucketId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "bucketId"');
+            }
+            if (typeof fileId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "fileId"');
+            }
+            let path = '/storage/buckets/{bucketId}/files/{fileId}'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+            let payload = {};
+            if (typeof read !== 'undefined') {
+                payload['read'] = read;
+            }
+            if (typeof write !== 'undefined') {
+                payload['write'] = write;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete File
+     *
+     * Delete a file by its unique ID. Only users with write permissions have
+     * access to delete this resource.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    deleteFile(bucketId, fileId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof bucketId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "bucketId"');
+            }
+            if (typeof fileId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "fileId"');
+            }
+            let path = '/storage/buckets/{bucketId}/files/{fileId}'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get File for Download
+     *
+     * Get a file content by its unique ID. The endpoint response return with a
+     * 'Content-Disposition: attachment' header that tells the browser to start
+     * downloading the file to user downloads directory.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getFileDownload(bucketId, fileId) {
+        if (typeof bucketId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "bucketId"');
+        }
+        if (typeof fileId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "fileId"');
+        }
+        let path = '/storage/buckets/{bucketId}/files/{fileId}/download'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+        let payload = {};
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get File Preview
+     *
+     * Get a file preview image. Currently, this method supports preview for image
+     * files (jpg, png, and gif), other supported formats, like pdf, docs, slides,
+     * and spreadsheets, will return the file icon image. You can also pass query
+     * string arguments for cutting and resizing your preview image. Preview is
+     * supported only for image files smaller than 10MB.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @param {number} width
+     * @param {number} height
+     * @param {string} gravity
+     * @param {number} quality
+     * @param {number} borderWidth
+     * @param {string} borderColor
+     * @param {number} borderRadius
+     * @param {number} opacity
+     * @param {number} rotation
+     * @param {string} background
+     * @param {string} output
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getFilePreview(bucketId, fileId, width, height, gravity, quality, borderWidth, borderColor, borderRadius, opacity, rotation, background, output) {
+        if (typeof bucketId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "bucketId"');
+        }
+        if (typeof fileId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "fileId"');
+        }
+        let path = '/storage/buckets/{bucketId}/files/{fileId}/preview'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+        let payload = {};
+        if (typeof width !== 'undefined') {
+            payload['width'] = width;
+        }
+        if (typeof height !== 'undefined') {
+            payload['height'] = height;
+        }
+        if (typeof gravity !== 'undefined') {
+            payload['gravity'] = gravity;
+        }
+        if (typeof quality !== 'undefined') {
+            payload['quality'] = quality;
+        }
+        if (typeof borderWidth !== 'undefined') {
+            payload['borderWidth'] = borderWidth;
+        }
+        if (typeof borderColor !== 'undefined') {
+            payload['borderColor'] = borderColor;
+        }
+        if (typeof borderRadius !== 'undefined') {
+            payload['borderRadius'] = borderRadius;
+        }
+        if (typeof opacity !== 'undefined') {
+            payload['opacity'] = opacity;
+        }
+        if (typeof rotation !== 'undefined') {
+            payload['rotation'] = rotation;
+        }
+        if (typeof background !== 'undefined') {
+            payload['background'] = background;
+        }
+        if (typeof output !== 'undefined') {
+            payload['output'] = output;
+        }
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+    /**
+     * Get File for View
+     *
+     * Get a file content by its unique ID. This endpoint is similar to the
+     * download method but returns with no  'Content-Disposition: attachment'
+     * header.
+     *
+     * @param {string} bucketId
+     * @param {string} fileId
+     * @throws {AppwriteException}
+     * @returns {URL}
+     */
+    getFileView(bucketId, fileId) {
+        if (typeof bucketId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "bucketId"');
+        }
+        if (typeof fileId === 'undefined') {
+            throw new AppwriteException('Missing required parameter: "fileId"');
+        }
+        let path = '/storage/buckets/{bucketId}/files/{fileId}/view'.replace('{bucketId}', bucketId).replace('{fileId}', fileId);
+        let payload = {};
+        const uri = new URL(this.client.config.endpoint + path);
+        payload['project'] = this.client.config.project;
+        for (const [key, value] of Object.entries(Service.flatten(payload))) {
+            uri.searchParams.append(key, value);
+        }
+        return uri;
+    }
+}
+
+class Teams extends Service {
+    /**
+     * List Teams
+     *
+     * Get a list of all the teams in which the current user is a member. You can
+     * use the parameters to filter your results.
+     *
+     * In admin mode, this endpoint returns a list of all the teams in the current
+     * project. [Learn more about different API modes](/docs/admin).
+     *
+     * @param {string} search
+     * @param {number} limit
+     * @param {number} offset
+     * @param {string} cursor
+     * @param {string} cursorDirection
+     * @param {string} orderType
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    list(search, limit, offset, cursor, cursorDirection, orderType) {
+        return __awaiter(this, void 0, void 0, function* () {
+            let path = '/teams';
+            let payload = {};
+            if (typeof search !== 'undefined') {
+                payload['search'] = search;
+            }
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            if (typeof cursor !== 'undefined') {
+                payload['cursor'] = cursor;
+            }
+            if (typeof cursorDirection !== 'undefined') {
+                payload['cursorDirection'] = cursorDirection;
+            }
+            if (typeof orderType !== 'undefined') {
+                payload['orderType'] = orderType;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Team
+     *
+     * Create a new team. The user who creates the team will automatically be
+     * assigned as the owner of the team. Only the users with the owner role can
+     * invite new members, add new owners and delete or update the team.
+     *
+     * @param {string} teamId
+     * @param {string} name
+     * @param {string[]} roles
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    create(teamId, name, roles) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof name === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "name"');
+            }
+            let path = '/teams';
+            let payload = {};
+            if (typeof teamId !== 'undefined') {
+                payload['teamId'] = teamId;
+            }
+            if (typeof name !== 'undefined') {
+                payload['name'] = name;
+            }
+            if (typeof roles !== 'undefined') {
+                payload['roles'] = roles;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Team
+     *
+     * Get a team by its ID. All team members have read access for this resource.
+     *
+     * @param {string} teamId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    get(teamId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            let path = '/teams/{teamId}'.replace('{teamId}', teamId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Team
+     *
+     * Update a team using its ID. Only members with the owner role can update the
+     * team.
+     *
+     * @param {string} teamId
+     * @param {string} name
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    update(teamId, name) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof name === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "name"');
+            }
+            let path = '/teams/{teamId}'.replace('{teamId}', teamId);
+            let payload = {};
+            if (typeof name !== 'undefined') {
+                payload['name'] = name;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('put', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete Team
+     *
+     * Delete a team using its ID. Only team members with the owner role can
+     * delete the team.
+     *
+     * @param {string} teamId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    delete(teamId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            let path = '/teams/{teamId}'.replace('{teamId}', teamId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Team Memberships
+     *
+     * Use this endpoint to list a team's members using the team's ID. All team
+     * members have read access to this endpoint.
+     *
+     * @param {string} teamId
+     * @param {string} search
+     * @param {number} limit
+     * @param {number} offset
+     * @param {string} cursor
+     * @param {string} cursorDirection
+     * @param {string} orderType
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getMemberships(teamId, search, limit, offset, cursor, cursorDirection, orderType) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            let path = '/teams/{teamId}/memberships'.replace('{teamId}', teamId);
+            let payload = {};
+            if (typeof search !== 'undefined') {
+                payload['search'] = search;
+            }
+            if (typeof limit !== 'undefined') {
+                payload['limit'] = limit;
+            }
+            if (typeof offset !== 'undefined') {
+                payload['offset'] = offset;
+            }
+            if (typeof cursor !== 'undefined') {
+                payload['cursor'] = cursor;
+            }
+            if (typeof cursorDirection !== 'undefined') {
+                payload['cursorDirection'] = cursorDirection;
+            }
+            if (typeof orderType !== 'undefined') {
+                payload['orderType'] = orderType;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Create Team Membership
+     *
+     * Invite a new member to join your team. If initiated from the client SDK, an
+     * email with a link to join the team will be sent to the member's email
+     * address and an account will be created for them should they not be signed
+     * up already. If initiated from server-side SDKs, the new member will
+     * automatically be added to the team.
+     *
+     * Use the 'url' parameter to redirect the user from the invitation email back
+     * to your app. When the user is redirected, use the [Update Team Membership
+     * Status](/docs/client/teams#teamsUpdateMembershipStatus) endpoint to allow
+     * the user to accept the invitation to the team.
+     *
+     * Please note that to avoid a [Redirect
+     * Attack](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.md)
+     * the only valid redirect URL's are the once from domains you have set when
+     * adding your platforms in the console interface.
+     *
+     * @param {string} teamId
+     * @param {string} email
+     * @param {string[]} roles
+     * @param {string} url
+     * @param {string} name
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    createMembership(teamId, email, roles, url, name) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof email === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "email"');
+            }
+            if (typeof roles === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "roles"');
+            }
+            if (typeof url === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "url"');
+            }
+            let path = '/teams/{teamId}/memberships'.replace('{teamId}', teamId);
+            let payload = {};
+            if (typeof email !== 'undefined') {
+                payload['email'] = email;
+            }
+            if (typeof roles !== 'undefined') {
+                payload['roles'] = roles;
+            }
+            if (typeof url !== 'undefined') {
+                payload['url'] = url;
+            }
+            if (typeof name !== 'undefined') {
+                payload['name'] = name;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('post', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Get Team Membership
+     *
+     * Get a team member by the membership unique id. All team members have read
+     * access for this resource.
+     *
+     * @param {string} teamId
+     * @param {string} membershipId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    getMembership(teamId, membershipId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof membershipId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "membershipId"');
+            }
+            let path = '/teams/{teamId}/memberships/{membershipId}'.replace('{teamId}', teamId).replace('{membershipId}', membershipId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('get', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Membership Roles
+     *
+     * Modify the roles of a team member. Only team members with the owner role
+     * have access to this endpoint. Learn more about [roles and
+     * permissions](/docs/permissions).
+     *
+     * @param {string} teamId
+     * @param {string} membershipId
+     * @param {string[]} roles
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateMembershipRoles(teamId, membershipId, roles) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof membershipId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "membershipId"');
+            }
+            if (typeof roles === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "roles"');
+            }
+            let path = '/teams/{teamId}/memberships/{membershipId}'.replace('{teamId}', teamId).replace('{membershipId}', membershipId);
+            let payload = {};
+            if (typeof roles !== 'undefined') {
+                payload['roles'] = roles;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Delete Team Membership
+     *
+     * This endpoint allows a user to leave a team or for a team owner to delete
+     * the membership of any other team member. You can also use this endpoint to
+     * delete a user membership even if it is not accepted.
+     *
+     * @param {string} teamId
+     * @param {string} membershipId
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    deleteMembership(teamId, membershipId) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof membershipId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "membershipId"');
+            }
+            let path = '/teams/{teamId}/memberships/{membershipId}'.replace('{teamId}', teamId).replace('{membershipId}', membershipId);
+            let payload = {};
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('delete', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+    /**
+     * Update Team Membership Status
+     *
+     * Use this endpoint to allow a user to accept an invitation to join a team
+     * after being redirected back to your app from the invitation email received
+     * by the user.
+     *
+     * If the request is successful, a session for the user is automatically
+     * created.
+     *
+     *
+     * @param {string} teamId
+     * @param {string} membershipId
+     * @param {string} userId
+     * @param {string} secret
+     * @throws {AppwriteException}
+     * @returns {Promise}
+     */
+    updateMembershipStatus(teamId, membershipId, userId, secret) {
+        return __awaiter(this, void 0, void 0, function* () {
+            if (typeof teamId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "teamId"');
+            }
+            if (typeof membershipId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "membershipId"');
+            }
+            if (typeof userId === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "userId"');
+            }
+            if (typeof secret === 'undefined') {
+                throw new AppwriteException('Missing required parameter: "secret"');
+            }
+            let path = '/teams/{teamId}/memberships/{membershipId}/status'.replace('{teamId}', teamId).replace('{membershipId}', membershipId);
+            let payload = {};
+            if (typeof userId !== 'undefined') {
+                payload['userId'] = userId;
+            }
+            if (typeof secret !== 'undefined') {
+                payload['secret'] = secret;
+            }
+            const uri = new URL(this.client.config.endpoint + path);
+            return yield this.client.call('patch', uri, {
+                'content-type': 'application/json',
+            }, payload);
+        });
+    }
+}
+
+
+//# sourceMappingURL=sdk.js.map
+
+
+/***/ }),
+
+/***/ "./node_modules/websocket/package.json":
+/*!*********************************************!*\
+  !*** ./node_modules/websocket/package.json ***!
+  \*********************************************/
+/***/ ((module) => {
+
+"use strict";
+module.exports = JSON.parse('{"name":"websocket","description":"Websocket Client & Server Library implementing the WebSocket protocol as specified in RFC 6455.","keywords":["websocket","websockets","socket","networking","comet","push","RFC-6455","realtime","server","client"],"author":"Brian McKelvey <theturtle32@gmail.com> (https://github.com/theturtle32)","contributors":["Iñaki Baz Castillo <ibc@aliax.net> (http://dev.sipdoc.net)"],"version":"1.0.34","repository":{"type":"git","url":"https://github.com/theturtle32/WebSocket-Node.git"},"homepage":"https://github.com/theturtle32/WebSocket-Node","engines":{"node":">=4.0.0"},"dependencies":{"bufferutil":"^4.0.1","debug":"^2.2.0","es5-ext":"^0.10.50","typedarray-to-buffer":"^3.1.5","utf-8-validate":"^5.0.2","yaeti":"^0.0.6"},"devDependencies":{"buffer-equal":"^1.0.0","gulp":"^4.0.2","gulp-jshint":"^2.0.4","jshint-stylish":"^2.2.1","jshint":"^2.0.0","tape":"^4.9.1"},"config":{"verbose":false},"scripts":{"test":"tape test/unit/*.js","gulp":"gulp"},"main":"index","directories":{"lib":"./lib"},"browser":"lib/browser.js","license":"Apache-2.0"}');
+
+/***/ })
+
+/******/ 	});
+/************************************************************************/
+/******/ 	// The module cache
+/******/ 	var __webpack_module_cache__ = {};
+/******/ 	
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/ 		// Check if module is in cache
+/******/ 		var cachedModule = __webpack_module_cache__[moduleId];
+/******/ 		if (cachedModule !== undefined) {
+/******/ 			return cachedModule.exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = __webpack_module_cache__[moduleId] = {
+/******/ 			id: moduleId,
+/******/ 			// no module.loaded needed
+/******/ 			exports: {}
+/******/ 		};
+/******/ 	
+/******/ 		// Execute the module function
+/******/ 		__webpack_modules__[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/ 	
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/ 	
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = __webpack_modules__;
+/******/ 	
+/************************************************************************/
+/******/ 	/* webpack/runtime/compat get default export */
+/******/ 	(() => {
+/******/ 		// getDefaultExport function for compatibility with non-harmony modules
+/******/ 		__webpack_require__.n = (module) => {
+/******/ 			var getter = module && module.__esModule ?
+/******/ 				() => (module['default']) :
+/******/ 				() => (module);
+/******/ 			__webpack_require__.d(getter, { a: getter });
+/******/ 			return getter;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/create fake namespace object */
+/******/ 	(() => {
+/******/ 		var getProto = Object.getPrototypeOf ? (obj) => (Object.getPrototypeOf(obj)) : (obj) => (obj.__proto__);
+/******/ 		var leafPrototypes;
+/******/ 		// create a fake namespace object
+/******/ 		// mode & 1: value is a module id, require it
+/******/ 		// mode & 2: merge all properties of value into the ns
+/******/ 		// mode & 4: return value when already ns object
+/******/ 		// mode & 16: return value when it's Promise-like
+/******/ 		// mode & 8|1: behave like require
+/******/ 		__webpack_require__.t = function(value, mode) {
+/******/ 			if(mode & 1) value = this(value);
+/******/ 			if(mode & 8) return value;
+/******/ 			if(typeof value === 'object' && value) {
+/******/ 				if((mode & 4) && value.__esModule) return value;
+/******/ 				if((mode & 16) && typeof value.then === 'function') return value;
+/******/ 			}
+/******/ 			var ns = Object.create(null);
+/******/ 			__webpack_require__.r(ns);
+/******/ 			var def = {};
+/******/ 			leafPrototypes = leafPrototypes || [null, getProto({}), getProto([]), getProto(getProto)];
+/******/ 			for(var current = mode & 2 && value; typeof current == 'object' && !~leafPrototypes.indexOf(current); current = getProto(current)) {
+/******/ 				Object.getOwnPropertyNames(current).forEach((key) => (def[key] = () => (value[key])));
+/******/ 			}
+/******/ 			def['default'] = () => (value);
+/******/ 			__webpack_require__.d(ns, def);
+/******/ 			return ns;
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/define property getters */
+/******/ 	(() => {
+/******/ 		// define getter functions for harmony exports
+/******/ 		__webpack_require__.d = (exports, definition) => {
+/******/ 			for(var key in definition) {
+/******/ 				if(__webpack_require__.o(definition, key) && !__webpack_require__.o(exports, key)) {
+/******/ 					Object.defineProperty(exports, key, { enumerable: true, get: definition[key] });
+/******/ 				}
+/******/ 			}
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/ensure chunk */
+/******/ 	(() => {
+/******/ 		__webpack_require__.f = {};
+/******/ 		// This file contains only the entry chunk.
+/******/ 		// The chunk loading function for additional chunks
+/******/ 		__webpack_require__.e = (chunkId) => {
+/******/ 			return Promise.all(Object.keys(__webpack_require__.f).reduce((promises, key) => {
+/******/ 				__webpack_require__.f[key](chunkId, promises);
+/******/ 				return promises;
+/******/ 			}, []));
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/get javascript chunk filename */
+/******/ 	(() => {
+/******/ 		// This function allow to reference async chunks
+/******/ 		__webpack_require__.u = (chunkId) => {
+/******/ 			// return url for filenames based on template
+/******/ 			return "" + chunkId + ".js";
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/hasOwnProperty shorthand */
+/******/ 	(() => {
+/******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/load script */
+/******/ 	(() => {
+/******/ 		var inProgress = {};
+/******/ 		var dataWebpackPrefix = "tts:";
+/******/ 		// loadScript function to load a script via script tag
+/******/ 		__webpack_require__.l = (url, done, key, chunkId) => {
+/******/ 			if(inProgress[url]) { inProgress[url].push(done); return; }
+/******/ 			var script, needAttach;
+/******/ 			if(key !== undefined) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				for(var i = 0; i < scripts.length; i++) {
+/******/ 					var s = scripts[i];
+/******/ 					if(s.getAttribute("src") == url || s.getAttribute("data-webpack") == dataWebpackPrefix + key) { script = s; break; }
+/******/ 				}
+/******/ 			}
+/******/ 			if(!script) {
+/******/ 				needAttach = true;
+/******/ 				script = document.createElement('script');
+/******/ 		
+/******/ 				script.charset = 'utf-8';
+/******/ 				script.timeout = 120;
+/******/ 				if (__webpack_require__.nc) {
+/******/ 					script.setAttribute("nonce", __webpack_require__.nc);
+/******/ 				}
+/******/ 				script.setAttribute("data-webpack", dataWebpackPrefix + key);
+/******/ 				script.src = url;
+/******/ 			}
+/******/ 			inProgress[url] = [done];
+/******/ 			var onScriptComplete = (prev, event) => {
+/******/ 				// avoid mem leaks in IE.
+/******/ 				script.onerror = script.onload = null;
+/******/ 				clearTimeout(timeout);
+/******/ 				var doneFns = inProgress[url];
+/******/ 				delete inProgress[url];
+/******/ 				script.parentNode && script.parentNode.removeChild(script);
+/******/ 				doneFns && doneFns.forEach((fn) => (fn(event)));
+/******/ 				if(prev) return prev(event);
+/******/ 			}
+/******/ 			;
+/******/ 			var timeout = setTimeout(onScriptComplete.bind(null, undefined, { type: 'timeout', target: script }), 120000);
+/******/ 			script.onerror = onScriptComplete.bind(null, script.onerror);
+/******/ 			script.onload = onScriptComplete.bind(null, script.onload);
+/******/ 			needAttach && document.head.appendChild(script);
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/make namespace object */
+/******/ 	(() => {
+/******/ 		// define __esModule on exports
+/******/ 		__webpack_require__.r = (exports) => {
+/******/ 			if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 				Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 			}
+/******/ 			Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/jsonp chunk loading */
+/******/ 	(() => {
+/******/ 		__webpack_require__.b = document.baseURI || self.location.href;
+/******/ 		
+/******/ 		// object to store loaded and loading chunks
+/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
+/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
+/******/ 		var installedChunks = {
+/******/ 			"form": 0
+/******/ 		};
+/******/ 		
+/******/ 		__webpack_require__.f.j = (chunkId, promises) => {
+/******/ 				// JSONP chunk loading for javascript
+/******/ 				var installedChunkData = __webpack_require__.o(installedChunks, chunkId) ? installedChunks[chunkId] : undefined;
+/******/ 				if(installedChunkData !== 0) { // 0 means "already installed".
+/******/ 		
+/******/ 					// a Promise means "currently loading".
+/******/ 					if(installedChunkData) {
+/******/ 						promises.push(installedChunkData[2]);
+/******/ 					} else {
+/******/ 						if(true) { // all chunks have JS
+/******/ 							// setup Promise in chunk cache
+/******/ 							var promise = new Promise((resolve, reject) => (installedChunkData = installedChunks[chunkId] = [resolve, reject]));
+/******/ 							promises.push(installedChunkData[2] = promise);
+/******/ 		
+/******/ 							// start chunk loading
+/******/ 							var url = __webpack_require__.p + __webpack_require__.u(chunkId);
+/******/ 							// create error before stack unwound to get useful stacktrace later
+/******/ 							var error = new Error();
+/******/ 							var loadingEnded = (event) => {
+/******/ 								if(__webpack_require__.o(installedChunks, chunkId)) {
+/******/ 									installedChunkData = installedChunks[chunkId];
+/******/ 									if(installedChunkData !== 0) installedChunks[chunkId] = undefined;
+/******/ 									if(installedChunkData) {
+/******/ 										var errorType = event && (event.type === 'load' ? 'missing' : event.type);
+/******/ 										var realSrc = event && event.target && event.target.src;
+/******/ 										error.message = 'Loading chunk ' + chunkId + ' failed.\n(' + errorType + ': ' + realSrc + ')';
+/******/ 										error.name = 'ChunkLoadError';
+/******/ 										error.type = errorType;
+/******/ 										error.request = realSrc;
+/******/ 										installedChunkData[1](error);
+/******/ 									}
+/******/ 								}
+/******/ 							};
+/******/ 							__webpack_require__.l(url, loadingEnded, "chunk-" + chunkId, chunkId);
+/******/ 						} else installedChunks[chunkId] = 0;
+/******/ 					}
+/******/ 				}
+/******/ 		};
+/******/ 		
+/******/ 		// no prefetching
+/******/ 		
+/******/ 		// no preloaded
+/******/ 		
+/******/ 		// no HMR
+/******/ 		
+/******/ 		// no HMR manifest
+/******/ 		
+/******/ 		// no on chunks loaded
+/******/ 		
+/******/ 		// install a JSONP callback for chunk loading
+/******/ 		var webpackJsonpCallback = (parentChunkLoadingFunction, data) => {
+/******/ 			var [chunkIds, moreModules, runtime] = data;
+/******/ 			// add "moreModules" to the modules object,
+/******/ 			// then flag all "chunkIds" as loaded and fire callback
+/******/ 			var moduleId, chunkId, i = 0;
+/******/ 			if(chunkIds.some((id) => (installedChunks[id] !== 0))) {
+/******/ 				for(moduleId in moreModules) {
+/******/ 					if(__webpack_require__.o(moreModules, moduleId)) {
+/******/ 						__webpack_require__.m[moduleId] = moreModules[moduleId];
+/******/ 					}
+/******/ 				}
+/******/ 				if(runtime) var result = runtime(__webpack_require__);
+/******/ 			}
+/******/ 			if(parentChunkLoadingFunction) parentChunkLoadingFunction(data);
+/******/ 			for(;i < chunkIds.length; i++) {
+/******/ 				chunkId = chunkIds[i];
+/******/ 				if(__webpack_require__.o(installedChunks, chunkId) && installedChunks[chunkId]) {
+/******/ 					installedChunks[chunkId][0]();
+/******/ 				}
+/******/ 				installedChunks[chunkId] = 0;
+/******/ 			}
+/******/ 		
+/******/ 		}
+/******/ 		
+/******/ 		var chunkLoadingGlobal = self["webpackChunktts"] = self["webpackChunktts"] || [];
+/******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
+/******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/nonce */
+/******/ 	(() => {
+/******/ 		__webpack_require__.nc = undefined;
+/******/ 	})();
+/******/ 	
+/************************************************************************/
+var __webpack_exports__ = {};
+// This entry need to be wrapped in an IIFE because it need to be in strict mode.
+(() => {
+"use strict";
+/*!*********************!*\
+  !*** ./src/form.js ***!
+  \*********************/
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var js_loading_overlay__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! js-loading-overlay */ "./node_modules/js-loading-overlay/dist/js-loading-overlay.min.js");
+/* harmony import */ var js_loading_overlay__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(js_loading_overlay__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var appwrite__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! appwrite */ "./node_modules/appwrite/dist/esm/sdk.js");
+/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./styles.css */ "./src/styles.css");
+/* harmony import */ var js_alert__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! js-alert */ "./node_modules/js-alert/lib/index.js");
+/* harmony import */ var js_alert__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(js_alert__WEBPACK_IMPORTED_MODULE_3__);
+/* harmony import */ var _supabase_supabase_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @supabase/supabase-js */ "./node_modules/@supabase/supabase-js/dist/module/index.js");
+
+var overlayobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
+JsLoadingOverlay.show(overlayobj)
+;
+const client = new appwrite__WEBPACK_IMPORTED_MODULE_1__.Client();
+
+
+
+
+
+
+
+window.onload=JsLoadingOverlay.hide();
+
+const supabase = (0,_supabase_supabase_js__WEBPACK_IMPORTED_MODULE_4__.createClient)("https://rsfcqodmucagrxohmkgx.supabase.co", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZmNxb2RtdWNhZ3J4b2hta2d4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2MDkyNjk0OSwiZXhwIjoxOTc2NTAyOTQ5fQ.8PZmvfHrTPVNheNjYHyJJS2jZC5EjCIlOkQK3t2Tvwc");
+if (supabase.auth.user()) {
+  document.getElementById("formie").classList.remove("hidden");
+  document.getElementById("notlogged").classList.add("hidden");
+} else {
+  document.getElementById("formie").classList.add("hidden");
+  document.getElementById("notlogged").classList.remove("hidden");
+  JsLoadingOverlay.hide()
+
+  document.getElementById("lex").innerHTML = "Not Logged In";
+  document.getElementById("leximage").classList.add('hidden');
+  
+}
+
+var arr = [];
+
+var queryString = decodeURIComponent(window.location.search);
+queryString = queryString.substring(1);
+var queries = queryString.split("&");
+var id = queries[0].slice(queries[0].indexOf("=") + 1);
+var table = queries[1].slice(queries[1].indexOf("=") + 1);
+
+function addDate(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <input type="date" id="${c}" autocomplete="given-name" class=" focus:ring-blue-500  focus:border-blue-500 block w-full shadow-sm sm:text-sm border border-neutral-200 py-2 px-3 outline-none">
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function toUpper(str) {
+  return str
+    .toLowerCase()
+    .split(" ")
+    .map(function (word) {
+      return word[0].toUpperCase() + word.substr(1);
+    })
+    .join(" ");
+}
+
+function addVal(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <input type="text" id="${c}" autocomplete="given-name" class=" focus:ring-blue-500  focus:border-blue-500 block w-full shadow-sm sm:text-sm border border-neutral-200 py-2 px-3 outline-none">
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addLvl(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addClass(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addSec(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="A">A</option>
+  <option value="B">B</option>
+  <option value="C">C</option>
+  <option value="D">D</option>
+  <option value="E">E</option>
+  <option value="F">F</option>
+  <option value="G">G</option>
+  <option value="H">H</option>
+  <option value="I">I</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+function addMonth(c) {
+  var cb = toUpper(c.replaceAll("_", " "));
+  var a = `<div class="col-span-6 sm:col-span-3 w-auto py-2 ">
+  <label for="${c}" class="block text-sm font-medium text-gray-700 pt-4 mb-1">${cb}</label>
+  <select for="${c}" id=${c}>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+  <option value="4">4</option>
+  <option value="5">5</option>
+  <option value="6">6</option>
+  <option value="7">7</option>
+  <option value="8">8</option>
+  <option value="9">9</option>
+  <option value="10">10</option>
+  <option value="11">11</option>
+  <option value="12">12</option>
+  </select>
+</div>`;
+  document.getElementById("elelist").insertAdjacentHTML("afterbegin", a);
+  arr.push(c);
+}
+
+async function sr() {
+  JsLoadingOverlay.show(overlayobj);
+
+  const { data, error } = await supabase.from("Forms").select();
+  JsLoadingOverlay.hide();
+
+  
+if(typeof data[id-1] !== 'undefined' && data[id-1].hasOwnProperty('title')){
+  document.getElementById("title").innerHTML = data[id-1].title;
+  document.getElementById("description").innerHTML = data[id-1].description;
+}
+else{
+  document.getElementById('formie').classList.add('hidden')
+  document.getElementById('notlogged').classList.add('hidden')
+  var alert = new (js_alert__WEBPACK_IMPORTED_MODULE_3___default())("The form you tried to access does not exist",null, (js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Failed));
+
+  alert.addButton("Go Back").then(function() {
+    window.location.href='forms.html';
+});
+alert.show()
+}
+   
+}
+sr();
+
+function onsubmitted() {
+  document.getElementById("formie").classList.add("hidden");
+  document.getElementById("notlogged").classList.remove("hidden");
+  document.getElementById("lex").innerHTML = "Already Submitted";
+  document.getElementById("leximage").classList.remove('hidden')
+}
+async function getfields(){
+  var brr=[];
+  
+
+  let { data, error } = await supabase
+  .rpc('xdesc', {t:table})
+  JsLoadingOverlay.hide();
+
+  
+  if(error) console.log(error)
+  
+  
+  for (let noice in data){
+    brr.push(data[noice].column_name)
+  }
+  
+  
+  brr.pop();
+  brr.reverse();
+
+  return brr;
+
+}
+
+
+async function fetchdata() {
+  JsLoadingOverlay.show(overlayobj);
+
+  const { data, error } = await supabase.from(table).select();
+
+  for (let i in data) {
+    if (data[i].uid == window.localStorage.getItem("email")) {
+      onsubmitted();
+    }
+  }
+
+var brr=await getfields()
+
+
+
+// console.log(brr)
+  
+  for (let i in brr) {
+    let c = brr[i];
+    switch (c) {
+      case "level":
+        addLvl(c);
+        break;
+      case "month":
+        addMonth(c);
+        break;
+      case "class":
+        addClass(c);
+        break;
+      case "section":
+        addSec(c);
+        break;
+      case "date":
+        addDate(c)
+        break;
+      default:
+        addVal(c);
+    }
+  }
+
+  async function pushdata() {
+    const { data, error } = await supabase.from(table).select();
+    var obj = {
+      uid: window.localStorage.getItem("email"),
+    };
+
+    var brr=await getfields()
+    
+    brr.reverse();
+    console.log(brr)
+    var failed;
+    for (let i in brr) {
+      if(document.getElementById(brr[i]).value!=''){
+      obj[brr[i]] = document.getElementById(brr[i]).value
+      failed=0
+      }
+      else{
+        js_alert__WEBPACK_IMPORTED_MODULE_3___default().alert('All Fields are required',null, (js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Failed))
+        failed=1
+        break;
+      }
+    }
+
+if(failed==0){
+  JsLoadingOverlay.show(overlayobj);
+
+    supabase
+      .from(table)
+      .insert(obj)
+      .then((d) => {
+        JsLoadingOverlay.hide();
+        document.getElementById("formie").classList.add("hidden");
+      document.getElementById("notlogged").classList.remove("hidden");
+      document.getElementById("lex").innerHTML = "Submitted Successfully";
+      document.getElementById("leximage").classList.remove('hidden');
+      var alert = new (js_alert__WEBPACK_IMPORTED_MODULE_3___default())("Your data has been submitted to our server. Only those with admin access can view it",null, (js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Success));
+
+      alert.addButton("Go Back").then(function() {
+        window.location.href='forms.html';
+    });
+    alert.show()
+      })
+      .catch((e)=>{
+        js_alert__WEBPACK_IMPORTED_MODULE_3___default().alert(e,null,(js_alert__WEBPACK_IMPORTED_MODULE_3___default().Icons.Failed))
+      })
+    }
+  }
+  document.getElementById("submit").addEventListener("click", (e) => {
+    e.preventDefault();
+    pushdata();
+
+    return false;
+  });
+
+  return false;
+}
+
+fetchdata();
+
+window.addDate = addDate;
+window.addVal = addVal;
+
+})();
+
+/******/ })()
+;

@@ -31,11 +31,15 @@ if (supabase.auth.user()) {
       break;
     } else {
       document.getElementById("admin").classList.add("hidden");
+      JsLoadingOverlay.hide()
+
     }
   }
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
+  JsLoadingOverlay.hide()
+
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }

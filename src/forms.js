@@ -1,19 +1,6 @@
 import JSAlert from "js-alert";
 import "./styles.css";
-
-import { createClient } from "@supabase/supabase-js";
-// Create a single supabase client for interacting with your database
-const supabase = createClient(process.env.URL, process.env.ANON);
-
-if (supabase.auth.user()) {
-  document.getElementById("formie").classList.remove("hidden");
-  document.getElementById("notlogged").classList.add("hidden");
-} else {
-  document.getElementById("formie").classList.add("hidden");
-  document.getElementById("notlogged").classList.remove("hidden");
-}
 import 'js-loading-overlay';
-
 var overlayobj={
   'overlayBackgroundColor': '#FFFFFF',
   'overlayOpacity': 1,
@@ -24,6 +11,32 @@ var overlayobj={
   'spinnerIDName': 'spinner',
 }
 JsLoadingOverlay.show(overlayobj);
+
+import { createClient } from "@supabase/supabase-js";
+// Create a single supabase client for interacting with your database
+const supabase = createClient(process.env.URL, process.env.ANON);
+
+if (supabase.auth.user()) {
+  for (var ex in process.env.ADMINS.split(",")) {
+    if (supabase.auth.user().email == process.env.ADMINS.split(",")[ex]) {
+      document.getElementById("admin").classList.remove("hidden");
+      break;
+    } else {
+      document.getElementById("admin").classList.add("hidden");
+      JsLoadingOverlay.hide()
+
+    }
+  }
+  document.getElementById("formie").classList.remove("hidden");
+  document.getElementById("notlogged").classList.add("hidden");
+} else {
+  JsLoadingOverlay.hide()
+
+  document.getElementById("formie").classList.add("hidden");
+  document.getElementById("notlogged").classList.remove("hidden");
+}
+
+
 
 
 if (supabase.auth.user()) {

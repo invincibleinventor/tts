@@ -32,7 +32,11 @@ console.log(supabase.auth.user());
 if (supabase.auth.user()) {
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
+  JsLoadingOverlay.hide()
+
 } else {
+  JsLoadingOverlay.hide()
+
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }

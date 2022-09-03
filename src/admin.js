@@ -3,6 +3,7 @@ import "./styles.css";
 const supabase = createClient(process.env.URL, process.env.ANON);
 import { createClient } from "@supabase/supabase-js";
 import 'js-loading-overlay';
+import JSAlert from "js-alert";
 
 var overlayobj={
   'overlayBackgroundColor': '#FFFFFF',
@@ -29,11 +30,29 @@ if (supabase.auth.user()) {
     } else {
       document.getElementById("admin").classList.add("hidden");
       window.location.replace("main.html");
+      admin=false
     }
   }
+  document.getElementById("admin").classList.add("hidden");
+admin=false
+  JsLoadingOverlay.hide()
+var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+alert.addButton("Go Back").then(function() {
+  window.location.href='forms.html';
+});
+alert.show()
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
+  admin=false
+  document.getElementById("admin").classList.add("hidden");
+
+  JsLoadingOverlay.hide()
+var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+alert.addButton("Go Back").then(function() {
+  window.location.href='forms.html';
+});
+alert.show()
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }
