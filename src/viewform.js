@@ -2,7 +2,10 @@ import "./styles.css";
 import { ExportToCsv } from "export-to-csv";
 import JSAlert from "js-alert";
 
-const supabase = createClient(process.env.URL, process.env.ANON);
+import aes from 'crypto-js/aes';
+import Utf8 from 'crypto-js/enc-utf8'
+
+const supabase = createClient(process.env.URL, aes.decrypt(process.env.ANON, `nUkRD8q(u<[YO7'W{*=_sPeca1G_wmfb*U#nof>QL4H$:@a(cqx"yijy#>I)_9e`).toString(Utf8));
 import { createClient } from "@supabase/supabase-js";
 
 import 'js-loading-overlay';
@@ -50,38 +53,23 @@ if (supabase.auth.user()) {
       break;
     } else {
       document.getElementById("admin").classList.add("hidden");
-      JsLoadingOverlay.hide()
-      var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
-      alert.addButton("Go Back").then(function() {
-        window.location.href='forms.html';
-      });
-      alert.show()
-          }
+      window.location.replace("main.html");
+      admin=false
+    }
   }
-  
 
-JsLoadingOverlay.hide()
-var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
-alert.addButton("Go Back").then(function() {
-  window.location.href='forms.html';
-});
-alert.show()
-
-
-document.getElementById("formie").classList.remove("hidden");
-
+  document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
-
 } else {
+  admin=false
+  document.getElementById("admin").classList.add("hidden");
 
   JsLoadingOverlay.hide()
-  var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
-  alert.addButton("Go Back").then(function() {
-    window.location.href='forms.html';
-  });
-  alert.show()
-  
-
+var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+alert.addButton("Go Back").then(function() {
+  window.location.href='index.html';
+});
+alert.show()
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }

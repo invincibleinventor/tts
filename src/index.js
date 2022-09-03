@@ -1,8 +1,9 @@
 import "./styles.css";
 
 import { createClient } from "@supabase/supabase-js";
-
-const supabase = createClient(process.env.URL, process.env.ANON);
+import aes from 'crypto-js/aes';
+import Utf8 from 'crypto-js/enc-utf8'
+const supabase = createClient(process.env.URL, aes.decrypt(process.env.ANON, `nUkRD8q(u<[YO7'W{*=_sPeca1G_wmfb*U#nof>QL4H$:@a(cqx"yijy#>I)_9e`).toString(Utf8));
 
 async function logout() {
   const { error } = await supabase.auth.signOut();
@@ -26,5 +27,4 @@ async function signin() {
   }
 }
 
-window.onload = logout;
 window.signin = signin;

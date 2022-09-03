@@ -1,11 +1,10 @@
 import { createClient } from "@supabase/supabase-js";
 import "./styles.css";
 
-// Create a single supabase client for interacting with your database
-const supabase = createClient(
-  "https://rsfcqodmucagrxohmkgx.supabase.co",
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZmNxb2RtdWNhZ3J4b2hta2d4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjA5MjY5NDksImV4cCI6MTk3NjUwMjk0OX0.emUFAjUIpou6UOyQlIzvlvv9E4tClWoluh6SOoMNc8I"
-);
+import aes from 'crypto-js/aes';
+import Utf8 from 'crypto-js/enc-utf8'
+
+const supabase = createClient(process.env.URL, aes.decrypt(process.env.ANON, `nUkRD8q(u<[YO7'W{*=_sPeca1G_wmfb*U#nof>QL4H$:@a(cqx"yijy#>I)_9e`).toString(Utf8));
 import 'js-loading-overlay'
 
 var overlayobj={

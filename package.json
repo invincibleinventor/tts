@@ -3,6 +3,7 @@
     "@supabase/supabase-js": "^1.35.6",
     "@tailwindcss/forms": "^0.5.2",
     "appwrite": "^9.0.1",
+    "crypto-js": "^4.1.1",
     "export-to-csv": "^0.2.1",
     "html-webpack-plugin": "^5.5.0",
     "js-alert": "^1.0.4",

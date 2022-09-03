@@ -20,7 +20,9 @@ import { createClient } from "@supabase/supabase-js";
 
 window.onload=JsLoadingOverlay.hide();
 
-const supabase = createClient(process.env.URL, process.env.ANON);
+import aes from 'crypto-js/aes';
+import Utf8 from 'crypto-js/enc-utf8'
+const supabase = createClient(process.env.URL, aes.decrypt(process.env.ANON, `nUkRD8q(u<[YO7'W{*=_sPeca1G_wmfb*U#nof>QL4H$:@a(cqx"yijy#>I)_9e`).toString(Utf8));
 if (supabase.auth.user()) {
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
