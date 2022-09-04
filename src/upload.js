@@ -1,5 +1,6 @@
 import { createClient } from "@supabase/supabase-js";
 import "./styles.css";
+import JSAlert from "js-alert";
 
 import aes from 'crypto-js/aes';
 import Utf8 from 'crypto-js/enc-utf8'
@@ -19,7 +20,24 @@ var overlayobj={
 
 JsLoadingOverlay.show(overlayobj);
 
-window.onload=JsLoadingOverlay.hide();
+
+async function fetchdata(){
+  const { data, error } = await supabase.from("Forms").select();
+  JsLoadingOverlay.hide();
+
+  var br = data;
+
+  for (var sh = 0; sh <= br.length - 1; sh++) {
+    var a=document.createElement('option');
+
+    a.value=br[sh].Table;
+    a.innerHTML=br[sh].Table;
+    document.getElementById('folder').appendChild(a)
+  }
+}
+
+fetchdata()
+
 
 
 async function logout() {
@@ -31,7 +49,6 @@ console.log(supabase.auth.user());
 if (supabase.auth.user()) {
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
-  JsLoadingOverlay.hide()
 
 } else {
   JsLoadingOverlay.hide()
@@ -43,7 +60,7 @@ if (supabase.auth.user()) {
 function accessAdmin() {
   if (document.getElementById("admin").classList.contains("hidden")) {
     JSAlert.alert(
-      "<code>Error:- You have not been granted Admin access</code>",
+      "Error:- You have not been granted Admin access",
       null,
       JSAlert.Icons.Failed
     );
@@ -66,7 +83,9 @@ document.getElementById("files").addEventListener("change", function (e) {
 });
 
 document.getElementById("send").addEventListener("click", async function () {
-  if (files.length != 0) {
+  JsLoadingOverlay.show(overlayobj);
+
+  if (files.length>0) {
     for (let i = 0; i < files.length; i++) {
       const { data, error } = await supabase.storage
         .from("forms")
@@ -79,10 +98,60 @@ document.getElementById("send").addEventListener("click", async function () {
           files[i],
           {
             cacheControl: "3600",
-            upsert: false,
+            upsert: true,
           }
         );
-    }
+async function todata(){
+        const { publicURL, error } = supabase.storage
+          .from('forms')
+          .getPublicUrl(document.getElementById("level").value +
+          "/" +
+          document.getElementById("folder").value +
+          "/" +
+          files[i].name)
+
+          var obj={
+            url: publicURL,
+            caption: document.getElementById('caption').value,
+            path:document.getElementById("level").value +"/" +document.getElementById("folder").value +"/" +files[i].name,
+            filename:files[i].name
+          }
+          supabase
+      .from("Uploads")
+      .insert(obj)
+      .then(() => {
+        JsLoadingOverlay.hide();
+        JSAlert.alert(
+          "File Uploaded Successfully",
+          null,
+          JSAlert.Icons.Success
+        );
+      })
+
+.catch((error)=>{
+  JsLoadingOverlay.hide();
+
+  JSAlert.alert(
+    error,
+    "Upload Failed",
+    JSAlert.Icons.Failed
+  );
+  })
+
+
+}
+todata()
+
+}
+  }
+  else{
+    JsLoadingOverlay.hide();
+
+    JSAlert.alert(
+      "Choose a File First",
+      null,
+      JSAlert.Icons.Failed
+    );
   }
 });
 

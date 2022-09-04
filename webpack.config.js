@@ -10,6 +10,7 @@ let htmlPageNames = [
   "upload",
   "admin",
   "viewform",
+  "createform"
 ];
 
 let multipleHtmlPlugins = htmlPageNames.map((name) => {
@@ -30,6 +31,7 @@ const webpackConfig = {
     upload: "./src/upload.js",
     admin: "./src/admin.js",
     viewform: "./src/viewform.js",
+    createform: "./src/createform.js",
   },
 
   devServer: {
@@ -52,7 +54,7 @@ const webpackConfig = {
       inject: 'head',
 
 
-      excludeChunks: ["main", "forms", "form", "upload", "admin", "viewform"],
+      excludeChunks: ["main", "forms", "form", "upload", "admin", "viewform", "createform"],
     }),
   ].concat(multipleHtmlPlugins),
   module: {

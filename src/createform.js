@@ -1,11 +1,14 @@
 import "./styles.css";
+import { ExportToCsv } from "export-to-csv";
 import JSAlert from "js-alert";
-import { createClient } from "@supabase/supabase-js";
 
 import aes from 'crypto-js/aes';
 import Utf8 from 'crypto-js/enc-utf8'
 
-const supabase = createClient(process.env.URL, 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZmNxb2RtdWNhZ3J4b2hta2d4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY2MDkyNjk0OSwiZXhwIjoxOTc2NTAyOTQ5fQ.8PZmvfHrTPVNheNjYHyJJS2jZC5EjCIlOkQK3t2Tvwc');import 'js-loading-overlay';
+const supabase = createClient(process.env.URL, aes.decrypt(process.env.ANON, `nUkRD8q(u<[YO7'W{*=_sPeca1G_wmfb*U#nof>QL4H$:@a(cqx"yijy#>I)_9e`).toString(Utf8));
+import { createClient } from "@supabase/supabase-js";
+
+import 'js-loading-overlay';
 
 var overlayobj={
   'overlayBackgroundColor': '#FFFFFF',
@@ -16,50 +19,60 @@ var overlayobj={
   'overlayIDName': 'overlay',
   'spinnerIDName': 'spinner',
 }
+
+
+var adminobj={
+  'overlayBackgroundColor': '#FFFFFF',
+  'overlayOpacity': 1,
+  'spinnerIcon': 'ball-atom',
+  'spinnerColor': '#000',
+  'spinnerSize': '2x',
+  "containerID": "tcont",
+
+  'overlayIDName': 'overlay',
+  'spinnerIDName': 'spinner',
+}
 JsLoadingOverlay.show(overlayobj);
-setTimeout(function(){
- JsLoadingOverlay.hide();
-}, 2000)
+
+var queryString = decodeURIComponent(window.location.search);
+queryString = queryString.substring(1);
+var queries = queryString.split("&");
+var id = queries[0].slice(queries[0].indexOf("=") + 1);
+var table = queries[1].slice(queries[1].indexOf("=") + 1);
 
 async function logout() {
   await supabase.auth.signOut();
   window.location.replace("index.html");
 }
-
+var admin;
 if (supabase.auth.user()) {
   for (var ex in process.env.ADMINS.split(",")) {
     if (supabase.auth.user().email == process.env.ADMINS.split(",")[ex]) {
       document.getElementById("admin").classList.remove("hidden");
+      admin = true;
       break;
     } else {
       document.getElementById("admin").classList.add("hidden");
-      JsLoadingOverlay.hide()
-
+      window.location.replace("main.html");
+      admin=false
     }
   }
+
   document.getElementById("formie").classList.remove("hidden");
   document.getElementById("notlogged").classList.add("hidden");
 } else {
-  JsLoadingOverlay.hide()
+  admin=false
+  document.getElementById("admin").classList.add("hidden");
 
+  JsLoadingOverlay.hide()
+var alert = new JSAlert("You are not logged in as Admin",null, JSAlert.Icons.Success);
+alert.addButton("Go Back").then(function() {
+  window.location.href='index.html';
+});
+alert.show()
   document.getElementById("formie").classList.add("hidden");
   document.getElementById("notlogged").classList.remove("hidden");
 }
-
-function accessAdmin() {
-  if (document.getElementById("admin").classList.contains("hidden")) {
-    JSAlert.alert(
-      "You have not been granted admin access",
-      null,
-      JSAlert.Icons.Failed
-    );
-  } else {
-    window.location.href = "admin.html";
-  }
-}
-
-
-
 
 function openNav() {
   document.getElementById("mySidenav").style.width = "250px";
@@ -69,8 +82,7 @@ function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
 
-window.openNav = openNav;
-window.closeNav = closeNav;
 
-window.logout = logout;
-window.accessAdmin = accessAdmin;
+if(admin){
+    
+}
